@@ -9,5 +9,5 @@
 * Next steps:
 
   * Antoine: perform community detection (grouping of related sentences) and community cleaning (elimination of redundant and non-informative sentences) in an *unsupervised* way
-  * Zekun/Wensi/Ndeye-Fatou: read and extend takahe's graph-building Python code to include the 4 steps described in subsection 2.3.1. of Mehdad2015's paper
+  * Zekun/Wensi/Ndeye-Fatou: read and extend takahe's graph-building Python code to include the 4 steps described in subsection 2.3.1. of Mehdad2015's papers
   * next face-to-face progress meeting to be determined in the next 3 weeks. If you need guidance, email me at any time. We can also meet at your convenience.
