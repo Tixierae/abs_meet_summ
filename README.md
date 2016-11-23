@@ -1,7 +1,7 @@
 * Relevant papers can be found in the corresponding folder
 
 * Some useful links:
-
+  * list of stopwords (English) from the SMART information retrieval system can be found [here](http://jmlr.org/papers/volume5/lewis04a/a11-smart-stop-list/english.stop)
   * [Boudin and Morin 2013 repo with graph-building code](https://github.com/boudinfl/takahe)
   * [using WordNet in Python](http://www.nltk.org/howto/wordnet.html)
   * language modeling in Python (to be used for the *path ranking and selection* step):
@@ -11,8 +11,9 @@
   
 * Next steps:
 
-  * Zekun & Wensi: 
-   *(1) fix what remains to be fixed in the graph building code
+  * Zekun & Wensi:
+  
+   *(1) fix what remains to be fixed in the graph building code (syns, hyper/hypo, stopwords...)
    *(2) test that it works as expected on the Microsoft (English) and LINA (French, just added) sentence compression data sets
    *(3) implement path ranking function based on original Filipova edge weights, keyphrase scores (for coverage) and language model (for fluency)
   * Antoine: perform community detection (grouping of related sentences) and community cleaning (elimination of redundant and non-informative sentences) in an *unsupervised* way
