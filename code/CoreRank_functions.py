@@ -151,7 +151,7 @@ def core_dec(g, weighted = True):
 			gg.delete_vertices(index_top)
 			
 			if len(neighbors_top)>0:
-			# iterate over neighbors of top element
+                # iterate over neighbors of top element
 				for i, name_n in enumerate(neighbors_top):
 					index_n = gg.vs["name"].index(name_n)
 					max_n = max(cores_g[top],gg.strength(weights=gg.es["weight"])[index_n])
