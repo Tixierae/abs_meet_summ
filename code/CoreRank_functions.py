@@ -11,51 +11,50 @@ from nltk.corpus import stopwords
 from nltk import pos_tag
 
 def clean_text_simple(text, remove_stopwords=True, pos_filtering=True, stemming=True):
+    
+    punct = string.punctuation.replace("-", "")
+    
+    # convert to lower case
+    text = text.lower()
+    # remove punctuation (preserving intra-word dashes)
+    text = "".join(l for l in text if l not in punct)
+    # strip extra white space
+    text = re.sub(" +"," ",text)
+    # strip leading and trailing white space
+    text = text.strip()
+    # tokenize
+    tokens = nltk.word_tokenize(text)
+    if remove_stopwords:
+        stpwds = stopwords.words('english')
+        # remove stopwords
+        tokens = [token for token in tokens if token not in stpwds]
+    if pos_filtering == True:
+        # apply POS-tagging
+        tagged_tokens = pos_tag(tokens)
+        # retain only nouns and adjectives
+        tokens_keep = list()
+        for i in range(len(tagged_tokens)):
+            item = tagged_tokens[i]
+            if (
+            item[1] == "NN" or
+            item[1] == "NNS" or
+            item[1] == "NNP" or
+            item[1] == "NNPS" or
+            item[1] == "JJ" or
+            item[1] == "JJS" or
+            item[1] == "JJR"
+            ):
+                tokens_keep.append(item[0])
+        tokens = tokens_keep
+    if stemming:
+        stemmer = nltk.stem.PorterStemmer()
+        # apply Porter stemmer
+        tokens_stemmed = list()
+        for token in tokens:
+            tokens_stemmed.append(stemmer.stem(token))
+        tokens = tokens_stemmed
 
-	stemmer = nltk.stem.PorterStemmer()
-	punct = string.punctuation.replace("-", "")
-
-	# convert to lower case
-	text = text.lower()
-	# remove punctuation (preserving intra-word dashes)
-	text = "".join(l for l in text if l not in punct)
-	# strip extra white space
-	text = re.sub(" +"," ",text)
-	# strip leading and trailing white space
-	text = text.strip()
- 
-	# tokenize
-	tokens = nltk.word_tokenize(text)
-	if remove_stopwords:
-		stpwds = stopwords.words('english')
-		# remove stopwords
-		tokens = [token for token in tokens if token not in stpwds]
-	if pos_filtering == True:
-		# apply POS-tagging
-		tagged_tokens = pos_tag(tokens)
-		# retain only nouns and adjectives
-		tokens_keep = list()
-		for i in range(len(tagged_tokens)):
-			item = tagged_tokens[i]
-			if (
-			item[1] == "NN" or
-			item[1] == "NNS" or
-			item[1] == "NNP" or
-			item[1] == "NNPS" or
-			item[1] == "JJ" or
-			item[1] == "JJS" or
-			item[1] == "JJR"
-			):
-				tokens_keep.append(item[0])
-		tokens = tokens_keep
-	if stemming:
-		# apply Porter stemmer
-		tokens_stemmed = list()
-		for token in tokens:
-			tokens_stemmed.append(stemmer.stem(token))
-		tokens = tokens_stemmed
-
-	return(tokens)
+    return(tokens)
         
 def terms_to_graph(terms, w):
     # This function returns a directed igraph from a list terms (the tokens from the pre-processed text) e.g., ['quick','brown','fox']
