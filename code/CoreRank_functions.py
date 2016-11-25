@@ -143,7 +143,7 @@ def core_dec(g, weighted = True):
 			index_top = gg.vs["name"].index(top)
 			# save names of its neighbors
 			neighbors_top = gg.vs[gg.neighbors(top)]["name"]
-            # exclude self-edges
+                        # exclude self-edges
 			neighbors_top = [elt for elt in neighbors_top if elt!=top]
 			# set core number of heap top element as its weighted degree
 			cores_g[top] = gg.vs["weight"][index_top]
@@ -151,7 +151,7 @@ def core_dec(g, weighted = True):
 			gg.delete_vertices(index_top)
 			
 			if len(neighbors_top)>0:
-                # iterate over neighbors of top element
+                        # iterate over neighbors of top element
 				for i, name_n in enumerate(neighbors_top):
 					index_n = gg.vs["name"].index(name_n)
 					max_n = max(cores_g[top],gg.strength(weights=gg.es["weight"])[index_n])
@@ -198,6 +198,7 @@ def sum_numbers_neighbors(g, names_numbers):
 # examples
 
 # read text
+# example file can be found here: https://github.com/Tixierae/abs_meet_summ/blob/master/data/abstract_Hulth_2003.txt
 with open("abstract_Hulth_2003.txt","r") as my_file: 
     text = my_file.read().splitlines() 
 text = " ".join(text)
