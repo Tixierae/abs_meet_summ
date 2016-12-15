@@ -7,6 +7,7 @@
   * language modeling in Python (to be used for the *path ranking and selection* step):
     * [1](http://www.nltk.org/api/nltk.model.html)
 	* [2](https://github.com/senarvi/theanolm)
+  * [Microsoft Concept Graph](https://concept.research.microsoft.com/) (as a possible alternative to WordNet for hypo/hypernyms)
   
   
 * Next steps:
@@ -14,10 +15,10 @@
   * Zekun & Wensi:
   
    *(1) fix what remains to be fixed in the graph building code (syns, hyper/hypo, stopwords...)
-   *(2) test that it works as expected on the Microsoft (English) and LINA (French, just added) sentence compression data sets
-   *(3) implement path ranking function based on original Filipova edge weights, keyphrase scores (for coverage) and language model (for fluency)
-  * Antoine: perform community detection (grouping of related sentences) and community cleaning (elimination of redundant and non-informative sentences) in an *unsupervised* way
-  * next face-to-face progress meeting to be determined before Christmas break. I am always available via email for questions.
+   *(2) test that it works as expected on examples manually built (either from English Google News or from AMI/ICSI corpora)
+   *(3) implement path scoring and ranking module as we discussed
+  * Antoine: perform community detection (grouping of related sentences) and community cleaning (elimination of redundant and non-informative sentences) in an *unsupervised* way. Send some example of clusters to Zekun & Wensi
+  * next face-to-face progress meeting to be determined after Christmas break. I am always available via email for questions, even during the break (it just might take me more time to respond).
 
   
 * Word embeddings resources:
