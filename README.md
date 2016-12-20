@@ -5,8 +5,8 @@
   * [Boudin and Morin 2013 repo with graph-building code](https://github.com/boudinfl/takahe)
   * [using WordNet in Python](http://www.nltk.org/howto/wordnet.html)
   * language modeling in Python (to be used for the *path ranking and selection* step):
-    * [1](http://www.nltk.org/api/nltk.model.html)
-	* [2](https://github.com/senarvi/theanolm)
+    * [Python NLTK language models](http://www.nltk.org/api/nltk.model.html)
+	* [Language Modeling with Python's Theano](https://github.com/senarvi/theanolm)
   * [Microsoft Concept Graph](https://concept.research.microsoft.com/) (as a possible alternative to WordNet for hypo/hypernyms)
   
   
