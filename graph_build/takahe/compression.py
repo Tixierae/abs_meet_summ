@@ -1,4 +1,3 @@
-0
 import math
 import codecs
 import os
@@ -455,7 +454,8 @@ class word_graph:
         
         return selected
         
-    #-T-----------------------------------------------------------------------T-
+    def cal_tfidf()
+    -T-----------------------------------------------------------------------T-
     def ambiguous_nodes(self, node):
         """
         Takes a node in parameter and returns the number of possible candidate 
