@@ -12,43 +12,43 @@ from nltk import pos_tag
 
 def clean_text_simple(text, remove_stopwords=True, pos_filtering=True, stemming=True):
     
-    punct = string.punctuation.replace("-", "")
+    punct = string.punctuation.replace('-', '')
     
     # convert to lower case
     text = text.lower()
     # remove punctuation (preserving intra-word dashes)
-    text = "".join(l for l in text if l not in punct)
+    text = ''.join(l for l in text if l not in punct)
     # strip extra white space
-    text = re.sub(" +"," ",text)
+    text = re.sub(' +',' ',text)
     # strip leading and trailing white space
     text = text.strip()
-    # tokenize
-    tokens = nltk.word_tokenize(text)
-    if remove_stopwords:
-        stpwds = stopwords.words('english')
-        # remove stopwords
-        tokens = [token for token in tokens if token not in stpwds]
+    # tokenize (split based on whitespace)
+    tokens = text.split(' ')
     if pos_filtering == True:
         # apply POS-tagging
         tagged_tokens = pos_tag(tokens)
         # retain only nouns and adjectives
-        tokens_keep = list()
+        tokens_keep = []
         for i in range(len(tagged_tokens)):
             item = tagged_tokens[i]
             if (
-            item[1] == "NN" or
-            item[1] == "NNS" or
-            item[1] == "NNP" or
-            item[1] == "NNPS" or
-            item[1] == "JJ" or
-            item[1] == "JJS" or
-            item[1] == "JJR"
+            item[1] == 'NN' or
+            item[1] == 'NNS' or
+            item[1] == 'NNP' or
+            item[1] == 'NNPS' or
+            item[1] == 'JJ' or
+            item[1] == 'JJS' or
+            item[1] == 'JJR'
             ):
                 tokens_keep.append(item[0])
         tokens = tokens_keep
+    if remove_stopwords:
+        stpwds = stopwords.words('english')
+        # remove stopwords
+        tokens = [token for token in tokens if token not in stpwds]
     if stemming:
         stemmer = nltk.stem.PorterStemmer()
-        # apply Porter stemmer
+        # apply Porter's stemmer
         tokens_stemmed = list()
         for token in tokens:
             tokens_stemmed.append(stemmer.stem(token))
@@ -57,7 +57,7 @@ def clean_text_simple(text, remove_stopwords=True, pos_filtering=True, stemming=
     return(tokens)
         
 def terms_to_graph(terms, w):
-    # This function returns a directed igraph from a list terms (the tokens from the pre-processed text) e.g., ['quick','brown','fox']
+    # This function returns a directed, weighted igraph from a list of terms (the tokens from the pre-processed text) e.g., ['quick','brown','fox']
     # Edges are weighted based on term co-occurence within a sliding window of fixed size 'w'
     
     from_to = {}
@@ -66,12 +66,12 @@ def terms_to_graph(terms, w):
     terms_temp = terms[0:w]
     indexes = list(itertools.combinations(range(w), r=2))
     
-    new_edges = list()
+    new_edges = []
     
-    for i in xrange(len(indexes)):
-        new_edges.append(" ".join(list(terms_temp[i] for i in indexes[i])))
+    for i in range(len(indexes)):
+        new_edges.append(' '.join(list(terms_temp[i] for i in indexes[i])))
        
-    for i in xrange(0,len(new_edges)):
+    for i in range(0,len(new_edges)):
         from_to[new_edges[i].split()[0],new_edges[i].split()[1]] = 1
 
     # then iterate over the remaining terms
@@ -82,25 +82,19 @@ def terms_to_graph(terms, w):
         terms_temp = terms[(i-w+1):(i+1)]
         
         # edges to try
-        candidate_edges = list()
+        candidate_edges = []
         for p in xrange(w-1):
             candidate_edges.append((terms_temp[p],considered_term))
     
         for try_edge in candidate_edges:
             
             # if not self-edge
-            if (try_edge[1] != try_edge[0]):
+            if try_edge[1] != try_edge[0]:
             
-                boolean1 = (try_edge[0],try_edge[1]) in from_to  
-                boolean2 = (try_edge[1],try_edge[0]) in from_to
-                
                 # if edge has already been seen, update its weight
-                if boolean1:
-                    from_to[try_edge[0],try_edge[1]] += 1
-                   
-                elif boolean2:
-                    from_to[try_edge[1],try_edge[0]] += 1
-                
+                if try_edge in from_to:
+                    from_to[try_edge] += 1
+                                   
                 # if edge has never been seen, create it and assign it a unit weight     
                 else:
                     from_to[try_edge] = 1
@@ -115,8 +109,8 @@ def terms_to_graph(terms, w):
     g.add_edges(from_to.keys())
     
     # set edge and vertice weights
-    g.es["weight"] = from_to.values() # based on co-occurence within sliding window
-    g.vs["weight"] = g.strength(weights=from_to.values()) # weighted degree
+    g.es['weight'] = from_to.values() # based on co-occurence within sliding window
+    g.vs['weight'] = g.strength(weights=from_to.values()) # weighted degree
     
     return(g)
 
