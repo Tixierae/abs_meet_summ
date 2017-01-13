@@ -62,18 +62,21 @@ def terms_to_graph(terms, w):
     
     from_to = {}
     
-    # create initial graph (first w terms)
+    # create initial complete graph (first w terms)
     terms_temp = terms[0:w]
     indexes = list(itertools.combinations(range(w), r=2))
     
     new_edges = []
     
-    for i in range(len(indexes)):
-        new_edges.append(' '.join(list(terms_temp[i] for i in indexes[i])))
-       
-    for i in range(0,len(new_edges)):
-        from_to[new_edges[i].split()[0],new_edges[i].split()[1]] = 1
-
+    for my_tuple in indexes:
+        new_edges.append(tuple([terms_temp[i] for i in my_tuple]))
+    
+    for new_edge in new_edges:
+        if new_edge in from_to:
+            from_to[new_edge] += 1
+        else:
+            from_to[new_edge] = 1
+    
     # then iterate over the remaining terms
     for i in xrange(w, len(terms)):
         # term to consider
@@ -85,16 +88,16 @@ def terms_to_graph(terms, w):
         candidate_edges = []
         for p in xrange(w-1):
             candidate_edges.append((terms_temp[p],considered_term))
-    
-        for try_edge in candidate_edges:
             
+        for try_edge in candidate_edges:
+        
             # if not self-edge
             if try_edge[1] != try_edge[0]:
-            
+                
                 # if edge has already been seen, update its weight
                 if try_edge in from_to:
                     from_to[try_edge] += 1
-                                   
+                
                 # if edge has never been seen, create it and assign it a unit weight     
                 else:
                     from_to[try_edge] = 1
