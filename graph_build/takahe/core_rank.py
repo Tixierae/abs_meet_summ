@@ -5,7 +5,6 @@ import itertools
 import heapq
 import operator
 import igraph
-import copy
 from nltk.corpus import stopwords
 # requires nltk 3.2.1
 from nltk import pos_tag
@@ -24,29 +23,29 @@ def clean_text_simple(text, remove_stopwords=True, pos_filtering=True, stemming=
     # strip leading and trailing white space
     text = text.strip()
     # tokenize
-    tokens = nltk.word_tokenize(text)
-    if remove_stopwords:
-        stpwds = stopwords.words('english')
-        # remove stopwords
-        tokens = [token for token in tokens if token not in stpwds]
+    tokens = text.split(' ')
     if pos_filtering == True:
         # apply POS-tagging
         tagged_tokens = pos_tag(tokens)
         # retain only nouns and adjectives
-        tokens_keep = list()
+        tokens_keep = []
         for i in range(len(tagged_tokens)):
             item = tagged_tokens[i]
             if (
-                item[1] == "NN" or
-                item[1] == "NNS" or
-                item[1] == "NNP" or
-                item[1] == "NNPS" or
-                item[1] == "JJ" or
-                item[1] == "JJS" or
-                item[1] == "JJR"
+                item[1] == 'NN' or
+                item[1] == 'NNS' or
+                item[1] == 'NNP' or
+                item[1] == 'NNPS' or
+                item[1] == 'JJ' or
+                item[1] == 'JJS' or
+                item[1] == 'JJR'
             ):
                 tokens_keep.append(item[0])
         tokens = tokens_keep
+    if remove_stopwords:
+        stpwds = stopwords.words('english')
+        # remove stopwords
+        tokens = [token for token in tokens if token not in stpwds]
     if stemming:
         stemmer = nltk.stem.PorterStemmer()
         # apply Porter stemmer
@@ -92,17 +91,11 @@ def terms_to_graph(terms, w):
         for try_edge in candidate_edges:
 
             # if not self-edge
-            if (try_edge[1] != try_edge[0]):
-
-                boolean1 = (try_edge[0], try_edge[1]) in from_to
-                boolean2 = (try_edge[1], try_edge[0]) in from_to
+            if try_edge[1] != try_edge[0]:
 
                 # if edge has already been seen, update its weight
-                if boolean1:
-                    from_to[try_edge[0], try_edge[1]] += 1
-
-                elif boolean2:
-                    from_to[try_edge[1], try_edge[0]] += 1
+                if try_edge in from_to:
+                    from_to[try_edge] += 1
 
                 # if edge has never been seen, create it and assign it a unit
                 # weight
@@ -121,7 +114,8 @@ def terms_to_graph(terms, w):
     # set edge and vertice weights
     # based on co-occurence within sliding window
     g.es["weight"] = from_to.values()
-    g.vs["weight"] = g.strength(weights=list(from_to.values())) # weighted degree
+    g.vs["weight"] = g.strength(weights=list(
+        from_to.values()))  # weighted degree
 
     return(g)
 
@@ -210,18 +204,19 @@ def sum_numbers_neighbors(g, names_numbers):
 # read text
 # example file can be found here:
 # https://github.com/Tixierae/abs_meet_summ/blob/master/data/abstract_Hulth_2003.txt
-with open("/Users/ding_wensi/Documents/Projet_3A/essaie/takahe/abstract_Hulth_2003.txt", "r") as my_file:
-    text = my_file.read().splitlines()
-text = " ".join(text)
+# with open("/Users/ding_wensi/Documents/Projet_3A/essaie/takahe/abstract_Hulth_2003.txt", "r") as my_file:
+#     text = my_file.read().splitlines()
+# text = " ".join(text)
 
-# preprocess text
-all_terms = clean_text_simple(text)
+# # preprocess text
+# all_terms = clean_text_simple(text)
 
-# get graph of terms
-g = terms_to_graph(all_terms, w=10)
+# # get graph of terms
+# g = terms_to_graph(all_terms, w=10)
 
-# get weighted core numbers
-sorted_cores_g = core_dec(g, weighted=True)
+# # get weighted core numbers
+# sorted_cores_g = core_dec(g, weighted=True)
 
-# get CoreRank scores
-core_rank_scores = sum_numbers_neighbors(g, sorted_cores_g)
+# # get CoreRank scores
+# core_rank_scores = sum_numbers_neighbors(g, sorted_cores_g)
+
