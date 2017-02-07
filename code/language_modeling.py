@@ -16,7 +16,12 @@ def get_n_grams(sentence, n):
         for i in range(1,len(ss)):
             n_grams.append(tuple(ss[i:i+n]))
     return n_grams
-    
+
+# ! ! ! note that the scores are not always in [0,1]
+# (because the score for a sentence is just the sum of the probabilities of all the n-grams it contains)
+# so, you need to normalize the scores of all the sentences in the community before using them for ranking
+# for instance, you can divide all scores by the max score
+
 def get_sentence_score(sentence, my_model, n, unknownwordprob=0):
     score = 0
     n_grams = get_n_grams(sentence, n)
