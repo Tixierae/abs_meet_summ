@@ -40,7 +40,8 @@ def get_sentence_score(sentence, my_model, n, unknownwordprob=0):
 
 # mode='simple' is faster but loads everything into memory
 # if you have a C++ compiler installed, you can try mode='trie' (uses 35% less memory)
-my_lm = pynlpl.lm.lm.ARPALanguageModel(filename='C:\\Users\\mvazirg\\Documents\\en-70k-0.2.lm',mode='simple')
+#path_to_file= # ! fill me
+my_lm = pynlpl.lm.lm.ARPALanguageModel(filename=path_to_file + 'en-70k-0.2.lm',mode='simple')
 
 # this is a trigram language model so we don't want to exceed n=3
 
