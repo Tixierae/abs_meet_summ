@@ -1,0 +1,811 @@
+right some i should read all of these numbers
+i mean you've ridden didn't even in what seems to be quiet like what it's just
+so here's if that's permissible and i'm happy
+spent money and of the update of that you have to be essentially startled to the belief that
+and then what you're going to need is four things it influences with
+with what seats doesn't want anything
+what you want and what particular one of the after the first
+means the same as in point the snow as and poured
+one which we change that just rename that
+one which we change that just rename that
+i ask about version that's i don't think what we would currently do
+why it like they're either true or false and the president
+that is for certain purposes it becomes important but
+we get if we yes so if visit just merging those for just to take event points decision
+so if i maybe more than then point decision so the idea
+point decision so the idea would be that you might want to merge those three this
+from another point of view of course it's interesting it's important know what it's selling for servicing and so forth so
+forth so for this decision it's just tour falls
+and it is a case where they were seems just what you want
+are more likely dinner so you just want to have them
+decision so that's like a new that
+like you have to be in move mode before
+that's true finish ascended
+and it would affect
+but it that's but i can't see why anything everything in the model wouldn't be
+this is good discussion we're going to have to
+have to get it down to something which was it self relatively compacts so could
+his energy it does it just seems like a push the problem back a level but no
+but it just adventures what
+it just adventures what is the technical one that you don't want up with such big exponentially c. taste the
+that's tired fresh and
+worth it to use user fatigue even
+what we're talking about is compatibility
+but the thought those end up regretting right now know your compatibility to the current action right
+into your world we're going to want to know you know which constructions indicates various of these properties
+and so again that's to do correct we have the use of much
+we have the use of much of the situation motive here we don't tend to discourse
+here we don't tend to discourse my here yet but just see ways
+right so this was sort of push it in one direction whenever
+whenever people also sometimes say how do i get there in order to find out
+interesting so what buster said which is completely right is if you know that they're only going to do it then it doesn't matter whether it's close to not in terms
+you know there's different things the strikes and that the like situation traffic and so on
+the strikes and that the like situation traffic and so on
+worry about the layout amenable but will go nuts but
+of should we make a key know here comes
+i in parts of d. isn't if you want to make it consistent
+the right way to have it where go there from the user and go there from the situation just sort of don't know about each other but they both need to go their decision because i think so
+their decision because isn't and they i mean i think so
+
+do was you who it'll spend at least part of the time trying to build the influence links you know which
+you know which sets of things are relevant to which decisions
+and actually i had specifics justin to start first with the past ones
+decisions there we wanted to keep server running toward
+but here i wasn't what to ride in
+and doesn't have a lazy mode
+or just accidentally erased this i just
+it's true or false
+what so you those is true or false
+not objects we called them entities right
+be cries what we're going to want is an intermediate thing which is
+yes i like even like that opportunity
+bentley this third idea of input from the discourse
+use a thrift caesar true finish ascended richard they use their interests
+planner what's a good one that's this
+i don't yet know how to do this i
+this i we're going to wined up pulling out discourse properties like we have object properties and we don't know what they are yet
+i what would just stick a discourse thing up there to be as a place holder for we
+holder for we are side discourse features of course for the end points
+for go there probably is and here discourse
+it can have their various values
+to they're all sorts of ways of breaking it up so that there isn't
+but this is and this is like this is coming from over here
+that's all good i'm just and we conducted but the good thing is we over here
+and we conducted but the good thing is we could have people believe provocation which i love
+so anyway so that's another decision
+comes from keith
+my current kermit idea on that would be that each of these decision nodes has questions associated with it
+and the question wouldn't itself be one of these conditional things you know given
+right right i think trying to formulate the conditional question that sounds too much
+before we get more into details
+but you know it's for the fourth
+
+so this is not just displayed this is actually
+this i just had values shows such as she's we had an hour and this we had she's staying in a hotel you staying
+we did and then of course we had the fact that given the fact that he's thrifty and there would be admission never get all these cross
+why it like they're either true or false the president
+that's that some unless like the you
+that's that seems to be so unless like the you
+et cetera that had to be certain properties that would fit in into the decision that
+seems to me that we sort of it in bought it about and embedded a lot of these things we had and they're pretty risky and some of the other final decisions on here for example
+don't have deviate values if we have
+just for starters and here
+not really important not to have lupus spouse away
+the discourse is a mystery first one so just make some
+there's parking maybe
+like by the time he graduates
+no and for you we can handle
+
+we are just because they're nancy still stay nazi and they were but not too
+the database ones being in some sense less interesting to us although probably have
+although probably have to be done
+of all this i knew from this has to be there right
+that the property it but the question is do you want to propagates movies every single time it's updated ernie when we need to
+that's a good question
+less likely to and you know possibly
+and again it's the heart of the i outer controlling conditioning of this thing those would be set so that some
+that's right so the employ no right
+we'll have to decide us and then what's the discuss history give us
+but that's what would be but that know we only have at the most four at the moment i rose going from each of the but some decisions
+
+a hotel you staying with friends and so
+@reject@ unless see was values are things i
+he friend today and we may change on
+so and we assume that some of these properties would come in directly through unintelligible bentley this
+so you could you let me give you two ways to handle that all right
+you could have x. a. fifty note and
+you've got us and all of this of the decisions
+about the grand canyon right now and i
+almost by definition paying involves entering get going
+and everything would be clean they could do it again
+
+which where you end up at the end but the part the good part
+change design to design we had was there was a
+was there was a decision with the same three outcomes based on just those three separate considerations
+so we wanted to do that would have to put in three intermediate nodes every daughter kept it very simple
+so here's what it looks like to me
+is that you wanted intermediate structure which is essentially the order of for this purpose of selling fixing or servicing so
+so i made it but is it the kind
+right as related from the user model
+seems like everything in using model would contribute to whether or not these are was compatible with something
+we'll have to decide that's
+
+so it's you know a current furniture and so forth and so on or not at all right
+that if any of those things is true then it's the kind of place that you
+no it's inundated together it intermediate no that's
+things can be generally and then and be accessible
+and i said let go inside
+which is the get rid of that @reject@ long link between who the user and the end point they're just
+the question that it's
+use interests and the user who what the user is completely apart from the fact whether he is tired broke
+we'll have to decide how much of it where that goes and give us that's true things
+
+different things you could do you could have all those values forego there or you to
+do this right while the you was there was that's it the more like aid to interest you said no co what i teach of
+again for this purpose i think it's commercial someplace
+you want to go in to do some kind of business
+so this is sort of some extra little thing that takes all the discourse and
+there other situational things that do matter or something right
+i said just having one situation and the you know not you know because
+so that no i mean go there's ass no it would just be advised by separate ones for be
+
+so let's start with thee believe that's general influence and then
+because you know it might be easy to figure out that this person's going to need more film eventually from their and spot it's
+spot it's much more complex to a query when would be the most appropriate time
+what is mentioned before
+not i mean that's the issue is would
+again with the layout at some point
+i they tell you goes this is sort of
+
+it's clear where what where we are right now
+three about three for now
+you have a know that's that was a measure of the match between the objects feature you know the match between the object again today i'm and the user so
+next which is if that's true how do we want to combine that's
+i mean it's and i don't think it's going to be i don't think it'll get worse that by the way so that's
+a that's a good but before did we decide to on these it to a false so it's
+
+no i mean if you go to every you know to go to prague or whatever your key points that you have to do is across the charles bridge
+we did but the three things that the that it contributed this
+that's the part of the idea is and this is that the
+i mean in terms of entertainment
+in point and put business
+it's a under bar you
+
+and let's see if we can get it linked up just to get ourselves started
+for go there probably is truant officer
+but if you talk to him a bunch of then you would ask them do you want to go but i think
+separate things it could be that the discourse gadget it's self integration is which
+that you'd have to do you got to do reference and like that you've got to have both the current discourse in the context to say i want to go back there when i was
+but this picture that's emerging here just to my wish that you notice ready for some a tree or is it that we
+
+particular so the ones we talked about were exhibiting and selling accessible
+accessible the too
+so that's rename this
+no not levels of interest interesting
+levels of interest interesting things you can be interested in
+and discourse is something that sort of should we make
+
+nancy still stay and they were but not
+time to take a picture of the outside it seems like everything is a model effects
+so me suggest we switched to another one i mean police
+one i mean police more work to be done on this but things be more instructive
+so keep this is going to get into your world
+
+all the great that's tough
+influence and then we'll also at some point break and talk about the techie
+or but for the moment this is just a no that is conditioned externally and might influence various things
+go there and because it's there's open or not
+but that no that's kind of
+
+not so what right true given not friends whereas the castle the decision is this person went to go there or is it just
+seems to be so to do is get this down to what we think is actually likely to be a strong influence
+put them in but we're going to want to do is actually this is one of my problems
+like for anything you eat in it
+do i have time to go in and climb all the way to the top of the curtain on film or do i just have to time to take a picture of the outside it seems like everything is a model all
+
+and so that's a decision would be do we want and that
+and also if it's an expensive place to enter this may also
+i mean see i'm thinking that any nor did begin begins go there is either going to be true or false
+they'll be some sort of system which is able to take the discourse in context and have i'll puts that can feed the rest the belief that i
+so if there is an and there is mode of transportation and then
+
+so you quit have two different things you could do you
+it's probably does that doesn't happen
+not only is it cleaner to computed separately but it could be that used multiple places
+i happen to state and you know
+because it means that already something that's tired
+
+didn't want to ride greediness but
+would every daughter kept it very simple
+you quite let's do that so you just want to have them all pointing to a
+mean are there are large things that you have to pay to get up close too
+in the car and have to enter the park
+
+@reject@ i
+be specific for second here
+and they'll be a user go there
+what's the word didn't drafted the e. v. thing if there's one view it
+be a big c. p. t. it's not completely impossible i
+
+like to keep this one because i want to see if we're going to re use any of this
+so this might jeeze
+and we probably would have something like a discourse fork and point
+this is something but the situation comes from traffic and so forth and
+that still allows for the possibility of the user model affecting our decision about whether a strike is the sort of thing which is going to keep this user away from not right
+
+the idea was we were going to do two things my gone
+what wanted to see that
+but things be more instructive to think about other decisions that we need to make an past land
+and what they're going to look like
+
+fries for each down here
+note and again that would have to be computed by someone else
+of the i mean it if users tired these state
+false so it's for
+
+friend how
+i mean it seems that you could it seems that those things would be logically independent like you would want
+which is be in point decision based on the user box so what we
+right not in the car and have to enter the park
+
+you know you anything until dominion switched
+maybe that they're finally and i the very bottom end point decision to the go there no find
+impossible i mean it's not beyond what the system coolidge salts
+but it's probably beyond what we could actually write down or learn
+
+climbing robyn
+i don't know but time you marriage
+i'm more likely to enter
+it it's so it's like i bachelor five hundred ones as heroes you eat in
+
+so that's or know or and in toronto so they could gram everything that could contribute to weather person wants interview or approach something
+and so this is my food here means the same as in point the snow as and poured
+is it something you physically quit enter
+so they get a two where's that can up more and more it's not expensive
+
+it's eighty years where it gets a little tricky
+a very basic one
+we don't know what they are yet so that
+so that to go their decision will have i know from discourse i what would just
+
+that they put commercial
+i was just going to commercial
+then we can make do this state
+or use a compatibility
+
+wanted to see that is when we
+is when we get into huge comets works and like that because
+so you have this idea of the compatibility with the requirements of an action to the state of the user one could imagine that was
+that so injustices as it as not was design problem
+
+i don't know whether armies coming or not
+we are just because they're nazi
+maybe food could be if we started up again entered so of
+
+go there in the first base and not this definitely one of the basic once we can
+to a false
+so there's this question about right here we
+
+so have you seen this before all to for here for example
+no but so have you seen this before all to these that things for example
+the finance this sort of hear sawed off as the financial policy in person carries out in his life he's she cheap
+
+and it's so simple even i can use it
+that is simple it
+so the let's take the case of the the standpoint thing the notion
+
+is that you kind of range so that the the value of that he's going to have to be updated now it's not a belief
+the apology we sort of said we would pool these various kinds of properties from the on like exhibiting selling and so forth so
+and so forth so in some sense it's there
+
+and if it doesn't fluent anything then you're going to need something that converts from the number here it to something that's relevant to the decision there so
+there so it could be right there be different ranges that are relevant for different decisions or but for the moment
+the thing is that every time and so but
+
+or nothing down here i
+we're going to have to somehow figure out somewhat encapsulated that
+so if there is some general notion for example the relation to the time to do this to the amount of time the guy has or something like that is be compatibility with his current state that's what you have to do you
+
+but the part the good part is walking over and so
+but that's temper that they're very temporally whereas
+intimate
+
+we had been designing is there were three intermediate nodes
+could you move those up about halfway
+without doing with the way we're defining it i think
+
+unfortunately that was a of an intermediate version that's
+now but we may wined up having to do that
+edelman level that we were going to have to sort out so you know what
+
+less likely to enter
+what a hotel fall under
+i would call that a service but
+
+so let's think about this question of how're we want to handle
+the two separate things one
+they could actually be in plano because that's what the and that's where the situation comes up
+
+is it a place of business
+underscore he
+see it if it's a if it's for things in each of them has four values but there's got to be a big c. p. t. it's too much
+
+in particular so
+reliable because you could have outdoor places that sell things and
+i mean level of interest it's from the user motto no not
+
+if it's close to one probably won't answer if it's
+if it's not accessible to the tourist ever the likelihood of that person actually wanting to answer it given
+all right let to answer it given that you know so of course
+
+the ones that use and selling i
+and sometimes people say why is that
+know that doesn't change but in most cases separate
+
+some places that service things so things or fix things and it says acidic exhibit things
+not either or suddenly
+suddenly pissed to be able to tell and the same sites
+
+things that could either do is to sell things fixing six service things but things can be a landmark at the same time as doing these things
+many come to mind things
+if you can afford it and performance preconditions
+
+there a save as inside a java based
+but i can just take it
+somebody else is built this user model i see right gone take treacherous
+
+advantages that is the technical one
+and the other is that it gets used to it so we doing sub grouping
+and the other is that it gets used to it so we doing sub grouping
+
+without doing without and to if you start definition of view it's free
+so is approaching
+i've really important in the belief world that we're about to have loops
+
+today we can decide that isn't the right thing to do was
+time of day so now the other thing that buffet appoint not is what this is that there should be a link and this
+
+so but then we should sort of have all of the design of what influences what done before we decide exactly how to computed
+so i didn't get a chance to look at all the that's
+
+like a girl does
+what's another decision you like
+
+not so what given
+this is like the number that up is how much money they have left to spend
+
+and so that's got to come up with some initial things one could surf so who is
+so who is the user
+
+no not right here that this is something that number that could keeps on changing
+this is understandable
+
+no but i think i'm following it
+so far so here's the we had that the user sponsored me influence the outcome of decisions
+
+update right it's you took some action just spent money and of
+ewing usually is cheap
+
+the thing is that every time that updated believes that the property it but so but
+c. taste the it can be it's usually can be used for multiple decisions
+
+right it's probably does what track i mean and she needs thing there was this altered like probably entrances it suggests that doesn't happen
+so what we talked about is three separate in point decision so that's like
+
+to my dishes we just pick something down here
+the same mode and then point i thought more
+
+after the first one let's do the one that we sort of already think we did so that was the
+so that was the end of the end point
+
+or nothing down here i would just sit there and everyone's
+maybe we can think of more things cross
+
+it's just the point is just but it's being some of those are subhuman by
+drunk if the person talking is angry or slurs or speech and not be tired or you know
+
+the charles bridge be it for a given segment
+the charles bridge be it for a given segment
+
+you'll see it you'll see something comes up immediately everything i want to do this we while the
+i the easiest thing would move them movie in point right
+
+had design now we can change design to design
+they could actually be in plano could seedy feed into the go there ass where the situation comes up
+
+then what you and i have to talk about is if we doing that then they get combined somehow how do you combined but there are
+but that was actually unfortunately
+
+so that the belief in itself has properties
+and the properties are filled in from on polls yet it's so the let's
+
+the notion was it that if you had a few key properties like is this a tours site you know some kind of landmark is
+could be we could them having to be ignored that just being point and to go their ass nor do sudafed into
+
+right on here for example if we would know that this thing is exhibiting something if
+if it's exhibiting it's outside is that mark
+
+meaning more likely to give you what
+if it is exhibiting pictures source contras and like this then it's more likely to be and church
+
+no sensibility man's if it's
+maybe should be renamed into physical state
+
+so it's selling fixing in servicing what thing
+and we may change on but
+
+or does it is to commercial action insides recruit or
+does it is a commercial or
+
+landmark
+successful i number westies accessible that
+
+i mean it seems like it's much more reliable because
+and they can mess with this one
+
+i'm just thinking about how and what's the best way to organize this so that it's clean and consistent and all that sort of
+me so in terms of the planner what's a good one to do that's this whether
+
+i'm just thinking about how people human beings who know about places and places to go and someone would store the center would
+and i said let me suggest do something else
+
+a counselor or can be
+to not in terms of you know whether you want to go there the time of day that i
+
+and i've been to move on
+so you can only enter pays if you are not too tired to do so
+
+and so now we looking for user religious things that
+and maybe they maybe just one who was a user i don't know maybe that
+
+user i don't know maybe there's more
+if it's issues if he's in the car right now
+
+we have they use their interests as a factor five hundred values so
+and then there's a sort of a law says that if you go and look at it you much each is something that comes from it discourse in terms of what was actually just had what's
+
+i mean level of interest it's from the user motto no not
+user model i see right so why gone take treacherous versus thorough how is this versus
+
+and it doesn't you the flavor though of you have a know
+you know whether you want to go of day that i
+
+compacts so could be compatibility with this current state which
+which would include is money in this time in his energy it just
+
+would even if it was true in some abstract general sense it might not be true in terms of the information we actually had an can make you so
+if we do we don't have the three values
+
+i think mean looking at the little data that we have
+no it's much worse than that howler dissipates it or through it
+
+be a link and this is where things are going to get very messy from
+messy from me and point decision maybe i to find
+
+it blew it it's not the friend it's not defined through their lips you things don't converge or recurrence affection
+it blew it it's not the things don't converge or recurrence
+
+there now and if you you if you needed to do that
+thinking i maybe i'm complaining that user now would with possible asking of the user you know
+
+you know given the you know there's a strike do still want to go but
+i said everybody knows it's want to
+
+as we started of is this detail in b. c. just going to worry about the various constructions that people might use
+and john ellis committed himself to being the parts are wizards so
+
+everybody knows it's want to you know get closer that'll be the game then so
+be the game then so the semantics that you'll get out of the discourse will be values that go in to the various discourse based decision ups and
+
+as a paper
+
+so my idea for today we can
+
+so there's and the idea was we were going to do two things my gone
+
+things one of which is just lay out the influence structure of what we think influences what
+
+and then as they real separate but related to ask pacific
+
+pacific buster and i were going to try to decide what claims of belief nodes are needed in order to do what we need to do once
+
+i think we conduct discuss everything first
+
+you're going to go there or not so what given
+
+of the basic once we can start but that's
+
+we actually got just probably the cheese fries for each
+
+it's eleven states the reason it might not be true or false you is that we didn't have this idea of when
+
+or you to go there be binary and given that you're going there friend how
+
+independent like you would want to have some separate a binary go
+
+separate a binary go there and then the possibility of how to go there because
+
+let's start that way
+
+time
+
+everything that is user comes the use immortal everything that
+
+use immortal everything that a situation comes in the situation one way
+
+should be care but when
+
+but when it comes to sort of writing down
+
+you sort of have to add right the value is this can take
+
+and here i was really in some sometimes it was really sort of standing in front of a wall feeding very stupid because
+
+stupid because in this case it's pretty simple but
+
+pretty simple but as we will see the other ones
+
+for example if it's a running budgets so what other discrete values or running budgets
+
+so maybe my understanding there's too impoverished
+
+there we wanted to keep server running toward off
+
+how is it different from visa fans
+
+he's she cheap ever trust spendy
+
+user thrift come
+
+so keen what's behind this is actually a program that will once you feel all this and actually solve your belief that for you and so this is not just
+
+displayed this is actually a two week to me simulator that will if we eat all the right things will wind up with the functioning belief in it at the other end
+
+does matter was i can think of people it would be and she's irish or spendy we can even have a finer scale moderate to cheap doesn't not
+
+so here's what's permissible is happy
+
+updated now it's not a belief update right it's you
+
+what track it down but
+
+one of the items for thee user home base should be especially non local
+
+they're only there for the day and they don't have a place to stay
+
+you know @reject@
+
+or nothing down here i
+
+it's just the point is just but it's being in point if you're crossing some of those are subhuman by approach
+
+is just but it's being in point if you're crossing over it are subhuman by approach
+
+you know you first go to the town square
+
+bridge it doesn't really matter which way you cross
+
+what i teach of you a tourist
+
+in fact the other two aren't up there
+
+so one with scientology
+
+what type of building is it that
+
+and the third thing we talked about with something from the discourse
+
+right so what we seem to need here this is why
+
+need here this is why it starts getting into the technical we had
+
+which were the end point decision as seen from the user model has seen from the on college in a scene from the discourse
+
+we had design now we can
+
+but there are undoubtedly going to be more things to worry about
+
+i ask about slurred and angry as inputs to this
+
+but that was what he had in mind
+
+two one is how do we want to handle the notion of the on apology
+
+now what we talked about this is another technical thing great is can we arrange so that
+
+so that some somehow someone would find this word look it up in neon pathology pull out these properties put it in two the belief in that and then the decision would flow
+
+so what that says is that we might be able to take and
+
+all right let me suggest there's
+
+all on of these if it's fixing
+
+these if it's fixing things setting things or servicing things
+
+important but for this kind of purpose one of these places is quite like the other
+
+from the belief that point of view it is from another
+
+is and this is that the object type note
+
+@reject@ so i made it but is it the kind of object that sells takes a services things
+
+just created it depending on so far
+
+let's not objects we called
+
+successful i think is different but that's temper
+
+whereas this is a
+
+that a service but i don't know
+
+what is it underscored t. the end of each of those things that if i things
+
+so we're derived thing this this future of whether the main action at this place happens inside or outside or what we're driving that from what kind of activities down there can you have
+
+can you have it as just a primitive future of the entity you probably that's it that's a choice
+
+entity probably that's it that's a choice
+
+and you know indoor places that do something else the problem
+
+places that do something else the problem with it is that it's sort of putting in the future just for one decision now but we may wined
+
+so you know what is this look like what are
+
+is this look like what are intermediate things that are worth computing one of the features we need
+
+one of the features we need in order to make all these decisions and what's the best
+
+would store the center would probably you wouldn't just sort of remember that they sell and then deduce from that and then it must be going on inside i think and two maybe
+
+it must be going on inside i think and two maybe should be regarded as a victor of several possible things that could either
+
+or can be a landmark and not excessive of some statue
+
+just as is just maybe could save as to keep your old one and clean and
+
+they were done was not that important i think but
+
+not a big deal then but
+
+this put this let's do and point under are argue
+
+in point
+
+so that's the end point decision as seen through the
+
+so that's i that's in point
+
+people with harry drove the car into the comfy
+
+this is screwed
+
+never but so said that but then the question is
+
+this is one of my problems we have they
+
+one is you could ignore it
+
+just doesn't mention no it's
+
+and we say that this interests affects the likelihood of and
+
+schedule
+
+it like because if you have everything pointing to want to know what it's like explanation
+
+so they get a two advantages that
+
+suburb thing intimate
+
+demo making more tree like going backwards
+
+it's hard for me to imagine how everything wouldn't just contribute to use state again
+
+and anyway we're going to have to find some way to get this sufficiently simple to make it feasible
+
+if we look at thee the end point again we said that for each of these things there's certain preconditions
+
+and also have the money to do so across something so
+
+entering get going through some
+
+so you save this one has an open up the old one right in
+
+i think we're saving this and i think that i'd
+
+this and i think that i'd like to keep this one because
+
+what makes things more like the
+
+the first thing is to getting back to thing we left on the other is the actual discourse
+
+but just see ways we didn't we don't have scientology here
+
+but the discourse we don't have a representative at all yet
+
+some people say how do i that too the castle
+
+and this usually means they want to go there
+
+in order to find out hard to get there
+
+without wanting to go there
+
+know that doesn't change the fact that you're you want these two values
+
+all the discourse and then either it's either they are and they
+
+what's the word
+
+thing if there's one view it then it's fine to go there it's closed whereas
+
+right whereas if they want to
+
+right so that's where it starts getting to be in potentially more interesting so what
+
+it does matter though there's like a striker right or something
+
+it know because this that north by itself wouldn't distinguish
+
+we you're right it might not be enough
+
+and i don't worry about the layout amenable
+
+no it's much worse than that it
+
+it it's not the friend it's not defined don't converge or recurrence affection
+
+through their lips you just you have to they're all sorts
+
+get these have no parents yet but i it sort of doesn't matter
+
+i they tell you goes and comes from something about the user this is something but the situation and be the discourse is a mystery this is sort of this comes from traffic and so forth and
+
+right and if yes seen it already or not
+
+to forget
+
+actually and then also to discourse and point i in
+
+that all that kind of decision making happens it to go there now and
+
+if do that you needed to do that
+
+hey there's a strike on god does that affect whether or not you want to go or something good point i don't know how
+
+whether or not you want to go or something good point i don't know how we're going to do
+
+yes i'm in i kind of user model but you know directly
+
+model but you know directly out of interaction
+
+i my current you know don't yes
+
+@reject@ let's stay with some of the because i want to do a little
+
+the because i want to do a little bit of organization
+
+serious nation is going to be that the flavor
+
+the flavor of what's going on is going to be that as we
+
+wizards so what's going to happen is that eventually
+
+now some of those will get fancier like mode of transportation and the that
+
+and the that isn't by any means necessarily simple thing that you want to
+
+had what's the after unscripted giving us and then what's
+
+and it's not clear yet
+
+it's not clear yet but it could be those are two separate things it could
+
+i don't know tree or is it that we get for each decision on the very but and we sort of get these have key sub you and maybe it's stop all florida two hundred g. make i know it
+
+this is getting into the thing i want to talk about next which is
+

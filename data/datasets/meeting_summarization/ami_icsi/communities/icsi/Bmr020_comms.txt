@@ -1,0 +1,1104 @@
+good the bad knee oakley overlap in
+meetings the robust meetings
+at all though that's i take it that's something that the dog will look at now that
+but i know of another paper that talks about something
+so i was going to do that was sixty the transcripts after we the way that we munch them for scoring because
+scoring because that's what he cares about and
+so but because i can see mari on this so that she knows
+so for the thing that we need to give
+we can put in the same place just put another directory so i was going to probably put it it
+the original versions which you know it's just the random right it was a small difference but
+but they probably won't want the originals
+a problem because we could use that to find tune our alignment process to make
+it wouldn't have been an awkward place to off now sometimes
+that about whether the trent the idea transcriber should hear single channel audio or mixed chow audio and
+and in a way by having this junk and then the back channel after it's like a faculty stagger makes channel
+and she'll just add a mess
+least to begin with and just use those meetings to just to send to i b. m. and that he owns interesting you know but the problem though i forget his
+least to begin with those meetings to just to send to i b. m. interesting
+it really depends
+stress test interesting that's directly related to be viet and task be fine
+it's not hard and so i
+it's not hard and so i
+easy enough to do than the game itself role but i have
+capital d. but i have another sister in which is since really what this is trying to in the large send the right thing to them and there is going to be this post processing step
+that's the promise that's the numbers and get in the papers trust some frame or rate so that's not
+they have to you had an advantage for that's the real suspect or something and
+
+both sexes as a submission and you know the paper
+you send in late i you first you have to do the but
+you send in late i you first you have to do the first one and then but we
+i was going to ask five percent of time or five percent of what pretty limited sample here
+i was going to ask that too percent of what exactly it's time
+you have a lot of two party substances in the meanwhile regardless right
+just took the old so this is
+that was number that was the second set of the second section and then
+what else do we had repeated you know repeated words is another kind of associate and so forth so
+and a dash download them if you don't know the finance you can't i mean you can't
+right so when one person is speaking there's breaks
+size three chong swear actually we can just make one jumped out of that which
+it i don't care that you know there's actually a budding segments that we have to join together that's fine
+i think but what we do care about is that the beginnings and ends are actually close to the speech inside is that
+i think jane tightened these up by hand so
+and then the transcriber instead of going painstakingly through all the channels moving the boundaries around and deciding that speech or not but not transcribing anything
+the truth they focus on the dominant speaker so what they do they just do that on the main channel
+and it just it's just segments of the dominant speak to them for phone sending to i b. m. or basic thing
+at least he's not i'm not and ones that really so if you don't have to adjust the bins why
+no but it's in that directory right i didn't see where you had jenner
+just see if there are any so you do much i mean she listen
+
+don't know i mean that's just something too i just wonder
+something i know it's something like that that's i just wonder if you have to normalize but a number of speakers or something we didn't get to look at that
+i know it's something like that that's of speakers or something we didn't get to look at that but this obvious
+i bet there's but this obvious thing to see if there's a dependence on the number of the participants
+and then at the top of the so the different speakers started into their sentence and then someone else started later
+so on we found it so
+mean they it you know and writing
+they it you know and writing you have this two spaces and a big gap you know
+are planning and you know we always are planning we're going to say next
+but my general goal when there was sufficient space room pause after it to have it be kind of a natural feeling
+which i don't know it would be quantify that you know it
+and i had about an hour discussion with her about this yesterday we went to
+says a whole bunch of words which they can't really do because of the continuity within that person's turned
+then the me it be a way of getting to get them a flood of data which
+i think we won't know until we generate that's i think that some meetings or would it's special like this
+but i'm become kind really tell
+
+do you square brackets running channel too
+overlap you know it goes down from maybe for switchboard's goes down from fourteen percent of the too maybe i don't know eleven percent or something it's not a dramatic
+and we think that based and that we think that the results are you know ballot although of course some
+although of course some air it's going to be in there but
+it's to actually measure them wonder but this sort of interesting or
+and throughout have other material again and to played
+that's the first meeting a couple of versions just to versions
+just to check you if there's significant difference and so i but so but for the other meetings
+probably about for you to check
+and so there wouldn't be a gap afterwards because
+is intelligent will is intel's able
+us and we'll fix things up and
+we should i was things up and some meetings will cost more time to fix up than others
+because what i had originally said to brian was they'll have to mark when they can't distinguish between the foreground and background because i thought
+so or maybe percentage is the right word but you know how many
+
+so the only agenda items were jane was chain learn to talk about some of the i b. m. transcription process i sort of
+lives had sent them a note saying could we please have another two days or something and they said
+participant did you identify him as we have now but we read something about
+also i in the levinson the pragmatics book and you know textbook there's i found this great florida where he says you know how people that talks about how how people are so good to turn taking and so
+and so but they're so good that generally deal that speech does not is less than five percent
+in real conversations everyday conversations
+i know it's something like that that's of speakers or something we didn't get to look at that but this obvious
+but mostly we added one number which was
+right so that's so this quick and dirty way of doing access control so
+and this i think the styles that i gave you are downtown bolted they are
+but just you know again i just want to have an idea of of how much extra you're allowed
+it would be quick know it would be kind of quick but the still listening
+and then we can sligo's later
+there are lots of ways to do i look at it so we just run that one
+of a problem because if you're if there's if a word is split that they might have to listen to a few times really understand that they can't quite get it whereas
+
+i sorted is jane as i got this email from
+i sorted is jane as i thought being the most relevant person this email from
+or we do beat you know vocal track normalization and be
+over an entire and be you know we make all the features have i mean given parents
+and we just scored a differently
+too for the purpose of this analysis we attacked the word sequences and we time alliance and
+tech but the tags because we have tag these strings that occurred right before these interrupt locations and the
+about the and effect there
+to handle those people that call you on the phone and just like to talk and talk and you just have
+there's significant difference that's all but so but for the other meetings it's the down type person that you have
+it's good you always want to have a little bit of positive on speech around the speech safer recognition purposes
+determining if there are any cases of this class of speech as nothing and nothing is speech and
+and and adding a tag if that happens so she does just judgment on those guys
+and that's what's slow there's no adjusting of time boundaries
+
+right then of course you're going to get a certain hours here and here
+and we considered interrupt interrupted occurred in the middle of a word we
+the abstract then but at least we put i
+so i strike it's eight millimeters and that helped
+and that would be the one speaker
+and if beach on files focused on the dominant speakers then when it got patched together when it comes back from i. b. m. we can add the back channels
+she they it's a question of how much time we want our transcriber to invest here when she's going to have to invest that when it comes back for my b. m. anyway so it's
+why we check through a bunch of things by sampling
+i didn't mean listen right in others rather than saying we're going to listen to everything
+and and in a bad meeting
+and then and in a bad meeting or jimmy's where you said always had some problems was that me so
+is i mean five percent fifty percent
+i counts really side don't have freely or numbers i think that's really
+
+and then just i only have like this afternoon and maybe tomorrow morning to get anything done before i go to japan for ten days
+help but i can't christopher axle something and you offered to drive me too
+and you just have this little detector that listens for these drops in pitching gets in the back channel
+but i haven't said i did because actually my
+worries kilos won't have that
+so what we're probably going to do is just write a script that if too chung this are very close to each other on the same channel will just merge them interesting
+so and i will get around the problem of the you know one word deep one word deep one word beat clever
+it's it so there these chunks that look like that have
+it you sounds normal it's as if
+transcriber will do it so what involved is really is the original per procedure but it
+we take but only applied to certain strategically chosen this aspect of the data so
+
+really do most of it so yes right several people sent this
+which both across the same
+almost identical in fact
+this is way more than five percent
+did i mean tastes like face to face or
+also but five percent of time or five we have pretty limited sample here
+so it's not against his conclusion it just says it's it so that's still but still
+i'm it's not a real strong one
+it on and cease away you hesitate or where you start to repair or
+i'm my name my impression is that it's better for meetings with fewer speakers and it's better
+and it's better for the meetings then nobody's breeding
+
+have a reference for that though you do
+so in my recalling correctly anyway so
+in the back channel so then you put that to the phone and go off and
+nasal award you know
+exactly what you describe it for japanese
+i made a directory i called it's
+he still has his unix account here you know
+and he's i judge meeting but but he has to he
+i judge meeting recorder yet he preferred he said he
+and so i figured that he's the best approach so what i did
+and goes until minutes on so and then mark
+
+bad knee oakley in terms of number words and also
+go against that kind of claim you have to do a big canvassing he made a claim
+i wanted to i wanted how much extra would you allow allowing most
+without really stopping mean
+i also at the same time she when she goes through this she'll be if there's anything that was in coated as a pas but really has something transcribe oval and it then she's going to make a mark
+just based on your site precipitation that's the
+but then we could so it's only in certain here and there then would that be something that would be just as efficient to do at this end instead of having to go through i b. m. than be patched together then be double checked here right
+be yes or no but it would be quick i don't know it
+but it would be quick i don't know it
+have one program that will do it you can find other programs i use
+
+real some fixed the transcripts and numerous ways
+re including to up l. so the recognize it didn't have the benefit of annoying where the foreground speech and started
+files so that someone can get that's fine and then though the finance and therefore download them if you don't
+because i tighten of time benson that's also
+great idea and then we're going to do the beep defy on both and listen to them and see if we notice any real differences
+know one thing that prevented us from apply you from applying exactly
+but in which case the gap between these two complete some tactic it's which course spoken things are not always complacent actively but
+that's interesting that's directly related or not and it just is a little interface which will probably yes is it then that will be the final be fine
+and i we could just indicate to the transcribers not too and coat that if they could
+
+on channel four you're getting a lot of breath i was just
+on t. closures homely so
+just put another directory it i make another directory make it that make
+then create something just in him and
+saturday battery to make it more accurate
+u. s. no digits you start with a piece imitation
+i didn't mean listen everything i'm at
+everything i'm at just see if there are any good so you do much i mean she listen to a little
+
+you know you want to it's at the end but it's in the beginning it's
+jeeze upper lower case also opera
+definitely they should have the full bandwidth version
+because i mean i think just decided to go ahead with that don't sample versions because we can because it's like a significant difference but it takes a less
+like a significant difference it does think about if they if but it takes a less decipher likely
+about if they make it even better than the original versions which right
+and you know then they'll send us back we what they sent back to us and we'll fix
+
+in this paper though for instance that morgan accounted for fifty six percent of the robust this meeting in terms of number for it
+section and then the other thing was we looked at what we call interrupts although that's that
+three words from the and so the question was how can we what can we say about the places where the second store or actually several second speakers start there interrupted to call them
+no right i see just a statistical correlation
+and he lives in japan now and he did this
+that's how some on some meanings it's good that sounds like a good idea such as you say if to do together and then
+that's how some on some meanings it's good that sounds like a good idea such as you say if to
+
+we can say the word zero all we watch but i'm doing some
+opera or case no we only use you
+think it would be if they had it the same set so that when they
+set so that when they did experiments they could compare right but they don't
+now the i'm knitting so in fact this might suggest an alternative sort of a hybrid between these two things so
+now the i'm knitting suggest an alternative sort of a
+
+it's still not a good idea so it's not that bad if
+it's still not a good idea so it's not that bad if it's at the end but it's
+and certainly we could do that but small phone
+and we looked at this in terms of
+just so that while i'm gone you can regenerate generated if you decide to do it a different way
+me making it on yours i just wanted to get it so do you have like in swimming in a big band that it's no i don't actually i it's that's fine because we don't want to
+
+so either we should regenerate the original versions where we should make a note of that like
+that was taken more time i just wanted to get no i don't
+three and and the previous version and that which is use now that the bechtel of would be in between there's more so that i see
+it's not that different what is
+we start with your pre segment version and i'm leaving
+we start with your pre segment version and i'm leaving
+
+it's not that different in terms of the this new procedures suggesting what is e.
+so i'm a little confused because how
+so what they do is they down to five who was on a speaker and when the speaker starts
+there's the question of weather i b. m.
+so that's not really what will be effective for the transcribers it's
+so the beach came on the speech that is missed by it that detector for a good meeting i is around i'm not one person that would say but that
+
+but any help you need i can certainly provide that's great
+said we all said nodded at the same time so just right but even if you
+although that's that maybe a misnomer but
+i was just double check with brian on a few simple conventions on how they should mark things than others
+when they when there's either no speech in there or
+
+that's interesting so
+but there's no adjusting to everything
+or something they don't understand things like that
+we sit in and what is it you think
+is it could meaning what you think you know that the meeting was a good meaty right
+
+it just says it's it be bell curve in that you have something that has a range yourself like so there are slight their differences
+are slight their differences in how you measure it but still it's
+but still it's you know the difference between between that number and quickly having meetings which is more
+to do just that takes you know it just takes five minutes rather than taking a second so right except
+so i just had heard coded it right except i don't think that thick these instructions
+
+so if there's anything that desperately needs to be done should let me know now
+help but i can't really do most of it so to drive me too yes right several people sent this
+one participant we have now but we
+so we should perhaps trust this that you were saying that they differ and how they work depending on channel subsist systems and it when it comes back anyhow
+
+first one and then we actually exceeded be delayed deadline by another day so
+they had some extension thing now is lives had sent them
+justice this the i really i want to in that one
+help but thing christopher axle something and you offered to drive me
+
+relevant have did you look at the u. r. l. i think so too
+by the way who's on channel four you're
+it doesn't sound like the person
+in some cases there are some people who have very long segments of discourse where you know they'll breed and then i put a break
+
+which is essentially a stretch of speech with no pauses succeeding saffron millisecond
+it made me think to see the reference too
+it made me think about that little device that could be built to
+right but they don't have a recognize recognizing
+
+what sort of normalization do you do so
+of data which would be useful when it comes back to us
+and it really is is intelligent and they listen to each section and say yes no whether that section is
+it so we just run that j. sounds that
+
+and keep p. record all i'll probably move from there as so we could
+one word deep one word beat clever
+excellent in fact after our meeting this morning people came in and said that there could be other differences between the already transcribed meeting with the beach and it and one that has just been run through his process so
+two so he's going to run his process on that same meeting
+
+that's so important to know so
+we should probably you know xenon down several versions
+do it that way the way that they have with the longer not having to fuss with
+i think we just have to listen to it and see how good they are meetings i'm it i'm
+
+transcriber will do it so what involved is it
+the channels i just throw all the channels i b. m.
+i mean as long as on the other hand they can say there's something conventions that they say
+it's perhaps time and steps five percent of something which some
+
+and other sorts of acoustic problems they and they may
+so that they should only write down the transcript if they're shore and otherwise they should market
+otherwise they should market so that we can check market diverse you know
+we have been told ability convention and actually they have
+
+so that can be when it's really impressive channel
+but i think it's less of a problem most listeners
+just wasted time
+now what about in a meeting that you said receive has more trouble
+
+smell a lot i think kirk curly brackets
+curly kirk curly brackets a voice john boy curly
+curly brackets right a voice john boy curly brackets out
+
+poor transcribers
+to i wanted it to be able to he be heard normally most
+and then we have somebody's going to just all the time boundaries and we send a bag and the other
+
+i was just looking on i did have
+change what in the summer anyway change that in the software where
+right because you right because not everybody talks
+
+like you just don't like if you if it starts catching heroes like in the driver or something
+i'm not looking forward to it he's still it's
+looking forward to it's a high signal noise ratio
+
+hardware where if you're seeing zero come across one channel you should add some least for like
+it's to actually measure them wonder sort of interesting or
+this and then we found we were at six pages when we started
+
+and we computed how many overlapped sports there where and how many overlap whereas that were four different corpora
+i went so this training meeting i is that some data where we have very you know accurate time marks for
+when we went to
+
+be meeting recorder meetings the robust
+and that he owns you know but the problem though i forget his
+though i forget his problems little town or
+
+everyday conversations what
+of course not doesn't necessarily what these conversation alice i've been studying for years and years or
+and then we looked at locations where
+
+i mean you're recognize we just we do you know the two
+i'll go through and the substitute and come and get it so that it's clear that those are the other kind of gory just you know recoding
+open to that yes it's working
+
+returns or winded over the entire channel
+over the entire channel
+know i'm now we didn't rerun the it for this we
+
+tag which says actually
+and it's part so whether there was a pause essentially here because births are
+because births are defined as being you know siphon millisecond so longer pauses
+
+it's really impolite if you don't and
+wouldn't have times time i think i'm really tending towards
+i mean what's the worst that happens
+
+after check that was going to be a good thing
+it's. d. p. hobbs
+the same as the mailing us and
+
+have stan ls r. t. r. d. r. r. right
+a bowl it's only accessible so
+so in other words to access anything under there you have to be told what the name is
+
+through his process so tomorrow when we go to make the jumped file for i b. m. we're going to actually compare the two so he's going to run his
+so far we haven't
+so i just had heard coded it right except i don't think that thick these instructions for doing that was in that directory right i
+
+sort of a compromise and
+we went to e. d. you wanted some extent
+send it to him it sounds like it's almost always right there's not any big problem you send it to
+
+also use i think something around syrup on five seconds for this becomes that should occur so the minimum and it's also base i mean it is just that value based on the distribution of pause times that you see in switchboard and another corpora
+my nifty capital d. but i
+and background because i thought that was going to be the most prevalent
+
+the only disadvantage disadvantages that is then it's hard to use an automatic method to do that
+these vantages that it's probably faster to do that than it is to use the dionna made method and correct it
+will just have to see i can't i think you know the original plan was that the transcriber would adjust to set boundaries and all that for all the channels but
+
+channels but you know that is so time consuming and since
+consuming and since we have a bottle like here we want to get i. b. m. things are usable is as soon as possible then the
+so or maybe percentage is the right
+
+on so and then mark pass can comes in
+and he starts it minute such and such an goes on
+an goes on till minutes on so
+
+in the game students who getting the coefficients for each
+it's probably in the paper that i have that lately but
+you know to take this test is speech but it's not
+
+order magnitude notion of
+notion of how on a good meeting how often do you get segments that come into work and so forth and and in a
+was that me so i mean just one of these i mean one percent ten percent is i mean
+
+in the car or somewhere in the hardware where if you're
+all right then i'll hold off on that and i for you to
+
+dave gilbert send me email i think it to you too that there's a special topic section and sick and your speech on new corp corporate
+and it's not due until like may fifteenth this
+
+so i thought it was highly relevant have did you look i think so too
+don't don't say or adopting that
+
+i haven't gotten there yet but what
+justice this the there yet but what our discussion yesterday i really i want to in that one
+
+there were some interesting results in this paper though for instance
+but i don't know if that's really maybe ten percent so in terms of in other words it's like seventeen or eighteen percent for the meeting recorder meetings and about half that for restless
+
+and in terms of what number for
+that's just the talks really fast do you mean no
+
+that rick just overall volume no according to the transcript
+all but you're intending to stop for fifty seven millisecond right
+
+no we identify met the person dominating the conversation
+i bet there's a week dependence i'm it's
+
+other than that though was result what was the rest of the paper
+he said it i haven't seen yet it was about it had three sessions
+
+i'm surprised one little unexpected result there is that two party telephone conversations have about the same amount of overlap of
+i had better start changing all my slides of interest you know order of magnitude wise as as face to face meetings with multiple
+
+or was it like meetings which is more like you know close to the news like these you know close to twenty percent that
+but or was it like same nervousness meaning for instance that
+
+meaning it was about half of the so
+and we send a bag and the other one is we just run his thing and intended i. b. m. there's a
+
+said we all said channels so you might think that back child so special status because essentially just
+to the phone and go off and do the do whatever you wanted do all that thing keeps him busy
+
+the house and then the second one was just the we had and the sheltie paper and how overlaps affect the recognition performance
+and the idea that these units would be generated for the donna speakers and maybe not for the other channels
+
+so that the conjecture from the and so t. results was that most of the at it recognition areas from infections due to background speech
+surprise me because with a close talking mikes the signal will be so much stronger right
+
+that's right bouncing working hard
+right it right so we took the old recognition output and we just scored
+
+and i must say that miss scoring tools are pretty for this away
+like i can't type anything
+
+that's somewhat that's how much subject hour but still we
+but still we don did some have hand checking
+
+there but what we found us after we take out these regions so we only score the reasons that were certified as foreground speech recognition i went down to almost the level austin on overlapped speech
+i that doesn't even though there's this back
+
+i mean you're recognize or any answer recognize the two
+or any answer recognize or we do
+
+and did the did to the problems with without going also or it
+for answers and it did not certain i mean not completely but yes
+
+for answers and it did not certain i mean not completely but yes
+before and i said i send email so
+
+we only use you know here it's question marks and information and we
+call also or not a lot of them but it's
+
+somewhere in between these comedy for yes so
+for so the such that there was overlap between the two sons so
+
+that boundaries and
+and then we had things like this course markers
+
+disowned seas
+phil pause
+
+we had both the beginnings and of disease
+so the end of the film pause
+
+and the end of the discourse marker
+just eyeballs i mean we didn't really hand tag all of these things we just
+
+of these things we just look at the distribution of words and so every
+and so every so and and we're the we're deemed to be back jones and
+
+right in the back childhood so easily just based on the mexico identity of the words we attack them it's one of these things
+and of course the dictator option ponds we got from the original transcript
+
+in other words if you weren't going to pause you will because you're being interrupted where did
+right no statement about and effect is
+
+but then talking and so you've
+and so you've paused for a second so
+
+pick out white space i you know that the gap between
+pick out white space i you know that the gap between the two columns like ten millimeters so i
+
+all that thing keeps him busy there's actually a business
+there's actually a business that former student of here from berkeley nasal
+
+describe it for japanese and
+and forgotten in japanese is really important that you back so it's
+
+civilized people i think you could just sort of like you know continuously
+it wouldn't matter know continuously pretty much be fine
+
+so what i did is i i made a new directory
+actually on this directory is not to read a bowl it's
+
+i know and then in there i have a file that lists all the other files so that
+meetings so it's not that her son that just but
+
+i make another directory make it that make another directory done
+just put another directory it i make another directory make it that make another directory done
+
+just the random it was a small difference but
+we spread talk about the idea and transcription press and
+
+you should probably talk about that but you were going
+that but you were going to use the usually transcribe file because i tighten of time
+
+benson that's also the one that they had already and trying to do by the first changes this
+it yet but it sounded very good and i understand that you
+
+my understanding was that
+i haven't listened to it yet but it sounded very
+
+i went back and had more t. but depends on which i mentioned that marks for
+and i'm not exactly how that would work with it with the back channels
+
+that'll only be if it's the background speaker
+so you'll have a chunk of you know channel hey which starts at zero and ten and
+
+right i mean so i mean what i would i was interested in this having a having time marks so the beginnings and ends speech
+that's definitely by each speaker
+
+me making it on yours it so do you have like in swimming actually i it's that's fine
+me making it on yours it so do you have like in swimming actually i it's that's fine
+
+in a big band that it's because we don't want to
+that's what you fine in fact
+
+that but my main goal is in these areas where you have a three way overlap and one of the overlaps involved and it's swimming in this huge been i wanted to get it so that it was quote more closely localized right
+but i we talking about i don't know tenth of a second
+
+that you know it she says that introducing narratives of spurts of people use tend to be that what would be a pause might be something like two seconds
+that i hand i'm i have just the two of them i mentioned
+
+i send email something so at some point we will try to find humor in our first alignments maybe
+something at some point we will try to find humor in our first
+
+alignments maybe using those as preferences because
+you know what you would do is he would play with different parameters and
+
+parameters and to get an object you need an objective measure of how closely you can align the models to the actual speech
+and that's where your data would be
+
+it makes a lot of sense in terms of transcription
+in terms of transcription it would be easy to do it that way the way
+
+that would you could have one having to fuss with adding these units
+you could have one like if there is bechtel in between those the things the than
+
+q. so the idea initially was we get for the new meetings so the e. d.
+so far discussed it with one with
+
+and it occurred to me is that that's what we have in this kind of a format is you could consider as a staggers mixed file we had some discussion or
+we had some discussion or the weekend of about at this other meeting that we are i that
+
+and it occurred to me and my discussion with her yesterday that
+the maximum gain it's from the i b. m. people maybe in long stretches of connected speech says
+
+and certainly things that are intrusions of multiple words taken out of context and just placed in time from where they occurred that would be hard so
+so my thought is i'm having this transcriber go through the e. d. one meeting and indicated start time for each thomas speaker and put in time for each on the speaker and the idea that these
+
+just you know recoding but
+but the transcriber events that i'm considering and that's that continue to be laugh as speech and cough and things like that so i'm not stripping
+
+that so i'm not stripping out of anything just
+out of anything just you know being very lenient what's considered speech
+
+we take the easy part to the data and the data so you got
+and the transcriber marks it by hand you got it
+
+after i didn't understand that yes
+i mean i'm confused
+
+they leave the mics on and so
+leave the mics on and just put them on the table
+
+so i you know so and you do you one as far as i listened to it you start off with that this section by jerry so jerry
+by jerry so jerry starts at minute so and so
+
+but then we could trust use the up to this detector and do the keeping on it depends on the time in
+without having to check anything
+
+on some meanings it's good could such as you say if to do together and then
+mean the detectors this that you i mean we have to fix it when it comes back anyhow
+
+i think we won't know until we generate a bunch of beat files automatically listen to them and see how bad they are it's special like this we won't be able to see included
+they are we won't be able to see included with this first thing because there's
+
+do it you can find other programs i use it so we just run that j.
+just see if there are any good do much i mean she listen to a little bit here and there
+
+but if we send them without editing that we're also going to have a notations for words that are cut off
+but what we would like them to do is be conservative so that they should only everything
+
+problems they do already and they may just at what those cutoff words are but
+but what we would like cutoff words are but let me we're going to adjust everything
+
+sipping record
+
+correction for transcribers eric darn
+
+there's going to be some zeros from this morning's meeting because i noticed that very
+
+very i think maybe you turned your might cost before the digits always enduring digits
+
+you know you want to keep them on so you get good noise it's
+
+change what in the summer where like you just don't
+
+certainly we could do that but i don't think it's a good idea we can do that post
+
+we can do that post processing if the a petition needs it postal i
+
+it postal system i actually don't
+
+it postal system i actually don't know what the default is anymore how we're using the friend and but for when we used to actually friend and but
+
+an argument there isn't there is an option in austin which
+
+then when i first put it in like amazing actually wrote things i did actually put in a random dancer so there was and but
+
+so there was and but then i realized that putting in random bit was equivalent to adding adding flat spectrum and
+
+and it was a lot faster just at a constant to the into the spectrum so i just started doing that instead of calling
+
+doing that instead of calling rand or something
+
+i sort of condensed the three things you said into that and then
+
+and you just sent off there's these paper
+
+i hope they accept that i mean
+
+and they said yes
+
+that and said that i say three and four yes
+
+is apart like it correctly identified words
+
+that rick just overall volume no according to the transcript
+
+that rick regardless i think it's he's in all of them i mean we didn't
+
+in all of them and he talks a lot i mean we didn't mention morgan my name produce
+
+one participant we have now but we
+
+did you identify him as a senior member we read something about no we identify
+
+r. p. things in nazi releasing
+
+two kinds of results euro
+
+good the the one was that the just the amount of overlap
+
+of number words and also we computed something called a sport which
+
+and found of compare the numbers
+
+and found that the
+
+know as you might expect the meeting recorder me for the most overlap
+
+but next worse which one call home which both across the
+
+and the russians meeting for i believe so
+
+had i had better start changing all my slides to face meetings with multiple also
+
+of course not doesn't necessarily go against what he said because he said years and years or
+
+also but what he said because he said generally speaking in order to go against that kind of claim you have to do a big canvassing we have he made a claim
+
+so it's not against his conclusion it just says it's it so that's still but still
+
+but i don't know if that's really fair way of comparing between multi party conversation's and to party conversations restless
+
+i don't know i mean that's just sensitive too
+
+it's an interesting was all regardless so right and
+
+all regardless right and then and we all said computed this both with and without back channels so
+
+time so but even if you take out all the back channels so
+
+so you treat back channels last month speeches pauses you
+
+you still have significant overlap you know
+
+it's not a dramatic change so
+
+that was one set of the house and then the second
+
+and we read scored things a little bit more carefully real some
+
+what if you school or ignoring all so
+
+we scored all their recognition results in such a way that the
+
+getting a lot of breath i was just wondering
+
+so if you have the foreground speaker speaking here and then there's some background speech maybe overlapping it somehow
+
+and this is the time then that we used
+
+right so we scored everything and i
+
+you just ignore everything outside of the reaching that was deemed to be foreground speech and where
+
+and where that laws we have to use that to forced alignment results from four so
+
+that's great so that means that even if you do have background speech if you can somehow separate outdoor find where it is the recognize it does a good job
+
+i that doesn't surprise me because there's this back
+
+over an entire returns or over
+
+right so this is actually a sub optimal way of doing it right so we took the
+
+re including to up l. speech and started yes
+
+i mean still i should bring that should bring the table with results that we can look at it
+
+i would presume that you still that we can look at it
+
+i would presume that you still would have somewhat higher error with the repel friends herschensohn yes it's
+
+i'm not looking forward to it because again looking forward to the non close my case i think that he's still it's
+
+that helps you right
+
+misnomer but we look at cases where
+
+so we used to punctuation from the original transcripts and
+
+and we inferred the beginnings and the sentence
+
+i mean we miss a lot of them but
+
+if you have overlapping speech and someone else starts sentence you know where do these where do other people start their turns not turns really but you know sentences
+
+so we only look at cases where there was a foreground speaker
+
+somewhere in between the startling in and so what
+
+the startling in and so what
+
+three words from the and them
+
+we you know consider that to be interrupt as i said where at the beginning of the war it so that
+
+war it so that if any part of the word was overlapped that was considered to interrupted word
+
+and then we looked at the location of the you know the features that the tags because we
+
+and the tag and we looked at our this perch tag which
+
+back channels
+
+so disowned the d.'s are for the interruption part of it on and cease away
+
+and and so and rights word that's right in the back childhood
+
+so and then we look at the distance so we looked at the
+
+we looked at the these distribution have of these or different kinds of tag @reject@ overall
+
+and or and with the because they have to use her an option of points and
+
+i wonder you know
+
+i wonder you know it's it's not no big surprise this but this
+
+right no right i see and effect is just a statistical correlation
+
+you were intending to pause at all but right
+
+when we started cutting and
+
+and to played with a latex and
+
+made font smaller and hours wonder fun smaller and until it's that i would
+
+made font smaller and fun smaller and until it's
+
+the do you can really make everything smaller but at least we
+
+the abstract then but at least we put i
+
+there wasn't and that helped them and like that
+
+there wasn't there some result under s. i thought like that
+
+s. i thought maybe liz presented this at some conference awhile ago about back channels
+
+and that they tend to happen when the pitch drops you know falling
+
+you know falling pitch
+
+and so that's when people tend to back channel that
+
+you right we didn't talk about because i like properties at all though
+
+we're going to be looking at that look at now that we have the data and we have the alignment so
+
+we're going to be looking at that look at now that we have the data and we have the alignment so
+
+this is purely based on you know the words and
+
+i didn't know about mrs finding on that
+
+he did the system and he
+
+now and he did this back channeling automatic back sending system so very
+
+random what i do
+
+there was there random intervals what i do
+
+there was of course the monty python sketch with that for intervals
+
+the barber who was afraid of scissors was playing a tape of clicking sound sensei
+
+how about them sports teams
+
+so the papers online and
+
+i think i if you see the message to meeting recorder with your are they can
+
+no one would think so i'm actually about to send is three any e. thing where you can find the that material he wanted for this for the speech recognition experiment so
+
+because actually my desktop locked up like i can't
+
+is it the same directory that so if there's any suggestions jeff what i was just going to send them to
+
+it the same directory that you had suggested them to i made a directory
+
+i judge meeting recorder yet he preferred he said he would prefer f. t. p. and
+
+and also the other for some that wants to there's one person in sri he wants to look at you know it that we have so far and so
+
+real hobbs
+
+have stan ls r. t. r. d. r.
+
+and the directory for this i call that i. s. r. zero point one because it's sort
+
+i don't know here's this meeting because it's sort this meant for recognition
+
+i don't know here's this meeting i know this meant for recognition and then
+
+don't don't say and a dash or adopting i mean you can't that
+
+and also and then the way farms that don segment that i mean
+
+i that i mean just taught them all up i mean for each meeting i taught them all into one tar file and she's just them and stick in there
+
+i the digits in my own home directory home and keep p. record all in there
+
+so we could point mari to this also for her march one request march on
+
+you never she was what she she wanted that also
+
+we need to give brian the beep file so i was going to probably
+
+we can put in the same place so i was going to probably put it
+
+that's the first because in one directory does two versions
+
+it does think about if they if decipher likely
+
+do i think we're losing dawn and then dress at three thirty right good thing that
+
+book it was good to have endurance these things but so
+
+you know that adam created script to generate the beat file too
+
+it was good and i understand that you guys were going to have a meeting today before this meeting
+
+it was just to talk about how to generate it this meeting
+
+so chalk auntie low should now more or less know how to generate the filing i think
+
+i think chuck pointed out is that since this one is hand marked there are discourse boundaries right so
+
+trying so that is a training meeting
+
+what i would just want to see if there are any major differences between doing it on the hand
+
+interesting
+
+on which i mentioned that last week but
+
+the but there's but there's this one issue with them and that there are time boundaries in there that occur in the middle of speech because
+
+that's on the other channel my i was listening to the original file that habits like you hear word in your beep and then you hear the continuation of what is the same sentence
+
+that's on the other channel that's the same sentence
+
+because the channel overlapped
+
+and that's not going to be true the foreground speaker that'll only be if it's the background
+
+then the same channel starting at eleven ending
+
+at eleven ending of fifteen and
+
+and then again starting in sixteen ending it
+
+sixteen ending it twenty right
+
+that which is a zero twenty
+
+that was so if you were to use these you have to be careful not to part of these individuals i mean it right i mean
+
+that's definitely a problem because we
+
+these up by hand that's much better so what is that sort of how tight out they
+
+that's much better what is that sort of how tight out they
+
+they were reasonably tight but not excruciating like tight
+
+so that i can interpret the numbers if i compare that with the forced alignment sanitation
+
+i wanted to i wanted would you allow allowing most
+
+so that if you play back that and have it in the mode where it stops at the boundary it sounds like a normal word it doesn't sound like the person
+
+normal it's as if a person could have stopped there
+
+now sometimes you know i see these are involved in places where there was not time and
+
+but other than that it's really pretty continuous and this includes things like
+
+and this includes things like going from one sense into the when i turns into the next one sense of the next
+
+but some people are planning and you
+
+actively but it would be a shorter break then maybe you might like but
+
+you might like but their goal there was to not have thee text be so crudely parsons time than me because
+
+time than me because from a discourse purpose it's more it's more useful to be able to see and also
+
+to see and also you know from a speech recognition purpose my impression is that if you have too long a unit it's doesn't help you very much either because of the memory
+
+so that means that d. amount of time after something is variable depending partly in context but my general goal
+
+the discourse the people who look at turn taking off and use i was interested that you chose
+
+i was interested that you chose the you know the use because i think that's a unit that
+
+i think that's a unit that would be more consistent with sociolinguistics
+
+we chose you know half a second because
+
+because if you go much larger you have you know your statement about how much overlap there is becomes less precise because you
+
+because you include more actual pause time into what you consider overlapped speech
+
+and it's also base i mean
+
+it's also base i mean it is just that value based on the distribution of pause times that you see in switchboard and another corpora
+
+occur so the minimum silence line i see
+
+in any case this meeting that i hand i'm
+
+and hopefully the new meetings which was from the travelling through from we'll better time boundaries elements
+
+i like this idea of for our purposes for the idea in preparation having these join together
+
+the than the actual look for at the end off those three and yes
+
+that's right but you know this brings me to the other stages that you discuss so he earlier today which is
+
+today which is the second stage is what to do in terms of the transcribers adjustment of the state i discuss
+
+of the state i discuss this with you
+
+so the e. d. u. meetings that tivo had it has no pre segmented all of them force on channel by child basis and
+
+so i've assigned i've assigned them to our transcribers and
+
+so what i'm thinking and it maybe that not all meetings will be good for this but what i'm thinking is that indie do you meetings they tend to be driven by a couple of dominant speakers
+
+it seems to me that you know back channels per se wouldn't be so hard but then
+
+wouldn't be so hard but then there's this question of the time marking and whether the beeps would be a and i'm not exactly
+
+you know so that been would be marked as it as double dots
+
+and in the other any other case if it's marked a speech and really there's nothing transcribe one and then she's going to put his dashing i'll go through and
+
+confused because how do we know where to put beeps is it is
+
+transcriber so what is it
+
+and because no but after we've done to those
+
+mark u. s. no digits you start with a piece we start with the pre segment tape version
+
+mark u. s. no digits you start with a piece imitation tape version
+
+instead of doing that which was our original plan the truth they focus on the dominant speaker they just do that on the main channel
+
+and precipitation that's the basic thing
+
+exactly i don't so now jane my question is when they're all done adjusting the time boundaries for the dominant speaker have they then also he raced the time boundaries for the other ones
+
+that's why she's not getting start then points of the donna seekers so
+
+and then meanwhile she's listening to both of these guys channels determining
+
+and adding a tag if that happens so she does just judgment on those guys
+
+that meeting but you know i want to say his segment is so good that the part that i listen to with her yesterday didn't need any adjustments the bins
+
+this is not going to be a major part of the process at least he's so if you
+
+at least he's not i'm not and ones that really so if you don't have to adjust the bins why not just do it for all the channels i just
+
+i think we just have to listen to it and see how good they are meetings i'm it i'm
+
+mean the detectors this that you were saying that they i mean we have to fix it when it comes back anyhow
+
+so we should perhaps trust select meetings on which the speech on speech addiction works and just systems and but he was great
+
+select meetings on which the but he was great
+
+these two things so the one suggestion is you know we run kilos thing and then we have somebody's going to
+
+m. there's a another possibility if we find that there are some problems in
+
+and are some problems in that is the go ahead and we just run his to me generate to be filed and we have somebody listen to the beeps file and
+
+will intel's able or not and it
+
+no interesting i mean i wouldn't be that much fun for transcribers that they're here it be yes or no but i don't
+
+but quick but the still listening to everything
+
+no adjusting of time boundaries
+
+wouldn't have times time i don't know i think i'm really tending towards i mean what's the
+
+worst that happens the transcribers i mean as long as on
+
+that's true we can just later it
+
+that's true we can just catch it at catch everything at decide it
+
+how interesting that maybe that's a you know just
+
+and it just depends on how what you do you
+
+and it just depends on how what you do you
+
+very good so i can save you one is good enough maybe we can included
+
+maybe we can included in this set of this we send
+
+thing because there's a part of the process of the beef file which requires knowing the normalization coefficients and
+
+no but it's easy enough to do than jenner but i have
+
+easy enough to do than the game itself role but i have
+
+like don't look at it ten so we just
+
+maybe have an order it's probably
+
+i see the characteristics right and so was almost it was almost always doing the right thing i went to get
+
+i went to get some sense what almost always meant
+
+word but you know how many per minute
+
+that's just my amount of speech i'm not
+
+i did this on four meetings and only five minutes a full fire him you know if these meetings so
+
+which some of the frames speech france which i miss but i'm
+
+so it sometimes you might want to go back and look at it more in terms of how many times is there's bert that's interrupted
+
+and the promise when it on the breath he wants where you get reading back into indicated speech that
+
+that if they could still do the p. file again i think that is probably less
+
+that if they could still do the p. file again i think that is probably less of a problem because
+
+if they listen to it and there's don't hear any speech i think they probably just listen to it once so that you'd think
+

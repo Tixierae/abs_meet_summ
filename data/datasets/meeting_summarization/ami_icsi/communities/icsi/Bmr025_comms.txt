@@ -1,0 +1,708 @@
+of time so you don't you're not doing a linear search through all the documents
+my thought laces i mean i it would be to have the running transcripts it you know for speakers speaker right and if it doesn't
+easier there's a bigger difference
+he's a firm believer in lots of different modalities of backup
+and so you have time and position stored so that you can
+and one of the reasons but i don't take notes so
+and one of the reasons that it was brought up originally was because we were interested in higher level things not just you so
+or twice a young sort of probably chose drugs crime and just sort of died out
+of probably chose drugs crime but is just sort of died out that's right
+but i maybe other thing i'm thinking is if we wanted that kind of thing that i wonder if we'd lose that much by having someone be ascribe by listening to the tape
+other interface i mean we're transcribing anyways but when you know
+and what if you're sitting there you just want to make an axe and you don't want
+doodle to take notes and you just want to
+infrastructure but we can at least try it out
+one thing that we might try is on some set of meeting some collection meetings maybe you is the right one or maybe something else
+
+it's already the second one of those is already
+string in place so what are you so you're adding like i don't know or the fuzzy matches or are they it's a sort of standard
+so it's term frequency inverse document frequency scoring
+and it's looking pretty good you know the fact
+because this'll i already information retrieval pools i difficulty
+done if he has and you learn if he hasn't right
+i hope he never listens to these meetings
+something worth what about issues of playing sound i think will be with it
+about and having the search tools and so on week
+meter but of course no one ever pays attention to it so i think
+there's infrastructure which
+there's an alternative which you know someone
+other end which someone has to listen to that and find that point
+it's in the transcript could we keep one of these things for another year which i mean is
+
+is that next occupants we're pushing for it so
+that done by today but it's going to take one more week
+but it's not going to be a lot easier
+so there was that demo which was one of the main ones and
+was one of the main ones and we talked about some other which is
+other which is be showing off the transcriber inefficient self and as
+self and as you said maybe you could even merge those in some sense but
+some sense but
+i never knew we were supposed to put in to keep a either because i had told you guys have
+have a you know have described how
+how do you synchronized to time and across town and the time of their that might these and that was one of the issues we talked
+and so what kind of
+mean if you're not worried about the p. you just be pressing like
+
+if we can't but we've been trying to make this abbreviated meetings is that
+rather than use the ones that are there
+and let them work on that
+tools that it certainly helps
+so i it might be a little easier but it's not going to be a lot
+i think it at the very least i don't know if that would be of interest
+so we've never use and asks them if they're still using them
+time but but
+it's like it's useful have a summary summer i think because that summary
+an axe and you don't want to take notes and
+but then there's the infrastructure at the other end which someone has
+
+and what are you the key words are they works
+right and so and then it munchers that pass it to this is y. r. which uses nasty m. l. like format for everything
+that sometimes and now i right now i
+they it's a sort of standard text retrieval based
+get back a something that would let you click and listen to some audio where that phrase had occurred or something you get you they have jeez
+all freebies beastie would probably be easier
+be integrated but it could potentially be in it
+this is to an audience of researchers so i mean you know to
+no not the quality or your right now right it's pretty
+so want to use the tools to do it rather than the plane tax because of the
+and i don't know if it's audible on the
+
+and it's not quite ready to go yet because
+in fact he said is doing the manual one doing and if you archive to copy it is a good idea that we should do
+that we should do that and have it backed up
+i it is true that even with something that's backed up it's not going to backup
+if it's stationary it's not going to go through the government is not going to burden things and incremental backgrounds just the month playful
+and so the only issue here is the timing between getting more desks and recording meetings
+so i the idea is that we would be reserve ing the non backed up space for things that took less than twenty four hours to re create or something like that i'm very creative
+i think i agree with him his point was
+to help it's a different topic and they had one took typing time much
+ass i know that that till you were bringing the channel trans interface onto the windows machine
+the p. d. a. with all wireless card to be the probably everybody go
+
+this'll on which tool
+is so we tool which is the one that dan wrote people t. k.
+you mentioned that show too you but i think you both said no users use textile it
+it has it in there that place to fill it in
+or not because the best quality once the crown ones are about the same level if they're off and
+no one's or if they're on and no one's talking
+so that you can you have a record of whatever it is you've written
+by whispering one two three four months of my phone and
+just in case we of them for the whole year i mean it's just
+use it i mean it just hasn't happened anyway but
+
+exactly so doing things unparalleled away we think it
+is that keeps coming up and
+that sounds it sounds as if it right
+that's a good point too
+crazy idea actually a good point too i don't know
+for to that because i'm going to want to talk about it and so
+putting something i don't know much about so i mean you're looking at this
+so when we are having we could probably find some examples of different type of person i think events going on
+and then we did it once or twice a young sort of probably and just sort of died out
+
+i mean it's in the and make the information retrieval is working can
+the transcript back and we find out that hopefully there are no problems matching up the transcript with what we gave them
+yes and so we're doing those as destroying from the ones are transcribing here
+pepperdine where we had this sub meeting the other day right which
+that could come into the that's what i practice get a video
+june next month is this
+so i mean you know to that's supposed to let them know what is we're doing so i mean it's different i don't think anyone
+so it's and it's a regular had just a regular pad of paper but there's a span which indicates position and so
+
+i hope to have that done by today but it's
+this one is came we get the transcript back and
+but you were saying that thee that there's a set of tools sickness tools that so it certainly
+but so what the are then you end up with somewhat prioritized excellent right
+to whoever's because we're doing this anyway as part of our you know the research visualizing
+timer on it you mean i when i did it i think are it by voice by whispering one two three
+
+i you just process the first five you meetings and they are trumped
+they are trumped up so do
+but burning in for backup is not a good idea
+so then that's wonderful great
+so he had he doesn't need them he just periodically you at the end of each terms and daddy email to everyone who was recorded is having them
+the meeting because you'll be thinking of you can synchronized with the linux server
+
+at dances it's pretty good
+but i don't does this mean that this could be pour a parted to it think pad no or some other type of but
+an application and they have to that's are converted over if you want to do anything with this information
+but you could imagine i mean if
+i mean if all you really wanted was she didn't want this secondary note-taking channel but just sort of
+but just sort of being able to use markers of some sort
+
+right check it because he did port it to sprung core so you might have done
+plane tax because of the plane texas very easy just get those things
+mean his point was taken the state
+i'm twenty need more desk
+the cross patents that mean synchronized and the time
+you know you want to pretty close and there's
+
+isn't always on the digits so these are missing aren't thing not and
+me no time at all that these but it's almost just
+minister today
+which i mean is there a big call we can keep up both
+there a big call just we can keep up both of them for the whole year i mean
+even maybe some of the transcribers who might be one annotate
+
+and second it's enough and infrastructure that we have to deal with
+and i have so my feeling on it is that i think in principle are really idea and you have
+idea and you have the time tags which makes it better than just taking ra now it's on the other hand
+on the other hand i the downside for me was that i think the penn is really noisy so you could plunk
+so you could plunk poke
+get the summary of the transcript from this time location like you
+
+right i so you might have done that already
+i and i've been correspond with dan and also with i sound i
+super i don't see finals see front office not knoxville tennessee one do i mean
+i'm starting to now are you looking at ways not love
+i'm starting to not love
+
+and then you get it then you get the and he's more familiar with tickled to k. than i am
+it's just you know just like all of them being clued files are a little different function calls are a little different
+i think it you know it doesn't work great but it's definitely giving us something i don't know
+it at the very least we're going to want something for to that because if that would be of interest
+that works i mean i'd be here i think i mean where
+
+to another idea i had just now actually for the demo was whether it might get interested to show some of the probably the work that don's been doing
+actually show some of the features and then show
+about with some later browsing just as the convenience even
+she wanted to do that even if it's not a full blown note-taking substitute
+she wanted to do that maybe the right architecture ford is to get a p. d. a. with a wireless card
+
+and of each parents
+marks so it's implicit in there but you have to do
+things not just you know microphone and also summer as a nation and so forth and the question
+so forth and the question is if you were going to go to some gold standard of what was it that happened to me you know where they come from
+and so that it seemed like any idea have a you know have described
+
+that lives how do you synchronized to time and you don't have a lot of other cues that might these
+so i so what kind of input would you be
+so i mean if you're not worried about you just be pressing like
+the p. d. a. and making you could
+d. a. and making you could have the same sort of x. interface or whatever i mean you have to do
+
+the other day right which
+so i've been working on using this'll tools to do information retrieval and meeting data and
+data and the tools are there two sets as a back in the front and so
+so it uses so perk produces an index ahead of time so you don't you're
+
+that sometimes and now i right now i have a tool that will do that on a command line using arts standard tools but my intention
+but my intention is to do a pretty or user interface based either
+which i haven't used haven't looked at dances it's pretty
+fell part having an volunteer work on is a really good thing because he
+
+that was a really good that phrase had occurred or something you they have jeez
+about and part of that was showing off with the speech now on speech to them so
+everywhere right
+but i mean how you know when themselves microphone or the next remember that chris should bleep that out right
+
+tools and so on week we look into it but
+the thing i was asking about with previous day is that it might be easier to get
+i'm i spoke with dave johnson about putting all the meeting recorder on back to this to save the overhead it back up and he
+up and he pretty much said you could do that if you want it was a bad
+
+and i mean we have to i have to sit down and try it before i make any judgments so
+my experience with the canoe compatibility library is really it's justice hard and just as easy to port to any system
+is it might be neat
+paths got an email from james land day who said if
+
+that would give us they'll give us a week or so to to port things over to my laptop to make that works i think
+i mean worked with transcriber but it
+with transcriber but it's a pain to use and other tools because it
+starting because it doesn't mark start and
+
+and so what just let me know there it's mostly
+speaking of which thing is as i said before it is actually on the
+and incremental backgrounds just the month playful
+who said if you're not using them did you return them so he had he
+
+beer but but he said that we shouldn't worry too much about that we're getting
+it is first i never take notes anyway so i'm
+notes on these things and i the plus with the cross pads would be the time markings but
+what is the crust
+
+i mean i could be taking notes on these things and
+and then you can download it and they have
+they could just sort of making x. near that point iraq question
+point iraq question mark that sort of alerts them that when they get the transcript back big gets red flags in that transcript region and they can then
+
+but then you don't have the time reference that you have if you have that lives and you
+and there's a of skewed because it's a handheld unit with the battery
+so you have to synchronized at the beginning of each meeting all the pads that are being used
+so that it's synchronized with the time on that and they
+
+going order transcription status was that's
+and that quickly status was that's probably
+and we'll be ready to go would descend in the next four as a big patch
+
+separate several
+that kicking in it screensaver too
+it was a bad idea
+
+anything else on transcription service
+than they windows space it's like doing a google corey or any anything else like that
+but we can get other languages too if that's desirable
+
+been written this all sound guys did a web based on
+and then you get it then you get the windows media playing for free and he's more familiar with tickled to k. than i am
+that's snack not transcriber
+
+you titanic korean and then you get back a list of hits and even type
+this all the time so i think the thing is that to get someone to actually buy into it have at
+buy into it have at least some series of meetings where we do it
+
+book it's too bad that could come into the get a video
+some point we're going to have to say with their private joke is that keeps coming
+you know the fact that like off the court system working
+
+right because he worked on the transcriber
+summarize there's this use that
+summarize it from the transcript and that what if you're sitting
+
+it might be really difficult to get that to work in the little short segments would be talking about and having
+to get powerpoint shows running in previous days and to get this other package running and
+but i mean how do where is it going to keep on right
+
+right the windows system isn't any harder because
+any harder because it looks like a b. s. d. system
+so when we are having this to meeting we were sort of coming up with this that we want to have all these pieces together to first order by the end of the month events going on
+
+june next you mean like today this month
+like you know and then while you're bored you don't do anything in once in a while maybe there's
+in once in a while maybe there's a joking but
+
+that's supposed to let them know what is i mean it's different
+we're doing so i don't think anyone has done this on meeting is it might be neat
+way i'm converting the key files to x. m. l. so you can extract me i ever since i sort of information on individual meetings
+
+because there are a lot of tools they'll let you do extraction and reformat reformatted of x. m. l. tools
+yet again we should probably need to talk about transcription formats in x. m. l. because i'm not
+x. m. l. because i'm not particularly happy with what we have now i mean worked
+
+and then the other thing also that you low noticed is on the microphone
+anytime the of bring out there is
+but what the screensaver kicking in it now
+
+so i'm working on that and it sort of works
+and it sort of works and so eventually
+and so eventually will change to that and then
+
+him his point was taken that if we lose one of these we cannot get it back
+i don't think there's any other et cetera there
+that was long someone else to come up with something related to thing and
+
+and second of all the right once burners as opposed to a professional press don't last
+so i think burning them for distribution is fine
+least once so we've never use them
+
+we get somebody to buy into the idea of doing this is part of the task i mean
+part of the reason i think part of the reason that adam was so interested in the speech quarter sort of idea for the beginnings he sits in beginning aged taking notes and
+and so forth so and jane is more into it but
+
+hired several more transcribers to making great progress seven
+to making great progress separate several seven
+
+i mean it's in the same place it's been can just it
+you know when themselves microphone or the next should bleep that out
+
+these it's separate from the ones that i mean do you there's i b.
+and so as soon as we hear from bryan that this one is came we get
+
+the front and so the funding disease or these face in the back and
+but yes unstable t. k. runs on it things will just work
+
+and so i've written some tools to convert everything into the right for file formats and
+and so it's pretty big and complex
+
+what kind of what is it hits
+that we're getting a new backup system and we're far enough away
+
+but it does mean you need to be running a web server
+thing there's a little level meter but of
+
+news which i think looks great i think that's a
+looks great i think that's a demo
+
+and that would be much easier to port to windows
+i can ask a question so
+
+and so that these tools do all that
+and so the work to get the front into work would be porting it
+
+it to get it to work on the unix systems are side is just rewriting them in modifying them to work for meetings so that it understands
+so that it understands that they're different speakers and that it's one big audio file instead of a bunch of little ones and just sort of things like that
+
+so what does the user see is the result of the quarry
+that was a really good book it's too bad that
+
+and even type on them and listen to them click
+so do you typed click on them rather with the mouse
+
+so if we want to just do a video based when i think that'll be easy everyone
+everyone to get windows it's going to be a little more work because
+
+layer so that the normal unix function calls all work
+you have to have all the but the problem is that
+
+you have to have all the but the problem is that the special tools didn't use anything like auto cough
+and so you have the normal porting problems of different header files and some things are defined in some things aren't and
+
+different compile or work around and so on so the fact
+phone and you know
+
+all you need to do is say and she it'd be if this work under constant it'll be done in a day right be easier
+i should check it because
+
+i wouldn't be surprised that already
+@reject@ serve both purposes is you contact and ask him if he's already done if i that play out right
+
+my brain is not working i
+see for it seems to see brain is not working i remember i've been corresponding with
+
+you know the research visualizing what these teachers are doing and so either
+might not be integrated but
+
+so i've been doing a bunch of x. m. l. tools we
+of x. m. l. tools we are we're sort of moving to x. m. l. is the general format for everything and i think that's
+
+right in there but you have to do a lot of persisting to get it and
+right it and so and also i'd like to do the indirect timeline business but
+
+but regardless means that something that you mean jane can talk about later
+but i've installed x. m. l. tools of various sorts in various languages and so of people
+
+now so it's pretty soft especially
+not shit information everywhere i'm right
+
+i right i have you haven't been putting it in
+isn't always on the digits so these are missing aren't thing not and
+
+right i so if you then you're not going to get it in the meetings so
+right i just realized i haven't been doing and so
+
+on channel zero it says handheld mike war crown like you actually have to say
+i usually delete the i don't so
+
+checks like what did you do
+and then also in a couple of places it's of filling the provisions under participants they were filled in under description so
+
+expanded files and things like that
+they take up a lot more room anyway
+
+because you have to copy it down to the p. c. and then burn it and that's
+burn it and that's a multi step procedure and second
+
+it and they have o. c. r. and searching and all sorts of things
+if you take notes it's a great little device
+
+also with i was thinking in i know morgan disagrees with me on this but
+something later and put some kind of summary or something
+
+with me on this but suppose you have a grouping here and you want to let them note whenever they think there might be something later that they might not want to distribute in terms of content
+transcribe it just sort of write down things struck him as important
+
+using it but i can imagine it being useful just for certain marking time periods would you then right
+i so would you then get back in the transcript so
+
+i mean they still there's you know your point stands about their big needing to be an infrastructure but it doesn't have to
+but it doesn't have to be synchronized with the little clock's timer on it you
+
+just there's a bunch of things that might be neat to do but
+neat to do but i it might not be the case that we can actually synchronized and they do all the infrastructure but we can
+
+desecrating this is transcription status darva demos x. m. l. tools disks backups et cetera and cross pets
+
+so i don't have anything to add agenda
+
+i've been finishing up b. double checking
+
+as a somewhat segway into the next topic can i get a hold of the d. even if it's not really corrected yet just so i can get
+
+yet just so i can get the data formats and make
+
+on change yes is just so transcripts it's just under three
+
+yes it's just under three so
+
+so all pro just make some copies of those rather than use
+
+and then just will have to remember to delete them once the corrections are made
+
+i also forgot that shorter monthly subscription i you
+
+up so do it they probably can be sent to i b. m.
+
+other ones that's the one that we're waiting to hear from them on
+
+things unparalleled away we can get as much done at once i think that's the right way to do it
+
+can get as much done at once i think that's the right way to do it especially for the information
+
+especially for the information retrieval so
+
+face in the back and is the indexing tool and the korean tool
+
+and command line version of the neck thing creating is now working
+
+so at least on the one meeting that i had the transcript for conveniently you can now do information retrieval on it do type
+
+what kind on it do type in a string and get back a list of start in times for the meeting it hits
+
+what kind of what is that look like a stringy type and what are you it hits
+
+there's a place in america that sometimes and right
+
+so that's the other thing i want to discuss is what should we do for these the user face we
+
+we do for these the user face we have two tools that have already been written
+
+and it would be difficult support windows because i mean
+
+windows because i mean supporting the web server to windows
+
+the other option is dan did tickle t. k. a. this'll gooey front and for broadcast news which i think
+
+as it stands with them that the channel trans interface it's possible to do a find and play
+
+you can find a search string in place so what
+
+and then there are all sorts of metrics for spacing how far apart
+
+spacing how far apart they have to be and things like that
+
+lot more sophisticated so it's
+
+lot more sophisticated than they windows space it's like doing a google corey
+
+as you can imagine with if we have the sixty hours worth you wouldn't want to do a search
+
+you have to do pretty indexing and so that these
+
+so do you typed in small heads or something you could get back a right you get
+
+or something you could get back a right you get
+
+that's what i practice them
+
+it sounds as if it my recollection is it's a pretty reasonable demo sort of format that sounds good that sounds really neat right and so i think they'd
+
+demo sort of format that sounds good that sounds really neat and so i think they'd be minimal effort to get it to work minimally and then would want to add
+
+and then would want to add things like creed by speaker night meeting and all that sort of
+
+of dave gilbert express some interest in working on that's all work
+
+on that's all work with him on it
+
+i difficulty just compiling them on solaris
+
+getting him to compile on windows might be challenging
+
+me without those i wouldn't even attempt it
+
+but what does they what those do is provide sort of a b. s. t. compatibility layer so
+
+how about and so on so the fact that it took me a data get it compile just solaris means it's probably going to take me significantly more than that to get it to compile under windows
+
+how about having a run under freebie estee you need windows freebies beastie would probably
+
+james christy or star steve reynolds which
+
+super i don't see finals see front office not knoxville tennessee one do i mean
+
+see for it seems to see what all wrote this whole i are remember i've been corresponding with then it's
+
+this whole i are then it's steve reynolds
+
+so just getting documentation and it's and formats so that's all going pretty
+
+something what about issues so that's all going pretty i think will be
+
+something worth what about issues of playing sound files between the two platforms i think will be with it
+
+why should try and merge transcriber and this why are
+
+they're both pickle interfaces this is one of the reasons
+
+they're both pickle interfaces this is one of the reasons
+
+this is one of the reasons that i can have days go bart fell part having
+
+right but the point is that the tries to resist snack and then you can but you can use a lot of the same function now any
+
+same function now any i mean i think some folks crystal gooey probably use a snack
+
+and so my intention was just to base it on that
+
+do you have you know let's become here and it's become more clear right we'll have
+
+more clear right that was my thought right we'll have to figure out the user interface for that so
+
+right that was my thought was if you had like multi trans or whatever to it interface for that so
+
+and then show friends since the test like finding sentence boundaries are finding turned boundaries
+
+you can show that graphically sort of what the teachers are doing it you know it doesn't work
+
+it and so if there's something that shows it graphically it's much better than me just having a bullet point
+
+putting something i don't know much about so i mean you're looking at this now are you looking at ways
+
+and then that would give this a week or so we end of the end of this month or
+
+and then that would give this a week or so we end of the end of this month or next this month
+
+june next month is this
+
+june month is this your first visit
+
+i'd be here if the if done some sort of talk to whoever's because we're
+
+and so of people are interested in doing extracting any information from any of these files either information
+
+information on users because the user databases that way i'm
+
+and then also the transcripts and so what
+
+just let me know there it's mostly draw then pearl but we can
+
+quick question that is that the seat information
+
+can nikki so now deceit informations on the key files
+
+so now deceit informations on the key files for the ones which
+
+i mean i haven't been putting it in and
+
+putting it in and i you haven't been putting it
+
+it's not always on the digits storms so we can go back and film and for
+
+on the digits storms so we can go back and film and for
+
+on the digits storms i mean they're so we can go back and film and for the ones we have
+
+i mean they're on the right these but i just haven't ever been the ones we have
+
+i never i just haven't ever been putting in an key files and i don't think truckloads
+
+i never putting in an key files and i don't think truckloads
+
+i never and i don't think truckloads either because
+
+knew we were supposed to put in to keep a really so we're both i had told you guys have
+
+if you use the eddie key
+
+and key it i think it that it key command that i show you guys
+
+i didn't do that either the i don't maybe i forgot to
+
+so that's also a problem
+
+we will do better that's it
+
+also i'm working on another version of this tool the
+
+the one that shows up here that will flash so if the mike isn't connected
+
+ready to go yet because it's hard to tell whether the mics connected or not because
+
+these ones that are much easier there's a bigger
+
+will change to that and then you'll be able to see graphically if you're my kids dropping in or out
+
+but also include like battery's dying just
+
+it would to it so i think having it on the screen it's more easy to notice
+
+it would be if these had little light indicators really lead
+
+really lead easter buzzer
+
+habits are and damp
+
+small shock
+
+just back
+
+taken the state it cannot be recovered
+
+and so if a mistake is made and we lose the backup we should have the arc eyes and if the mistake
+
+i eyes and if the mistake is made we lose the archive we should have the backup
+
+so the mostly phobia beer but but he
+
+really and we're far enough away from saturation on full back that it's probably and
+
+i'm very creative believes leanne also things that are incredible be
+
+i think that we're going to burn c. d.'s
+
+unfortunately we could burn c. d.'s but all it's a pain because
+
+because they after a couple of years
+
+it was just problem with the snake portion into subscribers and it's
+
+subscribers and it's self so
+
+but i did this online leaped up you know
+
+sometimes once then there's we use them a couple times but
+
+my opinion on it is first
+
+but i sort of thought that was a disadvantaged i do take notes
+
+how somebody take good notes and then that's part of the record the meeting
+
+by listening to the tape to the recording afterwards
+
+taking notes and some other interface i mean we're transcribing
+
+have a summary and high points summer i think there's also there's this use
+
+in other words you can use that just to highlight times in a very simple way also with i was
+
+region and they can then look at it so
+
+i so you know what makes something because it is maybe we should actually schedule some periods where people go over something later and so
+
+something you know some to be some scribes who would actually listened degree they actually listen to the whole thing not
+
+across town and the time of their and that was one of the issues we talked about originally and that's part
+
+and that's part of the difficulty is that we need an infrastructure for using the time the cross patents that
+
+with the time on that and they have to download to an application
+
+there's an alternative i mean they still there's
+
+you know i don't know if you want to really do this all the time so i think
+
+and so it's probably worth having one to put the
+
+one to put the problem with those the more extended you all these other
+
+you all these other you know but what equivalent about particular applications of it is that it looks
+
+of it is that it looks like it's hard to get people too routinely use it i mean
+
+maybe if we get a person too i don't think it has to be part
+
+person too i don't think it has to be part of that what everybody does in a meeting but it might be
+
+but it might be i use those neat part of the project that we can you
+
+that we can you know showoff has a mechanism for synchronized ing events in time that
+
+that happen that you just want to make a note of like
+
+a note of like what jane was talking about with some
+
+and that way you can synchronized very easily with the meeting because
+
+i mean you have to do a little bit of coding to do it but
+

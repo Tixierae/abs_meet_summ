@@ -1,0 +1,982 @@
+so this would work for pauses and i its boundaries and things like that before overlap
+i mean i've seen this call
+in terms of it being windows for suspects
+no not protestant across multi platform no problem twenties
+what but it's hard you know with any luck will be able to wine down the larger project
+and since he's not here all repeat it to at
+right so in the hybrid system we could train that is for that
+what we now think that laughter should have three sub units and the three states different states and
+do whatever you want and the connotations then you have three i mean you know you it's
+so who knows
+they're going to be transcribing very and i'm not just saying it because he might be hearing this
+they all have it's already background in using computers they're
+don't computers they're they're trained in linguistics they got
+you put a little chick at the beginning of the word and that just
+the word and that just signals that this is not standard and then curly brackets
+i mean they're very perceptive and several
+
+mind you and i think in that sense it was consensus is
+i think you know the two from sunny i see i see
+each of the mike's and you compare the energy here too some function of all the mikes so
+say maybe the day after just based on the safe side i could send
+it's like two forced alignment think as long as there's an indication that there was laughter is somewhere between two words i think that's sufficient because after being
+it's like two forced alignment i think that's sufficient because
+that would be really interesting was that would probably be sufficient to train models i
+on a feature and mean if i'm going to ask you one thing about that so if
+and so if they last between two words you get it in between the two words but if they laugh
+enough and that laughter
+to this topic the idea that we haven't yet seen that type of transcript that we get from i. b. m. and it may just be
+m. and it may just be you know pristine but
+help each other if you have a better starting point then it helps the line or
+
+since since after these usually it to he can we do the interesting first i beg
+first which is i beg your pardon
+like that's true but it save so much time they just asked are just enormous
+so what should i do with that i said
+when i said it i remember it's thinking that's not correctly tennis but
+and then curly brackets are on air
+which we know from the steve's experience with us for transcription is very time consuming and
+and if there's five phones and the word any break up the word into to five equal length pieces which is completely
+be most useful i don't know if that's something that i should do when i look over it or we want someone else to do or where but
+
+but i think our outside sponsor is actually going to kick and
+fantastic because there's one thing that we don't have right now and that's the automatic channel it down a fire
+but i think i need someone who knows more about mike's and i do because
+seems really unlikely to me does
+of the middle but not too far away
+so the mouse noise word has just single phone
+questions you know it is if they think about different things and they think of different
+in a you know the topics that are covered during a meeting with her and the other uses of the data
+finish we to trying to
+
+so there was that there's a little bit of a difference of opinion because
+difference of opinion because i thought that it was it's interesting to look at what teachers are useful
+like that where you have some kind of simple each mound you're testing
+anyway just reporting that but
+and now i had it's multi mixture plus ability for the speech and on speech and
+i'm talked with many guys from looking really much of the answer is jeeze what lot love transcribing on considerations and
+you mean two thousand one so i don't want to hire
+i don't see how someone could do forty hours a week on transcription away their time it's you can't no you're
+
+that if we had something that worked for many cases before maybe starting from there a little bit because
+there a little bit because ultimately we're going to end up with some so kind of structure like that where you
+but eat in the meantime you were checking into these systems of already existing interfaces which my already have these properties you want to see some
+i could send brian be e. transfer transplanted
+you see on the mailing
+him over i haven't checked them all but
+system the minds things eventually
+things eventually get something that doesn't really look too bad
+
+you're not going to get a perfect and
+you're not going to get a perfect and
+and you can do some you know first order thing about it which is to have people
+starts do treat breasts and laughter has addict lee or as word models or what i think it's the quincy came to me too i think it
+that one i think we you know with eric's work i sort of figure we can just treat that as a variant
+and i gave my family i said my proof on in instead of microphone
+didn't bother i know when i said it i remember
+i should say it that way because it does sound like
+
+one of the suggestions that came up and brief me i had the other day when i was in spain with
+so you probably didn't get that so bryant did tell me that in fact what you said that that are that they
+earlier that big that you know we are going to get some recordings that are imperfect and
+are imperfect and hey that's life but
+it's over off often when you're speaking everybody knows what you mean but i had a convention
+i mean calendar year two thousand one
+but just let me say with references idea of higher order are going to say she station in meeting so like
+
+but something happened organ that he got put on this or was already on it or know for
+i don't remember if the top of my head
+so it's we don't want to hire a bunch of people long term staff because
+good idea you know there's also that in my mind i
+all over the place in just about any word
+you know they both help each other if you
+we could skip the digits we don't have to read digits
+
+and so one of the things that they were pushing and in discussing with me is
+because just attention it's interesting but it's hard
+and i've already hacked on a little bit
+speech in these recordings we have very tiny sample of
+i do with that i said for our purposes
+be close it and did babies that peaks in the same and it grew like is that's the fault of the their energy and they're saying that
+
+when perhaps if you sort of deal with what you were using before and then
+reusing overlaps are not being encoded by the trans garbage in is complete and detailed away as might be and this might be desired
+it was consensus is that thorough going musical corner taste would be the best way to go because
+and we'd like to be able to some later because just attention
+and then the other one is when they finish the sense and then my lap so
+loose and they're
+
+dialogue and not trying on that
+and i did some peace imitations for train i'm not
+as and was about twelve years ago or something
+but they didn't have them for reading and
+what i wondered is whether it's possible to have two maybe use the display it's beginning to
+tennis but i thought it's not worth fixing off often when you're
+
+and did do hand label who was loud and who was quiet or because i did that
+and this might be desired i think would be desired and the corpus ultimately so we
+i'm keeping the conventions simple as possible that's right
+anyone like no stores or
+or know about mike's who would know the right questions to ask
+i think that's a good back off position that's what i was saying
+
+and things like that before overlap i imagine that doesn't work at all that
+see on the mailing
+just a word and language we're trying to like any other word
+you know why we just since we're on the same line we just continue with the way you're going to see about the transcription
+these people would be great choices are doing coding of that type if we wanted or
+you don't know if you've remained without putting
+
+which if we don't have something else that works i think that's a pretty good way of going
+so it that's it two-tiered structure where the first one is whether the person who's interrupted continues or not and then
+did going to help us is just a question of getting you know three people connected in at the time so
+turn the mike off let's talk know there's super they're they've very quick
+turn the mike off let's talk they're they've very quick
+no i don't i'm serious they're just
+
+superbowl cleanly usually several
+you certainly want to use the close talking but at least
+i don't know if the other would add some other helpful dimension or not
+be too taxing but they're putting in a lot of
+anything you know i always thought chuck spoke really
+you know i also not list has this you know and i do also this interest in the times of overlaps that are involved these people would be
+
+miss scales plenty of bands and i'm about enough
+channel which then would also serve loses request of having you know single channel
+but you compare each mike from to some statistic based on the overall
+so as long as you can stick you know that the tag in there that indicates that there was last or
+although you have just don't have to start with close approximation of though the verbal part to be able to that's
+
+and ultimately that has to be smoothed out so
+the columbia inflections that at u. w.
+and is very interested in doing some of the things
+i'd it was talking about furnishings that was
+and i may not be able to keep them employed till the end of the month even although
+
+not pre doing every single lunch went a
+and do week and later to clean that up if we need to
+transcript i do single channel audio
+you will support another week they skate
+
+with recently i think that would be a good thing to start with
+and did do hand label speaking speakers and so i did too mixed with wonderful allowed because someone something quiet because
+that they are making progress and that
+i think it's you know another but you it's more
+
+but on the other hand i saw that they had a good point that
+for train i'm not how but they are or what difference crap to say they
+are they working and the sixteen someone i want to cut back their hours that point
+if you have a good line and it helps the human in taking less time to correct things so
+
+speech it's you
+for transcription i mean don't we didn't we previously decide that the i b. m. transcripts would have to be checked anyway and possibly augment it so i think having yes that's true
+not and then below that there's some categories have more to do with you know is it simply back channel or is it
+to that'd be so super the other thing we could do actually is use them for a more detailed analysis of the over
+
+what kind of funding processing fifty two hopefully it's
+it's just saw horowitz munich out in space spectrum
+because the funding that we've gotten a sort of a big chunk for this year but
+that's true although so
+
+is very clear flexible all those things
+i smoke i had a meeting with dave gilbert on and he had excellent ideas on how the interface could be modified to do this kind of representation
+right can't find too in the meeting that much i think
+because it does sound like for eric snow at
+
+but i'm not this call brought p. r. a. t. which i means speak speech and dutch or something
+not directly trying to think
+on forever and can go on forever
+we also tried absorbing these both laughter and actually also noise and
+
+to be smoothed out so i don't know if we have a long term need to do lots and lots of transcribing i think we had
+then there's mass
+so train a phone and then they're on that same thing
+just a word and language we're trying to like any other word
+
+this was before december forth with us right
+agree upon a form
+we also have these we of the of having just in mike's too so that
+i don't want to say if i see i'm open their consideration
+
+just in terms of how you wear
+before i mean when you use a product like dragon dictate they have a very extensive description about how to where the microphone and so on but
+addict lee or as word models i think it's the quincy came to me too it
+currently we use actual words
+
+that's it so anything to reduce beatings as a good thing
+it seems to me when i was using dragon that it was really mac from placement helping the it an enormous amounts want it as a good thing
+and then also the position of the michael so if it's
+the michael so if it's more directly you'll get better volume
+
+so mark that you did not read digits
+about that i'm not really which is more frequent whether
+more frequent whether laughing i think
+i laughing i think it maybe an individual thing some people are more prone to laughing when they're speaking
+
+but i had a convention that if it's on a call pronunciation speech air with you know what within the realm of resolution you can count as native english american english speaker you know that i didn't mean to say microphone then
+worth level but the minute the fact that they noticed he said not and what you do with that
+it should be but you don't want to keep keep knocking at it if it's if you're not getting any results of that but
+of that but i mean the other things that we talked about is pitch related things and harm in the city related things which
+
+i think checked them all but just spot checking their fantastic i remember
+something like that it could be that they will there's one that being the kind of for first pass or something every
+that's true which were also christening so
+i eat i. e. chained just cook week and she did the audience but the bottom line
+
+they have an agenda
+i spent a couple of items they're sort of practical i don't i thought somebody had yasser
+of items they're sort of practical i don't i thought somebody had yasser
+
+guys skies we have great that steps forward in terms of the nazi speech preset many of the signal
+what our decision was it is that will go ahead with what we have it just project
+eighteen day and maybe even the other day each dividing by then
+
+we have steps for
+would prefer that a it's a big improvement
+but i'm not if that's a general interest or not
+
+what's the interesting beg your pardon that now you get
+please specify that now you get to tell us what's interesting prank but
+you mean two thousand this year and next year we may have much less so i don't want to hire
+
+what i did so far is i just used to power olds munich system which is a nation
+there's just single you know i think a phone in the procession but it has
+could go the procession but it has a self loop on that so it can
+
+and on speech and i did training on one dialogue which was transcribed
+we didn't on speech north speech transcription adam
+transcription adam they've tonight we did that's
+
+they think it's a terrific improvement and
+segmented that he's this little chuckle as he talks i'm
+one think that we're not doing the courses were not claiming to get be getting a representation of mankind in these recordings
+
+and it really just makes a world of difference
+and so i did some of the sketches in those promises
+have more all less silence portions and searched so
+
+why it's more or make stressful for the speech so
+do us is another person or she change
+you mean two thousand one so i don't want to hire
+
+for the speech so i started they were without lousy speaking speakers and quietly speaking speakers and
+so i think using good a liner actually can help a lot
+i think just whoever's interested can do that
+
+did that but we saw but we used to go for
+that you works so twelve with but without the l. e. a. or something
+it's running on the windows doing just
+
+so that we would actually have data
+do whatever you want and the connotations the propositions was i was somewhat nonstandard there actually you it's
+nonstandard there actually are
+
+making really quick progress
+but about the need for transcription i mean isn't that great so
+and so do in principle you could start with something that was kind of rough i mean
+
+i sent it to
+i send it to a list and i sent it to
+happened organ that he got put on this or
+
+development so this is so
+that's development super so this is so it'll happen
+great i mean assisting whenever best people was on it you know just doesn't
+
+on it you know just doesn't have to be here anymore someone else pays him so
+act and to tango and dave ago part is interested in pursuing aspect of using applications basis the separation
+course correlation he was talking i mean it we hit cross
+
+and keep things separate and
+and then they can only and dan ellis is hack already allows them to be able to display different ways forms to clarify overlapping thinks that's already
+and then they can only display one but they that's already
+
+right you know they're focused on the air anyway and then and
+this was before december they seem to want to get clear on standards for transcription standards and so forth with us
+with it and get a feeling for i mean it
+
+super they and you know the
+look through mean you'd need to have extra
+right i mean is timing is off all over the place in just about any word but it's
+
+yes for more work happened i don't know what season
+and i'm also thinking these people are terrific pool i mean if
+wonderful and then school starts year but having tempered people doing some specific thing we need is actually perfect match that kind of funding so
+
+additionally doctor for it
+i'll pick through the documentation to dragon dictate to secede they still have a little form but it does happen right i mean
+i talked to some i. b. m. guys last january i think it was there and
+
+so on but i felt that in a real situation we were very seldom can get people to really do it and maybe it wasn't
+way to do it i remember when i was when i used the prominent laboratories speech recognize or about
+about this is boys as and was about
+
+and they said the everything thing is really a terrible problem for them to
+and then just close enough so that you get good volume so
+because you can't you know interfere we
+
+them to not recognize breathing of speech
+it's beginning to be able to judge how correctly may have someone do some
+may have someone do some routine whatever and then
+
+basis to type selected they're not being distinguished one is
+one is when sometimes someone will start laughing when they're in the middle of a sentence
+in ninety eight they really could do phonetic transcription of if they want to
+
+how to handle it and the language model
+just a word and language it's just a word we're trying to like
+back so it sort of calibration issues
+
+mean this is something that we were talking about they'd be so terrific
+mean this is something that we were talking about we could get a very so terrific
+we could get a very detailed overlap if they were really to transcribe each meeting four or five times right one for each participant
+
+i is another aspect too and i don't know
+but the bottom line is it's still not separating out very right
+so that's that's enough
+
+at least that you haven't found an obvious way to normalize so that
+so that the energy is anything like a reliable indicator of the over a lot
+i'm still a little think that's a little funnies things seems like it should be but
+
+we don't want too practical for or we i think useless
+we don't want anything to practical we i think useless things
+
+we don't want anything to practical we i think useless things
+the other thing is to keep in mind i mean
+
+and then maybe transcription microphone issues
+that doesn't work at all that you love playing sections that are
+
+system which is a nation them but based system with caution mixtures first speech and non speech
+we've been very concerned to get all this rolling so that we would actually
+
+changing the minimum thankful for items
+i'm keeping the conventions so maybe i'll seeing them a little bit about it that's right
+
+a lot of my spec for features is their
+this no for features is their transformation the principal components transformation or something just
+
+but we used to go for all close talking microphone which
+you have proper recognize the munich it's
+
+true i think it's a big deal for this application but
+of you know i can use that later with reference to undercut reliability kind of she's
+
+guilt part so this is this problem and so
+and so we had this meeting but
+
+so @reject@ does i said be over of the interface are such that we were at this meeting we were entertaining how we might either expand d. b. interface or find other tools which already do what would be useful
+where were they wouldn't thing you know i think you know it might be something we wanted do with some small subset of the whole thing certainly wouldn't
+
+channels there's a single timeline is very clear flexible
+they're on that and each of these words has a dedicated phone so the
+
+and they kind of give away if it's hour a problem that's
+that's not supported and
+
+it wouldn't be a problem and
+so i also wanted to be i mean i've seen
+
+and if it's good enough arrange windows machines to be available
+available could potentially so i also wanted to be
+
+what our decision was it is that will go ahead with what we have with and not very fine time scale on neo relapse and it just project right
+i trained them to on about a minute or two up the one that was already transcribe this
+
+and i was just thinking that if it were possible to bring that in like you know this week
+then when they're in coding be overlaps it would be for them to be able to specify one you know start points and points of overlaps
+
+month and it'll be i'm i'm that will be able to do that
+i think this year we actually can do it's
+
+and did you ford morgan brian's i
+so you probably didn't get that so bryant did tell me
+
+and we discussed on some methods do it my
+some methods do it my approach originally and i've already hacked
+
+it was too slow because i was trying to display all the way for us but he
+all the way for us but he pointed out that you don't really have to think
+
+have to think it's a good point
+that if you just display the mix way form and then have a user interface for editing the different channels that's perfectly sufficient exactly
+
+a realistic i don't think so
+i don't think so holidays made interrupted things cousin in
+
+right because they're presumably going to start recording next month
+i don't see how someone could do for eric snow at the it i would say that probably they don't have out they don't have other things that are taking away their time it's
+
+i don't think i mailed anybody i just think i told
+right i just think i told them to contacting if they had
+
+it we hit cross girlish and i'd mention
+girlish and i'd mention couple times before the curb commercial devices that to voice active my king
+
+by doing that you know rather than setting any absolute threshold you actually and do pretty good selection of who's talking
+that's one way to do it but i would take
+
+by the transcribers would have less dangling to do if that were you know so i mean
+so i mean you you can look at so you have to play around a little bit to figure what the right statistic is but you compare each mike
+
+although that
+this wonderful to
+
+what does that think because she's spooked quotes and doing up
+let me ask you this it occurs
+
+so at a meeting that wasn't transcribe we worked up technology and
+and then school starts in the sixties and the sixteen someone funding so
+
+who knows would that be that'd be
+it's not i don't think it's extra complications like time tags indicating the beginning and ending of the last thing through the other and that
+
+so one thing is that i did look on sony for replacement for the mike's for the hadn't had worn runs because they're so uncomfortable
+mike's and i do because i couldn't find a single other immortal seems like it would fit the connector which
+
+it that having that type of connector but my
+right you know if and this place around language modeling he's not going to be wannabe messed up by people breathing into the microphone so
+
+we've been trying to connect again
+is to have people move it away from being just directly in front of the middle but
+
+amounts want it enough to the side so that when you exhale through your nose it doesn't the wind doesn't hit the mike
+agreements jumping their microphones of course and then just
+
+so something like yours is pretty far down below your mouth my feedback
+with what scale go there scale
+
+it is useful to transcribe and then ultimately train models for things like breath and
+like breath and also laughter is very frequent important or two miles so
+
+so mark marking if you can't in your transcripts mark
+very audible breath and laughter especially they are
+
+they and then in curly brackets they say laughter now they're
+they say laughter now they're not being awfully precise
+
+it's not i don't think it's of the last thing through the other and that and what they're doing is
+think it's think as long through the other and that and what they're doing is in both cases just think really brecha slacking after being
+
+but if they laugh across three or four words you get it after this forwards just a
+enough it was a there's actually a word for it's not just breathing with all kinds of
+
+right so in the hybrid system we could train the that with a last or phone and i pressed down so that is for that i mean it's it's always
+so it's got its own objective criterion
+
+everyone to try to talk and get into the positive although
+i mean the model that's just between words
+
+seen him your digit form site
+i'm it's very individual and
+
+they're very versatile so one of them
+are they working time now or that point
+
+the end of the month even although i hope to the other
+meaning really isn't my thing
+
+we can consider it but
+can consider it but i mean the other thing is since we've been spending so much time thinking about overlaps is as maybe get a much more detailed analysis of the overlaps
+
+wonderful it's we have
+finish trying to was you know the same concern does wanted to do these digits and
+
+would be i think it's a good idea you know
+really which is we said before is that
+
+think i'm under is was leading to this topic the idea
+i think she's fuss
+
+how long
+i think how long
+
+he seem to be recording all right
+
+about not crashing
+
+single lunch went a little later than i was expecting
+
+pretty much talk with on too many jokes
+
+what talk about practical
+
+what talk about practical things
+
+i can give you an update on the transcription effort great
+
+maybe racy issue of microphone procedures with
+
+reference to cleanliness of the recordings
+
+and then maybe ask if these guys skies we have
+
+that's see where we are at two thirty
+
+what's the interesting beg your pardon that now you get
+
+i the work that's been done it's like with recently i think that would be a good thing to start with
+
+it which i'll just say very briefly that maybe relates to that little bit which is that
+
+in spain with l. a part so and how they're for us who's here before
+
+was why not start with what they had before but had in the non silence boundaries so
+
+so in what have you heard did before when they were doing
+
+he was looking for speaker change points
+
+as a simplification he originally did this only using silence has a putative speaker change point
+
+and he did not say look at points where you were changing broads that class for instance
+
+and four broadcast news that was fine
+
+why are you spending so much time on the other seat you're issue
+
+and then just broadened it'd be instead of just using silences putative change point also
+
+so then you've got your you have the super structure with kyle scenes in nation you know simple each a man's and so forth and
+
+mound you're testing the hypothesis that there is a change so
+
+you so when we do the speech in speech
+
+speech it's you
+
+so what they did so far was using the makes file to detect speech ramon speech portions in that and
+
+and it was a system which used only one goshen for saddam's and one goshen for speech and now i had
+
+did that's dialogue and not
+
+and you also did some something in addition which was
+
+and addition which was for those in which there is quite speakers mimics
+
+who was quiet or i did that for a false five minutes of one dialogue and that was
+
+but with and that was enough to train the system and so it
+
+but with enough to train the system and so it
+
+but with system and so it that on why running so
+
+and for additional features which is energies out enough money fight robinson's at work or something
+
+so it's funny for technical features
+
+and he also provided me with several different versions of compared
+
+and so you change parameters what
+
+you can specify minimum length of speech or and sounds portions that you want and so i did
+
+enormous savings that's great
+
+testing just one quickly still in the future so you have these
+
+so you have these twenty four features a lot of my spec
+
+this was that too no what we originally we did that but or something just
+
+the munich it's other than it's not so necessary that you works so
+
+that's another thing that also too is involved in which
+
+is and also dictates guilt part so
+
+we had this meeting but also adam before that but for you one way and
+
+we regarding the representation of overlaps because
+
+of overlaps because the present because of limitations of the interface reusing overlaps
+
+so we don't have start points each point where there's an overlap we just
+
+an overlap we just have that go relax encoded in a simple been
+
+because what would ultimately be ideal in my mind you and i think
+
+to go because you can have multiple channels there's
+
+and they set they have a tool they developed themselves and they kind
+
+a broom ball go though is that sexy mule he will loss only at in munich you know and now it would seem you she
+
+you she said she had something
+
+which she uses to do eight channels it's front frustrations h. m. o. simultaneously
+
+h. m. o. simultaneously box
+
+we can use it she said she would give it to us it wouldn't be a problem
+
+maybe we should get it and i've got some kind of manual down in my office
+
+maybe we should get it down in my office
+
+but i'm not that's the right thing for us speak speech and dutch or something
+
+no not protestant across multi no problem twenties
+
+platform i see
+
+that's not profits i see so probably not be
+
+that's not profits caught tons it's i think not be it's i see
+
+from sunny the other thing is
+
+i think we had a very quickly to get something out
+
+and so my goal is my charge was to get eleven hours by the end of the month and it'll be i'm
+
+meeting recorder and i sent it to a local lis you saw
+
+and that he's going to check this the output of the first transcription
+
+i mean it's all the difference in the world i mean he's
+
+super great i mean
+
+it so i think having a good tool this was something no matter what that's
+
+something no matter what that's a good point
+
+and they help part did volunteer and since he's not
+
+it to at least modify transcriber which if we don't
+
+display one but they can listen to different ones yes but
+
+display one but they can listen to different ones yes but
+
+yes but what i mean is that the transcribers perspective inspections or something and down else's
+
+and down else's hack handles the choice the ability to choose different way forms from moment to moment
+
+only to listen to not to look at
+
+away from you're looking at doesn't change that's true but that's
+
+then be hacked to preserve the overlap better would be one which grade stephanopoulos about three channel which
+
+you know single channel superbowl
+
+have folks from this has been in contact with you
+
+trying to think if i could have gotten a realistic i don't
+
+i don't remember e. mail on that
+
+so i not in the loop on that
+
+i think it's right if it that that's the point person on not
+
+as possible too because with any luck so actually be they'll be cautions the columbia inflections
+
+i think it's important some of the things and collections
+
+i think it's important both for the notation and machine representation to be the same and collections of business so
+
+i think it's important both for and collections of business so
+
+there was also this you know from down regarding the shotgun speech imitation thing enough
+
+king look at the tampa at the end or g. and each of the mike's and
+
+and those systems work very but i mean
+
+but i mean some people use them in panel discussions and so forth with sound reinforcement and sort of
+
+where the guy knew built and built in like twenty years ago so there
+
+fantastic because ago so there it's you the techniques work pretty
+
+that you know that would help in terms of a coating of overlaps
+
+although that in mike's too so that
+
+even close talking i think would be much better wouldn't it
+
+to be if i was actually working on it sit there and play around with it and get a feeling
+
+what you calico different types of overlapping
+
+what you types of overlapping
+
+looks like they used jewish bringing up if they yes exactly
+
+that hasn't changed so it that's
+
+or is it someone completing someone else's daughters is someone in
+
+daughters is someone in introducing new thought
+
+and i hope that if we do a forced alignment with the close talking mike that would be enough to recover at least some of the time information when one overlap occurred
+
+occurred who knows one would that be
+
+who's going to that'd be in i
+
+do that is going to do first one
+
+i b. m. was going to to do first one
+
+and i imagine they still plan too but
+
+plan too but you know i haven't spoken with him about that recently my suggestion
+
+with him about that recently my suggestion now is in all of these things to contact right
+
+this wonderful to have a direct contact let me
+
+ask you this it occurs to me one of my task or rethought told me today that she will be finished with one meeting by
+
+what she said tomorrow but then she said
+
+but then she said it but the you know
+
+i can send him glad you it would be possible or a good idea or not to try to do is forced alignment and what work on the way coding overlaps now just talking
+
+just talking about it
+
+i mean you know is the study's college friend and
+
+super they and you know the organizational always did going to help us is just
+
+you remember remembers adam
+
+because they're so uncomfortable but i think
+
+i probably would i mean my knowledge is twenty years out of date but
+
+years out of date but some of it's still the same
+
+when i looked it they listed one microphone and that's it that having
+
+but my is that sony maybe uses a different number for their connector than everyone else does
+
+and so goes
+
+so it seems goes it together and
+
+it seems really unlikely to me that there's only one additionally doctor it together and
+
+who are we buying these from
+
+do it and maybe it wasn't worth concentrating on
+
+that's what i was saying earlier that big that
+
+i think that it doesn't hurt the natural most of the situation to try to have people where the microphones properly if possible because
+
+that's because thee natural situation is really what we have was the microphones on the table i mean i think
+
+that's true the table i mean i think you know in the target applications we're talking about people aren't going to be wearing head on mike's anyway so this is just
+
+mike's anyway so this is just free these had my just reuse with research
+
+i'll pick through the documentation the microphone so it's
+
+so people working on the on their via voice dictation product
+
+get good volume so you know wearing it right about here seems to be about the right way to do it i remember when
+
+they were perturbed with me because i was
+
+because i was breeding in instead of bringing out and they had models
+
+and they had models for they mark off models for breeding out but they didn't have
+
+i mean when it's and then see if when they're breathing it showing i don't know if it's
+
+can definitely see it can you see debris thinking that
+
+and so you know i sat here and watched sometimes the breathing on the are going
+
+i don't want to make people self conscious stop i think
+
+breathing it's going to be in perfect you're not going to get a perfect
+
+and then also the position of that's true it just seems like if something simple like that can be tweaked and the quality goes you know dramatically then it might be worth
+
+i don't know why that my feedback the transcribers is he is always close crystal clear in just in fantastic
+
+the volume is greater
+
+it makes their job extremely easy
+
+about the transcribers or anything did it
+
+one more america setting the answer i recognize it
+
+they're putting so and curly brackets they put inhaler
+
+i just a double checking to look through mean
+
+actually the recognition if laughter once in you know it's pretty good so as long as
+
+that would be really interesting was on a feature be sufficient to train models i mean if i'm going
+
+the thing that it's hard to do with his with when they speak why laughing
+
+but that's not that frequent is just laughing between speaking so
+
+and that laughter is a special word
+
+how would we do that with a hybrid system
+
+could go on forever so it can go on
+
+it didn't work as so
+
+i was noticing that would stand in the one that we we had trend hand segmented that
+
+d. i'm really very four i'm extremely fortunate with people who applied new are transcribing for state
+
+for state really perceptive and very
+
+they're going to be transcribing this these days he might be hearing this
+
+super so i you know i brought him in and trained in paris because i think people
+
+because i think people can raise questions you know
+
+and they think of different and
+
+already transcribe this also gives me a sense of you know
+
+but main thing was to get them used to the conventions and you know
+
+and you know the idea besides the unit versus how long it takes place back so it
+
+and then i just i don't loose and
+
+so one of them said you know he really said not
+
+i do have a convention if it's in non economical puts that one i think we
+
+but i told them if there's an obvious p. share like i said in one thing and i gave my family
+
+and other than that it's worth level but
+
+what you do with that i mean they're very perceptive
+
+and several of them are trained in ninety eight they really
+
+where were they wouldn't thing you know you know it might be something we wanted do
+
+pool i mean if so i told them that we don't know if this will continue past the end of the month and i also
+
+they know that the data sources limited and i may not be able
+
+that'd be so super they'd be so
+
+right one for each participant
+
+so they could by hand
+
+that's right way to do it but i would take the other thing is just go through for the overlaps right
+
+and with the right into interface given that you and do so instead of
+
+and with the right into interface given that you and do so instead of doing phonetic transcription for the whole thing which we
+
+consuming and you know it took some i don't know how many months to do to get four hours and so
+
+and so that hasn't been really our focus
+
+it's great but anyway i'm open to our consideration i don't
+
+i'm open their consideration of what are some other kinds of detailed analysis that would be most useful
+
+wonderful it's we have do variations in funding we have we seem to be doing very on money for this year and
+
+why i wouldn't say forty hour weeks no
+
+transcription no you're right it's it
+
+right it's it be too taxing but
+
+and i checked him over i haven't
+
+i think their fantastic i remember
+
+i think it would be their fantastic i remember when we were transcribing for run k. volunteer to do some of that and he was
+
+of that and he was the first for he did was transcribing truck
+
+i think it would also be interesting to have a couple of meetings have more than one transcriber do
+
+because i'm curious about inner indicator agreement
+
+you know pristine but on the other hand given the lesser interface because
+
+interface because just you know it's got a good interface with got
+
+with got great headphones
+
+verbal part to be able to that's debatable right i mean so
+
+debatable right i mean so the argument is that if you're statistical system is good it will in fact clean things up right
+
+i mean even example of something we used to do at one point back when purpose here other times we
+
+take a word and have economic comical plantation
+
+wrong which is completely gross
+
+you start off with that in the statistical system the minds
+
+this is very possibly different topic
+
+so being able to find were so-and-so talked about such and such
+
+i mean i did sort of a press pass on in clothing like episode like level things on be transcribed meeting arty transcribe
+
+arty transcribe meeting
+
+or that if that's something that we want to do with each meeting sort of like a
+
+like a manifest when you get a box full
+
+i mean i don't know what level of detail would be most useful i don't
+
+but this issue of the contents of the meeting
+
+you know i form
+
+and so someone wants to use that data
+
+running a little short here we to
+
+yes digits and haven't heard from jose yet so
+
+we don't have to read digits each time
+
+but you it's more days is good
+
+you see maybe did you prepare some whole thing you one this is to see or what was it
+
+close i if it sounds it also the study of in the community we thought the goings
+
+i eat then other
+
+other than that's where and making
+
+without putting pool we took but i mean that was accepting
+
+but i mean that was accepting of it but i mean to
+
+that's enough then
+
+down here there's a plane going through all of that's the bottom line really so
+
+the bottom line really so i think we have to start
+
+i mean there's two suggestions really which
+

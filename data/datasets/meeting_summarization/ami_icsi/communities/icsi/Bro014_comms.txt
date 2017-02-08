@@ -1,0 +1,827 @@
+was the last week or whatever
+so what i was started playing with was again this h. t. k. back and
+and in the first round they do i think it's three iterations and
+maybe i should write on the board so
+write on the board so there's four rounds of training
+and the final thing so i had done
+i ran a couple of experiments where i reduced that's to be three two five i think and i got almost
+i mean it's like one little exile you had to change those numbers
+and you don't do anything else and then you just run
+five i'll hold double check it was
+it makes a big difference so
+that's so we could do a lot more experiments and throw a lot more in there
+the other thing that i did was i compiled the h. t. k. for the linux boxes so we have
+so we have this big thing we got from i. b. m. which is
+that's score and then you can look at
+they could do it just when you get all done i think that they probably i was
+so just for example so suppose
+because if some of the people didn't to have the idea at all i right and
+have no idea because of the sharper that west with a very simple speakers traction approach
+then the computer difference differences and one is something if you want
+
+she i can't remember now what happens is that first one i have
+i think the hope would be that it would it would work for the good cases and
+is it that you're supposed to do better than and i
+the latency so much harder
+put the graffiti
+but that's definite
+might be that i mean what where we are coming with feature sets after all
+it's another way of looking at is that the mail caps or no spectrum l. catch term any of these variance give you this food spectrum suspect
+each one of them extra components i mean you have
+i think giving their interpretation so we i
+so we have one pint for one energy for each feature bank which is i see
+some the differences to eat some see like that
+i mean you could argue about whether she enter place interplay center or r.'s or if order but
+
+so not try to combine them
+but matched just not actually clean what
+like those speed and or
+and that's you could argue that's a pretty realistic situation and
+it since they have these three categories it seems like a reasonable thing to do is to go across the languages and to come up with an improvement for each of those
+say in the highly match case this is what happens in the
+on my which is should be darko point propose i won but with the construction addition
+and it seems that the minimize on and disorder when you inspector subtraction
+it's like ten percent remedy
+so if this good systemic good g. e. d.
+we have the fifty so we just so it's not really
+domain so that would be like in addition in bog respect and i
+
+except that actually for the silence model it's six extras per state
+one i have to look it up and see
+each one is going to have a different characteristic
+to the question is you average the relatives improvements or do you average their rates and take a relative improvement you have that
+so you know i could argue strongly something like the media mismatch which is you know not pathological but
+and i mismatched that happens and
+and the parents be some people are pushing too to keep just sixty percent number so
+it's i you just this one point of the conference calls so but
+i think that would be good i mean it's not that the design
+i mean it's not that the design of the v. a. d. isn't important
+the post rain
+
+i mean it seems like there's a simple way
+this seems like an obvious steak or something that they're
+and you know these other systems we help it out quite a bit but still there's
+but there is probably a big change that to be made is that
+be made is that the bays dying they want to have a new byzantine perhaps
+is just thing as a baseline we know that
+as a baseline we know that
+it but at least you have a starting point it's
+it seems like you should try to make your baseline is good as possible and if
+if things are somewhat better in proposal to further matched case and someone worse
+typically no like which
+
+is really what i meant
+i considerations the first one
+so i had done some experiments where was i want to play with the number of mixtures but
+so and it's a real
+and it's a real simple change to make i mean it's like
+so it's a very simple change to make and it doesn't seem to
+make and it doesn't seem to hurt all that much
+five at a time it runs as fast as you know five different machines
+so if they don't know doesn't that suggest a way for them to go
+just it's someone told that perhaps it's not fair to do that because and to make a good g. e. d. you don't have enough to with that the features that the business teacher so
+
+b. m. which is five processor machine
+machine and you can run five at a time it
+and i was going to test to see which friend and that i want to do is i would
+but it's just that it does seem to be a lot of to do a good job on that as as
+that as as being a lot of work to do a good job in the future design so
+cut down on that if we can make some progress
+having the baseline b. d. m. cici's means that people could choose to pour their effort into trying to do really good v. a. d. i don't but they seemed like two
+and i think that the still makes i still think it's makes sense as a baseline
+you do these summa try to understand when you do the same
+phoniness and i mean what i'm arguing is that's give you gives you your intuition
+
+but it's there's a mismatch between the car conditions and that's
+we're still testing so we have the results forum just teachers we are
+but having using those limits juicy chose
+we just no so it's not really an expectation but it's something
+and saying if you have them on to the future actors that make things better or worse annoys where you really
+just it the way i'm looking at is not so much trying to find the best world's best voice tone voiced across the fire but it's more that
+but it's more that you know try some
+but it's more that you know try some different statistical characterization so that difference back to the raw data and
+just why we stopped it took by having set of voice phoniness and that's true what arguing is that i mean what i'm arguing is that
+
+it goes from
+but for the other languages they combine improvements
+how should that be done
+number so they want at least fifty percent improvement on the baseline
+i think specter subtraction and gets you ring and online on my which is
+the various just great mean like i don't know
+correlation but i mean sort of first order for speech recognition you say i don't care about the source right in customs
+but i mean sort of energy right and she just want to find out
+
+i is this related to the issue that you brought up a couple of meetings ago with the musical tones in
+and then they could do sits down and so we put the old faithfuls
+which is should be i have four films
+and yet you and you're not getting the expectation anyway you know so
+we had to spend that would dig twenty she he said that them and picked up on
+so this is it seldom know caps term is the caps term of this the suspect rumor like spectrum whatever
+and the way to do days is that but we have to have
+they should be more close act like i
+
+we did it again morgan
+i have something just fairly brief to report on
+i was curious because the way that they train up the models they go through about four sort of rounds of training
+so that's all fine
+what you're saying is that when you do these summa
+the stand these glasses send it and it always days prepping fishing
+of both and it would be a multiplication in frequency domain so that would be
+
+so spectra subtraction
+so we have this kind of new restaurants just them which use a clean don't think of sampling we
+and very emphasis this
+especially if these trainings and so forth it faster and almost just take a scatter shot at a few different ways of look of characterizing that difference and
+i mean i know that people doing summer bestest things joyce back we're just doing just being gross destroying and you fifty and actually it wasn't
+they took the nation to be teamed up like he's gift four days giant i younger that seems to that used to tell younger think that
+and for on the hardest it's something that's more that
+
+april fifth
+i mean the fact is inconsistent just not this mistake but the or something that they're
+you know the thing is that if you look at the numbers on the more difficult cases if you really believe that was going to be the predominant use none of this would be good enough nothing anybody
+i mean when we put the new around at work and we'd
+we you how did you get your voice and voice truth state
+fishing and because still hounded i'm picked it so
+
+this end of the world is really what i meant
+right this is the mix up that makes up right
+as opposed to what sixteen hours or something like that
+to two sites i have to look to see what the exact numbers were i thought it was like
+but it's so much faster
+a difference there's just this world is so if you look at the specter on the love just the very smooth properties of it you get something closer to that and then is it was
+
+quite get that there's this foreigner seven i'm
+that's right and the and so in the final one here you end up with for all of the digit words you end up with three mixtures per state
+we can run on so together with the fact we've got these faster linux boxes and that it takes less time to do these we should be able to crank they're a lot more experiment
+of separate unfortunately this coupling between them which is part of it
+like on the trucks that
+that in fact the data itself is she working with is not perfect so
+
+and then give you a score here's a score and then
+here's or a romance case and here's
+but how much worse since the waiting might change how much worse is
+so we have the mess scissor bank we have the fifty so
+so there's because it would be game i mean fifteen find the fifty employees
+so it's it's there's a period the city of this signal say something about the pitch
+
+except the various just great you exit the variance inspector encouraging right
+force both for the the reason they're overlap and then you know structural reasons
+it's not part of a v. a. d. system that you're doing
+i think giving their interpretation to sort of like a rectangle that's it that
+both to such an addictive and
+both it seems that an addictive and
+
+so what happens is at each one of these points you increase the number of doubts into the model
+i mean it takes you have to do an overnight the way it is set up now so it's
+i mean it takes you have to do an overnight the way it is set it's
+and the things it's not just your average because it these waiting's
+you know figure out how to combine the scores with
+
+goes base nineties already very good and
+what was the media mismatch condition again
+it's a of worse
+you put thing your on the torque compared to and not having any you're on the truck
+so picture what does it look like friendly
+
+in there but i think they started off this process with a notion that you should be significantly better than the previous standard
+and you would like that to be the case
+them in the triangle that's right so you end up with of victor that's the same length as the fifty actor and then this and to the theater then
+what i've been said what i that makes sense
+which is for selling the post rain
+
+with you and so they said you know i should have half so or something that you had before so
+half so or something that you
+it does seem like it's more logical to combine them first and then do
+that the training and testing or somewhere the training and testing
+but no so you should those other conditions very you know really small
+
+they can be with a relative improvement first and then average that
+and then average that with the waiting
+and so then the that makes the highly matched the really big thing
+so mostly the idea is
+it may be that you're finding something good and that the variance
+
+is run it's this program called h. e. rest
+happens in the so they can medium insist happens and i mismatched
+suspect trauma blocked
+by going back to the s. f. t. you're getting something that is more like the raw data
+
+and even if we don't do anything else doing something like this could allow us to turn experiments around a lot faster
+thing beautiful for one and when you have a final thing would go back to this
+that's the kind of frequency so i mean
+so i mean it i mean to first order i see
+
+so it's not very consistent
+this mistake but the but the other thing i know
+arithmetic ever church metric coverage
+and so they said how much
+
+and so perhaps they would changed the way weight too
+and it almost argue for waiting that highest but the way they have
+because everybody has their own opinion
+you look at it's i mean it sounds just to think of did in the bed nine improve like more than twenty percent
+
+rather than be absolute improvement
+a bit but still there's something like factor too or something between matched media managed and
+and so i think that if what you're if the goal of this is to come up with robust features it does mean
+you might go pick some voice activity detector make that the baseline just like
+
+whereas you sort of with some reasonable error recovery could imagine in the better cases these systems working
+damage i think people hadn't really thought through about the to be idiots
+and hopefully these teachers without because
+but in reality it's you know there's all this overlap and so forth
+
+the agency selfish but you've got the latency shorter now
+maybe there's something that system can use
+but they're more excuses that
+so you essentially take the values that you get from the triangular filter and extend them so of the space
+
+when you do the same improvements to proposal one
+that on thee if things are somewhat
+the now that these other things are in there is it the case may be that the editions of proposal to over postal ones are less than important
+so what sorts of features are you looking at we've had some
+
+so he actually getting back in town surely isn't already is
+so you said in town you mean oregon
+and these experimental so are using some kind of compensation so spectra subtraction
+
+then when you have your final thing beautiful for one and when you have a final thing would go back
+don't know if you go from the matched case to the medium it's not any enormous difference in that training testing situation and
+no that's an expectation but it's something that hopefully you something that takes the taste
+
+so you run we treat to two sites so i i have to look to see
+equal i mean you
+i think that you could make the opposite argument that the matched cases of fantasy
+
+i thought it was like three two five i'll
+it was over a week ago that did it so i can't
+ago that did it so i can't remember exactly but
+
+so after i did that then wanted to do was try increase in the number of mixers just to see
+of mixers just to see see how that affects performance so
+in fact you could do something like keep exactly the same procedure and then as if this thing on to it
+
+there's because they start off with an initial model which is just the school
+model and then they split it to the individuals and
+each it's like if you say what's the best way to do an average arithmetic ever church
+
+in from montreal i was just was scenic involved there
+it seems like they should do like the percentage improvement or something rather than be
+actually it wasn't wasn't so bad
+
+right now it's a waiting on
+and the fact is that for rhino for english they have weights that they combine
+on what kind of rose with what passing
+
+some people are doing that would be better weights some
+but to combine error rates before computing improvement
+with what passing you with i mean
+
+combined or rates and
+rhino so nobody would be they're probably right
+level someway they might use the whole recognize to do it but rather separate thing but
+
+and some people think that by they have different
+by they have different opinions about this
+than it that's just a question of what is your baseline right
+
+some people think that it's more important to look at too it's ten percent and critique improvement wet much gaze down to a fifty percent on them mismatched other people
+other people things that it's more important too grew up the me so much and
+cases and it would have reasonable reasons soft segregation is you got to worse and worse conditions
+
+actually it's true i forgot in this but
+mean are you going to have examples with windows open half
+going seventy sixty fifty forty miles an hour on what kind of rose
+
+i mean the reference one for instance is back to hold on to an italian was like six percent there for the matched in
+gather that these meetings it's really tricky to make anything actually make any policy change because
+except it's english that's right so what's your calling expectations or recall is your subtracting the female male no filter spectrum from the fifty spectrum right
+
+so you could argue in fact that the master something you shouldn't be looking at all
+that the goal is to come up with features that will still give you reasonable performance
+and again gentle bigger get it degradation
+
+but which would be a much better business and
+you have to for the world table
+and so if we like remove the a bank from the fifty we have something that's close to the expectation thing
+
+they're sort but they seemed like two separate issues right i mean
+i mean to first order what you'd what you're doing ignore all the details
+ignore all the details in all the ways which is did you complete lives
+
+and so so it's better than the system that we had before
+maybe goes the sixty four fours and the good d.
+largest just using your on the work and
+
+so there's days there
+days there could be also the something like the mexican almost to correlation function though is
+is this this a train system or is it the
+
+or is it the somewhere you just pick some threshold
+right now we just threshold how does it work
+hopefully i think what we wanted to ivy's to put these teachers in kind of
+
+because you're just getting some characterization when this driven by your
+but we have to have a fifty because it's computing and consistent and we have
+in overalls resonance have some residences went through these
+
+spec drama looked so there must be something else that you get in return for that
+so how is maybe i'm going into much detail but
+into much detail but how exactly do you make the difference between d. f. fifty t. d. smoothed spectra on below
+
+so some noise look like friendly they just know i'm boys
+it's not really what's happening the vocal tracks you're not really right
+tracks you're not really getting vocal expectation that's right
+
+it's not very significant someone yes south we
+someone yes south we
+
+i did some experiment just a few more experiments before i had go away for the what was that week
+i'm i didn't you know that's part of what takes so long to train it the back end for this
+
+but in a here what's the difference between eight in inner loop in an hour considerations so what happens
+you have to make that in your dot c. s. h. r. c. it detects whether you're running on a linux or a sparking points to the right executed bulls
+
+as opposed to i think it's only took something like three or four hours to do the full training
+as opposed to as opposed to
+
+but i can send email around about it and so we've
+i don't know and what happened do that but
+
+got it now h. t. case compiled for both the lennox and for the sparks
+and you may not have had that in new york ducey sh r. c. before if you were always just running this park so
+
+i can tell you exactly what you need to do to get all that to work
+but it'll it really increases what we can run on so
+
+do that but the points that they were supposed to discuss is still things like the weights
+this is a conference call for over a participant i
+
+so the points where the with the weights to to the front or rates but our pain from different language and conditions
+it's not scared that they would keep the same kind of freaking right now it's a waiting
+
+a point
+and right now like check every single so that happens with the current wages that very none significant improvement on the web much k.'s resulting you which differences and find now number
+
+what did not look at improvements but just look at your your scores you know figure out how to
+before lots of people don't voice activity detectors
+
+i was in there but i think they started
+i think people just said it wasn't or you know
+
+but there just these stayed this program if waste when you combine
+so but it's not like they don't really have a good idea about what the final application is going to be
+
+but no to do is i would try to things depending on the exact environment that i was going to be using the system and if i
+no i mean as evaporating here and there they
+
+not actually clean what it is just that the training
+of the cases it's that'll teach enroll their window up
+
+that's an art now that's an argument for running or the opposite i
+running or the opposite i the opposite argument
+
+you wouldn't like as soon as you step outside a lot
+a lot of the cases it's that'll teach enroll their window up
+
+matched in eighteen for the medium ashton sixty
+ashton sixty for the or how they mismatch
+
+you should see a gentle degradation
+rhino nobody would be there but right
+
+s. you see but with voice acute detector
+because we're still testing so
+
+so you really need to put more into something
+you know you use attracting in part i mean a lot to me
+
+on there and if it gets in on they give us i gets i see
+and then when that the proposals actually came and half of them had p. h. d.'s and have them didn't nafta did that
+
+they're sort of separate unfortunately right i mean
+and if it turns out that you can't improve on that wall i mean it you know nobody wins they just use in f. c. right
+
+i seems like whatever they choose they shouldn't you know purposely brain damage a part of the system to make a worse baseline or you know
+think people just said it wasn't that they purposely brain damage i think people hadn't
+
+which might be much better
+so i asked somebody for more information about that
+
+and what happened here is that to be so we have this kind of
+of some things and just try him out and saying if you have them
+
+we choose a new who filter that's not short term
+and which also got the frequency of sixty fours which trusted
+
+we are currently testing weight lifting when you're on your towards indicated t.
+it seems to improve on the web much gays
+
+we the short filtering we belong feature
+and a boy say that could be giving you a lot of variants
+
+but it's a good think anyway too is for thirty days then we
+around with this another way of looking is what characterization of the difference between the raw data and this smooth version is something that you're missing that could help
+
+days then we tried to to do something like propose it to but having
+so there's just kids departure we choose just a standup teachers
+
+however we just have one reason which
+that's right then the actor and then you just the computer differences and have to that one is something
+
+it will be wasted thing we might have to look at that's what i've been in what sorts of
+so what sorts of features are you looking at we've had some
+
+so the spectrum of the citation for purely period except it's english you what's your calling expectations
+is another always and b. c. no but he's
+
+and we used to canon become that things between the phones we young to meet these
+at the flea one anyone sentences i find it tastes good and
+
+so it's not easy i mean that's
+it seems quite robust and i said we take
+
+something good and that the variance is sort of artificial because of how you're getting your truth
+but another way of looking at might be that i mean
+
+so the question is what characterization and you're playing
+and you're playing around with this another way
+
+when this driven by your intuition about forcing voice certainly there's just some characterization
+intuition about forcing voice certainly there's just some characterization
+
+there's just some characterization something back in the in the almost raw data rather than the smooth version
+and your intuition is driving you towards particular kinds of statistical characterization of what's missing from the specter on bought
+
+i mean you have variants only so it's kind
+so it's kind of like you're just multiplying together these probably some individual teachers within each mixture so it's
+
+so we have one pint for i see
+bank which is you know gee that's censor them in the triangle so you end up with of victor i this and to the theater then
+
+the variance computed
+one two fifteen hundred it's up to fifteen times
+
+but it's just no it's make sense to look at frequencies so this is
+just at frequencies right so it's only so this is this is comparing an original version of the signal to a smooth diversion of the same signal
+
+know i'm boys it'll cost for
+is another always and they did that b. c.
+
+they but it's a decent that they put in
+cruise around zero but
+
+to sell speech recognition last week
+
+trespassing yes
+
+and that's you know this end of the world you mean oregon
+
+and for the last three rounds you they do seven iterations of reactor nation in each of those three and
+
+the first one is three than seven and
+
+seven and what these numbers refer to is the number of times that be h. m. react the nation is run it's
+
+i wanted to first test to see if we actually need to do this many iterations early on
+
+think and i got almost the exact same results
+
+and but it runs much faster so
+
+really fast but it's running linux
+
+but it's running linux so
+
+so you can now run your experiments on that machine and you can run
+
+as you know five different
+
+so i forgot now
+
+i forgot now what the name of that machine is but i can
+
+so at had the middle where the arrows are showing that you're adding one more mixture per state
+
+will try to go backwards this at this point it's two mixtures per state so that's just
+
+so it goes to
+
+and i think what happens here is
+
+might be between a shared share experiences or something or i think that's what it is
+
+share experiences or something i think that's what it is
+
+which is just the school model and
+
+individuals and so it may be that's what's happening here i have
+
+here i have to look it up and see i
+
+to look it up and see i don't exactly remember
+
+there were circumference coldest tuesday
+
+do you know who was since we weren't in on it do you know who was in from montreal i was
+
+that they combine our rates but for
+
+it depends what you want to show
+
+it's a weighted average
+
+and so when you're average jerk directed improvement tends to give that of importance to the when much case goes
+
+a waiter whatever and then give you a score
+
+here's a score and then they can do the same thing for the baseline system here's it
+
+so they said how much is significantly better with you and so
+
+waste when you combine there are eighteen tends to be more importance to the difficult cages
+
+i mean i was thinking about it in terms if i were building the final product and i was going to test
+
+you assume everything's equal i mean you
+
+i mean i think one thing to do is to just not rely on a single number to maybe
+
+a single number to maybe have two or three numbers you know and right
+
+you know and say here's how much to you improve the that the relatively clean case and right
+
+case and here's how much you
+
+that the training and testing
+
+i what you would do in practice as you try to get as many examples of a similar sort of that you could and
+
+so the argument for that being that the more important thing is that you're going to try and do that but you want to see how badly it deviate from that when the it's a little different so
+
+that's that's an art i mean that's more of an information kind of thing
+
+that's that's an art now i mean that's more of an information kind of thing
+
+the opposite argument is you're never really going to have a good sample of all these different things
+
+so i think the thing is that if you look at the matched case versus the you know the medium in the foot mismatch case we're seeing really big differences in performance right
+
+i mean these cases if you go from that of the i mean
+
+i mean i remember the numbers i don't know if you go
+
+and it's a really big performance job
+
+even though the testing condition is not the same as the training
+
+me as much as everything with thus far microphone but trained
+
+but trained like little noisy condition like those speed
+
+and or stop the car and tested
+
+the car and tested i speak conditions like
+
+like when i leave
+
+see microphone but right so it's still the same microphone in both cases
+
+see microphone but in both cases
+
+highest but the way they have it now it's i it's
+
+which would mean down then mean that fifty percent on these new byzantine it's like more than sixty percent improvement in
+
+rhino so nobody would be they're probably right
+
+they didn't decide it's i you just this
+
+you need more features
+
+let's say friends m. i. c. francis doesn't have anything in it related to the pitch
+
+example so suppose you that what you really want to do is put a good pitches sector on there and if it gets
+
+i gets nine biggest yourself then you definitely in a in a voice and they beach and the speech i see so there's this
+
+so there's this assumption that the voice activities hector can only use p. m. a c. c.
+
+but this for the baseline
+
+so if you use other features than it that's just a question
+
+which is part of it i think sometimes gets too is that you can choose your features in such a ways to improve the v. a. d.
+
+and you also can choose your features in situations prove recognition that may but
+
+recognition that may not be the same thing but at they to both
+
+recognition that may not be the same thing but at they to both
+
+we had the other cici's before lots of people
+
+that the baseline just like you pick some person at least became k. made that the baseline
+
+and then let's try make everything better
+
+and if one of the ways you make it better is by having your teachers better features of the eight days and that's so be it but
+
+and they look pretty bad and
+
+and in fact what they're doing wasn't so bad at all but
+
+it should include sort of the current state of the art that you want to try and improve and
+
+to try and improve and i'm at cici's you know kill guilty or something it seems like reasonable baseline for the teachers and anybody doing
+
+and anybody doing this task it's going to have some sort of voice activity action at some level someway they
+
+but don't have it on some level so
+
+seems like whatever they choose
+
+nafta did that were around
+
+were around have to didn't it poorly so
+
+we she what happened with this
+
+so what i've since last week is
+
+i'm from what judges ideas experiment some things you beyond baseline
+
+and the thing on nine on my education just after they so
+
+and the one that they use it which i use one from the proposed that or upper proposals
+
+which trusted our first proposal we should we have
+
+but it's edited but worse on the mismatch and id me smashed
+
+and we'd occurrence way think i think it's such it's would be better
+
+because doing much skating better
+
+how much worse is it on the other conditions it's
+
+when they hate she's that it's when they ate compare propose it to prevent one so
+
+i mean did you see stymied is better
+
+because it has the sixty four it's good
+
+keen don't sound things and
+
+know i just but the latency
+
+and so it's better than the
+
+we do short surgery support so what is
+
+case and someone worse if the case
+
+then junior out too when you're on that works
+
+one reason which is the italian you snatch so
+
+there was started some effort on something related to voicing or something that
+
+so we try to find good teachers that could be useful voicing detection
+
+we would be looking at it and very emphasis this pick from you temptation something
+
+send mean the variance of the spectrum of expectation
+
+@reject@ some you still down that's
+
+but it's that's definite definitely left
+
+but it's the definite definitely left
+
+web forums voice portion we have something that as a means own open three
+
+and for force portion demeans point fifty nine
+
+but the variance seem quite i how do
+
+we you who's in it state
+
+and we used to canon become that things between the phones and we young to meet these
+
+we take we draw is probably true so chris time for the consent ends and then they the same value sometimes varicose
+
+right now we just trying to find some features and
+
+west too took things that you can mother owns teachers largest just
+
+you because it seems like what you said about the meaning of the voice and the and voiced that seemed pretty encouraging right
+
+mean like i don't know that i would trust that so much because you're doing these kind
+
+because you're doing these kind of an uncle mapping from timid labeling is right
+
+really that's sort of a cartoon picture about what's and a boy say
+
+so i mean looking at different statistical measures of that difference coming
+
+by using the fifty you just you just information about if it's barstow so not always it's mainly i mean so
+
+by having set of voice that's true what arguing is that
+
+because what you're really getting is not actually voice her son force both for the
+
+perfect so i'm saying is maybe that's not a killer because
+
+if something about the expectation
+
+and what is it about the expectation
+
+so i would almost take
+
+and you know one of them but and see you which is them helps
+
+so is the idea that you're going to take whatever features you develop and just have them on to the future victor or
+
+what's the use of the voice and voice detector
+
+no u. s. i to use them s. as he chose features i see
+
+it could be in your on the toward it does voice and in like addiction
+
+but it could be and most of the big you're on the towards it does funding for education
+
+it seems like a good idea
+
+and you know that it's gotten hurt you a little bit to not have a respect real smooth spec drama looked so
+
+and picked up on
+
+so you essentially take the values that we obtained they smoked so of the space
+
+them in the triangle so you end up with of victor this and to the theater then
+
+then the computer difference computer differences and some the differences have to that one is something if you want to eat some see like that
+
+and i think the variance computed tony from like two hundred artist who one two fifteen hundred it's up to fifteen
+
+some voice sound kind and also like know no easy talk on high frequency
+
+any rate something like this is what you're feeding your recognize are typically like
+
+so like division thing you do that the spectre the ratio
+
+you do that the spectre the ratio
+
+that's so what's it what's the intuition behind this kind of a thing i
+
+so kind of a thing i don't really know the signal processing enough to understand what is that doing
+
+what i've been said what we honest if what you would like to read is sums like from a expectation single i that makes sense
+
+and we have the man your bags
+
+it's something that's like a train of thought oppose trained for voice on and
+
+a train of thought
+
+for voice on and that's that should be set for i see so do you have a picture
+
+that's that should be set for i see
+
+so do you have a picture that should is this for
+
+it's a voice segment this picture what does it
+
+it's that should is this for a voice segment this
+
+it'll cost for voice
+
+i just about to be doing dad for which it does we are coincidence what they should put that
+
+the you know what you're doing in future extraction for speech recognition is you have in your had a simplified production of speech in which you do
+
+yes i mean you i mean for but the in which you have any periodic great periodic source striving some filters do they have to put a nation that as soon as you
+
+yes i mean you have any periodic great periodic source striving some they have to put a nation that as soon as you
+
+i mean for but the correlation filters first order for speech recognition you say i don't care about the source in customs
+
+energy and she just want to find out what the filters are the filters
+
+they should be more close so they they there's a difference what the filters are the filters roughly act like a in overalls resonance have some residences and so forth that processing expectation so if i know went through these
+
+they there's a difference processing expectation so if
+
+there's just this world is you look at the specter on the love just the very
+
+and then is if you have the full spectrum at all the little nitty gritty details that has the affect of both and
+
+and so this is saying if you really do have that similar vocal track i'm hoping and you should check that off which gives us the expectation i call that
+
+i call that lies because you don't really have that you just
+
+have that you just have some kind of signal processing trickery to get something that's kind of smooth it's not really
+
+that's why i was going to the i was referring to it in a more conservative way of saying
+

@@ -1,0 +1,597 @@
+we will figure that
+so we are not even going to try to implemented in our product
+it's a board decision
+remote control should only be used for television because it's not
+the third requirement is that we should focus on customers are the younger than they have forty which is important
+i've the goal was a boston move you would like to start
+we what we are very career curious to of the market we'll feel about such a product
+skip
+when the power buttons and use one time and the volume
+and the volume but four times so
+volume they are most use a lot but more than all the other buttons so
+that technical there are i think they're not
+we do have a wise board so
+we just a few buttons trendy design lightning in fact what and the sound
+is maybe there's not a possibility you can make it look
+you can make it look like an easy ease of equipment but it's quite elaborate it's
+i know but if we use a like a steak for example
+
+i don't think people would bother walking to t. v. and press that button because they are lost the remote
+the remote that's just
+the most important thing for people is that there's a central point to which you can go and at the form some kind of online and then the remote control reports itself so
+so it just the basic functions and we don't have to use
+mikes "'cause" young people like new features so
+as you feel fifties
+use so it'll it attract younger people because of new and
+
+you can upload your presentation from here i believe
+thing i'm just wondering some signal from where do you execute the this in south i know
+that's right it's a problem
+but any other sounds which aren't exactly the same from the point if you all from remote control
+but how does how this d. remotes are reports it we give back to the user in what state is because
+we need to have the the use of function at the functions decide it and our target audience
+
+my personal preference where ease of that use remote control because the user
+because the user friendliness and it can be more trendy in and use design but
+right there are some devices
+it's a unique item
+but make this make a sub for it because it's
+and do we want the ten digits
+
+but teletext buttons are not in our design so it should
+just like the phones the
+maybe sebastian should have a detailed look later on and come up with the solution because that's
+it will be a unique feature of a remote control
+change yes
+
+we have a slight problem i opened
+i opened the c. d. rom box that's
+all the extra function
+i don't know yet
+
+the top goal of this
+control so keep that in mind
+personally i think we should infer use infrared because
+because otherwise our device can have communicate with almost every t. v. set so
+
+so i think that there should be clear at another important
+not those bonds most volume
+she would just have a design perfect design for those only those buttons the first
+already and our video sets and and there's a special button that find the remote control button you press it and your t.
+
+yes but before i do that all i want to one you that by implementing this kind of a function the technical design will become more complicated and
+i believe so
+i assure you i'm not so
+if you want to go to channel nineteen you only have that button
+
+no way to do that because we cannot implement that kind of the system
+just a round buttons should be the truth i think
+and just one function and the problem to programme button to switch to to channels when you have something and channel four n. something on channel six just one button which can jane's
+yes that's important
+
+hello florence
+it's already no we have a blank
+and also quite easy to use so
+
+of the remote work
+wise board so i'm not questioning that
+younger
+
+but i will tell you about it
+expensive but by i'm making
+what should we choose in design
+
+if it if as as i can just the blue and
+we have forty minutes so
+because the product should be interesting and
+
+so that was the main important thing what a remote control should do and i found
+this case together nothing more and that's it's almost
+so this is this kind of
+
+the multi function and remote control but many possibilities but the lack of the feeling i already bands and in the previous discussion and ease of use remote
+and ease of use remote control with the last possibilities a great feeling in touching the buttons
+and most easy way to do this is by sending pulses of infrared light to the t. v. set i was
+
+what does the market one i don't
+sixty and it also
+i think it's the same as in cell phone just one like in the device that size and all the buttons and not for
+
+that some changes in the method also
+components which can zoom far less power than a conventional components and
+but not for each button one letter think
+
+there are few buttons connected the buttons
+the buttons let's and
+i think it will attract more are public i think we can
+
+there are some devices to incorporates this technique already and
+yes and we want it to make so it's an easy as possible for "'cause" most so
+so what about the clapping
+
+see the line in light of lightning
+it's a distinction in the market it's a different
+which was the third most the second most used function
+
+think so because when you have the newspaper over your remote controller you cannot see it so
+we want sport teletext which was
+did how do you feel about that do you agree
+
+to look like i do
+i do watch and watch
+it's what's your last name
+
+hello welcome back
+is there any time for a cup of coffee can i get a cup of coffee
+
+the weightings for sebastian
+can i get a cup of coffee
+
+all this is live
+it almost
+
+i open c. d. rom box accidentally that's alright
+then the three if you prepare the presentation i think so stand
+
+people welcome back with the second meeting
+and i think it's worth and looking and probably more interesting than the lights
+
+i'm not if you received them as
+the secretary
+
+because it's not of feasible it's not
+but the question is whether two or four buttons makes makes such a difference in the costs if you already planned to include fancy lightning techniques i
+
+feasible it's not so
+so we cannot make it because of the time to market that we have to do with the third
+
+our products so the call it colours and the slogan do have to be in the product
+that thing in your hands like a turning on and off the light
+
+any questions on these requirements
+so that's the total design of this piece of equipment that's not a moderate
+
+so the important thing is
+and it might attract all the people because it's easy to use
+
+and it's also it of its insight in the topic what
+a tried to implement picture here but
+
+trust
+tool channel
+
+i have the basic scheme of things which are implement
+and the money we say if we using this we can use for an average fancy lighting and techniques blinking lights and all that kind of fancy i think our
+
+that's not a moderate it's very
+at another important point is that we really should use energy sparse friendly components they're
+
+it's very easy it's been dorm
+but are we not it's in the menu all i mean
+
+do this so so personally i think
+so we can fully concentrate on developing a product that is really what the market needs so
+
+now the other a little bit more expensive but
+it's quite complicated because how can you
+
+see that's still true of course but in use ten percent the buttons the
+so they of use the the most important button and there are lots of people
+
+are i think they're not technical difficulties there's no
+that's and it's i believe so
+
+if you lost i don't
+just or d. e. c. design we can make a design when they're not my much buttons in it so
+
+according to read
+in because i was writing it down in the last new send
+
+according to read it people do not use all the extra features very often so
+new send right
+
+i was more thinking about a more elaborate way of controlling by these kind of sticks or something like that i don't know if it's
+is because we do not implement use it to
+
+we need to find a balance between the advanced techniques and the user friendliness
+so i don't think it's we have something to do that we can discuss
+
+we do have to decide this meeting
+for example that's what we should think about really know how is
+
+a full it's not necessary to have the fullest but the one
+but the one the kind of functions for example the most important or volume and programme selecting
+
+maybe i should write that down left
+the secretary
+
+let me see
+
+there's one of mine
+
+hello
+
+the remote work i have no time either so
+
+all this is live so it at all
+
+if people welcome
+
+for now on the schedule are a few points first of
+
+first of all the opening which
+
+all the opening which we are doing now
+
+seconds i received some new project requirements i'm not if you
+
+almost
+
+almost then we'll do your
+
+then we'll do your one as part of the last
+
+you can you try to
+
+the top goal of this meeting is to reach decision on the product on the target group and the functions of the remote control so
+
+the new project
+
+the new project requirements first of all
+
+first of all we didn't speak about it but we should
+
+about it but we should not support teletext in the remote because
+
+because are board of feels that teletext is out of date and the internet
+
+and the internet is replacing teletext so
+
+which is important for you do it and as for a little because the product
+
+and it should be bought by people younger than forty
+
+therefore go as important the corporate image should be recognisable in our products so the call
+
+the individual
+
+the individual presentations i've
+
+is the first
+
+we they discuss is already in this in the previous discussion the
+
+the method of the remote control is just a function of remote
+
+just a function of remote control is to send messages to the television set
+
+and i found that are two different kind of remote controls the multi function
+
+but your new goal for was for people than less than forty years old so maybe
+
+so maybe the multi function and can be implemented in in our design but
+
+but it should be i think it should be a combination but teletext buttons
+
+so it should take out eight buttons or so but not as in my opinion
+
+but not as in my opinion the it be easy to use r. c. is the best one possibility for us
+
+in the market
+
+just for a for used is user or friendliness i should choose for the ease of use remote control
+
+excuse me
+
+there are some changes in the design requirements so that some
+
+all this device has to do is to send messages to t. v. set and
+
+picture here but it's hardly readable
+
+casey no
+
+there's the energy source
+
+there's the energy source here and
+
+there is connected to free things user interface
+
+user interface connect to chip which is connected
+
+which is connected to the sender which generates
+
+which generates messages using infrared light which
+
+which is sent to the receiver that's the idea
+
+that's the idea and
+
+and doesn't little bit you just for your imagination how the device like this should look or can look
+
+what have i found
+
+usually these kind of things consist of battery infrared diodes buttons chip set a circuit boards that's all
+
+that's all this case together
+
+it's almost every piece of equipment every piece of every t. v. set is controlled infrared there are some exceptions
+
+there are some exceptions but
+
+but most of all have infrared controls and
+
+and the more luxury a remote controls and let them buttons and i
+
+the on the dark concept we discuss
+
+the end it's a little more little bit more fancy also so maybe
+
+so maybe we should consider that
+
+this is all the rest is just
+
+the rest is just one chip there are few buttons connected
+
+and the whole thing is transmitted by a infrared light diodes and there's not a
+
+and there's not a power source here
+
+so it's very easy
+
+easy it's been dorm many times before and i think we should
+
+and i think we should to we should succeed in a plan to do this so
+
+they're specially designs and energy friendly components which
+
+and if we want to use a rechargeable design or energy save design we should really implement them
+
+for cost effectiveness if we should really use a very low cost the circuit board and
+
+and because most the production cost r. in just a part of the equipment and
+
+if we use and that's it doesn't use so much more energy or
+
+no that was power friendly less also so we can use them
+
+so we can use them so that's no problem
+
+or the same costs can be in
+
+combined with the low cost circuit boards this
+
+could only let's the buttons the use most so that channel switching
+
+a lighted they're more or less in lot of us no
+
+mine is already outdated
+
+since the
+
+so any income is welcome input
+
+then i'm that the target market is to tell million units
+
+of some of which we should sell about to forty percent to make the five million
+
+but since the old part is forty percent of the market i
+
+i older you might want to constrain that portion market but
+
+but since the requirements changed that's
+
+that's not a good idea
+
+skip this
+
+the buttons to use that are used about fifteen hundred times when the
+
+and there are lots of people complain they kind can find the remote controls so
+
+remote controls so we might want to build in the future to support them some audio signal like one phones
+
+or a find the finding function you know
+
+that's the interesting it it separates
+
+it it separates our product from others as
+
+i just said there and they're
+
+and he also said it
+
+so that's all the market tells us
+
+volume and the zap buttons are mostly used so
+
+the first
+
+yes we should focus on that i
+
+there's no but i wrote technique a used in this kind of equipment so
+
+i don't think we have a ticket there so we
+
+so maybe it's a good idea to think about these buttons and and sound signal
+
+the sound signal is one
+
+yes think that's a that's a problem usually
+
+i know device is not the solution it should
+
+problem usually
+
+maybe like that thing in your hands like
+
+but maybe all in get some new technologies for
+
+you press it and your t. v. set starts to make a kind of weights out and your remote controls
+
+and your remote controls and start a beep and
+
+reports or to spend response to it
+
+but d. c.'s don't have all a buttons
+
+because we do not have at home
+
+but i believe you love and
+
+we do not control the t. v. set so
+
+and even if the t. v. set would have such a button you would have to walk you t. v. is
+
+so what about the clapping technique because
+
+i'm convinced sebastian will find the one solution for us
+
+it's quite complicated
+
+because how can you separate the clapping sound from other sounds
+
+take a restriction the characteristics of clapping it's just an increase in the volume the amplitude of the sound which is
+
+peak
+
+which is generates a few times within that a certain period of time but any other
+
+so if you'd be watching a movie it would can see beep
+
+but we can have just a home station for base station next to see this a little antenna or something if
+
+then that's something for something more easily
+
+something like that you do not want another device which can be everywhere in the house which you have to find first before you can find your remote control
+
+just a base station next a t. v. is a bus with nancy
+
+like that but it will be very costly i think so
+
+maybe we do agree on the thing that the remote should have such a function if it's possible within the costs and all that kind of things maybe sebastian
+
+i think so that's not a good idea
+
+because that's it's his field of expertise
+
+and it will become more costly also because there will
+
+because there will be additional components which will be used and there
+
+and there are some input to it
+
+and do we even are you sound above the the let's the lightning function
+
+market it's a different exactly it's
+
+exactly it's in unique feature and i think
+
+and that's about the user interface i come up with and easy remote control and the advanced remote control what should
+
+of the numbers i have no right here
+
+channel selection is the most important
+
+so on the relevance
+
+so on the relevance scale the channel selection the volume selection and the teletext
+
+and we don't have to use it for d. v. d. players and all kind of so
+
+that out question so
+
+we should save costs by not implementing a lot of functions and
+
+functions and the money that we can say from that we should use for having a design and thinking about the user interface and
+
+do you think the market would respond to a simple
+
+if we include other in a stiff functions then they mikes "'cause"
+
+it's because it's as many functions maybe it's
+
+maybe it's more important to make it look like very it's trendy easy to catch piece of equipment but
+
+but and but nevertheless
+
+all i mean if you have few buttons know display i mean i it's working with a shift functions and one button can
+
+i don't know if it's user-friendly as you feel fifties
+
+maybe we can use a light for that when you move the stick
+
+when you move the stick to to a position maybe light next to it can it up so you know
+
+so you know i've just push a button or change the channel or to not the volume something like
+
+and if you use that stick for volume control and channel selection you have them to most important function in one button
+
+and we could have a other buttons for the advanced other functions
+
+but as an eye then
+
+an eye then should just use instead of just take like many cellphones just around me
+
+draw it on the board
+
+is just an easier way of a round button what's which can be pushed in for directions instead of a stake if they give from
+
+it's not really stick with
+
+if they give from work for ball when it's fun and down or
+
+it can break down
+
+or just a round
+
+yes and is also looks more fancier think i think
+
+think we can marking them
+
+volume and something like that
+
+programme out and down and the four
+
+and the pen doesn't really does what i want
+
+but we still we're still in the question of and putting in advanced options but
+
+but it's just all those the market is interested in some advanced new techniques
+
+however it keeping it simple is it is important for the costs and all those kind of things we need to find a
+
+but i think our next step to look at is just that's so i don't think
+
+that we can discuss it right now "'cause"
+
+it right now "'cause" you know one of us have has information to discuss about that i think
+
+'kay but that this is so is just scrapped
+
+do you wanna list of functions do you want an explicit list which incorporates all functions available device
+
+i do not want a full
+
+to ten digits
+
+for example
+
+how is the remote going to look not any user interface that
+
+a bit of a split know to look like
+
+i'd put all the minutes i make into the shared folder so
+
+folder so if you want to have a look at it you know where to find it
+
+for it because it's time to fill up already
+
+if you want to do it so i'll send
+
+that's complicated but is
+
+but is that so relevant because i don't
+
+i wouldn't buy personally remote control without that and it's and i
+

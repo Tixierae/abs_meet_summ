@@ -1,0 +1,718 @@
+speech as possible to make the mass production because
+what i found was that the actual use of the remote control is to send messages to the television at how
+the television at how you that would
+to on and off change the channel
+change the channel adjust volume
+screen l. c. d. screen it's easy to set of
+but an l. c. d. screen a problem the l. c. d. screen is that elderly people from forty five four six five years don't use the l. c. d. screen a lot so we
+so we have to get keep that in mind that if you're going to implement l. c. d. screen don't have to make it that hard to learn or to use
+l. c. d. screen as in the screen
+i don't know and everyone we see the email with the new project requirements no
+according to our again that and then time to take a decision on the remote control functions
+so who has any idea what should be on it and what shouldn't
+a button where you can change from one number two members you
+you know they've got a name
+the of the for the television makes possible and that to the press one and then to make to reach and twelve but
+five percent so i think to
+l. c. screen just like like a drum it
+right but you don't want to eighty the other
+because you are the marketing expert
+are all posted
+and maybe a little bit three indicator on the screen
+but you also forget to put it in this is so it on the couch
+that's also a great advantage because
+
+good and we was to look at new project requirements if you haven't heard about them yet and of course we have to take
+and of course we have to take a decision on the remote control functions and we
+which makes a a connection that's
+and that makes
+subcomponent i suppose that you and so on so called this for in this example it's the button
+what is press down the switch is there is is switched on so with
+buttons that touch at the screen the buttons because
+you can see they're very different the
+different the one that's got all the functions that you could possibly need them a lot of buttons etcetera any
+you must not do that
+than forty and now we have current customers for the buttons
+whole be and that's how to reach those
+another thing know costs at all
+but then we have to be that there are the batteries go all of our six o. five six of them
+
+is how it works
+i personally breath prefer that's a good for come available and affairs colours and easy to use buttons but i suppose of the one
+up if you get teletext but
+if you use it your c. d. player the remote control as as some like samples
+read them not in this presentation
+and of course we make it more costly i think our current
+our current customers are within the age group of forty plus new
+you said that she should
+so i think is better than the t. v. sets down the remote should spend
+when you done with so where we are watching a television you have to put it
+but it's a lot of functions you have to us was fine
+that would be useful to imply implement both
+
+you should have because all the t. v.s will have them or because
+an thing and it should be a user friendly clear buttons and not too much
+and it should be easy to use especially the phone models channel buttons and the number buttons to set to the channels
+and then i think it's a good thing that i made a separate slide of them so
+i can tell you them from my laptop
+so the easy and fast
+
+to these this meeting so
+and that's my presentation
+that means that functions use an want to have from the remote control or
+and you don't see the buttons so l. c. d.
+according
+
+shall i go next "'kay"
+kim young and i looked at the technical functions design of the remote i get this by
+thing is you could reuse the buttons are you don't have to have
+so l. c. d. screen should be easy
+or with one on the chi only the t. v.
+
+forty six to forty five to thirty two percent and
+but that's later so
+i should we pose that in our project now folder
+but that's easy that's a back-up plan that we would use
+and on or less important things are screen settings audio settings and channel settings but
+
+the secretary which means i will make ten minutes a set of the
+to let you know what that is
+because it just discuss the functional requirements of the remotes that
+about the remote i think it would be better with the person reference but remote control has
+
+a set of the previous meeting and also
+you don't know how much it costs you don't know
+it should be a standard move to put your remote control in the charger when you're done watching television that's also
+to implement that you say volume up and those
+
+because the customers have to use them and
+because you only have a wide screen to for fingerprints and they can use it again
+i think that they will send you some information about the cost of l. c. d. screen so
+it's pretty but apart
+
+thirty five percent of users also find it i. d. and feel
+feel seventy-five to use zap a lot so the buttons
+put one option and then you have all the buttons of that option so to other
+you set it should only one that one appliance or with one on
+
+scratched all for all this
+you talk about that before and last
+but i think that that collides with our mission to make it very cheap as l.
+and eighty percent of the users would spend more money would in a remote would look fancy
+
+otherwise project becomes more complex which endangers
+people also me all that will
+all that will they use it if it only has an l. c. d. screen
+to make it possible to not display a button at ten points or
+
+make twelve and that's that's a relaxed
+know that and and draw some models that down so accommodate that function so
+because our target is sixteen to forty five
+c. d. remote because it's new as far as i know
+
+the younger people i have no sixteen to twenty five h. r. of a new one percent interest an l. c. d. screen
+to miss have two three minutes or
+advantage because you can't lose any more use
+it has to be easy to use also or four days the market share speaker speech recognition
+
+maybe you can make something fancy out of an l. c. d. remote because it's new
+and power so power usage
+because we're watching t. v. you're zapping you have to put in a recharger don't
+when the battery don't know
+
+they were already our functional design meeting and
+and perverts
+so and systems or a text or something
+
+i don't know wants to go first with this presentation
+or in the l. c. d. screen
+that's seven year
+
+that what after it's being compose but the chip the signal that is transported to to the infrared bulb and from that it signals
+and that but that section we're going to focus and adjust
+the last point was i think they should be there or not
+
+and as the says it before there we can make seven designs
+'kay so because it just discuss
+music actually the method i
+
+the stereo because place play and stop and the thing is you could you
+are the younger people going to buy a remote control elderly people and that but that
+or should be covered or
+
+new
+about in a subset menu or something like that i
+use batteries and use a but batteries to to be
+
+and thirty six to forty five fifty five percent so
+but we don't you don't have any costs now so
+you just have to be big
+
+and the wheel we not icsi they are are a production
+if you want to just like for trouble just audio settings press only on the touch screen you get the buttons
+that's a problem
+
+two percent and sixty four fifty six a six five twelve percent but our
+and then the other thing that's in five percent said a lot but that's
+machines you put a button of fourteen text on the for people want to use it
+
+but our project requirements are the new product should be a reach for new market with customers that are younger than forty
+but you also forget to buy batteries and then you can you
+or have to be that the batteries last couple of days for the search
+
+if you have an l. c. d. screen that brings old town no
+of those that's for extra but you have first to turn the remote on and then you
+because i don't think people would like it will work that you have to do it on first be and then use it so
+
+c. squared thirty five for speech recognition so
+so i think is better to keep it with l. c. d. screen
+but it's also be that should also l. c. d. screen because
+
+the first and the first
+in our solar power use is also one time an hour so we high power
+
+i think that control
+which sends the signal to to let you know what
+
+i'm a little templates which
+because the l. e. n. l. c. d. screen you run it on batteries there is a
+
+the findings i found searching up some minor detail information about the remote controls are that they are very easy to produce the
+the speech as possible
+
+as my contribution
+as my contribution to this meeting and
+
+can do that but the essentials of is there
+maybe to make it possible to do that
+
+and then to make it i will make so that you can put use it a more than one appliance we have one
+we have one that and that doesn't defeated the video it could also work with with the stereo because
+
+remote control has to have a low power users because
+and you said something about the speech recognition
+
+we high power usage we would use a lot but there is
+but do you all said that we should not only focus on the younger people also me
+
+more often and are more technical than all the people and all the people
+and that's done by m. o. we are uses the
+
+and our personal references i don't have any more time to go with that but i at
+makes it a lot easier
+
+the remote control should only be used for the television otherwise project
+that we would use but it's if it's a too expensive
+
+last point but also very important our corporate image should stay recognisable in our products which means
+which means that's our corporate colour and slogan must be implemented in the new design so we
+
+know they've got a name
+this is so it on the couch i don't know
+
+i think it's easy to implement the button we discussed what with respect to do that because
+respect to do that because some t. v.s if you press that is one and then the tool it be between five six to make twelve and
+
+and next twelve
+only thing you have to do was what the screen off once it's time to get all the fingerprints of it
+
+you can adjust which buttons you want on the screen
+and is just a cable or even a charger we can man and something like that just you
+
+but market share for four years ago were hired and sixty five in your
+change the whole be
+
+that it'll look fancy with the l. c. d. screen
+like that i think i also important to make it possible to make an on an english to not use batteries and use
+
+live with them with the mouse that's right
+that she should be able to switch that control if you have an l. c. d. screen
+
+out how to make a radically but it
+my p. s. two minutes of thing and something like that
+
+and then be there is a before an hour
+before an hour when it's good to a given that it's handy they have plenty
+
+i think that we should it should work a lot longer than a couple of days or not "'cause"
+because but the l. c. d. screen
+
+i'm pro uses so it
+a l. c. d. because in the area of to thirty six to forty five we have about three percent of the market share it in our hands and
+
+it says also
+it's helped it has some
+
+that's also ninety one percent to sixteen to twenty five twenty six thirty five years seventy six percent or thirty six to forty five thirty five percent
+that's the options should be
+
+good morning again
+
+children
+
+children
+
+all set good
+
+a very warm
+
+a very warm welcome again to everyone
+
+and this is what we're going to do the opening which
+
+the opening which we're doing now and a special note i'm project manager but
+
+i'm project manager but on the meetings i'm also the secretary which
+
+and also put these as fast as possible in the project folder so you can see
+
+them in review what we've have discussed if i'm
+
+if i'm right there are three presentations i
+
+i you could do is prepared one good and
+
+and we have some more time forty minutes but i think we will
+
+but i think we will need it
+
+you know first
+
+we shall i go for the user
+
+no everybody
+
+everybody already has his presentation so
+
+i see so you have sisters
+
+so you can digest it
+
+your name can use it with
+
+now want to explain
+
+want to explain the working design of the remote control is
+
+remote control is possibly very handy if you want to the design one of those
+
+it's works as i in a row down in this no summary when press
+
+when press button others mean do pro of example when you what's turn up volume the the connection is made the rubber
+
+the rubber button just press on that
+
+connection that's
+
+give the chips which is
+
+which is man's beneath those the plastic or rubber button sense that
+
+sense that connection has been make a note
+
+and knows what button you pressed big for example the volume up volume down button and
+
+and the chip makes a morse code like a signal which
+
+which of then it's i signals to several transistors which makes
+
+and that makes the infra-red lights signal which is sent to the television
+
+which is sent to the television set which
+
+which has a sensor it in its to send so the signal of the infrared
+
+production because the disease it is as easy as a reading a page
+
+reading a page just fibreglass the play-doh and use be is cover with some recordings and and chips and the technology
+
+and the technology is already available we don't have to find
+
+we don't have to find out how the remote controls have to work or how
+
+or how to our to make some chips that are possible to to transmit those signals
+
+a little animation of know how it and i were to remote controller works
+
+innovation
+
+there is something trendy
+
+it's a little but that's in the smartboard
+
+subcomponent
+
+so with the wire it is sent to the the chip in cooperation with a battery of course because
+
+of course because it to make us sick and possibly have to have some sort of
+
+i and it and electronic
+
+infrared light
+
+from that it signals a morse code like signal to the to look into a bolt in in the television set
+
+i wrote down some personal preferences about the remote control of
+
+control of course is very handy is the remote controls hand-held so you
+
+hand-held so you don't have to one it up or something i just it's
+
+i just it's very lights to to make to use it i
+
+but i suppose of the one right the other team members thought of as the two and as possible for
+
+and as possible for several designs and easy to use but for each use buttons that
+
+the buttons because the rubber buttons are always they slightly they can be slightly damaged so the numbers
+
+damaged so the numbers on the buttons are not possible and to read anymore and
+
+my name's kim young and i looked
+
+i get this by looking at examples of other remote control so how the the look and information from about that i found
+
+you that would you describe this any and this can be
+
+and this can be all sorts imagine it's just turn it on
+
+adjust volume that standing up if you get
+
+teletext but also to if you
+
+as some like samples of remote controls you can see they're very
+
+any other is more user-friendly the middle it's a big buttons and
+
+and lots and all the you can do that but
+
+i you could better but you should look at the user centred so approach because
+
+and if they don't think it's usable they want to buy a lot of buttons anything
+
+a lot of buttons anything from i don't need says much is that
+
+personal preference is simple remote with the basic functions that you can eat you could use but
+
+but i keep in mind the new functions of t. v. what we discussed earlier split
+
+earlier split screen and is that the function that you should have because all
+
+or because of only a few and isn't really necessary and
+
+are you don't have to have a lot of buttons for an thing and
+
+the method i prefer these are going to look which section of users we're going to focus on a more
+
+going to focus and adjust the remote more to that section then the whole user
+
+some they're younger people from
+
+younger people from sixteen to forty five years or more interesting a few features like l. c. d. screen speech recognition it's either and the
+
+and the process about to sort of the market from in that range of h. the elderly
+
+the elderly people from four or five years to sixty five years are not that much interested in features and we process
+
+and we process less than two thirds just to fifth of the market share in that area
+
+findings fifty percent
+
+fifty percent of users lose their remotes often so we don't have to make a
+
+so we don't have to make a very small like a mobile phone or something but some
+
+something but some a bit bigger than small so you don't lose
+
+so you don't lose that much anymore thirty five
+
+the buttons should be that small or
+
+or should we just complex because just search
+
+because just search for buttons which only going to use
+
+important issues about the remote i think
+
+power users because it's what seventy five percent of the users only said one time in our solar power
+
+volume button in detail but so the two most important buttons on the remote control so those that
+
+control so those that those as to what we find very easily and have to
+
+and have to be somewhat like bigger it's either it has also
+
+it has also we have to find easy when the label is gone my you call it also
+
+my you call it also another that little should be scratched all for
+
+if it's got a if that's the problem you also have to find it easily
+
+buttons slide while can accept have to be minimised
+
+it's easy to set of d. screen you have affairs options put one option and then
+
+option so to other options would be go out and you don't see the buttons
+
+the last but not least younger people are more critical about features because they use
+
+because they use the remote control off more often and are
+
+and all the people spend more money and you see on the remote control to
+
+to have to keep in mind to focus not a lot not that much on the younger people also
+
+people also somewhat on elderly people and our
+
+but i at l. c. d. screen it's easy to use because
+
+easy to use because you have you can implement a lot of buttons in one remote you not that much buttons
+
+no since i did not perhaps
+
+all read them
+
+teletext that's has become outdated since the popularity of the internet so that's
+
+so that's the first thing we i think we should pay less attention to teletext the remote
+
+which endangers the time to market and of course we make
+
+plus new product should reach a new market with customers are younger than forty you
+
+design so we have to keep that in mind
+
+only be used for television
+
+and if they also warn of
+
+that's only for television here
+
+only the television
+
+requirements know functions
+
+basics them i have volume and channel one til to see role numbers on that i think
+
+the other functions
+
+us as a button where you can
+
+but all television makes the use of those button when you first press the button and then press two digits to get
+
+of main targets h. r. work for five plus or
+
+newt the screen also
+
+new product should reach a market with customers are younger than forty and now
+
+because week "'cause" younger people was
+
+one point six thirty five sixty six percent and thirty
+
+because almost a remote control so that print plates will be broken number two years have to
+
+years have to press very hard to go to this year with the l. d. screen it's easy
+
+with the l. d. screen it's easy because you only have a wide
+
+cheap as l. c. d. screens a very expensive touchscreen
+
+touchscreen probably you more
+
+and it's possible to
+
+it's possible to make your l. c. d. screen i was the information
+
+i was the information
+
+it only says that this pursuit percentage like l. c. d. screen
+
+be "'cause" see and it says that younger age between sixteen and forty five highly interesting features more critical
+
+perhaps we should focus on an l. c. d. screen
+
+you don't know what cost of d. screen
+
+is it possible to find out anyway
+
+i don't have any costs here only
+
+costs here only half percent which is
+
+but if you would do a nasty seem to have don't have any buttons or because it
+
+or because it only directed the t. v. then you only have any i don't know what you want to do with the l. c. d.
+
+it and in just display several buttons for example
+
+for example if you want to the minimal use a button so just channel and volume just this place for buttons on the screen and it's possible
+
+and it's possible to put press and that and i just have to screen
+
+touch screen you get the buttons for part of that to other buttons are gone
+
+to other buttons are gone
+
+we're going for an l. c. d. screen
+
+i think is the most used to think
+
+i'm hoping that when we produce a lot won't be too expensive
+
+we had twelve fifty i for for that's i don't know
+
+fifty
+
+and it gets us
+
+i suppose is if the markets are it's a it is the young people are
+
+is the young people are interesting us d. screens we should make them a that
+
+a that is are the market share to in our goal to deal of those remote controls
+
+and that's how to reach those the sales
+
+is if it does get too much too expensive then we should be sticking to rubber buttons
+
+that's later so
+
+so if you you receive an email about that and keep us in there i should
+
+i think we all get the cost of everything
+
+l. c. d. yet they have seventy five
+
+they have seventy five percent of users find them ugly
+
+it looks fancy one a. m. l. c. d. screen
+
+but they don't like it they take it
+
+it they take it when it has an l. c.
+
+this the player remotes not specific l. c. d. remotes
+
+lot but that's not a special or the l. c. d. screen only thing you have to do
+
+what else does a remote
+
+the most important
+
+the most important things on the on the remote control r. channel selection volume can selection
+
+and the teletext what that is not of the question other
+
+the remote quite a big remote that you have to fit i
+
+we could make an a separate menu on the l. c. d. screen with the text
+
+teletext
+
+any so you can amounts the
+
+in the brackets
+
+the remote control to
+
+we should think of the twelve fifty we have that
+
+there is a wee to very same process
+
+a power supplies
+
+power supplies one of the most important things
+
+i think it's not that easy because
+
+they have plenty of time to recharge its of put
+
+its of put it in a recharger charger
+
+so we're going for the richer
+
+it's sensible
+
+hi power usage
+
+more use you are obliged to put it in the charger and that's too early really a couch or a between some cushions
+
+but they also have to sit have somewhere where you can put a remote recharger your couch because
+
+because otherwise you have to walk all when you two of one to turn on the t. v.
+
+otherwise are you here
+
+just a small device when
+
+like or like to have a charger or something
+
+functional designs for the l. e. you could make it possible to a large the screen to make
+
+i think that's for the standard motion button large buttons
+
+because we can look at perhaps forty buttons a screen but the
+
+a screen but the only the p. two buttons
+
+speech recognition and
+
+twelve euro fifty
+
+it's pretty but apart
+
+i know at least it's
+
+was these are all remote controls and just put
+
+and just put a microphone top on the television set
+
+know i think that five
+
+you can clap or shall i
+
+maybe if you say the wrong thing
+
+and it has to be remote control out
+
+the mother of
+
+but they want to talk into it or a remote control something or
+
+would you pay more for speech recognition in a remote control so the things that
+
+no but do we want to implement that
+
+i think the l. c. d. screens should use of sufficient
+
+but when you look at the percentages
+
+speech recognition was even higher
+
+maybe because of the cost
+
+maybe because of the cost but
+
+but nobody knows how much as "'cause" then
+
+no i think it's better to have a l. c. d. because
+
+and fifty five of those people want l. c. squared thirty five
+
+one remote
+
+if the costs are allowed
+
+i don't know that can be done with the cost of twelve fifty is that
+
+it should be done if it could be done i won't matter
+
+but how would you like to implement that
+
+then you all sorts of different languages and we go international than
+
+international than that yes they do a french and dutch in the age
+
+this should be accommodate with some software so
+

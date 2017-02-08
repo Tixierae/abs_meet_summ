@@ -1,0 +1,966 @@
+and you should be able to see which one you're wrong by watching a little far as change
+the meeting that's my particular interest is a portable device
+i i and the word like go to see or visit or something
+really simple that so this is the idea
+if you want to actually go hop or into the tower you have to go this way and then
+so the entrance could be my as way from the closest point so
+twenty some i didn't look through all the data
+that was a good year and people
+and people when they wanted goto the building sometimes they just want to look at it sometimes
+that's something we found just
+we may need additional part of speech or maybe just some information on the bird and mulder fires hoaxes aries see
+if we feed it through belief in that or something along those lines we get an inferred intention we reproduce instructor that differentiate between the vista of the entire andy tangle malt
+but that doesn't necessarily
+it's the city hall
+i like that like i can imagine if someone came up to me and that's where city hall i might take or are you trying to get there because how i described
+and so we're talking about doing it is as the first shot is not doing any of the linguistics
+hear the things which if you could get the model spot of the language and discourse and put them into the police that it would tell you which of these three intentions is most likely
+and to actually do that build it you know run you run on and dated where you hand transcribed the parameters and
+mole by but not with a read wizard system so there were never answers
+i i don't know the situation of collecting the data like here
+you know intentionally intention can to see what tasks
+you get this and but what do we need you know
+and it understands you compete that you're
+so that's so nancy will have enough at some point we'll have another discussion on exactly that you know how that's going to go
+it so that we get some discreet number of teachers so that when we know the values to all those features or as many as possible we can come up with the best estimate of which to be in this case three little intentions most likely
+power and then just have a little section your belief that set that was in the
+so of the one of the things we want to do is actually pick a package
+personally what this could interactive abilities because a lot of what
+results in new haven't algorithms go through and run around trying to separate the probabilities for you
+and invasive as a platform for a person maybe meet or whoever was interested in doing some linguistics analysis
+or we have the full frame that group here
+we can see what they have found out about those concepts already
+d. on tonnage eat that student is constructing for me back in mel is in all you and it's often x. amount and so that's
+that's fine and
+
+if you're not exactly about the region we're not exactly
+whether she knows so the question
+find that we want the needing to be as natural as possible
+the idea is that you'd be able to put a p. d. a. at the table at any impromptu meeting and
+and do research like that
+we could pursue if we thought it's worth it but i think we really agree on that to come up with a sort of very first crew prototype
+i this these intentions we could if you want to call it the vista mode
+it just went to get the only you are look at it
+but just is something we can set
+and then you can all imagine sort of a constraint satisfaction program depending on what comes out
+of the time of day matters a lot
+but maybe that's a fought state of the system that it's too close to call to do
+this is personally really simple case so
+it's motions going walking seeing we can m. r. and
+with a town hall and maybe saying w. h. focus on the town hall
+which was d. h. and what age means
+but you don't worry about take the linguistic factors
+the with a human operate or
+mean you're told when your task is going to go buy stamps or something like that
+see but people do there's no so
+so when we get to that will have some people doing it know what to do
+i every set of having been beaten the details of this kind of thing is that it's one thing to collect data for speech recognition or various other tests that have pretty clear correct answers but with the intention
+so what part will have to figure out
+
+they took your give your normal speil
+it would always use the closest points to the object and then
+and so no it saddam's grab yourself a microphone
+that's a question mark i'm not a
+somebody has to sue that up later in
+it's a grinding because how i described this location probably kind of weather i think i should give them you know directions now or say you know whatever it's half a mile away or something like that
+large effect or because they're people ask you where is new york you would tell them it's on the east coast exactly right but
+so go back to the that's like
+so this is on toys it's not it's about the things they're opening the that's like
+so the reason the bullies medicine blue is the notion would be and this may be a bad just
+if it turns out that we need data of a certain sort then the sort of data collection branch can be has to do that
+data like here it you could imagine them being here around the city it's like one situation then you have
+things but you know you got to be something father people to model and
+there this is it's that i don't think we did we discuss
+you walking food to write a book and i timothy think there may
+actually i that was my question is the
+so what level of detail that has caused
+is a construction or the kind of object or
+for but this the bad luck history is in producing x. another content ahead
+
+transcript there's too large number strings on the digits
+our intention is to release this state that to the public probably through body like the l. d. c. and
+afterwards yes to read some digits
+and the source so
+we could change on of and any
+but now that he may be sent actually now i remember the
+there's going to be contextual things are going to be linguistics
+things that the person wants to view it to answer it or to tangle with
+that would be extremely deep in into and in my understanding so
+but if it's the post office you would tell them to get there
+they have done some interesting experience of that members as so
+i mean you need them both but they're quite distinct
+taken into account you're saying
+but you don't worry about how to take the linguistic factors how to extract the
+have one we can start
+on but what i like about it's very concrete we
+and see how all hard it is n. t. importantly
+choice and there are plenty of people around students in the department who you know live and breathe baseness so
+
+so when you're reading the digit strings the first thing to do is just say which transcript drawn the way we may wined up
+so are the people going to be identified by name
+so where is that these d. deeper understanding being done like i mean it's
+the no actually intention that assistance corporate conduct but they could they call
+china for what this mark i'm system without but depending
+these we have all these transcripts and
+and something by it if it's i believe that's what we'll switch to you know logic or some terrible thing but
+terrible thing but i don't think that's going to be the case i think that
+that's what we're doing but where your current goal is to
+so i think don't know that we are going to actually use this little room and experimental subject
+one and then the system breaks down
+at the third right then
+additionally you so and display you can you said you could you might have a display that shows like
+where does mean intended to
+to come as close does mean intended to go there to see it and
+thing is really close because tango
+
+so actually if you guys want to go ahead and read digits now as long as you sign a consent form that's all right three
+so the first step in that in any of these is to collect some data and
+just blew it off
+if you don't have the attention of entering a building but you know that something is really close to it you just want to approach it's it's too that things consider
+i would try to sort of come up with a list of factors that we needs to get out of there and
+so this is not something we can actually money for but
+so i have no recollection whatsoever really you know i could go back and
+so what is important is that we understand what the proposed to ask
+and that could be one of the conditional you know
+mark i'm not a parsoes
+these are all factors that because what he said that we are going to ignore now or that
+the third one is too get information on the history of the object
+so how should what's d. outside my country go
+cases driven ones that you can do learning
+containing the data
+
+and so on the far field mice we can expect very low recognition results so he wanted to near
+so it'll last person comes and just have them where a wireless it should be on already
+forms of speech sherwin signs that if they consent she was pretty
+or red limestone
+so maybe you would want to touch it
+maybe i should go back a couple steps and so no it saddam's
+and much we can sort of do if we're closer because at that but they said it was the wrong
+we start with
+what we do know is that the parts that are used in this market system but never differentiate between any of these so
+and the intention this hypothesis they called it intentional that anyway
+they called it intentional prophecies so
+so do you have to respond to your
+do and we will record there's no so just like i figure out what they would
+
+focus on that of ticks down i can
+the crude i'm differentiated parse
+put analyze speech i think it's they called it really they
+instead out come the outcome will be some formal structure
+the place i'm that
+crashed but you are just you to continue you know the with a human
+i don't know you i don't think you really move
+i mean that would be and are no mistake that the effort
+you might want to be really rather different place and entering it and
+it and for an object it's at all big sort of getting to the nearest part of it could be quite different than either of those
+
+the mike here but it's but i'm not going to be on so don't
+that's the powder teller
+really interesting side
+and then these these signs are and pass us that's
+you could tell that the do they let the cut out this part because
+what tangled mort i
+we want to have and structure resulting if we
+to do it isn't like if you just talk what the front then gives you and use some clever inference algorithm on it you would be able to figure out which of these is going on
+that's way beyond the scope itself interpret interpretation that you know
+
+some and @reject@ you can sign afterwards yes
+we think it's a formed starter task for this deeper understanding in the tourist domain
+and my idea on how to combine them is with the belief that all may turn
+so that may be that for example that knowing whether another thing you
+but @reject@ in there they keep it by their lights it
+and this that they don't want to see it on the map or they don't want
+and as soon as we have one we can start trying to make the first cut at what's going on but what
+it what do you guys that kevin yet or not but
+this is we all probably have pretty that and the
+
+the thing to notice is that we will give you an opportunity to edit all the transcripts so if you say
+that we're trying to do real meetings
+and so we don't want to have to do alias is and we don't want
+alias is and we don't want people to be editing what they say so i think that
+so i think that it's better just to propose process to edit out every time you bash microsoft
+gives us on high quality audio i'm especially for
+and shows it too you on the map
+right so like the question is what teachers can like we want to try to extract from had a bias or whatever
+
+what we're going to we'll end on them eyes it in the transcript right
+but you cannot enter or do anything outside and
+we talked this is of course a crucial factor what type of object is this
+i think we may be one to ignore it
+it that's an idea up for discussion
+not important you know i could go back and check
+and then covered with time of day this would so that
+so that context was like they're presumed purpose context like business or
+
+do some implementation work and do some research and some money thing so
+the idea is if you want to go somewhere
+so i flipped through twenty some
+so that the output of the belief that is pretty formed
+and then the inputs are going to be these kinds of things
+do different engine machine or
+first thing it's just to read the text for burke so just
+so just to offer textbooks the tourist guide to familiarize itself but that sort of art sounding german street names like fisher grass and
+
+grab yourself a microphone
+i gave an example where the point where you end up if you want to look at it competed different from you want to interest
+you know in some pieces believed that could be the appropriate thing to enter
+to a place being thrill is the old smart come out but
+right and straight in three l. i saw prefers them only markup language so we have that we just a language right
+i'm we can produce some if we needed
+we needed that's what happens number of things but
+so that's part one part two is
+
+the forms so the most important forms the consent forms of speech
+so but sometimes the tangle more just really relevant in the sense that if you want to
+no let me say one more thing
+but to interpret it
+we need to do and then we get more whatever part of speech and more construction type like
+and then didn't unit can contain it because she's a
+so first my country go about figuring out is
+
+i i visit or something
+part because otherwise she couldn't get our s. system to take to the people this way it would always
+maybe we'll touch it
+things consider for example the post office in chicago building so much that it has its own zip code
+they you want to call that part of context of the
+that sort of they're you see the that of the name
+are supposed to i just wasn't so what level of detail that has caused
+
+that was our idea is it helps us to be switched on that's i'm thirty
+i'm thirty and i thought they said
+and of course the actual phrases may give us some idea of what the person ones
+sometimes i found in there looking at the data in a superficial way of fun some sort of modify or is that may also give us into and
+that whatever it is you're doing at the moment may also enter conspiracy interpretation off the face so
+done like i mean it's is it before the bees that is it
+and so that's the quote deep that we're trying to get at ann
+
+so just make that your wireless mike is on if you're wearing a wireless check one check
+wall but what do the massive do no good
+very important and
+important and that i've completely forgot that's when we talked this
+the map or they don't want to know it's five hundred yards away from you are it's civilian off they want to go there
+and the parts or what but
+
+no i wouldn't complain one and then the second
+things are going to be linguistics things are going
+i missed the beginning but
+because you don't have to decide that we is
+so our job is to figure out how to solve these problems
+know say once we all experts and changing that person for example maybe there's just a couple three things we need to do and then we get
+
+so my particular interest is in the p. d. a. of the future this is a mock
+this is a mock up of one yes we do believe
+tangled mort i was come up with city names so
+so they would get a clearer notion of what input we need but that's what
+and you give them this an aurio of some sort
+imagine you're the subject going to be in here
+
+because i know you i mean the only way you could get as if you were to give you the six subjects task but where your
+and the computer you have you being taught the computer system knows exactly where you are g. p. s. than the
+s. than the human operator comes on that person does not know so the g. b.
+know so the g. b. s. as so the person
+so the person ask sassy where are you
+and so you have to do some type of person where you are depending on what you see there
+
+transcript drawn we may wined up with for we need versions of all this garbage
+and the pauses just about the person transcribing i can tell where one line ends and the other begins and i'll get all
+so he wanted to near field mice to at least isolate the difference between the two so that's why
+and then all these channels are recorded simultaneously in frame synchronized
+and just make it as a generally available corpus
+
+so you can see the transcript there's
+we have we know what the outcome's are going to be
+and we have some dated it's loose we can use
+it's loose we can use their own intuition
+it's so which might be useful too and
+
+the digits do we just read that one and then you
+it so in general it's always going to be the answer is everywhere
+of object they don't give you any discourse history if you want to keep
+so they're quite distinct
+she started taking a class last year and then didn't
+
+so just also note on wearing the microphone all you look like
+correctly but you want to about two son wits away from your mouse and then
+there's other work going on in meeting recording so we're
+recording so we're working with sri with you w.
+yes just started an effort which will include video we're not
+
+so the other so then in terms of people worrying about exercising things from the transcript it's unlikely since
+they took so why don't you tell us briefly your give
+video we're not including video
+and and then also i'm a small amount of assistance from idea
+would be x. email and if you're going off to query to be apology for example you have to deal with its interface
+
+i mean whatever you want to do is fine but we
+of action goal and
+but @reject@ in there they keep
+a teacher now how you determine that is another issue but for
+issue but for the current problem would just be if you can be that supports versus a businessman versus the natives or something that would give you a lot of discriminatory power and then just
+
+call my numbers up there any meetings over
+afterwards digits
+we convince the stock the year with certain how're expressive and talkative you should be but
+maybe maybe what you're suggesting is what you're suggesting
+those it seems to me those are could you could give no trouble with those being distinct take a picture
+
+if that goes then we can start worrying about how we would extracted
+or after the fourth some friends were to go and then
+don't think we did we discuss that
+the issue is canned we find a way to he tries it so
+is a construction like the presence of the word or the presence of a certain stem or certain construction
+
+so the first thing you'd want to do is just say which transcript you're on so you can see the
+in frame synchronized silly so you can also do things like being forming on all the microphones and do research
+for whatever reason that's maybe what's it made
+that's maybe what's it made out of
+
+when you're breeding you don't read into the mike
+sort of and so the fact that you're not really sightseeing and just for their for pleasure and so forth
+maybe four deep understanding test that's a sort of playgrounds or first to the thing we
+and this just look in general is going to be true of any kind of deep understand there's going to be contextual
+
+corpus refer people were more interested in language we want to penalize them by having only thus far afield mike's available and then
+main there may or may not
+because like we cannot differentiate at the moment between you know the intention of wanting to go there or the intention of just norway to where it is
+people not might not be able to for that either i like that
+
+i'm going to leave the mike here but
+you have them really view it exploded they bring the thirty years war
+it's on the east coast you're more tell them hard to get their you know take that bus to the airport and blah about but
+so there were never answers
+
+i except the better filters because i sent
+in into and in my understanding so this is the way they might come up if you want especially want to do that you might say at an intermediate step and you believe that is their source pets goal scheming involved
+no so it is like someone actually immobile using a device
+i'm not it what's mole by but not
+
+and they don't give you the kind of object they don't give
+first you have to go find out hard to get to that taste maybe it was the intention
+maybe it was the intention of buying stamps and they're maybe's
+and they're maybe's next task is to get to set the pace take a picture for your grandchild the
+
+i think we edited it as travel as as the other and contacts like now standing at this place at this time
+which is what you have this context in
+sometimes some people wanted to see they phrased it more like this but it doesn't exclude
+you want to just you know standard think you want stable
+
+engine machine and or something by
+in than other factors may come into play the tension for their beliefs that
+accept that we may want to push that effort to get information we need
+she's got you know some background in all this and
+
+so now i understand the reference of tango mowed that would've
+thing is really close because tango
+these are not going to get big in these people future
+we do one in which it's easy to interact with and modify
+
+one and then you read each line with a small pause between lines
+then you should read the consent form but the thing to notice
+they're people ask you where is new york exactly
+
+on the speaker form just allies much of the information you can't
+to answer that people don't want to enter them
+ask questions i would imagine that the day would be really different
+
+no we found or they didn't some experiments that there's three things you can do
+you can walk this way income really close to it in touch
+and then if you can't do this task
+
+what we find interesting first of all intentions differ
+maybe you want to enter the building
+maybe you want to see it take a picture
+
+it take a picture of it
+or maybe you actually want to come ask if it's possible to the bidding
+but that's not a big deal so
+
+they are comfortable
+baseball
+but depending on these things
+
+and the pace this way you would eat them put these intentions i sometimes expand it couldn't be different i gave an example
+or it by their lights it main there may or may not they what we want
+if they got a simple as that and the directions
+
+and we get tons of these do i get to i want to go to but also give
+the thing we can start at the and sort of look
+so if someone says something you could ask them
+
+so all of these things will result in the same x. amount and three have structure sort
+and i think the other content has come up before too is if it's
+i don't know if this is collected what situation this data was collected it was
+
+and they the i earn i talked about this some on friday
+you have to come up with a instead of interests and
+of interests and maybe even means of expecting them
+
+so the notion is that this isn't real deep
+not from that date or but
+or but since we are designing or compared to this even bigger data collection effort and it would definitely take it to put it in there
+
+the two questions is one where do you get this information from into
+from into what's the structure the belief that so what are
+that so what are the conditional probabilities of this that and the other given these things
+
+it's in general your you know it's going to be much more complex than that
+and expanded that to other things like this
+but it was never the going of that data connection with the surface set for such a perverse so that's where perk
+
+the parts are put analyze they
+suffices and what doesn't and
+doesn't and then we can start worrying about where you get this and but
+
+and a said a point there if i understand you correctly
+some times people just say things
+this you find very often where
+
+context in discourse context which was d. h.
+discourse context which was d. h. and what age means
+so where would you get this information and
+
+additionally you have a sofa map type display your perspective
+have a sofa map type display your perspective put a and so
+it was a cover so we're sort of committed to x. m. l. as the kind of interchange
+
+that would've thought it was more holes
+like how close because
+when you said
+
+so first of all it's about figuring out is
+of all it's we either you guys got a favorite belief that you've you know played with bays
+with bays were or something
+
+so which is my bio
+number one so
+
+begins and i'll get all read did you transfer so you can see how that goes
+again i'm not how much i should talk about before everyone here
+
+we can start doing it
+than the digit strings this is just a more constrained task
+
+microphone all you look like you're doing it reasonably correctly but you want
+another content ahead of course the sex amount d.
+
+this in with this project is there you know no there was
+but to all they know the notices great system that can do too
+
+right so if i said hi gerry how're you we're not going to go through and cancel out the jerry but the way i
+so we will go through and in the speaker id tags they'll be you know and one of the seven and one away
+
+one and then the second
+so anyway she's looking for some more part time work while she's waiting actually for graduate school
+
+and they're lots of different aspects of the project so
+up of one yes we do believe that tedious future would be made of wood
+
+is a portable device to do information retrieval one meetings other people
+meetings other people are interested in other aspects of meetings
+
+and so what we wanted is a room it's instrumented with both the tabletop microphones and these are
+microphones and these are very high quality pressures on mike's as as the
+
+as as the close talking mike's with a close
+everything your flying
+
+i'm especially for people who are interested in the acoustic parts of this corpus refer people
+it's a grinding large effect or because or something like that
+
+i. digits which is common connected digits corpus so will have some
+conduct but they could they call intentional audits but
+
+so will have some comparison to be able to
+we can look at some factors that may make a difference first of all
+
+consent she was pretty usual for meeting the people come make so
+know i to do it but it also doesn't give you enough information to do it isn't
+
+you guys got an email about this of friday or something about what we're up to
+you will not have dirty is and
+
+way and then through some building some stairs and so forth if you
+if you actually want to see the power and that's what actually most people want to do is just have a good look of it take a picture for the comedy you have to go this way and go up here
+
+it's it's way too crude too after those differences in intentions
+and number and you get a certain amount of staff that you have to solve first you have to go
+
+there and maybe we want to get a switch for the context so
+so they have worked very hard it's kind of black boards
+
+things are going to be discourse things and
+and they got to be combined
+
+that all may turn out that some different thing is going to work better
+the idea would be that new you or
+
+sort of to i'm so this is minutes taking minutes as we go
+the anyway so the thing is not usually speaking you've got a for this little test i believe that which
+
+and then the question is
+so that's i think why a lot of people doing research used that
+
+but we don't want to do is the bill a system that always ask every time and it
+that's not getting out the scientific problem and
+
+saw prefers them only markup language just a language right
+the parts are so we have that we have to have a better or of referring to
+
+so they're going to give us some crew or we can assume that you get this crude information
+somebody and you see you have to the three d. modeling or the correct time animation off standing in the square in heidelberg so you actually
+
+history if you want to keep that you have to keep it somewhere else
+they keep to rafter it
+
+so we can work out terminology later so they're
+change but all so liz have offered to help us do this the data collection design and
+
+to be the case i think that if we can get the information i believe it is a perfectly good way doing b. differential combination of
+to ignore now or that we want to take into account you're saying
+
+extract it so let's find out which ones we need first speech
+no and it's clear from the date like to the correct answer in each case but
+
+what because you can never be i'm even
+as possible to it they the terminology we're using is to
+
+perverse so that's where perk some of the tasks we're not differentiated by intention of it too there was no
+of it too there was no there's no label you know intentionally
+
+just sort of squeeze that in now
+but it's something that would provide some very interested in the for some people i know
+
+the map listen if it did it just trying to figure out how vicious the system is
+the map listen if it did vicious the system is
+
+or in both cases going to be your in the computer and the operator can
+and were there will be some dialogue so you first
+
+i don't know how much direction is given to the subject about what their interaction i mean they're unfamiliar
+i mean they're unfamiliar with interacting with the system all they know the notices great
+
+i'm i know are very briefly nurseries interesting
+so anyway she's looking for briefly nurseries interesting
+
+when you said java based but he said you're talking about once and run of coffee know that are in
+amount i've no idea whether that's i
+
+know that are in the programming marriage hour know that it turns
+marriage hour know that it turns out that there is a you know end of java libraries and it turns out
+
+the obvious advantage of that is that you can then relatively easily get all the other job the packages for grew weeks or whatever else you might want to do
+i have no idea whether that's the best choice and
+
+and so that's where a lot of knowledge about bakeries about details about hostels and is going to come from and
+deal so in terms of you know changing in and out of any much we build would be x. email and
+
+all right no three digits at the same time out
+
+were talking about doing all at the same time i think cognitive
+
+time i think cognitive lee that would be really difficult to try to read the mall everyone else's grounded need extreme
+
+everyone else's grounded need extreme focus
+
+we have one more coming
+
+and i go ahead and read digit strings can go going
+
+strings can go going from there
+
+mouse and then at the corner
+
+and that so that you minimize press sounds so
+
+so everyone needs to fill out only once the speaker form and the consent form and
+
+and the short form then you should
+
+so if you say things and you don't want them to be released to the general public which these will be available at some point to anyone who wants them you'll be given an opportunity by e. mail to bleep out any portions you don't like
+
+either so don't worry too much about it's just self
+
+about it's just self rating
+
+should i do you want me to talk at all about why we're doing this in with this project is there you know
+
+let's see out so that's another meeting here
+
+i there's no she got a neighbor and she was notified whether she
+
+since it just isn't that beaded
+
+right so if i said i see the deal but the way i
+
+i don't know a good way of doing it on audio and still have people who are doing discourse research be able to use the data
+
+so is the project is called meeting recorder and they're lots of different aspects
+
+record it and then be able to do creating retrieval later on the meeting that's my
+
+with a close talking like this is some ground truth
+
+and then also it's a very hard task in terms of speech recognition
+
+so that's why we're recording in parallel with the close talking in the far feel the same time
+
+the because the general environment is so challenging we decide to do at least one set of digits strings
+
+to give ourselves something easier and it's exactly the
+
+easier and it's exactly the same digit strings is t. i. digits which is
+
+and read digit strings and fill out the forms so the most
+
+and just can you call my numbers
+
+but we had and we will be using the screen as so
+
+this what was the nature of the now
+
+this was about answering attention from teachers in context and the word like now
+
+filters because i sent it to everybody
+
+i can actually walk for this
+
+do anything outside and it's interesting rock climbing it would three you know quit standing there's just a dark
+
+there's just a dark and they you can touch
+
+and they you can touch it
+
+us that's the street
+
+the street network if our geographic information system
+
+the object and then mentors would be face in front of a wall but
+
+this i means literally trusted it to touch
+
+sometimes it make sense maybe to distinguish there
+
+and there's and nots more different ways in people's the ways people phrase out to gets if they want to get to set the pace
+
+and sometimes here it's a little bit more all s.
+
+and so no it saddam's grab yourself a microphone
+
+you need to sign some and @reject@ you can sign afterwards
+
+that was our idea is it helps us to be
+
+it sometimes they want to enter it sometimes they want to get
+
+sometimes they want to get really close to it
+
+so this is sort of fall people may it may phrase those requests to a a markup system it just the way they did it and
+
+but also give me directions to and i would like to see
+
+some of the things you just don't want to take pictures off
+
+or very rarely
+
+but you usually want to answer them
+
+some updates i'm more dress
+
+more highly full class and of course
+
+into and i'm trying to get to
+
+i need to get to sort of
+
+and this the stretching the context which onto this could be considered
+
+my suggestion is pretty simple
+
+goal and then an object and the source
+
+so i thought maybe four deep
+
+sort of look we need we going to get those and three we have structures the crude
+
+interpret its input
+
+we think it's formed
+
+but it's deep enough that you can distinguish between east three quite different kinds of going to see some first thing
+
+arbor's point is that the current front and doesn't give you any way to know i to
+
+as if as i get i just your flying
+
+that which is going to have this output the conditional probability of one of three things that the person
+
+and you probably need intermediate notes i we don't
+
+notes i we don't know what they are yet
+
+another thing you want is some information i think about the time of day they you want
+
+want and if things are closed
+
+want to answer that people don't
+
+and if it's not obvious you may want to actually point out the people that it's closed you know what they're going through is closed and they don't have the option of entering it
+
+another thing that can come up and will come up as soon as you get serious about this is that another option of course is too have more of a dialogue
+
+and not wanting to do is always ask them that's boring
+
+also be a pain for the person using it someone needs
+
+it someone needs to do is build a little system this whatever got a question like that i got one of three answers have some which one
+
+you want if you want the ability to that you want the ability to ask but we don't want to do
+
+and it's in general
+
+i have my one part to bust first question i
+
+i think also the deep understanding part of it is just going to be in there to the extent that be wanted in terms of all modeling we can start you
+
+we can start you know basic from she would being smuggled that
+
+it's motions going
+
+all of that and then compose whatever inferences so we make out of these really conceptual primitive that would be extremely
+
+and if so is there a focus on thee will or if
+
+or if it was on the path or something
+
+so what would be exciting that information from
+
+is not going to give you what he was saying is the infield does not have any of that
+
+all it has some really crude saying person wants to go to a place being
+
+and the intention this hypothesis intentional audits but that anyway
+
+and that's all they're going to provide
+
+if so someone because i want to touch the side of the powder tower that would we needed pop-up tango mode in that and the directions
+
+we had you in for a source past goal to some degree for it touching decide right
+
+it and somebody has to sue that
+
+maple probably tell you how far away it is at least
+
+away it is at least it's that's even with the baptism ties how
+
+the baptism ties how far away it is and shows it
+
+about the things they're opening times
+
+like business or travel as
+
+i think we edited it as we have all along that we didn't astute distinguishing between situational context which is what you have this at this place at this time
+
+great and what age means
+
+discourse is true whatever
+
+except to find out what seems to be useful so
+
+and this may be a bad just bad idea but the idea
+
+but the idea is to take is the first call see if we could actually build a belief that would make this freeway distinction in a plausible way given
+
+and we're able to by hand extract the teachers to put into place that saying
+
+and see how that goes if
+
+but if we can't do that then we're in trouble and then
+
+the really issue is do what are the factors involved in determining this
+
+know that it's a clear what's going on here
+
+worry about how to extract it so factors how to extract the speech
+
+let's go back to this go back to that it's like they that's the thing up here
+
+let's go back to this go back to that it's that's the thing up here
+
+like mean no know that dado which i
+
+see whether weekend and get so the computer if you've got a day to
+
+from this weekend sometimes you know and that's
+
+you know and that's that but that is not what we need for said anyhow i sort of
+
+but it doesn't exclude anybody from phrasing it different even if they still in than
+
+i'm even the most smith deliver it just data collection experiment whenever give you data that one if it's like that the tension assess there
+
+assess there because i know you i mean the only
+
+but he we would still get the phrasing all over the place i'm so that's what you want it so you will know
+
+latausha so i think don't know no that's fine i it's just knowing begin tension from the experimental subject
+
+and start recording subjects probably within a month or something so
+
+or something so this is not any look into you guys worry accept that
+
+and one of the reasons why we're recording the meeting for these guys just because we want their help and we start doing recording of subjects
+
+was collected it was is that the one that you showed in your talk
+
+one situation then you have all sorts of other situational context factors that would influence how to interpret like you said the scope and things like that
+
+if they're doing and you know i'm sitting
+
+and you know i'm sitting here with a math and ask questions i
+
+what tasks a. b. c.
+
+people to model and finding out what you know so jewish oakland what the context effects of the situation really are and it interesting thing
+
+some sometime at the moment courteous and i'm it's what to approach it from the and where we can just sort of start with this toy system that we can play around with so they
+
+pragmatic approach
+
+exactly the data collection work
+
+part one part two is you told that this you'll wonderful computer system excessive can tell you everything you want to know
+
+that you're going to pick up the phone down
+
+after the first task
+
+go and then they chewing operator comes on and it's a part of ties us that the system is crashed but
+
+and so you have the same pass again just the different objects
+
+just the different objects
+
+maybe you so as you move through it that they just tracking on the for themselves
+
+invests we
+
+we can show it walks you know we can
+
+you know we can have movies of walking you walking food
+
+you want to go to that place you know and
+
+so we get those names pronunciation it's something we can
+
+it's something we can change that
+
+so you're tasks don't require you to
+
+we what do you what are you supposed to be telling the system
+
+and we will record plus of the river
+
+plus of the river called the wizard or
+
+so you first it through this and that and
+
+is what you're suggesting that might be to pour the data freeze sort of limited to this ping pong one your task is also the question and then there's an answer and the you know the task you want to
+
+task you want to have it more steps sort of i don't know how much
+
+but to some extent this is a different discussion too
+
+so we have to have this discussion of the experiment the data collection and all that sort of and
+
+and we do have a student who is a candidate for wizards
+
+she's going to get in touch with me it's
+
+going to get in touch with me it's just a student of ease
+
+so is she started taking a class last year
+
+she's graduated it because she's a she's
+
+and she'll be in touch so we may have someone to do this and
+
+all this and isn't linguists so
+
+but with the intention it's that there's a lot of other factors and not
+
+factors and not really how the question how to make it at appropriate toy version of that it's hard to meet
+
+hard to meet actually i that was my question is the
+
+that was my question is the intention implicit in this in our i was given
+
+it is if they have these tasks that are supposed to
+
+no one is at the moment
+
+e. the problem that i was going to try to focus on today was let's suppose by magic you could collect dialogues in which one way or the other you were able to figure out both contention and set the
+
+and set the context and
+
+context and know what language she's so let's suppose
+
+she's so let's suppose that we can get that kind of data
+
+to come as close as possible to it they the terminology
+
+of object or anything else that's in this it's either in the in this thee discourse itself or in the context
+
+so if it turns out that whatever it is you want to know where the person's tourist or no that becomes a teacher now how
+
+that was in the short run you accept them
+
+and see how it worked and then in the longer run
+
+and then in the longer run you would figure out how all you could drive them from previous discourse or winning anything else you do
+
+of matter which one
+
+you know we don't need one that will solve massive but we can that's quickly these
+
+that's a lot of what it's going to be playing with this
+
+and probably one in which it's easy to have what amounts to transcripts files so that if
+
+so that if we have all these cases
+
+so we make up cases that have these teachers
+
+and then you'd like to be able to say here's a bunch of cases driven
+
+so you have all these cases and their results in new
+
+probably that's not worth it
+
+i mean my is we aren't haven't updated it's good enough to make the these data sitting ones worth it but i don't know
+
+so you got the first task for you two guys is too pick a package
+
+standard think you want stable you want it's
+
+n. t. importantly what intermediate note we think we need
+
+so it if it turns out that just thinking about the probably a couple of things that you really need it you know this is the kind of thing that is you know intermediate little piece in your belief that to be really interesting
+
+and the dog together cosby to become a paper that's going to be published somewhere we sit down and write to and
+
+and it turns out one call java base which is
+
+which is one that hurt people around here use a fair amount i've
+
+right there's a tool kit that kevin murphy is developed
+
+so kevin would be a good person to start with nancy knows about useful too and it's available that lab coat
+
+so kevin would be a good person to useful too and it's available that lab coat
+
+from and so if it has that i all keeper but even if it's a topic that you would definitely be it was a cover so we're sort of committed to x.
+
+fine and
+
+all of these things have been built much bigger projects than this in mind so they
+

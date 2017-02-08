@@ -1,0 +1,1555 @@
+liz would like to elicit different on x. and
+x. and so we tried last week with them right now in english and it just didn't
+you want different preside like so if you always had
+it seems like that might be better for you guys since then
+how about over so zero as six one and if people make mistakes we
+and just means we have to expand our vocabulary out to that we already have that's fine with me as long as it's just that
+i mean we've it we can do this for awhile and then go
+do this for awhile and then go back to digits for awhile or
+so i can just this group but if we can try it
+not as connected numbers right and you can give an example
+and that right liz
+right makes sense so if we did another forty hours recordings going to get another couple hours of this
+menus uses up in some sense but
+then it said something about t. no it's not the same
+i just roughly look at what kinds of digit strings are out there and
+neil daisy probably only had three sequences and telephone numbers were less cohort so
+a real problem with that actually i mean it's the same microphone
+i mean for the city right and so i still like the idea of having some kind of
+the signal processing far afield i see it as the place that we start but
+we talked about that a couple times and i know it's weird but
+the problem i see with trying to do over laughing digits is the cognitive load
+sixty one would these are all the same forms
+so you read the last line all read the first line so but so play you plug your ears
+all read the first line so play you plug your ears
+i you plug years you could do but then you
+but the actual fact that there's speech coming from two people and being forming stalled
+and being forming stalled the acoustic
+i think maybe if we wanted to do way but i think having a little bit might at least be fun for somebody liked and play around
+senses because it's like an entire sketchy does and i
+if you have a hard copy what're you that's about the summary
+but this is morgan has this paper i mean
+but it's been of been mail where was
+but it's been of been mail where was did a lot of work on that and it's
+i the other any thing is it shows for that the look how you know within speak air is bad and it's bad
+so bad and it's bad because it picks up the overlapping speech
+so you're raise our results for on the all synchronized speech yes
+i think because that's all that had been transcribed at the time
+that you had about the altar over all the channels or mix channel or right that's
+because of an assertion
+answers and aren't bounded so with a
+not that we were going to do it but we wanted to know
+and he said flown flew but we wanted to know what would need to be done and
+have so far so these synchronized cases where there overlapped and
+the other people right or who's at any point in time who's the foreground speaker who's the background
+so it would be it so it the idea is to run this on the whole meeting
+speaker names speakers in
+in m. and another meeting and it's we
+and it's we just need to standardize
+i didn't know that so the only question is how much of that distinction even scratch
+right distinction even scratch and on scratches whether it's backed up or not so
+right up or not so what you want to do is use the scratch for you can regenerate
+that isn't backed up it's not a big deal because
+i right be backed up but all the way form sound files should not be backed up the ones that
+so i mean i they get the question was then she we shorten them down sample them or keep them in their original form
+i mean overall our data we want to knock down sample you want to not
+to recognize or and throw out ones that we're not using and so forth and those
+it's better if they're chopped out and
+yet you we could probably write something to do that but it's actually
+find that time boundaries and
+i don't think that's really so in principle you could do that but its
+of houses in memory you can do extremely fast is but the other thing is that
+so we're my me afterward and all
+the comet let's just take one example
+because was a prude or film actually i it was in a place i didn't expect
+that's true if they are seeing argue duty often that's right it has a different probably
+that's true duty often it does hard part it has a different probably
+because there were some speakers that didn't definite gays but right now
+all the e. same and then we have this additional non native version of like a
+all the e. h. i've seen it them like that they've been like a
+listen to me doing it just because i don't think it would be fun to make them on taj of it because it
+performance artistic strength at all it's really right
+except for that last thirty minutes haven't checked yet c.
+this found the severity eight
+although
+@reject@ what are you saying it's pronounced the same as the for so
+name like someone had debra cannons name and since you know what that is
+funny of course now that the ten correct the spelling check
+adam i so it's been changed so exactly that's for the like
+subtext anyway so they're vocalists nation came in k. brought it down right
+have there various things like breeze versus breath versus inhale and you
+is for the numbers test i may change it to digits i mean it was i said command
+mean it was i said command you can really just change it however you want because
+but in any case numbers in is are part of this digits testing
+in so example the very first one
+
+through them and pick out the ones that have problems
+them together so it just sounded like many more lines instead of anything else so
+you have to be no but to the groupings are randomly generated
+no but i was asking if that was something you really care about because of it wasn't generated
+care about because of it wasn't it seems to me if you made it really specifically telephone groupings that maybe people wouldn't agree with the number so much
+i agree think i'd be that hard three them as single digits
+it's actually unclear right now i just thought we're
+if you so we can know from the trance or what the person said in the transcriber in general but if they make
+if people say a hundred instead of one and
+what's an example of of the other difference any
+any different the individual
+and not just that i mean the it's and the notation
+and not just that i mean the it's and the notation
+i see thread speech and i thought we're going to do better on that's not
+some it would go fast
+paying for something like that would be better off doing like it i don't know
+and so the wreck you know they're error rates because of an assertion
+and he we've given him the data we have so far so these
+so because right now we're not able to actually report on recognition in a real paper like
+so in a real paper like a years pay for because it would look
+it and then try to figure out where they're speaking based on the other people right or who's at any point in
+it would be techniques used from adaptive echo cancellation which i
+it just cancellation which i don't know enough about to talk about
+past this is here two males
+i didn't notice that that's why
+so we want to put very point i'd leave all the transcript should be backed up but all
+the sri friend and won't take a and a large audio file name and then a list of segments to chop out from that large audio file they actually have
+speakers and all the non native speaker and all the man and all the women right you can grab everything with the word and it's
+the point sows for example you know along these are long you
+way the way they're doing it you have that already extracted this embedded in the file
+mix files and it didn't seem to be any problem quickly i agree
+you read about the back of being a bottle neck is good
+my husband you but someone told me that in fact cousins treated differently and it in this context because of that
+tonight and then every it will actually later today going
+@reject@ seven i need to listen to that one actually we gave this char pronunciation person she's like i don't know
+did she hear this did she actually hear it because i only heard no we just
+else until i knew maybe it's art
+or if you're steeper
+but i'm a little hesitant to collapse cross categories months actually this
+where is that if it's questioned something
+disaster like did you use replacements for all the different forms of to this i've
+limit yes so that's the single existing convention for
+although the what's there's one of the slash after that's kind
+that's kind of disturbing that's
+of disturbing have to look at it that's i look for that one i actually
+no i look for that but that doesn't
+but that doesn't actually exist and maybe
+which shouldn't be called they wasn't fifty c. of course
+i see then following that is called t. c. l. i
+i see i forget what the
+take always pronounced tickle
+@reject@ the same it's pronounced the same
+that we need to make we have the misspell if it doesn't
+misspell if it doesn't get correct we have to other pronunciation as a misspelled word in the dictionary things like that
+i that's what gets like pick those up and the frequency check
+right so if there's things that get corrected before we get them it's not an issue if there's
+an issue if there's things that we changed later then we always have to keep are the dictionary up to date and then
+that and then in the case of tickle i we would just have a word p. c. l. which
+addiction normally would be an acronym you know t. c.
+but just has another pronunciation
+sixties is one of those that sometimes people pronounce it sometimes i see aside so
+see aside so those that are listening acronym i actually know they were
+know they were said as letters the others
+and until they've been listen to they say is i see is
+it's gray it's this it was
+check because you see b. been you right
+however sometimes people stumble over these numbers are saying see
+i grab minus the nuns and so you could do grab mine is being so
+
+we've gone once it that so
+so we could just put in thee instructions read them as digits numbers right be the missing that
+instructions read them as digits right be the missing that just so
+just so sixty one was red as six one and if
+not presentation no we're
+no we're not we were running adaptation only on the data that we ran recognition on
+and i as soon as someone surgery transcript number that thread speech and i thought
+i see that's not fair to use
+that's true fair to use but it might be fair
+that's true but it might be fair to use the different stations so
+i mean for the city acoustic research for the signal
+i can understand a single thing guys the same and that probably was great finally
+or theater art i just write three once you could pick one in the middle
+right so we can't shortening but we can downtown
+and they were loading the full mix files and it very quickly
+down farther but
+really calls or are they losses so like there's
+so like there's call t. c. l.
+because we've been say t. c. l. a satirical and
+as the for so i think it's the language model that makes a difference what i meant
+of these are me that deep i said with a high tech high he sees he said get
+peeping out perfect we
+
+just wise around like and row like what do you call it blair
+dawn you had disk space and storage formats is that something
+this is all just temporary otherwise you're just accessing
+but not the way solidly fellas there very long time
+derrick you could i just back up a little bit and please please
+through this in order so if we could maybe and stick keep that for second because
+but our meetings people because
+except separate there id on right
+i so from the point of view of
+too and i haven't listened to it systematically maybe with
+any case that says this is reduced down from really quite a long much longer list and this this is great
+that's good longer list and this is this is great this is really
+that's good is functionally pretty this is really helpful
+functionally pretty you know also it was fascinating really helpful
+it was fascinating i was listening to some of these i two nights ago and it's just hilarious
+and i do have a stress marker here sometimes
+and i'm i got lost here what
+disturbing models will have to also go through the transfers
+letters the others it those really do need to be listen to because i haven't right
+it's gray it's this mimicking sound had to hold like in place
+you have the numbers and you have the full form an apprentice however sometimes people
+so there were vietnam's tag on those so in india
+
+so what that means we have about an hour transcribed it just that we can play with
+so i can't imagine why anyone would care
+as opposed to connected digits
+we can go back to the other thing later i mean we
+we did right and just the randomly generated and randomly assigned to dishes
+i just say so we have this any forty hours of recordings now and
+like you say i think a couple hours for a for a test that's to
+that's to be to get you know more later because menus
+is american speakers and we have
+i speakers and we have these try to fight additional language groups overlapping certain aspects of the database
+be i have never listened to not i did just as red in the studio i believe
+is what they groupings everything you said there's like ten you know it's not
+back up so we want very point i'd leave
+for the most part we're keeping it standard we're level transcription that there's
+those are the reasons for those reasons like i can't that's separate and
+the call can be the qualities applied to the last they're actually had the status of
+the call can be the qualities applied to the they're actually had the status of
+to because i haven't been able to go at all the exceed things and until they've been right exactly
+to because i haven't been able to go at all the right exactly
+check led to refinement here which is
+here which is to add numbs fifties or parts of the red number so you already know that
+
+so i'm going to go first
+that we headed out any of the errors anyway right so the
+work at all because no one group them together so it just
+when i look at this that first line is sixty one sixty two eighteen eighty six ten
+if you go six dashed two nine three one
+that's what i was asking grouping so if
+how about over so zero people make mistakes we
+it's and worrying about it i mean
+i started to just numbers train data that we have our g. i. we've
+that we have our g. i. we've done lots and lots of studies with that and
+but it's to get it in this room with because i mean
+it's to me it looks like you've got the phone the idea grouping you have great the idea of separation and
+setting and little bit but the other differences are so major
+i mean if i remember correctly it was like postman reading zip codes and things like that i it is it's what i
+i have never listened to t. i. digits so red in the studio i believe
+i purposely didn't want them to look like they're in any kind of pattern
+so i'm like the previous one which i simply replicated t. i. digits this is generated randomly
+was that was and someone said and someone said in the front in the middle
+now it's at least six times we snow six now
+yes this is exactly how people prove that these meetings do differ because we're recording right
+
+right you guys since then you'll have just more digit date
+just let them read it how they read it to some extent may we could just reading
+just let them read it how they read it to some extent may we could just reading and have them read how they read it and just means we have
+i just thought we're differ collette collecting digits an adamant said we were running out of t. i. forms i thought it would be to have them in groups and probably
+and probably all else being equal would be better for me to just have single digits since
+so i don't have specific need because if i did
+i maybe it's completely stupid but we don't
+stupid but we don't have any overlapping digit
+i mean here let's try it you read the last going to try you know cross i can't
+i mean here let's try it you read the last going to try you know cross i can't
+think maybe if we wanted to do that we would do it as a separate sessions
+i'm from i'm talking we're talking about transfer x. ways actually
+because it we used x. ways to do the digits it's also true it just has his ex-wife
+because it we used x. ways to do the digits it's also true it just has his ex-wife
+i'm curious to see or hear it is but i didn't want to change it to something that stooges alignment
+and that's not addressed to make there without punctuation extra forty one
+where is that not addressed to make there extra forty one if it's questioned something
+that's right i can't explain it
+it's so funny of course now that
+
+just let them read no i what i'm saying is that to some extent
+is so different it's going to be very hard to be parable
+does and i wouldn't take the inflated version so he talks
+so he talks about the woman thing too powerful
+but you know if it were to be deeply just a normal words it would be like a little story that we could read
+but as the i mean i wanted to hear more about the transcription if we can get
+if we can get channel a synchronized for the closer
+i'm from i'm talking about transcriber actually you're talking to transfer
+and so they'll have everything follies commission but not
+follies commission but not it's really rather small set of these kinds of things and i
+i didn't want to change it to something else until i knew maybe it's art
+transcription mean just a single letter has in the particle no
+they print sized is something that the transcriber thought was eight and but wasn't entirely so i
+you have to make it that's good that's correct i mean because they have no idea right if you hear
+correct right if you hear c. p. d. i mean they do pretty but its
+i say it i think a lot of them are the networks making i think to know
+now it's at least six times we snow six now
+so how would that be a problem for doing the language there's actually a bunch of cases like this with people's names and
+so how would that be a problem for doing the language modeling than with our transcripts here like this with people's names and yes
+
+did crash so i feel much better earlier
+i i it might help i would like to
+that's what i was help i would like to get away from having only one specific grouping
+that's what i was asking grouping so if that's your question
+pretty different but i think the idea of using a set thing was just to give you some sort of framework so
+were transcribers they're going to hate us just so we
+i don't think we're going to collect vast amounts of data that way but i
+i was actually going to skip the is our results part in favor of getting the transcription talked about since i think
+so why do you want to do x. accomplished
+files in and do all the naming automatically sneezing
+and if not then i gets checked then there's
+is this would be great so i'll be able to get through that tonight and then every
+the first meeting
+but i don't actually member what it was that
+
+done which were done by non native speakers so the we have a core
+so the we have a core that replicate c. original data set which
+i think that trying to duplicate spending too much effort trying to duplicate the existing t. i. digits probably's into worthwhile because the recording
+except that if you have the stimuli comparable then it said something about t. b. contribution of setting and no it's not the same little bit but the other
+x. question mark
+so for things like and the fact that someone doesn't say the d. that's not important enough to capture the transcription because it's
+they have the gloss you have the gloss forms a script but we don't
+you always replace it exactly
+every place because of because don't know sissy and he's but he has a scripted
+number of times out of the entire database except for that of incidences
+and you know you'll have to think earnestly right see
+to think earnestly right see so whoever's
+me it it's in fact it was
+point f. i. p. words so this is also spelled out and antlers
+
+cognitive li it's much easier i also had
+easier i also had a hard time with the words but then we went back
+and as the spacing all right do you think there should be more space between digits in groups give that a try and
+is that right i mean what do other people think is you
+it so that it's possible with a script to plug in the fall or the graphic form for that one and
+correspond to i don't even how to pronounce that now that's only occurs once and i'm thinking
+exactly so it's actually probably good for us to know the difference between the real a. and the one that's just like or transcribed at cousins like
+cousins like an switchboard you would see i all of these forms but they
+out the spelling and else gets kicked out of me a prick frequency listing i right
+mom's times right now which is just and numbs by itself which means
+which means is for the numbers test i
+however you want because it systematically and coated you know have to
+that's i was asking right it would be spelled out in words point five
+
+that i mean the the corpus itself we're collecting and the notation
+and the fact that it's almost all in search and there is which you would expect
+but you might also think that any overlap reasons you would get substitute shins and so forth
+so these are you leads us to believe that doing a better segment patient like you're channel they segment patience or some kind of echo cancellation to get back down to the individual speaker i'd wrenches would be probably all that we would need to be able to do good recognition on the close talking mike so
+they partition it but
+i don't know what's typically here but
+those are going to be cut down samples then that's it that's
+it does hard part max argument
+maybe tied little dictating so jane what's see i have one
+maybe tied little dictating so see i have one question about that
+which shouldn't be called t. i. c. k. l. e. or something like it's not they wasn't fifty c. of course
+the first meeting
+
+liz transfers ass from jane and disk space in storage
+so we're what we're doing is we're writing out i mean is
+out i mean is just a question
+we're writing out these individual segments that wherever there's a and monday from t. lowered or change transcribers it you know we chop it there and the reason
+point about the naming conventions is that you could you can get rid of it's
+sows for example what if you wanted to run all be native speakers you know this is an hour of speech
+no i'm not suggesting you little long life i'm for
+the chris rock how about question mark it's the only place for weather used
+i wonder what they checked yet c. t. s. is really big here
+to me that sounds equivalent
+need a lot of qualification adam i it's been changed
+
+you have to be we actually figured out a way to the
+better for me too because the digits are easier to recognize the
+but that may be to have twenty hours of digits state that but
+but the truth is i'm hoping that we to do the that you guys have been doing to continue that we get the best we can do on the spontaneous near field and then
+so what is the difference between papers rustling in drafting papers i know that is
+now it's at least six times since we snow six now
+didn't don't normally you don't go around thing now you said it's expensive
+and that's not addressed to make there of and that's just without the without punctuation extra forty one no i didn't
+page two afternoons
+i'm just pointing that out this it's the only
+
+of separation and it's just a matter if the instructions so
+and i think they're about ten different grouping patterns and that right liz that's right let's give it a try
+once and for me it'll call was i
+so it does a very fuzzy sort of match so at this
+so at this point we can sort of finalized the naming and so forth and we're
+on like losses on the different types of comments which so then it's fine
+so the pronounce black fans get underscores these
+and the non vocal and so i like
+
+some of the early keep files it looks like we're done by hand
+i mean the other thing is we could just bag it because it's
+bag it because it's it's and
+also we maybe can just let them choose zero versus so as they like because
+so that was part of the spell checker that was after the
+so you'll see how often these different things occur but
+you can correct it since you know what that is you know we could correct it but
+
+and we sort of decided that it's probably not an issue that we headed
+six dash one you mean if you go six
+but i mean it seems to me that at least for us we can learn to read the maths digits if that's what people
+if that's what people want i don't
+you i mean you want this do you need training day there adaptation is out of this how much
+different context and that sort of interesting
+but for the future research we're doing we differ microphone positions and so on we would like to no we always have the original
+
+i don't know work as do they
+but it's the same thing i'm out there everybody do where was it's that paper
+but the very front page deals with this final pay aspect of standardization which has to do
+so listed again same deal with exhaustive listing of everything found in everything except for these finals thirty minutes
+so on some of these calls thirty minutes
+i see right and that word in there in you know stays in language small wherever it was you never
+i'm i didn't follow that lasting so glossy in the
+
+so on them on the middle you know looking at so and so
+on the middle to so in the first case that gloss applies to the word to the left but in the and so and this gets
+while laughing one which is why laughing and
+would really be a shame because i personally would not be able to make a claim that those are dramatically different items so right
+it so smallest so right now i've standardized across all existing data with these spoken forms i should say
+like their is on fire i haven't heard it actually i mean
+so i need to go back or someone needs to go back and say you know yes or no and then get rid
+
+and either correct them or have them re read so we probably
+read so we probably have like four or five more forms to be read to be wants to this that i've also
+that i've also extracted out about an hours worth we have about two hours
+percival and have to go back and fix those so
+and so the question is does anyone care i'm
+and it actually it's no more and think people
+
+right i mean all the frequently as long as you can regenerate
+right i mean all the can be re generated catch the question and put it all the
+right i mean all the can be re generated
+catch the question and put it all on scratch because the
+on scratch because we're sixty is model next bite back up
+so if you did i grab minus the nuns and so you could do grab mine is being so
+
+but i think it's more efficient if we have the search based of the small ones
+and it's no problem right because it's
+no problem right because it's not backed up it's
+me you know it's not a big
+a bottle neck is good too think toward scratch yes of these wouldn't be backed up
+like accommodate with one down that
+
+it is she's do you think two hours is the total that we have
+but i mean morgan has this paper copy and if people have questions
+and if people have questions
+because of that reason that it's a little bit farther than the pronunciation variant
+or no and then get rid of the print deceased but the
+
+what about putting a hyphen between these but i probably not so much
+not as connected numbers right and you can give an example like
+right like you know six sixty one would be read as six one
+i mean red versus naught such major sources of variance that it's
+i mean red versus naught what's an example such major sources of variance that it's it's
+
+we can go back to the other thing later
+so with a one word better and some tenants or since you know you got huge aerate
+the chris rock how about question mark it's the only place for weather used
+making i think that's true
+a lot of these are coming from them i listen
+
+all we have for some people is digits i'm serious so we have a problem with acoustic adaptation
+anything starting with access scratch
+so on keep that for second because they're not ready for that
+so on the fifth age seven that they're not ready for that exactly
+attached and at that point i pick up things like you know a word fella by two commas and then
+
+all we have for some people is digits i'm serious so we have a problem with acoustic adaptation and we're
+and we're not using the did dictated now but you
+right same foot see the thing is we have that in the same meeting and
+right same acoustics a microphone and so
+right same acoustics a microphone same channel and so you don't get
+
+but how would you do that automatically so there's like
+but how would you do that automatically like
+the only problem is that with for the recognition we map it to be and so if we know
+occurs once and i'm thinking of changing that's i
+that like someone's like burning or something like their of changing that's i haven't listened to it so i don't know i haven't heard it
+
+they always and so it's like they're paired curly brackets and then the third
+and then the third type right now is things that fall in the category of comments about what's happening so it could be something
+this might been talk about about how recognize your if it's looking for with three m.'s and it's transcribed was two am that it might have it might increase the error rate which is which
+it's reconstructed have that happened and work with lost data
+now the other day ample is in the gloss as right there five
+
+probably added to the language model yam we probably should we should add it to the dictionary note to pronunciation
+yam note to pronunciation model
+language but
+what wasn't both while lane added spoke dictionary language but like it's in a language motto but
+what wasn't both while lane added spoke dictionary language like it's in a language
+
+speaker for extracted one procedures you have speaker forms and
+it just or to remove cross time talk about but right
+i the only argument against that sampling is to just the original father kids want to experiment with different filtering techniques i'm and on the flies so if
+techniques i'm i mean overall if
+
+right so the there are no errors in the digits you always read
+so in conversations with liz and jane we decide that if you wrote them out as numbers instead of words it would it listed more phone number or social security number like readings
+going to hate us so we around like where you do two at a time and then the next
+then that's it that's why we need more distance because we're duplicating
+
+but maybe a little short if we actually want to do training in that station and all that other
+what about putting a hyphen between the numbers in the group but i probably not so much
+six dash one you mean right so if you have
+it seems to work pretty too got rid of those so up and that's the sort of thing that you would do exactly so it's
+
+out to that we already have we can go back to that's fine with me as long as it's just that i didn't want to the people who would have been collecting digits the other day to not have the digit
+fellas there immediately
+what this meant i'm still doing the overview haven't actually gotten
+and i'm i got lost here what
+
+different the individual human a lot of maybe different free trial you know it's just
+it's just so different scripts until it's in right
+and then going to check involves being that every other and hasn't done a viable speaker and if
+then the not non local station would be something like a door slam
+
+i may i think the readings it because if you think you know g. i.
+sort of framework so that even though you couldn't do exact in paris and wouldn't be valid scientifically at least give you some kind of frame of reference
+i'm working like some of yours and then
+i know someone said i have done all this jumping up of digits
+
+and which group of peers is pick randomly and what the numbers are picked randomly
+i think it'll be graded to be able to compare digits whether it's these
+on in actual script any actual transcript ice i so this happens
+so this happens in the very first one
+
+so you read the last line so but
+then disregard it so i now have a script in there so
+you can access it from anywhere e.
+this is all just temporary access i don't
+
+parallel it's the p. make of did you reading we take one around about it
+it's the p. make of did you reading about it
+of did you reading it's right about it
+i mean i was sort of serious but i
+
+around row your boat blair like
+the alignments uncovered you can't load an hour speech into excise
+you need to have these small files and in fact
+because it's a good pronunciation you know model would be able to handle that however things like
+
+and victor porsche had a piece on this where he inflated the digits i wonder
+i wonder if there's and if they would be of value in having digits that are gases and better than real words to compare in terms of like there to kill nations of one and wonderful versus one is did you thing right
+not after eight though
+which you would expect but you might also
+
+this german great for the germans to be german
+yes but not i mean it's c. u. z. always meaning because
+and someone pointed out to me
+clarify but you can see the practices convention makes it very easy to find him because
+
+and that's where the proms pumpkin and so i just is
+they were the canadians right canadians we
+the canadians right canadians
+and that's just without the without punctuation i didn't
+
+out here so three on the site
+all right so first of all there was an interest and be transcribed transcription checking procedures and
+and i can tell you first to go through the steps although you've probably seen
+checks and the first thing i did was a spell check and
+
+don't really so hard you know it's you just did right now i'm
+except for now another there's another word there much that's right
+except for now there's another word much
+except for now another there's another word there much that's right
+
+language but there's not very many of these tickles
+of these are me that deep i said with a high tech high pitch and like thing that was that he sees he said get
+that was that i was imitating peeping out perfect we
+out perfect that's it that's been changed there is something spelled out p. e. in the
+
+so you collecting and gender
+so i did collecting agenda you collecting and gender
+i did collecting agenda
+
+i started about an hour's worth which are
+hour's worth which are the digits would pour which is do speak or have speaker for have filled out speaker forms
+have filled out speaker forms not everyone's filled out a
+
+and so they're not automatically percival and have to go back
+this german great for the germans to be german
+and that's why there's this other tag here which occurs a hundred and five or ten and five times right now which is just
+
+yes that you think will be able to retrieve the other or something
+somewhere extracts out the language finds
+maybe tied little dictating so that's partly and see i have one question about that the e. h. versus like that age and u. h.
+
+so it's just a question of little hand editing of some files and then waiting for more
+and then waiting for more people to turn in their speaker forms
+speaker form and i sent an email to everyone who hadn't feel that speaker form and they're slowly
+
+and they're slowly trickling in so
+and i've scripts that will extracted and done
+formats is that something we need to talk about the meeting or should use
+
+the problem with that is it becomes numbers instead of digits when i look at
+is out of this how much of this duty with
+of this duty with
+
+so we could just put easier to recognize the better trained than numbers
+you know time wise and it
+and versus aha
+
+but regardless it's going to it's hard to compare cross corpus but it's different
+corpus it's different people this is the core thing and
+especially for speakers that don't talk a lot so
+
+and number of digits in a group and
+although coming from them i listen to some of that
+we don't have that many acronym is comparatively and this meaning it's not so bad i see plenty of i agree
+
+groups and each one has between two and four groupings and
+it's in the paper so it's the same thing i'm out there he it's that paper
+so it's that to that would be very interesting for us because we
+
+doing and everybody's laughing
+doing this it's no it's not stupid
+this it's no it's not stupid it's just i'm just
+
+it's going to require some coordination then it would go like twice as fast
+it's going to require some coordination then it would go like twice as fast or if they're just
+and we were going to ask him if they're you know what's out there in terms of like inflation and things like that not that we were going to do it
+
+attached to just but there are other words that contain the same general phone phoning sequences like wonderful
+like wonderful has one and it and
+it and also i just want to mention briefly that and various and i all that ghana alice is still stuck in switzerland and we were
+
+i think the question is what the research is
+is what the research is i mean i presume that the reason they you wanted to have these it just this way because you want to actually do some research looking at presiding form here
+so if somebody wanted to do that if they want to look at the difference of the phones and the digits in the context of word versus ditches non did you work versus and did you word that would be a good thing to do but i think someone
+
+so the it would look for premature
+so but i thought we were just going to move the boundaries and that's the hand seeker
+got rid of those so up and that's the sort of thing that you would do
+
+but that's the hand so there's
+right i mean i'm but we can downtown so
+those are going to be cut i mean i'm as long as there's a reform that we can come from again that is not down samples then so that's it that's why we need more distance
+
+do sort of what he's already what he's trying to do of individual state right
+i and then we'll move on
+i think this also ties into one of the things that jane is going to talk about too we'll move on
+
+compiled a list of speaker names that's it for that speakers in
+you've compiled a list of great so that's it for that
+i just got this new eighteen gig drive installed
+
+i see right slash and slash machine name slash x. a. in all likelihood had around
+we get the same performance
+i the only i mean the front and on after i can they're just down samples and on the flies so
+
+right a big deal because discs don't crash very frequently as long
+so the sri friend and microphone positions and so on we would like to no we always have the original long ones
+i have frequencies so you'll see how
+
+right i mean because it's not backed up and it's just on scratch occurs tools can't take shorten format i would leave them expanded so you don't have to
+and then in addition to that i didn't exhaustive listing of the forms in the data file which included
+like it's not on in actual
+
+so you don't have to on shorten them every single time you want to do anything
+weekend down ensemble
+all right so spelling check first then an exhaustive
+
+and that's the whole orders you can actually move them around
+native speaker and all the man and all the women can grab everything with the word and it's
+nuns and you get rid of anything that was read so that's so there wouldn't
+
+you little long life i'm just saying you give it started in time and
+yes but not the reverse so sometimes
+but it's the same items very interesting
+
+seemed really fast and also to check
+but did you notice that there were seven hundred and eighty five instances of and no
+was that somewhere where i'm not exactly about that
+
+them as you might imagine when you're dealing with really a fair number of words and natural speech which means
+which means suffer pairs and all these other factors that there are lots of things to be standardized and streamlined and checked on and
+i did a bunch of checks and
+
+i'm data file which included detecting things like faulty punctuation things
+and they do their passover it and yes
+the actually will go through this in order so
+
+yes and that's why they're different tags on like losses
+on the different types of comments which so then it's fine
+so are we done with acronym
+
+we'll expand that but they but the comments or four types mainly right now one
+mainly right now one of them is the gloss type we just mentioned
+so are another type is
+
+and then you have it's there's a couple different types of elements that can happen that aren't really properly words
+but just needs to be double check now we just comments
+but just needs to be double check now we just comments
+
+laughing and that is it big an argument could be made for this turn turning that into a qualitative statement because it's talking
+because it's talking about the thing that preceded it but
+it but at present we haven't been coding of the exact scope of laughing you know and so
+
+she go offline we're not doing or not doing links he'll do it filled paused for it
+doing or not doing links he'll do it filled paused for it
+but you're native german speakers so it's not
+
+so it's not not a issue for only
+only if you don't have lacks balls i right so
+makes sense i think he's i right so it's like japanese and spanish
+
+we don't have that many acronym is comparatively i see plenty of
+and this meaning it's not so bad i agree
+amber buses has a fair amount but the n. s. a. right
+
+spoke dictionary language but it's in a language motto but
+but take always motto but so it's the presentation model that has to have a pronunciation of cole
+a lot of these are me that he sees
+
+but there are places where they
+that's i was asking point five
+point only it's spelling words so
+
+still labeling the relevance of the speaker form here
+still labeling the extracted audio files
+
+the digits you always read the string correctly
+the spaces already biased toward being separated it's just easier to read
+
+care i'm a very spoken with liz and she feels that correct me if i'm wrong that for connected numbers is fine as opposed to connected
+coated you know have to think about what's the best for is for the overall purposes but in any case
+
+i think two hours is probably fine for cats that
+and i'm that they're doing more specific i mean if i remember correctly
+
+single digits since it's you know i recognize is going to do better on anyway
+and it's more predictable so we can know from
+
+as they like because even the same person sometimes says and sometimes so zero in different context and that
+it would just be very that's really the next step
+
+and it actually it's no more official than what we've been doing with words i'm and think people
+we're collecting it in a red digit you know take care of list and i'm that they're
+
+doing with words i'm people can adapt to this are single right
+i thought so whether it's it is it's what i thought it was red
+
+are single the spaces already biased toward right it's just easier to read
+i know i'm going to find it's easier than words
+
+i think that it's fine it's to me reading them
+and i think they're about ten different grouping patterns that's right let's give it a try
+
+the racial and something like twenty to one certain snakes
+to one certain snakes makes sense so if we
+
+you said there's like ten different groupings
+right just groupings in terms of number of groups in a line
+
+i'd the patterns like are they in a group and the pattern of grouping
+we have a problem with that
+
+strings are out there and they're usually grouped into either two three or four digits at a time and they can have
+i mean actually things are getting longer and longer
+
+because you might be wearing a different microphone and i mean
+and i mean it's it's to have the digits you know replicated many times
+
+that'd be interesting to see whether that helps so those speakers who are very quiet shy
+that'd be interesting to see whether that helps speakers who are very quiet shy
+
+at some point when we feel it's but surely understand what's going on with it then we have to move on to the spontaneous dating with the fire field
+don't have i know this sounds weird i maybe it's completely
+
+it's just try to do it i'm just talking for the that like dan ellis is
+it's just try to do it i mean i'm just talking for the that like dan ellis is going to try you
+
+it you read the last line already the first line
+like it's not the speaking style that differs it's the fact
+
+years you could do but then you don't get the same effect what
+what i mean is actually not the overlaps that are govern linguistically but the actual
+
+the acoustic that like dan alison and company want to do
+just are and behaved i mean
+
+you do the last of serious but i really i mean i don't feel strongly enough that it's a good idea
+you do the last line i'll do the first one that it's a good idea
+
+i can understand a single thing guys the same i think it was numbers but and that probably was great finally
+than doing seeks
+
+people i mean i think it was doable i'm
+i had some general questions or should use talk with chuck at some other time
+
+but it's nine working
+that's in the sound dated so i got a check
+
+this german great for the germans scream screaming mean to be german and german
+i'm curious to see or hear it is but didn't know we just we waiting on that stooges alignment
+
+know that would be useful for comparison but it's embedded
+for comparison but it's embedded numbers
+
+every note it's
+we have is our results from liz transfers
+
+fancy but i think and just having the results there and pointing
+there and pointing out main conclusions like it's
+
+was that was speakers in it someone said the front in the middle
+i. d.'s names and names to i. d.'s so
+
+i noticed so chock little pal three out of four times
+so they didn't mean pickle as in elmo payment
+
+right how you where were i would for you it was or who was next to
+where you were sitting probably affected where were i would was or who was next to me or something like that
+
+and it's picking up all the morgan words pretty
+names but i. d.'s names and names to
+
+so the idea is that you would take this big hunk where somebody is only speaking a small amount in it and then
+just use it recording and
+
+so i thought we were just speaker who's the background seeker
+that's partly and non native thing but i have found e. h.
+
+but that's the hand so there's
+i've actually done some experiment sloth across correlation it seems to there's
+
+fillets do that all flying and you do it during right
+flying and you do it during right definitely
+
+and it does all sorts of matches because
+sorts of matches because the way people feel about names is different on every single file so it does a very
+
+and so forth and we're going to read rewrite out these way forms that we did because as you notice
+did because as you notice in the paper your animal foreign one meaning in m. and another meeting
+
+i had some general questions just about the compression algorithms of shortening wave forms and i don't know at some other time
+forms and i don't know exactly who to ask i thought
+
+it just i'm and i didn't have a scratch scratching half of it is
+i'm not exactly how they partition it probably
+
+how do you do that eighteen that because is making gate drivers is thirty six gig drive was eighteen a eighteen it was just
+slash and eighteen it was just there that they've had around
+
+right then it's fine but for the future because we're duplicating their originals
+so what it was that was eric did that
+
+audio file they actually have to be chopped out already
+i agree i would like to standardize he's down farther but
+
+and that's the whole point about the naming conventions is that you could them around you can get rid of it's
+no i'm not suggesting if you try to loads really long way from into x-rays you'll be waiting there for
+
+out the language finds the time marks for that particular one do it that
+funny kept gaining p. t. a. for p. d. a. this is close
+
+this embedded in the file name
+so there were vietnam's task and it's not going to be included in the red digits anyway so in india
+
+access i don't i think it's all just it's fine
+we're going to never recognized this meeting money python you say are a lot so
+
+you can get ways to start in the meantime
+and then you go awesome in the dictionary gets cousin one and that
+
+until it's six it on some right it takes a
+six it on some but not the way solidly it takes a very long time
+
+seemed really fast and also to check the file so
+regardless the file so if you have a transcript
+
+i think overall you could get everything to work by accessing the same way and trying to find too you know the beginning and times
+all of these forms but they all were like
+
+too think toward scratch yes of these wouldn't be backed up
+this number of times out of the entire database the number to the left is the number of incidences
+
+my me afterward and all and we'll look at your desk and see where to put
+a stress marker here sometimes the contrast stresses showing up and i'm
+
+maybe she would do a do you want to write and just see which publishes
+and just see which publishes on each
+
+check and at that point i discovered certain things like
+so it's maybe that they got to the point where me was low enough understandable
+
+and you begin these sandies quality checks right exactly i do these checks exactly
+and so do it as an exhaustive listing of the actually will go
+
+that one and a couple of others not many
+so one is another one going
+
+one going that go a is another one with just
+one with just the assumption again that this the easy things which is not really fair that consider expected of pronunciation mall to handle and checking
+
+and checking that you indicated that causes is one of those it's handled in a different way also did she did i
+so i might have been my husband you but someone
+
+and with all these things being in curly brackets there was just
+thinking i also wrote a script which will retrieve anything in curly brackets or anything which i've classifies an acronym
+
+and so your list here are these ones that actually occurred in the meetings and it's yes
+we are acronym so now and
+
+we are acronym loaded and test the question about glossing before god so
+god so for a word like because is it that it's always predictably because
+
+the reverse so sometimes people will say because in the meeting and if
+in the meeting and if they actually said because then it's written is because with no doesn't even
+
+but that's funny done has and so if we know that's easy
+but they have the gloss that's funny done has a script that's easy but
+
+every place because of because if it's cost but he has a scripted right but if it's
+but then there are other glasses that we don't replace right because
+
+these things in curly brackets are viewed as comments or comments four
+or comments four types is good to introduce
+
+types is good to introduce that four times
+disturbing right see so whoever's creating the new models will have to also go through the transfers and change them thinking it's like right
+
+and what some of them are laughing breeze so we have
+breeze so we have that's pretended with of tag a v. o. c. and the non vocal
+
+or something else and the comet so you this would let's just take
+yes it's very bad sell preferential aspect of this this is exactly
+
+but in the middle to and this gets up to here
+that's not applying anything right they're impulsive
+
+because was a prude or film was in a place i didn't expect
+it's we she reconstructed have that happened and work with lost data
+
+and i made it so that these are with a couple exceptions but things that you wouldn't find in the spell checker so that they'll show
+checker so that they'll show up really easily and
+
+teaching cashew question what's that very last one correspond to i don't even how
+correspond to i don't even how to pronounce that now that's only
+
+hear it because i only heard it no we just gave her a list of words that you know weren't in our dictionary and so of course it
+and so of course it picked up like this and she just didn't
+
+but i have found e. h. in native speakers too
+that's and versus aha but it's mostly non native
+
+transcription has in the particle no
+transcription particle so your age no i mean like the u. h. or
+
+i know she go offline i'm just the sport transfers are going to hate this meeting we're not
+know she go offline are going to hate this meeting we're not
+
+systematically maybe with some of them they end up being is but i
+but i my spot checking has made me think that we do have a. and also american dated represented here but
+
+and just and you get and did everybody's
+then the akron and she and the ones in parentheses
+
+those question marcus punctuation so it they
+that's pretty close this is close right in the p. t. a.
+
+i know i don't recognize a lot of this i you know how are they going
+i know i say it i think i don't recognize a lot of this i you know how are they going to know
+
+but the n. s. a. group is just very many
+the recognize there's funny kept gaining
+
+stability that they weren't entirely that person said you
+said you know so i don't really necessarily a and for black man but just needs to
+
+of disturbing have to look at it that's i look for that one i actually
+that one i actually explicitly look for that one and i think that
+
+that's this legitimate so no comments
+so no comments you can see they're listed again same deal
+
+right you never would put tickle in the language model in that form
+would put tickle in the language model in that
+
+many of these tickles one of them
+there's a number tag i'm i didn't
+
+that's been changed in the thank you
+you need a lot of you what i'm it was the he was saying how many you have to allow
+
+and easy enough to find them when they're curly brackets we can always going to gossip
+we can always going to gossip listing of these things and find them and change them sings finale
+
+on the gloss is for numbers
+it seems like there are lots of different ways it's being done there's interesting question yes
+
+so you already know that i had places where they had transcribe numbers put numbers in place of any kind of numbers but there are places where they
+point f. i. p. words so this is also spelled out and antlers
+
+so what's the last disease off to the side you can't have the seven and
+so what's the last disease have the seven and
+
+what's the left of that no and
+of that and that case it's people saying things like one and so or
+
+and we already got the crash out-of-the-way did crash so
+
+so we're pretty much out of digits we've gone
+
+we have about two hours worth
+
+not everyone's filled out a speaker for extracted
+
+and for meetings in which the key file and transfer files reversible
+
+was i didn't quite catch all these different things that are not quite right that you think will be able to
+
+i have this web based speaker form and i
+
+by speaker id and microphone type wasn't like whether they were giving us permission to use their digits
+
+speaker id and microphone type no i spoke wasn't like whether they were giving us permission to use their digits or something
+
+no i spoke with jane about that and we sort of decided that or something
+
+so the other topic was digits is
+
+and it just didn't work at all because
+
+like so if you always had the same grouping you wouldn't like that is that
+
+it's a little bit better for me too because
+
+worrying about it i mean because we do have digits training data that we have from from gee i started to just
+
+but if they make mistakes it's no big deal if people
+
+need because if i did i'd probably try to collect it you know without bothering this group but
+
+so i can just add to the instructions treated as digits not as connected we can try it right and
+
+but then we went back and forth and so let's
+
+and as the spacing all right and forth and so let's give that a try and
+
+right i people think is you reading them
+
+and i think they're about ten so that's right let's give it a try
+
+now and you're saying two hours is digits so that's for
+
+digits so that's for the racial and something
+
+some sense but
+
+for that because it seems to me that there's a real strength and having the same test replicating a whole bunch of times and adding to
+
+bunch of times and adding to that basic test bank
+
+because then you have no more and more chances to get away from random errors and
+
+i think the other thing too is that right now we have service try to fight sample with reference to dialect groups and it might
+
+and it might be there might be an argument to be made for having a for replicating all of the digits that we've done which were done
+
+because the recording situation is so different it's
+
+and not just trial you know it's just there's so many things it's and
+
+i don't really know how it compares
+
+the core thing and they're different circumstances a different recording environment so forth so
+
+so forth so it's it's really pretty different but i think
+
+i'd the patterns like are they based on anything grouping
+
+if you look at it there between like three and five groups and each one
+
+digits whether it's these digits or t. i. digits to speakers and compare that to their spontaneous speech and then we do need
+
+and then we do need you know a fair amount of did you did because you might be
+
+like adam do you think that would help adapting on right
+
+a real problem with that actually i mean it's the same microphone foot see the thing
+
+and then we do a lot of the testing of the algorithms on the digits for the far field at some point
+
+we talked about that a couple times and i know it's weird
+
+i we could try to try doing anyway it's just a thought
+
+i we could try to try doing anyway it's just a thought
+
+to try doing some it's just a thought it would
+
+i'm not it just sort of sound like a duet or
+
+or theater art i just write three once you could pick one in the middle
+
+people were transcribers they're i think it was doable i'm just
+
+rice like around like and at a time and then the next person picks up on the first i've done or something like
+
+just wise around row your boat what do you call it blair like
+
+your boat like that
+
+thought i'm actually sort of serious if that would help people do that kind of but the people
+
+i don't think we're going to collect do that kind of but the people who want to work on it we should talk to them
+
+something like that rather than do it during real meeting and you know
+
+real meeting and you know do two people at a time then three people at a time
+
+then three people at a time and things like that
+
+see what dan if we have nothing we have no agenda
+
+see what dan right if we have nothing we have no agenda we could do it i'm like
+
+right some the whole time it i'm like
+
+i thought this was going to be so have haven't another going to question some the whole time reading digits it's a different kind of comedy
+
+i thought this was going to be so have haven't another going to question a different kind of comedy
+
+i thought this was going to be so have haven't another going to question about this so a different kind of comedy
+
+these did you get attached to just but there
+
+this german great for the germans to be german
+
+it was good when you scream at the like
+
+like everybody's little punch here today
+
+i mean i just went off as possible task because you know today
+
+because you know if we were to eat read this embedded numbers words and sand senses because
+
+thing to do but i think someone would have to express interest in that
+
+i mean if you were interested in like to do it christians
+
+and disk space in storage formats from dawn is do
+
+is do we have any prayer preference on which we want to go
+
+about since i think that's more important to moving forward but i mean morgan
+
+it's pretty preliminary in terms of this our results because we didn't
+
+because we didn't do anything fancy but i
+
+it's the fact that there's overlap that causes recognition errors
+
+so these are you if you have a hard copy what're you email it the list on the close talking mike so that's about the summary
+
+but this is morgan has this paper i mean
+
+it's in the paper so it's the same thing i'm out there he it's that paper
+
+it's in the paper so it's the same thing it's he it's
+
+so it's that's why i only used apart from these that you had about because we right
+
+so if there was a case segment or mix channel or x. p.
+
+so if there was a case segment of speech this long x. p.
+
+was that was speakers in it and someone said the whole thing was passed to the recognize it that's why there's so and someone said in the front in the middle that's right in fact i
+
+it that's why there's so many in searching that's right in fact i pulled out a couple classic examples in case you want to use them in your talk of
+
+it that's why there's so many in searching that's right in fact i pulled out
+
+early on i noticed the check was wearing a lapel a lot times
+
+early on the check was wearing a lapel a lot
+
+early on the check was wearing a lapel a lot
+
+and i were little pole once and for me
+
+where you were sitting probably affected that me or something like that right
+
+that right but when chuck were little tell ann morgan was talking there a couple really long outer and says where chuck
+
+outer and says where chuck is saying a few things inside and it's picking
+
+pumpkin and so i just is sort of what we expected but it's to be able to
+
+but it's to be able to show it and also
+
+and he said flown flew what would need to be done and
+
+and he's going to look into trying to run some things that are out there and
+
+time but right and that would be similar to what you're also trying to do but using
+
+but using you know more than energy i
+
+for so it would be i don't know what exactly would go into it so it the idea is
+
+to do sort of what he's already what he's trying and get the locations which gives you also the time boundaries of individual state
+
+not a great to do i see i right it's said that there are many techniques for the kinds of cues that you can use to do that
+
+not a great i see it's said that there are many techniques
+
+see they've is also going to be it primarily echo cancellation further your field far afield so
+
+and i past this
+
+because we can't do too much you know and terms in terms of wrecking assures olds knowing that this is a big problem
+
+until we can do that kind of processing
+
+i'm working like and so once we have some of yours and then
+
+so i have some naming conventions that we should try to agree on fillets do that all right
+
+and i've scripts that will extracted out from key files in and done
+
+you've automatically sneezing instantly great so
+
+then disregard so that's why those comments person in there so
+
+then disregard it so i now have a script that you could just say look up morgan and it will give you in there so right
+
+morgan and it will give you a psyche
+
+who to ask i thought maybe you would be the person to talk to so
+
+talk to so the losses compression when you compress so
+
+so i mean i my question would be is i just got this new eighteen
+
+it just depends on your tools
+
+and the reason is that we conceded to recognize or and
+
+this and those are the ones that were storing
+
+this it's that's it's regenerate a bull what i would do is take down sample it so
+
+and compress it however your the answer i recognize or wants to take it in so we can't shortening
+
+those are going to be cut down samples then that's it that's
+
+to do that but it's actually convenient hasn't chopped out because you can run
+
+chopped out because you can run them you know in different orders you
+
+is that you could run all the english speaking all the native it's a lot faster
+
+is that you could run all the english speaking it's a lot faster
+
+all the native speakers and all the non right you
+
+speakers and all the non native speaker and all the right you can grab everything with
+
+and it's a lot quicker than actually trying to access the wave file each time find that time
+
+what if you wanted to run all know this is an hour of speech
+
+right so if you did that way you have to generate a program that looks in a database somewhere extracts
+
+say you just say you know asterisk that's so that's part of it is
+
+you say you just say you know asterisk e. asterisk thought waving you get way too hot that's so that's part of it is right
+
+rather than doing seeks and the other part is that once they're written it is a lot faster too to process
+
+want to do however is convenient
+
+and he just has a big files of houses in memory
+
+and they don't two getting you can do extremely fast is but the other thing is that believe it or not i mean we have some so we're also look
+
+so we're also look at these in ways like for the alignments uncovered you
+
+you can get small files and in fact even for the transcriber program
+
+in time and it'll just go and pull out that section the transcribers
+
+section the transcribers didn't have any problem with that today jane
+
+know with the transcriber chosen they live in they live that what's what respect loading the long
+
+know with the transcriber chosen they live in they live that what respect loading the long
+
+know with the transcriber chosen no problem in they live that long
+
+know with the transcriber chosen no problem they live in they live that long files into x. ways what respect loading the long it takes a very long time
+
+files into x. ways it takes a very long time
+
+i'm from i'm talking about transcriber actually you're talking to transfer transcriber right
+
+seemed really fast and it's a lot slower to load in a long file and also
+
+regardless it's i mean it's
+
+if we don't have a spirited sitting around we go out and we by ourselves in eighty gigabyte drive and make it all scratched
+
+and make it all scratched me you know it's
+
+at your desk and see where to put
+
+you want to use either x. a. or scratch x.
+
+jesus read x. with too two digits
+
+jane so i got print out here so three on the site
+
+although you've probably seen them as
+
+so you're doing these so the whole process is that the transcribers get the conversation and they please
+
+then when they're finished it that it comes to you and you begin these that's right
+
+seven that exactly
+
+first then an exhaustive listing of the all the forms the day that with the punctuation attached and at
+
+then there's this issue of gloss things so called spoken form so they're most
+
+what and that's done would do some shown that pronunciation parents can be handled so for things like
+
+however things like where you're lacking entire very prone it for so little and
+
+little and for the more it's a form that specific just spoken language those are the reasons
+
+that's separate and use the convention abusing c. u. z. for that form
+
+however glossing it so that it's possible
+
+the so when i get the exhaust so the spell check
+
+so the spell check picks up those words because they're not
+
+words because they're not in the dictionary gets
+
+brunch out i said you know so like decide script saying whenever you see going to converted to going to you know glossy equals quote going to quote
+
+and pronounced acronym
+
+and the way tech act pronounced acronym is that i have underscores between they compliment so if it's
+
+so if it's a. c. l. and it's a underscore see underscore l.
+
+we are acronym loaded and test the question about
+
+doesn't even figure into the equation
+
+but our meetings people don't say hey because id on because right
+
+if it's cost right but if it's
+
+types of comments which will see and just a second
+
+and maybe we'll expand that but
+
+we done with acronym a question on what this meant i'm still doing
+
+i'm the overview haven't actually gotten here yet
+
+so losses things like replacing the full form with the more reviewed once the left and then you have
+
+and the non vocal and so i like door slams and typing and that's prepared with
+
+so then it just the ending hurley brace theirs and that's prepared with not non vocal station
+
+so then it just the ending hurley brace theirs not non vocal station
+
+hurley brace theirs or something else and
+
+the comet let's just take one example
+
+so it could be something like you know referring to so-and-so talking about
+
+talking about such and such
+
+but in the middle to that's not applying anything right they're impulsive and this gets up to here no they're events
+
+right i just meant the middle two one two
+
+and actually it is true that with respect to laugh there's another one which
+
+while laughing is why laughing and
+
+you know and so to have laughing you know that it happened somewhere in there which
+
+in there which could mean that it occurred separately and following or you know
+
+or you know including some of the better insists the last
+
+haven't been awfully precise about that but i have here
+
+which has to do with spoken forms like and and all these different types
+
+rate which is which would really be a shame because
+
+it so smallest i should say all existing
+
+all existing data except thirty minutes which got found today so
+
+that's in the sound dated i got a check
+
+it's much easier have that happened
+
+that like someone's of changing that's i haven't listened to it so
+
+like their is on fire i haven't heard it actually i mean
+
+@reject@ is on fire seven actually i mean i need to listen to that one actually we gave this char
+
+@reject@ seven we gave this char pronunciation person
+
+and she just didn't listen so she
+
+we're going to never recognized chi-ching we're going to have a big problem when we talk about the money
+
+we're going to never recognized this meeting money python you say are
+
+but you h. e. age we're all the same and then we
+
+like that have been it has been transcribed the age
+
+and sometimes it's stronger like day that's right
+
+like day which is like closer to th and
+
+and so you know i mean they i have there are some americans who are using this eight too and i haven't listened to it
+
+ago and it's just hilarious to listen to do a search for the
+
+and just listen to me and did everybody's doing it just
+
+morgan can make a song out of it's really fun to listen to all these different
+
+morgan can make a song out of it fun to listen to all these different
+
+of it all these different vocal tracks you know but it's the same
+
+i see she and the ones in parentheses are ones which the transcriber wasn't of and i haven't been able
+
+i see of and i haven't been able to listen to clarify but you can
+
+the chris rock how about question mark easy to find him because it's the only place for weather used
+
+so it they said that
+
+so they so it's appeal to me d. c.
+
+they print sized i got lost here what's the difference can apprentice size acronym in the non parenthesis
+
+you have to make it of the print deceased but the prince caesar used only in that context and transcripts of notice noticing that there's something on certain i mean because they
+
+not that's pretty close right in the p. t. a. was in these topics about children anyway
+
+is the p. t. a. working
+
+sometimes let me see probably easier actually okay's so it's
+
+i wonder what they big here
+
+have to listen i agree i would
+
+i'm we said accent no more than five times
+
+yes it's very bad aspect of this
+
+was that somewhere where they were going to say new speaker or something about that no i look for that
+
+out this it's the only pattern that has a slash after it and i think
+
+so i just i was just looking at the bottom of page a slash after it and i think it's so that's a phenomenon
+
+so i just i was just looking at the bottom of page three there's that it's so that's a phenomenon
+
+three there's that to be or not to be
+
+there's no told in front of it excuse that's funny
+
+try to stay on topic out there is one
+
+the reason is because it was said tickle
+
+i actually really just tickle
+
+this comment about what they said common comment
+
+it's not something you want to replace or contextual comments
+
+what they said it's not something you want to replace common comment or contextual comments
+
+elmo payment pickle isn't
+
+probably added but it some way and we probably should we
+
+probably added to the language model yam we probably should we should add it to the dictionary note to pronunciation
+
+i see what i meant is that there should be a pronunciation tickle for t. c. l. as a word and that word
+
+yes is there's a few cases like that where the word needs to be spelled out in a consistent way as it would appear in the language but there's not very
+
+right we have this there is this thing i was going to talk to at some point about you know what do we do with the dictionary as rep updating the dictionary these changes have
+
+these changes have to be consistent with what's in the like spelling people's names and so forth if
+
+if we make a spelling correction to their name like
+
+you need a lot of you what i'm it was the he was saying how many you have to allow
+
+subtext so anyway so exactly that's for the like sending comment can't came in k. right
+
+they're vocalists nation
+
+losses and those of course get picked up on the frequency check because you see right
+
+losses and those of course get picked up on the frequency
+
+b. been you know make it kicked out the spelling and else gets right
+
+know i don't know i think they don't have any implications for anything else it's like i'm tempted
+
+it's like i'm tempted to leave them for now and
+
+the sings finale types on
+
+now first of all very important
+
+it did this convention came later and it the very
+
+and it the very first digit asking some transcripts actually transcribed numbers and
+
+check point out that this is read speech and it's to have
+
+and it's to have the option of ignoring it for certain other pop up things and that's why there's this
+
+now that then i have these numbers that have quotation marks around him
+
+i didn't want to put them as gloss comments because
+
+comments because then you could substitute shannon actually
+
+shannon actually the reason i did this was because i usually start out with the other persian you have the numbers and you have
+
+numbers are saying see six seven seventy eight point two or whatever and
+
+whatever and there's no way of capturing that if you're putting the numbers off to the side you can't
+
+the left is in so example the
+
+now i'm so it's not going to be mistaken as a gloss
+
+now the it comes out as numbs quote dot five
+
+lost one on one that's one three zero what's the left no
+
+and so or they're saying two i mean zero whatever and in that
+
+and in that case is part of the numbers task and it's
+
+so there were vietnam's tag on those lines so in india there is
+
+follow that lasting so glossy in the same line it would have gloss quote one day one thirty you have a gloss at the end of the line saying curly bracket numbs curly brackets
+
+nuns and you get rid of anything that was read so that's so there wouldn't
+
+read so there wouldn't be something like if somebody
+

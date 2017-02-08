@@ -1,0 +1,404 @@
+then we will take to do this easy and and the remote control functions
+do things to the in the wrong for the city
+we have a technical problem
+power i
+and fake and that we need maybe you can see
+that would be more convenient so
+in how usability that we had so it's the remote control use a monk one hundred subjects and
+but what kind of remote controls that
+the management wall i would present them in the file a one
+so it out their frustrations six but users so they
+so we have to make it more ergonomic
+have to say ha
+but anything from microsoft
+you but i think we have some technical problems so i'm
+in fact fall for remote control this is quite easy we just
+this for us this is quite easy
+you see the centre you need
+so far as this is quite easy
+and it's a board eight months to have the first results
+even and this is released a know devices now
+usually are they sees less of that to do lost touch it
+do they say b. c.'s difficult but for the same reason all do they have all the reason
+to maybe to keep in mind maybe it to access to of that menu you should do something like that
+so to do something for the expert user so
+
+we'll i will take notes
+i will take notes during this meeting so
+so few are regions maybe it would be good
+if not many buttons and right you use a bill buttons
+s. and speech recognition and
+i don't know if you see something else of the time so
+it's is this just a chip which does all the numerical
+some lightning too
+
+what we wanna share is the remote control right
+so and the question will have a lot to control so
+then in the access then random access
+that's in fact we it seems that's we are going to make a t. v. remote control according to new requirements are we seen from the management wall
+we knows that's a that "'cause" i use that remote control to challenge is an l.
+i'm just going to describe we have
+
+sense and there's a false one no
+set and
+from the management board way we see the new make but it would
+the so called him but
+continue when it has to question if you want
+what it would be hard to configure mean you might
+
+i don't know if you can open to but it's not
+easy we just have to
+agree
+even if we have the u. c. d. display
+world
+i think is a say that it's an difficult to blow on the on to use it to that we when you know what to use it to it's but
+
+so we are here for are functional design
+so we are for the functional design meeting you so
+and also time with the same think so is that a combined
+i i need to
+i don't know if this study about that
+
+one is a voice commands button one is the actual buttons but
+so they want some things begin very simple and easy to use
+we don't have the original a remote control for everything
+love use used to
+it seems that it's we want to say like four million units from the first meeting
+
+so maybe i can switch slides when you whenever you ask that would be more convenient
+so you can see that it's seventy five percent of users find most remote controls ugly so you
+but was it for most used t. v.
+and we have euros the results of
+without making some seen too complex and too long to leave it up
+
+we can just keep doing that
+of the buttons have to add to be makes a reason is resisting to fox
+for the younger it's very important
+design and user
+no i don't know if it's a good idea we don't have the
+
+mall that maybe those like this teenager customer can advice their parents to buy it these equipment and so
+you easy to use a way to find he'd easy in the room and resistance to sort count to
+and this would be to take more time to do that so
+so we can take this into account so i would
+so i'll on many you need should be sent to have a
+
+so first i will show d. at the end that so
+then in the access
+so we have to have a remote control very out for that it's of the buttons
+so i'm just going to describe in fact fall
+
+so want to starts the presentation of what they do
+the forest on the one this is really easy it's question of
+ten years
+when one's father some other one was button even
+
+but are there are a lot of remotes on the market right now and it's the screen is more for almost everybody has a
+and the voice command did you know
+was come on who wants to find think we could not
+think we could not sign any but on a commander in a button if we have enough processing power i
+
+maybe you can send it to me by your name
+designer interface
+and a lot of the time
+and so we can we have to take care
+
+like a start so
+you have a four point
+if you have to double the computers this position
+
+if you remember but
+twelve it's at the end of those
+which could be the l. c. d. it's a wall an array of pushbutton something like that
+
+case so the user
+so the user interface sources of two parts one
+so you we have to find something to make them more all more more kind a
+
+a t. percent of users would spend more money when a remote control would look fancy a.
+no i said
+to use it's maybe about two or not but we can figure it i
+
+seventy five percent of users say they zap a lot it's so
+so all the buttons we aim we have to put a i have to twelve they use the real use and that onion
+case think yesterday so is
+
+so they say it's a day just it's a friend the remote control in the room so they want to have a weight room two
+a lot of the time is a it takes too much time to learn how to use a new remote control so they
+so maybe it's a good decision i dunno what's
+
+so then we ask some questions to them and
+and whereas this question if they prefer any c. d. screen or on the remit each function remotes control and
+of the questions so you know
+
+and so as we say before i think in a remote control like meaning do that keeps it's a good thing to not
+not too many made that ends liked we said before you
+i think that if we make something that's important easy to use at this t. v. news you didn't have to be exactly the same as everything else right
+
+we have the battery a power supply here after that we just have
+after that we just have and user interface that's that's
+pushbutton or a c. d. after that
+
+i think we should go the management
+doing it the kick-off meeting you said that we shouldn't go up to twelve point five euro per unit so
+it a we continue when it
+
+and we try to surmise it and put that summary in the shared folder if you want to look at it afterwards
+because most people are find also ought to find the remote control of
+
+then i will present use some new project requirements i received from it to "'em" and then you meant board
+we just need to take it to define
+
+of the process so want
+you can become painfully confront on because
+
+you put two tons
+finish the ninth but
+
+for special nowadays for them you might have a t. v. in the menu and you want things you know
+so maybe if we designed some seen very simpler and easy to find when lost it will i the so use competitive at that age
+
+this is the main function
+and and users that is that some put on but it's
+
+we have to take care of that point of view a week or so
+and if there is the conclusion and so
+
+we would it seems that we know want to have a t. v. remote control from the
+but it would be costly
+
+and or so we'd it would take more time to develop to have a region are you near each remote control
+and it seems to tell that's if we want to be on the market as early as but see but are we should focus on t. v. more it seems that the market is more important
+
+like that's i'm just going to describe
+when we each unit as you said twenty five euros
+
+really need to decide
+how much would cost for the file
+
+i just had a question do you
+there is nothing to see
+
+i dunno why is different and of course it was a solid have to learn to use first
+requirements so we don't have to so these
+
+everyone's ready
+
+so then each of you will early the presentation on the task that as being a required class times or user requirement
+
+times or user requirement specification technical function design and working design
+
+and then i will assign you to task for the next parts of the meeting of the
+
+do you believe come should be
+
+the technical program a
+
+isn't it i wanted
+
+i wanted
+
+otherwise could you just described
+
+by hand with the
+
+with the whiteboard
+
+to control so most people want to have a remote for the hi-fi and t. v. and like that and but
+
+and but other people want starts remotes for at controlling the and ball is like but that's in your box and two plus
+
+and two plus all wants of remotes for controlling and the courthouse
+
+there's a project i think cortex how or something like that's that's you can integrate the remote with their computers and so
+
+to find if you sell that by with single whatever
+
+if you how to find the future then you can also have
+
+at the same time there's any doubt was commands if you want
+
+so i think that's a bit back that in that case
+
+and of the buttons but would be a set of buttons for choosing devices sort of buttons for special navigation in space
+
+so the buttons for eileen access of meeting and as the buttons for on the market is
+
+what do you mean by you know options
+
+like a videotape goes for but parts the fast
+
+so special navigation and being accessed when they make sense and there's
+
+so the button for special allegation
+
+then random access
+
+so is that a combined with the final supposed to sell bottles for lots and we will put
+
+we will put either the thing their genetic but are there
+
+so that's the that "'cause" you're a investigations
+
+of i think so too far
+
+maybe we can have a look at the user requirements we've
+
+drop get too many sharp form there
+
+just two parts and one
+
+i'm trying to show it to everyone that would
+
+it's the second one
+
+so functional requirements
+
+functional requirements
+
+and this is the subjects also feel it's a question every
+
+and so the results so you can
+
+a. t. and red percent of users would spend more money when a remote control would look up
+
+look up to
+
+if it if seventy
+
+and fifty percents of shoes of say is the only use ten percent of the buttons in that in the remote control so all
+
+and that onion
+
+what kind of task was it was a t. v.
+
+and remote controls are bad for
+
+yes i we your wrist
+
+and economic but
+
+before that i have some some seen it to say before
+
+and to change the volume selection of and the
+
+the and that's a lot for a sitting for settings their position and then else and i think things like that it's so
+
+so it's better to put it something very easy to set and
+
+these functions should be very access to the
+
+very accessible yes
+
+and use them pay more for speech recognition remote control and
+
+put on but it's we know that people are between fifteen and twenty five people all watch a t. v. and do all we can use let's see so so maybe
+
+so maybe we can have this it's recognition mean
+
+maybe this is important mall that
+
+to sort count to do
+
+not laughing
+
+that it would be too long to do that
+
+because there is you that's made from management one and it seems
+
+them and should know more about how fast food and designed i don't
+
+but maybe i can continue with my presentation would be a are
+
+so i'm just going to describe briefly what we do in the remote control in fact
+
+i have enough cables
+
+you see a bit like a dog with this
+
+after that we've seen that's into and electronic chip so
+
+so i say you see and i think that's too l. e. d. which is the infra-red which is an infrared and components and so
+
+and so what we fought
+
+what we fought for myself this for
+
+numerical competition according to your display and
+
+and saw forest of this is quite easy we just need to
+
+take it to define what we want to do when the user interface wants something and
+
+and after that we just do it according to spend some time to the not to the television so far
+
+so this is quite easy and that much think
+
+and we just have to define the processing power that we need especially
+
+especially if we want to do some speech recognition in that case
+
+in that case but but we are going to use small simple
+
+and the forest on the one
+
+it's question of one non sound so it's
+
+use used to kill about voice control
+
+stand on button one
+
+star burst a remote control takes maybe a one amounts to do that
+
+so the only time programme user's voice recognition
+
+so you have any idea of four and it would take to have voice recognition now
+
+for speech recognition
+
+so i would think it would be good to go for like speech recognition
+
+but you don't have time to market
+
+how what college you get how would you want to buy one million units but no
+
+but no one had a thousand units
+
+maybe we can we can look at then you requirement that we see from the management board and discussed or function we want to have a
+
+do you want to constant you present it
+
+you say that's i don't remember what it costs about thirty percent
+
+of the tasted people say that it's quite difficult to to use of the remote control
+
+is nothing to see it first
+
+and what about if we design a remote control which can be configure as you want you say that i want
+
+you say that i want i have six buttons
+
+a lot of people that if you have the l. c. d.
+
+if you have the l. c. d. screen if you don't you completely the way you want because the buttons was would look the way you want and what it
+
+i mean as our markets in my "'cause" i think the young people
+
+'cause i think the young people are lots our case think yesterday
+
+so for young people and it to be called the everyone to use it's maybe
+
+maybe it would be more complex to configure it to be simpler but then that creating a simpler project
+
+that's or so we see that's most people are find it's find remote controls too complex because they have too many buttons and they mean you use only teach and then this and volume buttons so
+
+so we made rest make a very easy to use a remote control was mainly those buttons and maybe
+
+rules that was you take cetera
+
+is these are these two points on them and frustration so
+
+so but let us see first the new requirements so
+
+so these ease the ease of in that decision the
+

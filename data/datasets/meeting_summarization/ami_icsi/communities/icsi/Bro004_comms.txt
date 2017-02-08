@@ -1,0 +1,985 @@
+janice ministry you
+there's everybody
+what which and the fourth is
+that's three languages that's including the with the this includes
+so they're sort of building so and we was
+see ban limited tenet gave you almost as good a result is using t. i. digits on the t. i. digits test
+or i mean you have the same number parameters and then the wrong that you have
+more at least one it seems like it might simply be a case that you have something is just much more diverse that you have
+that you have the same number parameters representing
+is using sixty four zoning from tampa
+to be careful because the pumpkin ponder results i think
+ponder results i think they got some really results in which you trained on one language untested on another he
+this may be what i was asking before something but
+so it's broader vocabulary
+i think this is what you were saying the noise
+noises in all these cases for the tree
+so there's not a statistical system based trunks of statistically different no it's characteristic between the training attest and yet we're no you this same
+so it appears that press spanish is that's very true street that in
+and the noise is different and perhaps the noise are quite different from the noises in the speech at the time
+if the future sound ups normalize it deters arnold's norma
+so what we were thinking about the perhaps one way too so these programs drink reason number off but put something around that works
+what context dependent funniness
+be justice legitimate for hybrid systems so
+and in fact but we know that
+and in fact things get better context dependent versions that
+ignoring the differences in context
+almost but i mean it
+almost but i mean it does give it just tradition
+on because it's information that just discriminate
+that's that's a very good question then
+it what want to say p. speedy
+space can just i'm much of what
+before throwing out trunks of is
+that i think he but by saying this is a tentative block a diagram i think means if you construct it this way just this delay would work out that way and then be
+they clearly did actually remove silent sections in her because they
+in her because they got these were there any results
+
+she didn't train on timid contests on italian digits we no we did for what kind of testing and kitty
+the first thing is with task daytime
+the second test just trained on a single language but abroad database
+the third test is my using so treating language database
+so it's not so bad
+and then when you jump dumbest eating glad date it's it's become worse and
+person for you
+person for you do society person for the
+me that multi lingual is just the broad it right
+so they're sort of building so and we was
+and it's a mac one point three of the if
+if you compare everything to the first cases baseline
+same language we of shut the whole point eight
+so we could prove compared to the business
+me base i buy baseline here i meant using the task specific data i
+using the task specific data but i
+one point four security i
+so u. s. figures what
+though so that's thing you have circled here in the second column
+so forty italian and the results are stranger
+and we just no taste recently that approach that we are using what's not didn't do very good results when we use the streets futuristic
+maybe put date dying out today t. d. on foot so you niece newbies fish that thing that we did chinese set
+
+so we so i say was already said we mainly focused on what kind of future
+so we net trained on that state that
+you went to these so what's the difference between two and three
+and one point one case in point four case i'm confused
+now all of this is noisy t. i. digits i assume but
+generous ties that terrorist out seems to perform better with i name is matched conditions but she sexy war is involved when much condition
+of this is we're all sort of if we can take a look
+at what you're calm asks some of my questions
+sometimes actually depends on what the teachers are using
+it's it's interesting to i mean we then
+
+so i also copied the results that we all got an email i think from gee i
+sort of so the upper part is training t. i. digits
+sort of so the upper part is training t. i. digits it's it's gay results i mean so it's
+and what the and that's gone on the networks that are used fool doing this
+he'll be was online normalization and delta though so that's thing you
+here or no we done into
+i'm time that can take it
+i don't understand the question yes and
+
+but every time we choose spanish rich we assume close to italian the third
+that so if we call a factor would just one just normalized to one they were air raid that you have for using t. i. digits as training auntie i did just as test
+different words i'm but
+and then the wrong that you have increased the size of the they're on that and
+it's it sounds have to be careful because we have no
+and we can't see any on the first line of the table that's it's actually slightly worse when we don't use that
+is that we made about the assumption concerning the online on my station
+anyway go ahead
+
+so the ratio if our raids
+so fine
+let's use the commission me base i
+just that yes there is a reduction in performance when you don't have this when you don't have
+@reject@ sometime is that what's when we don't use that it's not that much
+about but what is what is currently running that's that just filling in holes here or
+it's just sort of sitting right on the the column online
+so these out areas and but i we online on my and treat
+
+so it's two times but inclusive i think
+would you mind bringing in the room and making copies of this
+so go ahead that right
+but it's it sounds like but
+in comparing different bed resells can be tricky but i
+but i think it does suggest that it's not so much cross language is cross type of speech
+we get the other thing i was asking though is that i think that in the case
+that sixty one point four
+
+much you know in general one yes so i also copied the results that we all got an email i think from gee i go to them also so where are we on our runs so we so i say was already said we mainly focused on what kind of future that the be the p. v. terrorist out the m. s. g. and and she from the byzantine or
+women you have it here for the italian that's
+of things you know once and that's get retrained so you have this problem out of it
+band work and what combinations of things
+that i mean we should return that to this o. g. i know
+be one single gal to consume everything or
+so that's something that you're you have untrained get better preparing to train
+
+the from the front of the room pausing for
+but activity we didn't train that welcome both types of state i mean
+and then there were parts forty that and it's
+i assumed that this was not important because previous results from down and show that both values you the same it's it press
+how are we going do combine with what they've been focusing on
+we have been doing any of the you know the a roster sort of thing
+in the text they say that this is a tentative block bag of a possible configuration we could think of
+
+it's the broad and the fourth
+no actually it's interesting so it's so
+the what was it was this number forty or
+who was roughly the same as this one you said when you had to choose
+when you had to choose language versus the three language for that's what he was saying
+what's that what this or this table that we're looking at is show is all testing for t. i. digits or have one
+
+it doesn't seem to matter the difference
+seem to matter the difference between train four's not particularly great so that means
+what would it be with jared that we describe the same
+@reject@ sometime is that what's not that much
+multi french multi stan so it's so the french the spanish and english
+so i think what time what i saw and they're smaller chart that i was thinking of was it was there were some numbers i saw i think that included these multiple languages and
+
+it press true k. digits but platoon italian the
+second thing is to unionization us and like
+and too bad did something to friends
+that it she initialized that something to me and owns like computing these owned ninety five first frames a future terrorists
+there where all them i know difference is the fact that
+and that she used to see hero instead of like energy
+
+about how much worse and around let's see any person twenty persons person aren't there
+there it's moving the task specific training and it's adding other languages
+multi french multi sometime is that what's m. s. n. and destiny so
+old one so it's we'd always order yet
+one so it's using all the that's for that but again we have yet but
+
+that's important so what it's saying here is just that yes there is
+like eighty eight and am it to say that imitating one that i've trained on future we south and there is tapes
+and it and i was seeing that it got worse i think i was always
+and they although they don't talk about it in this note
+that sort of sounds like they're not doing that
+
+the brining my state is what you got this one point one so that's ten
+but i think that given the pressure time we probably want to draw some because of that especially want to draw some conclusions from this some reductions
+we e. in work so the idea of using both futures come net books
+or or know from dave
+i mean not uniformly
+
+but when you add in more trained dated keeping around the same size it performs worse on the t. i. digits
+is that a noisy condition
+this note there's the issue of the new law business versus log rhythm
+trunks of is that the media filters enforcing that it's not going to be single cases of science i friends just
+just out frames and
+
+but wasn't there something that you did where you trained on one language and tested on another me
+thing on you probably must have this lined up to do try
+lined up to do try the same but exact same training do testing on the other languages
+if we trained and that's works on english and part specific task
+so there's a question of whether you would right with you would transform together or just one i want to try it both none no
+
+this will be a good section for our silence detection
+there's everybody
+that still noisy
+son training they had a time
+
+you mean if it's trained only on and data from results are all seem you know only on
+you mean if it's trained only on and data from just that path that language only on just the task
+fun because then you would say that in that this phone in this context is the one but the same phone in a slightly different context zero but but
+that would be even more distinctive binary decision i actually would have thought but if
+
+i'm kind of i'm i me that did that we are
+i'm kind of i'm i me that did that we are
+but training test
+in going to a different language
+
+but because that's what you were just doing with this ten percent so i was just
+so it's so when you go to a different task is actually not so different it's when
+and the noise is different and perhaps the noise are
+and ask them to talk to put one that's one side of the for frost partake of funny my once i have the boundaries decision in every in
+
+the only difference is that it's not getting
+great so that means that whether you have the language in or not it's not such a big deal
+son training and always septic how they had a time
+training we did think that self each
+
+i've a suggestion actually
+a suggestion actually know the last slightly would you mind bringing
+i mean that's interesting because it
+it's just a word aerate racial
+
+because it seems like what it's saying it's not so much that you got hurt because you didn't have so much representation of english because
+because the other case you don't get her any more at least
+so this would from this you would say it doesn't really matter if we put finish into the training of general that if there's going to be you know finishing the test
+that's what it is but i don't know how that's different
+
+mean you haven't done all your tests and all the languages
+i thought you should or something like that last week you had a you
+are we going to look at any combinations of things you know once and
+but again we have the hope it's we have a hope that it maybe it's some making too much difference but we guys maybe
+
+but it's not the king case it's a
+and make some strong decisions for what we're going to do testing on for next week so dude
+so dude great we did you have something going on the side with multi band this or no
+or from dave b. s. b. on ninety
+
+so you have more information your features so
+it's easy formation shred of on because it's
+with you would transform together or just one
+i want to try it both ways that's interesting
+
+and we think that with this approach perhaps we could read use a number of what puts it in your the tour
+and that's right that's i mean it just we just changing their they boast to train that's with fewer out outputs maybe to working
+we just changing their they boast maybe to working
+and which i show that this distinction between this speech in silence because
+
+and then something that combine both and
+do the source and so your that's or you know it's i mean that's you have and that's foremost we'd and that's i mean
+definitely pass so by the way
+fifty did i interrupt you were there other things that
+
+kind of future that the be
+so that's important so what
+parts to upper parts for k. digits
+
+and also on the brode english french and spanish database
+so there's servers and potatoes for dependent approach and
+and i tell you what you typical surveys that it's just networks strain on that's it though it works but the
+
+so what how i mean clearly it's going to be good then but the question is how
+or the other way around something like that
+but we've done a bunch of things we're just trying to one language right
+
+have broadband i mean my son what i saw
+son what i saw the early results i last week was that if you train them one language and testing on other say that the results were relatively poor
+i see is there any difference in
+
+i know the numbers army i'm just
+she didn't train on timid contests on italian digits did not do we no we did
+that there's a difference security would between it being generous ties that
+
+the three language is not digits it's the broad
+already right there but the first step is or if you're moving to specific from
+right there moving to specific from
+
+so and the fourth just excluding from these three languages that english it's that asking creature
+so ferraro gidget franks example
+they had but on the other hand maybe they can get by with a smaller that and maybe
+
+the they're on that and maybe there's just down and complexity to it represents the very been increased very ability and the training so
+describe the same and see with a slight increase of p. r. a. rates would go to commit and then
+and then it's gets get with them and getting
+
+if we can take a look at it while we're talking i think the
+so go ahead the i'll sing a song or dance or something like that right
+if you're very fine categories is very but they think perhaps
+
+what was it that you had done last week when you should do you remember
+what when you showed me the table last week it's part of
+table last week it's part of this recent
+
+and then so and they non mismatch clean case your best one was under and that c. c.
+m. s. g. but they come in at the moment
+so there's a question of whether you would none no
+
+classes and was somewhat pry means twenty seven
+pry means twenty seven this is sixty four
+and you have the original features which
+
+space fine asti just i'm much of what they did defense
+fine asti what they did defense between hasty and basing over
+because this baseline or above it
+
+and it's this is mostly better than baseline although
+than baseline although in some cases a little worse so especially that appears twice
+it's the same point we were at when we were up in oregon i think it's see hero using his instead of sucking edgy
+
+many times you know
+i know we have a big thing that me out too rejected
+
+did you fix something unprecedented hello what because it
+did you fix something unprecedented hello what because it
+
+hello don't maybe a turning austin turning
+hello don't maybe a turning austin turning on the mike
+
+ten five
+written on her she definitely like for mice
+
+that the be the p. v. terrorist out the m. s. g. and and she from the byzantine or
+just train one night
+
+we've trained to surrounding around it works on
+supper third so
+
+so you were saying about the training data
+right and if it's it's around one point one
+
+so for italian on the time in speech
+the one that this includes
+
+it's adding other languages
+so you trained on one type of digits untested another wasn't there something
+
+you get something like one point one frizzy using the same language but a different tasking something like one point three
+something like one point three four three languages broad no
+
+one point four more security
+because there's press one important thing that brings and which i show
+
+producing around one point four
+and if you exclude english in this combination with that
+
+it's two times
+i think it's the same point we were at when we were up in oregon i think it's
+
+so that's ten that right
+so it's been limited tenet
+
+can alert sampling right
+so you us more information and
+
+it sounds like we may need to have more of things that are similar to a target language or i mean
+so u. s. tool parts to
+
+the training so that could be
+so u. s. tool
+
+let me check
+b. s. b. on ninety josh from down there
+
+for he removed english right that's what he was saying
+tampa
+
+me no mixture justin
+then you s. m. s. and andy which are
+
+but we've done a bunch of things
+right when matched matched condition
+
+i do we but from the birthday
+did you do different languages from this but i mean does
+
+the first four o. c. sweat matched on this
+matched on this sickened group of four she's mismatch in
+
+which are for french spanish and english
+the way we do we now is that we have in your on it's working
+
+i think i was always forget some very limited
+forget some very limited results then at that point which showed
+
+so that was cross language and
+and the result was quite poor what
+
+so the some kind of a an effect from having these this broader coverage
+i what we should do i doing with this is try a testing nissan the same sort of thing on you
+
+in what out there before they can talk i mean the
+two seven broadcasts
+
+i mean the but networks talk trained with from or two digits and that's true
+so that's match training is that what
+
+and that's the the third section in the upper part under guilty j. roster for
+and my first thing you said that's so you it
+
+so why do you get your best number so training and that's and different
+from this some reductions and what we're looking at
+
+it's a kids but
+kids but training and that's on the same
+
+so if you look at and that's on the table the first row we take you six hundred and forth tree and seventy five
+frame but he to me now
+
+correct but still the networks are very good
+i mean for instance the thing i was argue for before but again which i don't think we have time to try something in which you would not if the code so you could train to have several outputs on you circulatory features
+
+so you it regression part
+so and that's more quickly
+
+i changed the code
+size slave word but connected
+
+the friend goes i don't think sexy and he said i the same way she does
+it's and it is true that if there's two phones that are very similar that the it may prefer one but it will give a reasonably high value to the other two
+
+so what they expect is that these numbers the a big go down but perhaps
+person that would go that would be much broader recover many different situations
+
+i we tend to stop this subject
+in every in went for another fundamental aside am
+
+so for that reason when you in a hybrid system when you incorporate context one or another you do get better scores
+but i it's it's a big deal to get that
+
+nobody would still be even more of a binary decision you be more
+you be more fun because
+
+i actually would have thought you'd going to go the other way have fewer classes but if
+so i think you know we need to choose that just experience carefully so
+
+you know what are we doing four or five days
+and so we have to be concerned with
+
+it are we going to look multi band work and what
+what something using piece of articulation sweeps
+
+what questions are going to ask now
+with certain you've got that's retrain
+
+our there is an h. u. k. trainings to see that i'm
+to see that i'm trying d. h. d. gateways ed b. n. b. twenty five ninety that is done i miss his chest too but it's
+
+m. s. g. and guilty and
+and is this with the revised online normalization we'd
+
+if you say if you have a place characteristic in a manner characteristic how do you
+could be including the features including the teachers
+
+one that it's one that's with thirty seven up what's and
+sues everybody other way of what you were saying a better going says
+
+because what i be the effect that tough tomb reducing too much information is basic what happens in
+do you think if you include that plus the other features but because
+
+no i can fix
+if awesome
+
+this house so they just trained up and that's which is two outputs i believe
+i asked he make whether i
+
+the other me this competition and managed to having a separate that anyway
+so they're yourself a pretty good
+
+but they said the question was do she sized
+how i've trying day that be think that
+
+in new york and earlier experiments they had taken l. d. a from a completely different database right
+because maybe you did say situation god they know then that's that tiny anyway they
+
+was looking at it was mostly thinking about the v. a. d.
+but i don't know how that's different from
+
+they're you know so what they're doing here is if you look at block
+but that if you look at block diagram they estimate they get it that they get an estimate of whether it's the future silence
+
+so i mean in that in the decoding you're saying we were going to go from here to here i
+i think they're they're treating it you know like
+
+i think what i mean by that is they're trying to come up with any block diagram that's plausible for the standard
+certainly be tricky about it and try in transmitting voice and for listening to is that these kinds of things cut speech off a lot and
+
+so i we are going to do the digits it and
+
+written on her she definitely but channel that's the like mike number five and channel four like for o. caught mice that's
+
+written on her she definitely mike number five like for o. caught mice that's
+
+and general too i think
+
+on genomic much you know in general to
+
+gee i go to them also
+
+so where are we on our runs
+
+and refocus afforded the test box on english patient eat at him
+
+so on the two digits english and it's and they tell
+
+how about the our disaster pausing for a photo try to acquire
+
+how about the from the front of the room for a photo
+
+pausing for a photo opportunity
+
+let me give you a black screen
+
+so it's been a truck a strain on the task picked down tend them more but see what
+
+and kitty we have results are all
+
+of state i mean if you could fight to keep
+
+you could fight to keep balanced d'etat that's good
+
+we don't need it either and s. asked it or protein
+
+but the question is how much worse is it if you have broadband i
+
+but the question is if you train on one language but you have a broad coverage and then test in another is that improve things in comparison
+
+we use the same language
+
+to so if you train on t. i. digits untested italian digits you do
+
+i know the numbers army i'm just imagining she didn't train on but i did not do we
+
+but the same language that though but every
+
+what which and that's three languages that's including and the fourth is
+
+example when we go from it just training to make training we was around ten percent
+
+really cara rate increases ten percent or in the case
+
+so it's the combination of two things there it's
+
+so when he strained owned the mitigating glad broad based our number so the
+
+if our raids with base i never rate is around one point one so
+
+i'm i meant something different but baseline so let me we are
+
+ten percent so i was just i just kind of understand that so if we call
+
+but the same task and so
+
+on call that one what you're saying is that the word air rate for the same language but using different training dated and you testing on see tim and so forth one point one
+
+you do go to three languages including english it's something like one point three
+
+so it's an additional thirty percent producing around
+
+if we exclude english there is not much difference with date that we think
+
+i think just that's interesting p. see because
+
+so different it's when you went to these so
+
+because in both of those cases you don't have the same task
+
+both in both of those cases you
+
+so is the training data for the for this one point four case
+
+does it include the training day data for the one point one case
+
+how much bigger is it
+
+it's two times like kitty
+
+but english they no devastating glad databases are two times it brooding dish naked
+
+just wanted to keep the two huge so
+
+but inclusive would include surprising i think so too
+
+can alert sampling right
+
+we may just need to so
+
+so i mean it's interesting that they had going to different task didn't seem to hurt us that much in going to a different
+
+it sounds like
+
+so these results with that pictures driving now that are pretty similar for the different teachers or
+
+if we can take a look at it while we're talking i think the
+
+i wonder were all three of these net using the same output this multi language labeling but it's it sounds like i mean that's interesting because it seems like what it's saying it's not so much that you got hurt because you didn't have so much representation of english because the other case you don't get her any more at least one it seems like it might simply be a case that you have something is just much more diverse that you have the same number parameters representing but
+
+i wonder were all three of these net using the same output this multi
+
+this multi language labeling is using
+
+be careful because we have no a good result yet
+
+you know you do have to be careful because the pumpkin
+
+on another he didn't have three that you just had one language so you trained on
+
+of that re say trained on smashing tested on t. i. digits or the other way around
+
+there was something like that they showed me last week
+
+we never just train one night
+
+did you do different this but i mean does
+
+did you do different languages from digits does
+
+digits on another language you mean training digits i think wage in using the nets to recognize him yet
+
+digits on another language him yet
+
+week you had a little
+
+so i mean what's that what this used immersed or we should have one
+
+k. digits and if i did
+
+and if i did entry rose before four o. c. h.
+
+in i need me snatched and then
+
+i mean so it's good training testings with different kind of features and what the
+
+so where is the baseline for the t. i. digits located in here
+
+you mean the h. t. kid or i. nine
+
+it's the one hundred number it's
+
+it's what all these numbers are the ratio with respect to the base
+
+this is word the base
+
+this is word rare rachel so high numbers that
+
+so high numbers that
+
+so seventy point two means that richard or it's and like there's that person
+
+that person
+
+so if we take
+
+and multi english refers to what do
+
+but with increased frame numbers
+
+which showed having in these other languages in fact it might have
+
+in fact it might have been just this last category having two languages broad that were english was removed
+
+what i we hadn't seen yet was that if you had in english it's still before
+
+now what's the noise condition of the training data i think this
+
+is what you were saying the noise condition is the same it's the same
+
+aurora noises in all these cases for the tree
+
+the training attest and yet we're no you this same
+
+and yet we're seeing some kind of effect i think that they saw the first
+
+seeing some kind of effect i think that they saw the first what the when matched matched
+
+right so so forty
+
+because amusing using and then that's working on you know spanish it's your or it just almost twice visiting all right
+
+she's thing that when you train in english and test on
+
+you don't have training recession that there is another difference
+
+recession in that there is another difference is that the noise out there
+
+do we have any tests that's any other language that have the same noise as in
+
+kind of something real quick in
+
+in the upper part the english it looks like the very best number is sixty point nine
+
+roster for the middle column
+
+no that the pot so it's
+
+so it's i knew me smashed
+
+so why do you get your best number and that's and different
+
+when you get your best number in the clean case it's
+
+case it's relative to baseline matching
+
+so these are not all right i see matching
+
+so the supper third so
+
+so it's always noisy
+
+i think this will take some looking at thinking about but what
+
+no we done into physicals but
+
+physicals but i could eat there's something important is
+
+he's out to recess we append for that young we've strayed the future us using all my nomination
+
+and but what's in the table and just at that that get beat us online on my mission calm so the number
+
+worth that seventy nine so the number seventy nine fifty four and forty two the results thing by plenty about the is online on my are online i my edition approach
+
+that seventy nine
+
+and treat teachers to educate them
+
+them the prehistory so seventy six and so on are we our future straightedge kids so
+
+kids so what you see that is there is that the way we were doing this was that's correct but
+
+so do you know what was wrong with the online normalization when we using that networks on number are but are that's the beverages
+
+so do you know what was wrong with the online normalization or the beverages
+
+they was if they were different things and
+
+i use to point five percent which to close to you and the programs here
+
+and but the values five person so
+
+like jodie what we where doing just to start the regression from the beginning of fifty rounds
+
+and using echinacea a i use that oz go about i mean in torrance measured across the world database
+
+is the fact that she's fifteen d. c. instead of thirteen
+
+but the main difference consumes the readers so
+
+see i see the friend goes
+
+actually i stocked i don't too and fifty can decide to five frames before computing i mean and the variance three two to stunned regression
+
+i use online scheme
+
+and only started precursor to that insight into his frame but
+
+so i retrained and that works with these
+
+but like the networks are retraining with these you teachers
+
+because i think and you're on the torso and perhaps
+
+so dude great we did
+
+subject anyway discuss but these
+
+what we could do morrison's researching
+
+researching we were thinking perhaps that the way we use it and them is not
+
+when there's basic you going and the because
+
+the because we train the networks if we trained and that's works
+
+what we ask is to the networks to put the ball and the decision bond every somewhere in space
+
+am so there's kind of reduction of the information there that's correct because if we
+
+because if we change back and if the funniness on it in the same context and in your task just eat decision boundaries on up should not be at the same place
+
+but the way the future i the way the network if the features is that it's creatures company did it's removed companies information how about some information from the teachers basing the decision boundary stepped up to my place for one kind of state that but it's
+
+that's but it's not the case so another kind of did
+
+something like you funniness within context what
+
+maybe i mean i think you could make the same argument be justice legitimate
+
+but you it's something different we went to future
+
+we went to future is
+
+but it's still true that what you're doing is you're ignoring
+
+you're ignoring you're coming
+
+you're coming up with something to represent whether it's distribution pro distribution of our futures
+
+coming up with a sitter variables that are representing things that very over context
+
+and you're putting it all together
+
+that's true the hybrid system true for
+
+true for tennis
+
+and once you the other thing is that what she represents start repeating more context it is much more specific two particular tasking language
+
+so the acoustics associated with particular context christmas you may
+
+christmas you may have some kind of context that won't never occur and one language and walker frequently now there's a crazy
+
+issue getting enough training for a particular kind of context becomes harder
+
+we already actually don't have a huge amount of training did
+
+dimension internet working train almost to give binary decisions
+
+and binary decisions about funny
+
+so it's almost binary decision some
+
+nobody would still decision some the idea of using more classes is to get something that's less binary decision
+
+you're right but u. s. more classes so you
+
+put cereal sector
+
+it's supposed to you know to discriminate amongst funniness in context
+
+to i mean we could disagree about it links but the
+
+it links but the real thing is if you're interested in and you probably try it and
+
+try it and pull see
+
+but is i'm more concerned with now at the operational level is you know what are
+
+what is going on right now with certain you've got
+
+combination i see a combination it
+
+but again we have the hope it's but we guys
+
+so there's this combination working in
+
+working in of
+
+i we stopped working mostly down and
+
+so get simpler networks because we the teachers
+
+because we the teachers
+
+so we have come up with different kind of broke funny he get bigger race
+
+and we we have three types of brodsman that's just
+
+sweeps which leads to nine i think broadcast this
+
+another which basin manner which
+
+which each something so we like nine kassy's
+
+both and me have pennies twenty five
+
+so what you like back fellows from the fellows
+
+do the source and so your
+
+mean that's you have foremost
+
+but i didn't understand and then
+
+the software currently just has a laws for i think the one hot i'll put so you're having multiple
+
+so you're having multiple that's and combining them or
+
+how are you coming up with
+
+it's like spend on that like if you were texas
+
+could be including the features i don't including the teachers
+
+i don't think this would work i don't
+
+i think it's going to get worse because
+
+these nets are trained on what concur condition i mean do
+
+condition i mean do they both are thing and can speech and we had a after
+
+but perhaps something intermediary you single so some protests could bring some much more information
+
+so again we have these broad classes and
+
+then just remind me all of that goes into that all that is transformed by k. jail or something
+
+i see so there's a question you none no
+
+yes i think he nickleby here monday
+
+so that we can get key questions answered before then and these
+
+and these other ones side even if it's the same complete tables someplace
+
+it's really time to and to choose
+
+did i interrupt you were there other things that
+
+you were there other things that you wanted to
+
+so something i asked so they're
+
+something i asked so they're doing the v. a. d. i
+
+the v. a. d. i they mean voice activity section so that against this house so they
+
+haven't talked to chanel i
+
+haven't talked to chanel i whether they compare that to just taking and that's we already had and something up abilities
+
+to get the speech joystick detection or else just using the silence if there's only one silence output
+
+and maybe sometimes you don't run the other me this competition
+
+hey there's an example or two that you can find where made it slightly worse but in all but a couple examples
+
+the question and the n. b. a. feet that need some trying set to a thing to fit that maybe
+
+yes and so something and d. a. feet that need i said if i said just i don't think the fact that
+
+very good question then now that i understand it's you know where
+
+it's you know where does the all day come from in new york and
+
+but i to tell you the truth i wasn't actually looking at the l. d. so much when i was looking at it was
+
+a little worse that's what it is so especially that appears twice female my thirteen
+
+of sucking edgy these
+
+they seem here that the v. a. d. is not used as an additional featured does and they know how
+
+silence and the media filter of it
+
+and so they're trying to find stretches the meeting filters
+
+the meeting filters and forcing and it's having some continuity
+
+you find stretches where the combination of the frame y. c. a. d. and the media filter say that to stretch silence
+
+and then it's going through and destroying the day that way
+
+i don't they're saying i mean it's throwing out frames
+
+that's what out frames and the thing is what i don't understand is how they're doing is a d. h. d. k. yes
+
+that's what i was going to ask how can yes
+
+i was going to ask how can just throw up
+
+it stretches again single friends
+
+again single friends i think be pretty hard to
+
+i think be pretty hard to say speech starts here speech ends there
+
+you can removed the frames from the future if i
+
+but connected you know the that
+
+no they have numbers though right so
+
+safe i mean from the point of view of reducing the number of that you have to transmit it's not a bad idea to use accents anyway
+
+idea to use accents anyway
+
+i'm just wondering what exactly did they do up in this people if it wasn't
+
+plus it's going to introduce delays
+
+does introduce delays but they're claiming that
+
+but they're claiming that it's within the boundaries of and
+
+and the l. d. a. introduces delays and what
+
+delays and what he's suggesting this is a parallel path so that it doesn't
+
+so that it doesn't introduce any more delay
+
+it introduces hundred millisecond delay but the
+
+delay but the same time the l. d. a down here
+
+what's the uncertainty l. d. a. n. s. temple inspect spectacle
+
+n. s. temple inspect spectacle
+
+so it's the temper l. d. a. does in fact include the same so
+
+so i think that it's to do that in this because in fact
+
+in this because in fact it's going to give a better word air result and
+

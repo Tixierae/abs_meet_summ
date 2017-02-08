@@ -1,0 +1,872 @@
+travel too makes you turn your microphone on
+channel your channel numbers already on this blank sheets they just
+but i can set higher like
+this this test that's that seems better
+and then we were going to do something with the transcriber interface is one thing but i thought there
+but you know what opportunity should we
+pre chorus i think it's got some experience
+because in all the previous experiment's we had the you know we were especially cheating by having you know the i have to contestants the base of the recognition and so now
+it you think we should increase the
+my chunks but with you or did
+quick i mean i don't how long does your should
+yet no
+that we actually have a stream going i mean you know how it does and how and i print i think that would
+because you know there's you know all the that was sitting there has been transcribed in there and they're faster that the pipeline is faster than than degeneration
+they precipitation just so much i was extremely helpful now there was
+this but actually it's so correct for so much of the time is an enormous times here
+and just a sweet little run down trees
+and they don't have to prove right before july
+and they don't have to prove you know the unedited version they can just get their approval to whatever right before july in principle
+ill anyway have what we've gone that's a lot to ask for people that have men and a lot of meeting
+which i also being given some word features that are cheating because they're true words
+sometimes editions consensus or the purchase was helpful i don't know if that's at actually
+i don't know if that's cheating too
+type finding sense boundaries finding this one's the boundaries and
+one's the boundaries and then i had done some work on finding from the foreground speech whether or not someone was likely to interrupt so where
+so where you know if i'm talking now in some in an address is about to enter at me is he going to choose a certain place in my speech either preside a clear word based and they
+and they are the presided futures actually showed up
+fires and we just reporting very preliminary but suggestive results that some features both word and prop pathetic work
+i think that was interesting to me is that the pitch features are better than in switchboard
+and i think that really is from the coast talking mikes because
+words for you know five where that much
+tried that attitude and help dramatically
+out of balance i didn't and then
+by adjusting that the
+they are change for probably one percent or so but you know given so
+and really isn't sixty were you in sixty four
+and really isn't sixty four so that's were you in sixty four
+as i said before the using bands vocal tracks normalization option works very so
+right and what that's just also is of course that the currents switchboard mot isn't trained on very good teachers new things but
+what's actually quite interesting is that with
+were in the too and it's probably something like there's one fewer one more filter in the sub one kill her and for whatever reason
+and for whatever reason with this particular experiment is better one way or the
+but it you know i don't know yet
+right those two were together we were able to separate boxes or one
+the low frequency cutoff else remember so that was
+that's we have something more fancy it was like
+unless you call if you call killed a friend and that's a little more but
+that's what i meant for the tandem
+for the tandem you know so we
+so the you know so we can see if what effect it has on the tandem
+i wouldn't expect huge and huge improvements
+and all that so it may not apply but my recollection
+
+anyway long we go and how good the snack is out there get
+and so they truck
+one which will because we had a lot of attrition and
+too they die off after they do
+you know it's various things so one
+various things so one of them had a baby you know one of them really wasn't planning that was about unforeseen
+so it makes sense it through attrition we were down to but they're really solid we're
+good car but still transcribing this meeting
+change i mean you can compare it to death on the just so
+just shitty in principle i would say yes although i still i'm doing some the final past editing trying to converted
+if they've to that i forget how we end right i figure
+to that end right i figure how we ended up on this but
+how we ended up on this but i remember my taking the position of not making it so easy for everybody to deserve everything and
+it's just the audio was the trash can he wanted to do web interface that would make it
+that would give you access to the transcript and you know you that's
+and you know you that's what adam on it
+it also be interesting to look at the e. d. u. meetings because we
+meetings because we did include meeting tight as a features so
+then then you do with the standard
+and so so the of the code us know anything about that and so this is all
+cancer percent but wasn't like
+i because we need to do the exact experiment
+i mean the reason i think it should is because you're putting in the same information and your transfer may need to be more discriminating
+
+the gate begins up about it what usually is that if the
+so i had a question for adam
+anyway they won't be identical us somebody sings there in some sometimes you know things are so like an identical there get some advance intelligence right
+anyway they won't be identical us somebody there get some advance intelligence
+boring course
+have an agenda
+have to take the reciprocal the number because they have different meanings that to this one
+and you slice them into so we just use those
+see this is the issue subtleties the thing too it's changes clarifying question then you know how can they to it before they know her final version
+i mean it's i one thing we're learning is that the amount we
+is that the amount we have eight meetings there because we couldn't use
+and whether or not some of the back channel and so forth
+the rest of the month on the average it it should be
+could have to do with the lower frequency cut off on the switchboard so that's actually good may maybe
+but you know it didn't change the by adjusting
+the turnaround time on the training when we train only the email system with you know are small training set this lesson play for our so we can run
+why i wanted to look so him looked at i
+him looked at i want to look at exactly where the filters were in the too and
+this if this went back to i think wall street journal
+made a parameter so it i if you get it right he did fix it and
+some we're going to another thing that under s. and i were talking about was so
+because in a sense then that's already got quite a bit of context and those teachers so if
+
+my and they'll be funny when you're really reading digits and then there are the chunks but with you or did you see him
+i don't know the last one seemed like it took a couple of weeks
+but will be possible future because we
+so you were saying something about organizing the meeting so
+and have been putting it into a spreadsheet with start time the day the old meeting the new meeting name the number of speakers the duration of the meeting comments you know what it's transcription status is all that kind of and
+of and so the idea is that we can take this and then exported h. announce mounted on the meeting recorder webpage that we can great
+at because the pathetic features are very noisy and so you need a lot of data in order to model them
+i'm so we're starting to see some patterns and we're hoping that maybe
+to this point and i think it's something mari can probably in her preliminary report like we're
+like we're at the point we're training these class fires and we just
+true to try to get in on cheating version of how all this would work
+i tried that attitude has which i think just talk about this the other day but that has never had a chance to changing and searching found these sort of things with with see using the tandem system
+but you know given that murderous so that
+but if you add them up you have almost five percent difference
+so that's why i really know we better have a high pass filters just
+high pass filters just you know just take care of the problem so i put in i have to
+
+features it could just put the i mean that's what the cheating because you can detect pause pretty how about time and it depends
+to different speakers even though there are huge speaker effect so
+interrupts because they're just fewer interrupts and the robust meetings and
+it's and i think john we have a long list of things he's starting to look at now over the summer where we can
+and he'll be able to report on more things in the future but it was great
+in the future but it was great that you can at least go from you know james transcripts and i recognize or output in to this point and
+better in one sense talking mikes because the pitch processing that was done has much cleaner behavior than the switchboard telephone less
+first of all the pitch track from have less having been doubling than switchboard and
+may maybe you mean to tell we had tell from endless for switchboard and
+right but all of these effects for like a couple percent
+right but all of these effects for like a couple percent
+and i think i agree with you that if we fixed lots of different things in their all that up and probably have a competitive system but i
+so i think that's the real power but i wouldn't expect huge and
+
+erie we started recording
+me that we can talk about
+to the ones who had been put in a lot of hours up to this point and there continue putting a lot of was wonderful
+for the new ones with the tighter boundaries
+now there was a good so a couple
+as long as we have a record i the original automatic when you can always find out how we would do in recognition side by using those boundaries
+but let me put it another sort of milestone as i did with the the pipeline
+we are going to have to start a meeting in the middle of july
+smile heads thing
+anyway have what we've gone down the steps a number of times i know this can lead to extended conversations they're not really get anywhere so the latest that have men and a lot of meeting
+yes anywhere so the latest suggests that offline that the people involved figure it out and take care of it before so i
+
+that was separate from the interface do you remember
+just get together and even the good thing is it since you have high recall even if you look for session because they're over generating that's good because
+that's good because we could train noise models and recognize it for these kinds of transients and things that come from the microphone but
+you see the crime carmen i forget
+i mean they're all different databases and different you know any c. k. and all that so it
+but my recollection of it was that it didn't make it better but i didn't make it worse
+
+and then i'll give it to brian in they can try that out when we get that
+that out when we get that back we'll see if that sort of fixes the problem we had with too many beats in the last transcription
+these things and she was saying the short patterns is of the you know
+and no we had mentioned it to us we're getting like
+that's what we're seeing in other areas
+so we but we may not i mean if it doesn't perform as we may not know why i because we need
+
+maybe even three
+so we the transcribers of continued to work past what i'm calling set one which was
+of words and the rest of the month on the average not exactly but it
+so the thing is do we expect at this
+at this point i'm ass i'm you know i'm wondering is it can we expect to tennis and to do better than that properly trained you know a godson system trying to like you know in the future is with you know the rights choices parameters that's
+kind of that's and so then you have to use all fifty six of the guilty
+
+they before we do the meeting to organized thing maybe you could say relevant about where inscriptions
+my fellow was one point five percent one was point eight
+you probably maybe another half percent if you do the detail and training
+it was there was one thing that was on a half percent was play
+and but h. p. s. you know when you put a number after it he's instead of it's about safety of finding honesty
+frankly we never did that with the ross of filter either so
+
+notice my thing i could hire additional people my age too
+and not and they wouldn't have been funders if it'd been this other word you know
+if they've to that i forget how we end right i figure
+something like that and i mean i would say no like i don't want to know but some people might
+but some people might be really interested and then in other
+i think have you tried using this time as opposed to the number of words in doing is
+
+so jane in adam and i had a meeting where we talked about the reorganization of the directory structure for all of the meeting just recorded
+for all the media recorded it
+and so we've got a plan for what we're going to do their and then
+their and then jane also prepared a started getting all of the meetings organized so she prepared a spreadsheet which i spent the last couple of days adding too
+that's another interesting thing the average number of speakers from meeting is six
+about was so then the first experiment that he did we just took the whole fifty six outputs and that's
+
+so i think what it is that the thing that they sign i look at in a while but it has to be open enough that sort of says from now on you know now that i've read this you can use do anything you want with these data
+and but i think we wanted so
+right but roughly speaking to recognize where they're going to give you a similar type of position either early
+right they give the number of words and either early or late not
+and i never put anything in to adjust it for different sampling rates
+much and part of what i do is real power of it is that there's your transformation capability for taking all sorts of different while to things that we do not just
+
+channel there's a battery
+i came up here and just recorded the numbers one through ten
+so they really appreciate i was going to say that
+and it actually talks and she did
+and you don't you there's no way we're going to go back and ask everybody do you approve this you know this document now so
+
+yes and i mean it actually it might be good too have them separately and have the same in fact strings i mean
+i mean could use them for an online thing or something but
+like the fastest one so he just cut those out and splice them in between two beats
+a reasons but if we hire you know we have five on staff five or six times at any given time then it's a small enough number so we can be flexible either way
+yes done ready they'll i so that in july we can tell people yes we have this and you can use it
+
+i've got a couple of things to talk about he's ill so
+i b. and and just getting meeting information organized be
+because if the idea of a thing comes through really quickly then we would want to have to but you know lay people off and so
+this way and i got really a lot of response for my notice my thing i could
+and to use them for training at all for whatever you have to
+
+one which was accepted and talking about this point but they've gotten
+but they've gotten five meetings done in that set
+right now they're in the process of being edited
+they disappeared from view
+anyway i agree that at some point people i won't care about typos but they would care about significant meaning changes and then
+
+a lot of was wonderful an excellent work and so
+and so then in addition i hired two more today and i'm planning to hire a third one with this within this coming week but
+it should we go through and do the business is of having the participants approve it for proves the transcriptionist for description and so forth
+it just shitty in principle
+like there's a lot of different features it could just put the i mean that's what the cheating because
+
+it you out there's a point at which i agree it becomes ridiculous because you know you could do
+because you know you could do this final thing and then a year from now somebody could say you know that should be a period not a question are right
+how about having an improved the only enough to try
+that and so this is all they kill a person so
+he made the primer i don't know if stan fixed it or
+
+that it was the trash can he wanted
+simpler if we could count on listening listen to hours
+don't enough that was in the i mean time position
+don't enough that was in the start i mean time position relative to the beginning of the heart
+that we do not just the standard friend and but other
+
+you know talk and i talked and the next thing to do was probably too and the size of the cussing system to this feature factor which we have not at all just
+know each makes has ten thousands and were you in sixty
+at that point we're pretty new i didn't we
+and that's compared to a thirty nine input feature victor either m. s. is here p. l. p.
+but one thing we could do is i mean just definite
+
+going on this got a month left
+just we got you got it is for a bunch of no
+that was all previously here
+and the transcriber thought that the easiest thing for them would be if there was a beep and then i and number digit and then a beep at the beginning of each one and that would help
+
+i just because i didn't have any more digit she
+so just getting better signals and in the state
+anyway down's been doing a great job and i hope to
+job and i hope to continuous under is health and also some of appeals help us
+
+we have to train
+pre i think it's we get like a chorus
+but it's not but they just with age kind
+the reason i'm asking is because it and i've just been talking and she's just been doing a you know for their hiring of transcribers and so
+
+is their that's happened about that's right recognize or et cetera this things that were
+this coming week but the plan is as more of the same we discussed this and the plan right now is to keep the staff on the leave your side you know rather
+you know rather than hiring like eight to ten right now because if
+use should use i. d.'s or something
+
+where'd you get the digits beeps and so we're i came up
+sounds like a radio announcers voice really funny
+what are we handling i mean we should have you record a p. c. for
+but from such a reasons but
+
+i mean particular i would really hope that when we do to start meeting in july that we sort of have we're into production mode somehow that we
+how about time position normalize by speaking and it depends on speaking right see great
+by speaking see great yes use
+for our so we can run lots of he this brute force try
+
+everything and i was taking the position of having it be really straight for people to check every aspect of it including the audio
+i don't remember who won me that
+if it's only the transcript though i mean this is my point that i that's i bring this
+my point that then it becomes i that's i bring this up again because i can't remember how we ended up that it
+
+so these are based on some alignment word features
+word features like word frequency and whether
+so the dominant features including everything so we're starting to see i think some interesting
+so the dominant features including everything where those and she thinks right interesting
+
+and anything there too as i tried some putting the speaker so
+same scale but that but any individual particular implementation of those things puts things in a particular place so that's why did that too
+pretty new i didn't we never really like looked at it on the screen and
+what he did fix it and then and it's taken care of sampling right which is great
+
+what's channel and my
+and my travel too makes you turn your microphone
+we were going to do a mock up like question answering or something
+
+i saw her earlier here
+you slice them into the
+i think would be interesting to combine these
+
+some public she can just walk in i
+i remember
+using the what factors that we considered for this price i'm just applying that's pretty
+
+actually looks like it's getting better
+but it's not but they just with age kind
+so but the part that's actually adjustment of the front and per se as opposed to doing putting be vienna or something is it was couple so it was
+
+we should consider doing some out so we do need some kind of presented
+can grading exams
+there is that there is one problem with and that's when they start partway through than what i do is i merge what they've done with these pre segmented version so it's not that would be great to have to know that and be good
+
+right now they're discreet yes or no for
+and i remember how we ended up i
+mean with the web interface it's interesting because you could allow the person who signs to be in forums when they're transcript changes or
+
+in january and so it makes sense it
+given that we've been we've given a couple public talks about her ready space by months and months i think to be pretty bad if we continued to say none of this is available
+will certainly be done by then right suing
+
+but they're really solid we're really lucky the two that we kept and
+kept and i mean if he can't see it i mean is we got a good good car
+see this is the issue subtleties of the meeting it's changes clarifying question
+
+in today's event that they actually don's i bet we could find some other for them to do so
+because we couldn't use the non native all non native meetings and
+now the thing is in some databases i wouldn't expect it to necessarily give you much and part
+
+that was something that i planned working on this to use so the transcripts of a child done by now and to use them for the new ones with the tighter boundaries
+a good so a couple of weeks ago i needed some new ones and it happened to be during the time he was on he occasion for
+occasion for just very few days you were way they happen
+
+it's actually a record of where they change i mean you can
+that easy but i think one can do that i mean if we keep the old copy of the
+how about time position normalize by speaking and it depends on speaking right see great
+
+at first but we one interesting things was
+i you reported on some cat punctuation type finding
+which i really feel like saying in quotes because
+
+and a neat thing even though
+that probably do better than i wasn't generalizing so
+he made a parameter so
+
+than switchboard and there's a lot less dropouts so if you
+so if you ask how many regions where you would normally expect somebody else to be occurring are completely devoid of pitch information other was a pitched
+other was a pitched record just to get a high enough probability of voicing for words for
+
+five where that much fewer than in switch so the missing
+so the missing we had a big missing data problem in switchboard
+and so the features weren't as reliable because they were often
+
+so high that's not that's not the problem so that's not the problem
+so that it's a relative
+differences and that but i my point was that hybrid system thing we did was primitive and anyway
+
+and all of them my fellow was one point
+it's called h. p. s. want the
+p. s. and but h. p. the safety of finding honesty
+
+so one thing we were wondering is if we did principal components and say took out just thirteen and then did deltas in double deltas on that so
+deltas on that so we treated this verse thirteen as though they were standard features i mean today
+but again given all these differences maybe it's more important in your case that you not take a lot of these little variants components
+
+is one thing but i thought there was a second thing
+so we should just get together and even the good thing
+
+i was reading the digits and i realize that could xerox
+because i didn't want people to turn their heads from these microphone so
+
+we way have the same digit form for the record
+so the choice is which we want more the of the comparison a @reject@ racing it's the same time that's just because i didn't have
+
+not that's not security related to me that we can talk about
+you'll be provided trances when they're i think
+
+just have to take the reciprocal so you just need to copy over to this one
+but i know that if we run recognition on constrained on the whole way form we do very poorly because we're getting in persons in places but that you may becoming out so we do
+
+and so now with the segments are working so i think we should consider doing
+it you think we should increase the
+
+we should consider doing some extra things like no retraining are adapting was for background noise to the to this need some kind of presented and
+and using t. those you know plus carriers of some kind or right now they're
+
+truck chunks
+and so he talks over the transcriber and the transcriber thought
+
+each one and that would help keep them from getting lost
+where'd and so adam little script to generate those style beeps and so
+
+good the sound of that's a great idea
+and so we don't sort of really no exactly what they're doing and how long are we doing and so forth because
+
+so we were going to send him one more sample meeting
+meeting and to does run his segment asian adam's
+
+his segment asian adam's going to generate jump file and then
+by then right suing just we want to be able to say here is a subset that is available right now
+
+to do what do you have any idea to turn around and on the steps are just
+are so hard on our side or including
+
+or including can grading
+things because we you know we presented is possibly a month project back in january and
+
+one of them had never plan to work past january nieces all these various
+nieces all these various things because we you know we presented
+
+event and since we're so far from this it's a little hard to i am this way in the unlikely
+and that's just been through the legal issues and so forth so
+
+he won so i started the monday non pre segment and then switch similar to yours and
+to yours and they you know they always appreciate that when they have it available and
+
+it's even when they create new new segments or something and will be not that easy but
+there is that would be great to have old time x. just so that if we run it we know whether we're which ones were cheating and
+
+that there is one problem with and that's when they to know that and be good
+version so it's not a pure conditions with what
+
+pure conditions with what you really like is that they started with preset mentioned we're the always through and
+wasn't possible for about four the recent ones
+
+future because we were
+if you need someone to record this meeting unhappy to for the transcribers
+
+you know a completely non cheating
+but the i mean the editing will continue i'm only if there was a found they will be fixed but they won't it and
+
+i've got to get smart permission from jane because i have some
+from jane because i have some gaps here that i need to get her to fill in but so
+
+of that's what i talk to jane about figure out exactly which ones have been completed and so forth
+but this'll be a thing that we can put up on the the website and people can be informed of the status of various different ones and they'll also lists
+
+in and there's a place for comments so we can say why we're excluding things and so forth now
+and so forth now with the ones that are ready transcribes we have enough there that you know we've
+
+that you know we've very done some studies and so forth and
+in the middle of july and i think you could be given that
+
+trying to converted over to the master file see being the channel ice person it's
+ice person it's it seems like i get into a certain way and then something else entertain i have to stop cleaning
+
+up these things like the the places where the transcriber was uncertain and
+uncertain and doing spot checking here and there so
+
+so i it would make sense to till the that's done
+but let me put it another
+
+i agree i so assuming that it's that kind of wording i don't remember i think we just want to have it enough confidence ourselves that it's so close to the final form it's going to be in a year from now that they're
+agree it's just a question of if the person is using the transcript is the way of them judging what they said the weather was funders then it seems like it's it needs to be more correct than if we could count on them relive thing to the meeting
+
+decided you are whispering and then in other words they would be informed if there was some significant change other than typos and things like that
+decided you are whispering satanic incantations under your breath when you're typos and things like that
+
+simpler if we could count on listening that's we just have to listen to hours and hours of
+that's we just have to and hours of
+
+unfortunately in the same thing they signed it says transcripts you'll be provided problem i'm serious i
+you'll be provided trances when they're ill i think that's a
+
+and or written version so that was
+deep guilty teachers work you know continue to improve
+
+yes use at first but we
+that's one experiment we should probably need to do though and at some point is since we're using that same than that was trained on kelpie without all these things and it's for the tandem system we may want to go back and re train
+
+the speaker so i gave everybody a short version of their names of the real names
+names of the real names are in there which we couldn't
+
+the but the mean limitation now is like because we're only looking at things that happen every ten words or every twenty words we need more data more data per speaker
+one experiment a little more but sort of four
+
+better in one sense less
+i know we have another person with the detail eight that's three
+
+i tried that attitude
+be way off and get very poorly trained you know got since that way
+
+so i ran one experimental where we just that book protect our normalization only in the test data so
+data so i didn't bother to retrain the months at all
+
+and to prove by one percent which is about what we got
+which is about what we got to with you know just actually doing both training and test normalization with the standard system so
+
+it looks like the peel feet teachers do very with after having figured out all these little tricks to get it or
+so you mean you improve one percent over the system that doesn't have any detail in it already
+
+and then interesting if you optimize you've got more wind out of restoring in bestest enough
+enough to my thing the way it's i mean
+
+same scale but that but why did that too
+so that's why i wanted to look so
+
+for something and it was twenty percent which
+but it should at least be roughly the same and maybe a little better if it seemed like way
+
+that was combined with the triangular right other thing
+those two were together we were able to separate
+
+right we were able to separate boxes or one
+and no we had mentioned it to us
+
+it's you know no big deal it's you could
+deal it's you could have ten twenty thirty knows whatever and
+
+they kill a person so it was a forty five hertz instead of ninety so
+ninety so i
+
+which is another helpful but you're fine
+so that was the problem there was a we had always intended to cut off a hundred hertz and just
+
+friend and but other things like with multiple streams and so forth analyze you
+analyze you feed into the other system was this through this funnel
+
+we could do is i mean just definite you say take the fifty
+yes there's regular you say take the fifty thousand these are the pretty finding on one they're ready outputs and
+
+talk with seven
+he gets and things like that you see the crime
+
+channel five they just can
+
+camera so whatever i'm in
+
+camera one camera too when a man the floor
+
+sort of a diesel
+
+that's that seems better that
+
+up and we're starting late i figured we'd better to start
+
+i was going to ask and to say if you thought anymore about the demo
+
+occurred to me that this is like man proper meetings in mid july
+
+member like asking questions and retreating but in a pre stored fashion
+
+that was the thing we talked but i think before the transcriber
+
+but somebody going on this
+
+i we'll see thing or something but it of course goes more quickly doing him in unison i don't know
+
+it i it's depending on how see how long go
+
+it i it's depending on how see how long go
+
+i've got a couple animation tries to put this together but he's ill so
+
+meeting info organized
+
+are you implying that currently disorganized in
+
+this things that were happening before with
+
+you guys are doing much experiments with different fun ands and then that's
+
+we're improve and then that's is that still sort of where was that day
+
+now the you saw the note that t. l. p. now is getting the same as m. s. c. right
+
+it seems it looks i haven't the summer and still not complete but
+
+it looks like the put attracted some investments working goes
+
+but one issue actually
+
+but one issue actually that just came up in discussion with lives and on was as far as meeting recognitions concerned we would really like to move to doing the recognition on automatic technician
+
+it you think we should increase the air raid good
+
+that's what i wanted to do it anyway so we should
+
+yes or no for speaker too consider those particular speaker back background all
+
+so the rest of the interesting things that could be done
+
+so the could be done
+
+so when we do the idea and
+
+so talked with brian and gave him the alternatives to the single beep at the end of each other instead we had generated before and so and some they
+
+it sounds really good the sound that's a great
+
+he recorded three he did he die recorded actually i recorded one through ten three times in three different speeds and then he picked like the fastest
+
+what are we handling i mean we should have you record a
+
+she said it wasn't going to the transcriber said it wouldn't be a problem because they can actually make a template that has beep number beep so for them it'll be
+
+so for them it'll be very quick
+
+to put those in there and the transcribing
+
+that's just the i b. m. side arthritis
+
+side arthritis quick i mean
+
+should be finished today or something that's the overall thing the reason i'm
+
+should be finished today or something that's the overall thing the reason i'm
+
+and so forth because right now she has no choice but to operate in the mode that we already have working and
+
+i so it'd be good to sort of get that resolved since because couldn't
+
+i i hope we can get a better estimate from this one that we send them since because couldn't
+
+i don't know yet no
+
+print i think that would certainly be a very good thing now
+
+i hired two transcribers today thinking of hiring another one which will because
+
+and that will bring our total too they die
+
+know one of them really wasn't planning that was about unforeseen side effect
+
+but still i mean it's just a matter of we're we've got no back meeting
+
+and the other thing is i mean in the unlikely event and since we're
+
+this way in the unlikely event that we actually find that we have transcribers on staff were twiddling their thumbs because you know there's
+
+yes for them to do so i think that eight as we're talking if we heard twelve then we could you know rent a problem later i mean we
+
+problem later i mean we also just couldn't sustain that forever but
+
+it'd be great to this we can we might need some help again getting the tighter boundaries or some hand
+
+or some hand to experiment with you'd have a ground truth for this segment haitian work which i
+
+haitian work which i you have some already that was really helpful and probably is more
+
+and with the tighter boundaries
+
+you have to create some speech non speech label follows them
+
+and but that's the thing was so one time just looking into it
+
+you were way they happen to be during that time and he won so i
+
+have it available and he's usually so they really appreciate
+
+you it i talked to them
+
+and so i asked her i mean they're very
+
+her i mean they're very perceptive i really want to
+
+perceptive i really want to have this meeting up transcribes i haven't
+
+up transcribes i haven't done it yet but i want to do that and
+
+want to do that and she's out of town for a couple of weeks but i want to do that when she returns
+
+because she was saying you know what i in a span a very short term yes it seems like the ones that need to be just are these things and she was saying
+
+you could do it's on the just so that we new
+
+could do it's complicated in that it's even when they create new
+
+i think one can do that i mean if we keep the old copy of the old time x. just
+
+there is that there is one problem that would be great to have to know that and be good
+
+i could do it or chuck
+
+so i went through all of the data that we have collected so far and have been
+
+that we can keep people update about what's going on great
+
+in but so far has of monday the fourteenth we've had a total number of meetings sixty two hours of meetings that we've collected and
+
+and i'm going to have on here the total amount it's been transcribed so far but i've got a bunch
+
+so far but i've got a bunch of that's
+
+and they'll also lists like under the status if it's at i. b. m. or if it's a dixie or if it's completed or which ones were excluding in and there's
+
+but the i mean in principle yes but i mean if somebody actually did get in some legal issue with it and
+
+but they won't change the content of the meeting content
+
+the thing too is there can be subtleties were person uses this word instead of that word which could have been transcribed the other way and
+
+because it becomes in a way of legal documents if they've i forget how we
+
+it's just the audio to do web interface that would make it
+
+they disappeared from view like can sort of say that anything's that are deemed
+
+changes and then they could be asked for their consent i if those change because of some of
+
+change because of some of this i mean we don't really distribute things that have any significant changes from what they assign anyway
+
+unfortunately we just have to give them a chance to listen to it and if they don't that's their problem
+
+done ready they'll yes we have this and you can
+
+to that the part about his project in class and
+
+native meetings and it's probably below specials on enough data for us for the things we're looking at because the
+
+and we're hoping that maybe with i don't know double or triple the date it was twenty meetings or so that we would start to get better results but
+
+better results but we did find that some of the features that i get jane would know about that are expressing sort of the distance of boundaries from peaks in yet or and some local range pitch range effects like how close people are to their floor are showing up and he's classifies
+
+sometimes not it depends what you're looking
+
+sometimes not sometimes it depends what you're looking at actually
+
+sports is not cheating except that of course you know the real words but roughly speaking
+
+right they give the number either early or late
+
+the rest of the month on the average it it should be
+
+the rest of the month on the average it it should be
+
+have you tried using this time and actually that's one of the things we're interested in doing is
+
+just competition like when i went starts start
+
+they probably things into like of the heart try it but it's
+
+they probably things into of the heart try it but it's
+
+a neat thing even though the word features were available
+
+and those don't show up
+
+so that means that overall it wasn't just modeling morgan or it wasn't just smiling single person
+
+but was sort of trying to i get a general idea them model
+
+idea them model the tree class very strange to find general locations that were applicable to different speakers even
+
+whether you are in now meeting recorder meeting were real buses meeting did matter interrupts because
+
+so but classify learns more about morgan than it does about sort of the average person which
+
+average person which not that probably do
+
+better in one sense switchboard telephone less
+
+could have reliable because they were often just not available so that's actually
+
+and we had the i'm annoying sort of telephone handset movement problem that i think they also affected
+
+bit right it's number of
+
+they were higher number of conditions actually
+
+so you so actually it's prefer to have positive or negative some fishing which means deletion
+
+which means
+
+but you know given that murderous so high that's not that's not the problem so that's that's not the problem
+
+though but at least just
+
+not at all just the same configuration that's a used for the standard system and
+
+the standard system and for instance then to send me a message saying that seem you used something like ten thousand for cluster
+
+four so that's a big difference and might
+
+difference and might be way off and
+
+and put train extra weight so
+
+brute force try a whole bunch of different settings and with
+
+and with the new machines
+
+so in the few hours will have the numbers for retraining everything with we're tracking from position so
+
+position so that might be improved further so
+
+detail in it already
+
+right so and then we'll have our baseline to compare the currently hideous new things but
+
+because it was trained on you know was used did not find which didn't have any
+
+but if you add them up
+
+that's three point three
+
+actually and that's point three
+
+i mean then then you do with the standard
+
+so and but she's i remember
+
+but she's i remember they were one of them
+
+they were one of them was to change to because it does it all at to affirm bark scale to mel scale which i
+
+quotes because they're essentially the same scale but that why did that
+
+other it could be something more fundamental but it you know
+
+right boxes or one thing but then there was a point eight
+
+the low thing but then there was a point eight percent was something else remember
+
+so that was that when i can claim credit for in terms of screen up in the first place so someone
+
+place so someone of some of six that
+
+which is that i never played when i we
+
+i we had some problems before with offsets this if this went back
+
+everybody else who was doing wall street journal knew that they were big d. c. offices in the state and and no
+
+we're getting like really terrible results like two three times a year
+
+like two three times a year everybody else is getting and then
+
+and then in casual conversation on matched mentioned i you know course you're taking care of the offset this what
+
+it on the screen and then we screen and we
+
+just big d. c. offset so
+
+so in peel p. there was up like a or something
+
+in peel p. no it's there was up like a or something or when they recorded or just
+
+no it's it's not at all uncommon for record electronics to have different d. c. offsets it's or just
+
+knows whatever and it's consistently in that's
+
+the thing is most people's front and have free emphasis but it was or it's or frequency
+
+but was guilty we didn't actually have that we had we
+
+that we had the equivalent of preemptive says and i a what you're months and style waiting that occurs in the middle of peel p.
+
+p. it doesn't actually have a zero eight zero frequency like
+
+frequency like the typical simple parenthesis that's we have something
+
+so i put in i have to filter that i think ninety hurts are so for sixteen killer stamping
+
+he made the primer he
+
+what is the parameters which is great
+
+it's is the parameters is just the lower cut off that you want
+
+of filter either so the rest of filters actually doing a different thing in the much licensor because the main depending what's happened redoing which is
+
+that had that help despite like it cancer percent
+
+but @reject@ again after completing heard experiment so we can add up all the differences and but
+
+differences and that but i my point was that
+
+system but i think not that much of it is due to the front and per se i think
+
+and per se i think maybe a couple of percent of it is as far as i can see from this unless
+
+if it seemed like way worse
+
+yes there's regular tandem outputs through the and through the kale too
+
+tandem outputs through the l. all that through the kale too
+
+i mean today and do experiments like that
+

@@ -1,0 +1,885 @@
+tell a little mouse clicks and press and so forth there were some of the
+is mike nobodies you're might
+year program for example if you only want your thing to run under linux you can give it the linux attribute and then
+attribute and then it will find that fastest available linux machine and run it on that so
+you can control where your jobs go as it extends all
+self so you can give that as an actor but not only around that
+right now andreas and i've been the main one using it in where
+jobs get delayed so it's sort of a sharing thing
+which can you to lose time right if
+with regard to the or are he
+might not they significantly
+but i didn't read it lived there quite a bit to make it better then
+everybody does that and they wanted
+exactly i that is board the consensus is like you things
+a book and i phoned that in smart of the speech that god is let the spanish one and it was by just fifty was in by just putting the and point
+i you don't need any but the speed enhancement so
+i like fifty with it so the baseline itself improves by fifty percent
+so it's going to be harder to beat that actually but
+even match lie about it but that's really worthless on our and then i
+you can remove online edition or but it doesn't change anything
+no i they're going ahead the same
+masters
+the to remind me of a matched be
+we are playing we are some and trying to put whatever the construction and the code
+you could be very simplistic recipe action and now energies
+which i already tested but without the friend dropping cheney and
+dropping cheney and i think it's important to a friend dropping if she is because actually is it respectful subtraction
+if she is because actually it respectful subtraction typically done on and after the male scaling or is it done on
+you can do both but i cannot
+that is if you want to be construed the speech it be a good idea on a fifty beans
+it but they present causes
+the other thing is like when you're putting in that speech enhancement technique
+is it like one stage speed and some it everybody
+it doesn't behave even if is on pasta different and it
+looks a video of the white because you know what was that it doesn't a definite fish spectra subtraction
+the noise light and then if anybody can say the speech beg you to this thing again i don't have cable right
+review surf you do this such sector sectors attraction that i'll forget it and then you then
+and then you then and the little bit of noise addition i mean that's
+maybe we but we find some people so that agree to maybe work with us and
+it's promising and everybody works really hard on the same different aspects of the same thing another thing
+but they saw that
+we did note on that one i suffer more and it's the same just it
+no i work we date that young and spun he's
+i mean we've had discussions before and
+before and one of the things that struck me was that about this line of thought that was particular interesting to me was that we whenever you condense things in irreversible way you throw away some information
+and that's mostly views is a good thing the way we use it because we want
+they're looking on it says figure out noise of her voice property whatever's that's
+prefer make interesting thing was but it's they're just something in that difference which is useful sonata
+so i mean that it's true there's lots of very ability but again we have these wonderful
+about nothing i want to really talk about i can
+to really talk about i can just share a little bit senior
+
+around here so the people in the group now
+so the plan for using these is we're running p. making customs here and
+here and andreas sort of caught in that all sick stepping up to speed
+around or maybe i should do i think you on the website about it or something
+there's a command that you can use called run command run bash command
+run bash command run hyphen command
+commands you can say run dash command a l. s.
+to run and and that's a simple way to get started using this
+there's a lot of features to it and that kind
+you know i sort of got started using the recognize i just recently and
+i fired off training job and i fired off a
+and i fired off a recognition job and
+recognition job and i get to the email about midnight from my thing are you running too training simultaneously uses
+so i had to back off a little bit but soon as
+i've have a question about thee paralyze ish and so
+so let's say like a thousand little jobs to do
+how do i do it with run command
+you could write a script which called run command on each subject right a thousand times
+on each subject right a thousand times
+but you probably want to be careful with that because
+just because then it would keep other people it's too much file transfer
+it would keep other people it's not it's too much file transfer and so
+so if you had a script for example i had a thousand things that needed to run you'd somehow need to put some logic in there if you were going to use run command to only have ten of those going at a time and
+a time and then when one of those finishing fire off another one
+all twenty five people were sending things all twenty five machine
+things were a lot less something if you just use your machine exactly
+you have to be a little bit careful
+and he knew writing make files that you know your final job depends on these one thousand things and when you run the pavement
+and when you run p. make on your make file you can give it the dash capital jay and number and that number represents
+that's i can get some documentation
+i mean the chips are running
+time so you could fire off a thousand of those and
+of those and it doesn't know any one of those doesn't know about the other ones that are running
+in you just had a an h. t. k. training job that you know is going to take six hours to run
+go screw this so i
+use that's so people won't even have to worry about doing speech on speech
+i mean the better match maybe the one you just used affected by adding the and find information
+a car and so you drive around bunch and record conditions or something and then i
+we are doing are funny everyday multi
+funny everyday multi multi strain and so forth
+
+and also a stefan to a really good resource for that if you can't especially
+in the proposed what i did was i built that indian food is designed using being speech
+maybe because the speed is already cleaned up other than hats men so into using
+didn't i didn't david beckham at art i just
+so are people supposed to assume that there is
+should that this texas attractions how things work even better because
+even with very minor
+because when they would change their me tricky
+so we begin that's sort of the other thing so maybe my pronunciation issue so try to inspire me from this kind of thing and
+the sickness ups is roach has actually in between if they're doing it
+they just take it
+the other noise what was your point about color
+it can be used for getting rid of the night and janet hey
+to somebody is generating wall street journal with added of artificially added noise or something sort of
+sort of like what they do t. i. digits
+now we have these meeting data
+and we had the digits that we do at the end of these things and that's
+with that with connected digits
+mean i no one has done it then test one they just distant like using historic manager or
+and use it you know in combination or alone or whatever with what targets
+which would show as what are we really getting out of the filters
+probably not by itself or in combination
+but not much on the idea it's so
+on the idea it's so i think i decent feature produced discriminating speaking on was having
+is anything because there wasn't any anything to discriminate between speech and to the
+shark bites you down in was like they go to the huge improvement on it doesn't but in a christian
+there was a but and i this i toward though exciting some high in order information from the skeptical efficient soon
+soon for of it and some
+
+and he's got a number of little utilities that make it very easy to run things using he making customs you don't actually have
+and it'll actually export that ls command to some machine in the institute and do an ls on your current directory soaks
+soaks substitute ls for whatever command you want to run and
+and so assuming we get all the new machines up then we'll have lots more compete to use now that
+to use now that one of the things is that each machine it's part of d. p. making customs network has attributes associated with it after
+is what it operating system and when
+and when you use something like run command you canned specified those attributes four year program for example
+as it extends all the way down to an individual machine each machine
+machine each machine has actually which is the name of it self so you
+if there's already a job running on some machine and you're trying to select your job will get queued up and then when
+and then when that resource that machine becomes available your job lit exported there
+you know you should probably not run more than say ten jobs yourself at any one time
+that's going to take a cute i mean i can get some documentation
+running if you launched any jobs they're own running
+if you run command that i mentioned before is doesn't know about other things that you might be running
+so you would be possible to run a hundred run jobs at once and
+other but if you use p. make then it knows about all the jobs that it has to run
+syringe man and it can control how many run simultaneously
+you it uses export underlying lee but
+lee but if you
+if you if it's meant to be run one job at the time so you
+so why would one use that rather than teaming if
+teaming if you have
+like for example if you didn't want to write a you make script in you just had a
+and somebody is using the machine you typically use
+we did this and another difference i is that we just justified propose i want these domestic these without
+
+since the twenty fourth we're on
+and then at the end of the meetings will read the digits everybody goes around
+sessions are our i'm nineteen digits everybody goes around the reads the digits on the bottom of the forms
+one thing snows females here for the summer
+with that because you don't want to saturate the network
+no and wondered that when you had it the on line normalization and so forth that things got better again and so
+no nothing think staying goodbye don't make the same time constant i'd be used
+that's what the feeling is like they're going to already given on speech
+so maybe just you could right miss about the related experience because you get some
+speech right and so one difference is that i you were taking spector
+and right now if we look at the results it's always better to it seems always better than fronts to come from to imagine i miss match
+so but the vet unmatched miss too i mean the better
+onto it's like this is not got evicted by asking out on something that much
+i they're saying that if you were companies that was selling the commercially that you would have a bunch of people driving around and much cars and
+to and then they're generating issue k. scripts to
+have there's no i know they have converging on h. b. o. using some mississippi state i'm it's just that the state maybe
+something as it's something is funny
+because we want to suppress things that will very ability for particular fanatic in its
+i just about any feature and that seems to
+and that seems to be and really hard on the speech that kind of lot of but not much
+
+thing snows here for the summer right here for the summer
+but soon as we get the more machines than then we'll have more computer available so
+that's just a quick update what we've got
+this so that seems to be getting in doing older than system slightly
+and that was i knew i phone that i have make some changes to the i'm constant that i used because
+constant and we just knocked suitable for the enhanced speech in order to be tired on the proposing one
+the different i'm once so i find that i mean i didn't get an accents
+no again if you have enough
+went just to see on some place but in addition commission to see whether you have some
+many doesn't it doesn't behave
+this week is being proposed by c. i mean is it
+for minimize nation maybe did you center
+but we're hoping i actually dave and i would just talking earlier today about maybe at some point not that distant future trying some of the techniques that we've talked about on some of the electric everybody data
+he said that the idea it
+did part of folk were discovering is ways to combine things are data driven then or not
+
+so it was not didn't seem to be a good point to them and then if
+that's just and what they submitted
+does i just like in i just think the cats are coefficients coming from that system and then plug in india double that my dad if
+just the i don't know baseline
+to see that how much the baseline assess in but it was by
+boarded the c. n. updated the supposedly once i find it getting any simple to do this and
+were you were also combining something buffy i
+so which provide us up speech simple are we removed
+significant but the problem is that it's not significant but if you
+speed and some it everybody seems to have a mutt through stages of speed and it's amazing all the proposes ages are you
+but if you have to use and but to something and how does a mobilization to make it so they're making
+i know i get i can productive but i'm from i it done accumulates
+
+should i start from
+how i think it's like from the post i don't know some missionary
+so that the base lights of i mean
+so you see say what they want to jump on for a second so
+i mean amended unexpected behind sick
+even if it's only psyche worse for wear matched
+it's it's like means that it did it i mean he's not you know if it's because
+or is it done on d. a fifty pins
+day spectrum of fine see message they're bound
+some smaller cabinet us
+so don't be happy that i've kept superstitions
+but again you could argue that's exactly their own network that
+
+on the other hand they're not so close that they got rid of all the interference so it was
+choice precisely because it's in the middle
+men so into using this not a band and if it is i'd be some entered i thought you for this so that
+showing any into the mine up or find by plugging in addity
+it i mean i think it's a time constant already is the value update that's
+our are people not supposed to use any speech outside of those in points
+and this in a of different
+so the the different that
+the different that the i go into just combining two things is mainly going from the thing with some speed up really doesn't what video that if that's undoubtedly back
+no training from this just
+
+and then just i progress reports individually and then plans for or wherever go between now and then
+could say a few words about some of the compute that's happening around here so
+i'm not exactly how long it'll take for those to come and but
+to come and but in addition we're running so the
+after beats like how much memory the machine has what it speed
+just try to limit it to some sometimes some number around ten jobs at a time
+me and i just i like the idea it's like effect you matched because it's i perfect match
+because it's i do she added but this is
+and eve i. e. then he used internet what use didn't. defeat it they're just as i worse
+i really wonder though i mean we've had discussions
+
+features to it and that kind of helps to balance the load of the machines and
+thing and it'll find another machine the fastest
+i mean i didn't get an incremental or not using online on my station and
+they're going to already given point information it i
+when i met was you had something like capture a or something right and
+and much cars and you have something that was roughly similar and
+you've had any given it but we didn't expect distraction we are doing are
+does i mean he was showing above some something on noisy speech some improvement on the not
+some improvement on the not to speak
+to speak some smaller cabinet
+
+given the choice we there seem to be very strong opinions for
+one and then the channel number usually one less than that
+so one thing is to talk about a kick off meaning
+and if you say that and then some job that you want to execute it will find the fastest currently available machine and export your job to that machine
+says d. s. or i recognize or has all this p. make custom built into it so
+it's not that so much as that you know with if everybody ran fifty jobs it once then it would just bring everything to a halt and you know people and so
+and you know people jobs get delayed so
+syringe man doesn't use key maker you it uses
+
+and we ordered
+sanity and then i phoned that
+i missed something
+too dark and online on edition didn't give me any of them
+and mainly because if it when you're perfect same dropping in base i system you can improve a lot h. m. and and
+i what's going to happen
+the other thing would be to combine into doing i mean maybe one and
+and kind of had and another
+
+we're the succession are nineteen
+not getting but if
+i did get something different but they
+seem and i want you to be worse
+visual learner than you panic so you probably you're talking about your voicing
+than you panic so you probably you're talking about your voicing
+
+but i find that i would have changed the value that a big factor but i didn't
+that's how they do like the to thirties the classification for twenty five percent of something
+but are they changing the waiting
+because them the made it made the reason for the main
+silence on to go got these new features but
+that should get more relevant now it's going to be given in points
+
+because the u. n. improvement r. h. m. and i'm and also gore down significantly in the spreadsheet so but descents it'd be more evenly
+being to come by and i mean the first thing that sickness up space went just
+know that bikini shown if that but did by young to do finance what this but see it but to love to see not
+i did the defense funded
+because so bush we you use sink that use their body and she's hide maybe you crossing
+just about just you class speech
+
+which is that you know if you rent something it's a machine they come in and hit a key then it yes
+so some of the machines at the end to have this attribute called no we've effect
+there is no other things that we find anywhere shown to be poodles like
+there's they caught today extra questions
+that like dare i took an initial that i was too and one of our hours too
+
+i don't hear this inspectors attraction
+similar and maybe that's the argument but i'm not
+some something being through and not as it is but plus stage and then do
+so if it is an art austin do definite many doesn't
+spectra suppression doesn't seems to be that thing to go for logic i that it does times that
+
+but this is not the recording
+the vet imagine like the many times
+i mean unless they deliberately chose it to be different if they didn't because they wanted to be matched it is pretty much
+it is pretty much you know so it's
+it's not care eat
+
+that's true for the additive no ways artificially added noise we've always smoke everybody too but for
+but for and there's been noisy speech this five or for cavalier that we've worked with and broadcast news so
+news so we redid broadcast news evaluation and some of the
+some of the focus conditions are noisy and
+you've had any given it but we didn't expect distraction
+
+they're bound to kind of spend dick life he sent us domestic that have gone on a thing on upper to shown of the spectrum of the seeing that
+who i. d. i still found kind of defeats to fall dish getting me need to be vice sound i'm voice sound
+we tried to we use these new features teaches
+i did this payment
+i need to change to assign these deals that you need to change days face there when the saudis size of the
+
+because they sort of were not too hot not too cold they were
+become nowhere techie but
+but actually read that the red matched
+and then i don't think that's very realistic i
+
+hello so you should be zero actually
+and if you specify that in one of your attribute lines then it'll go to a machine which your job won't be evicted from but
+but you know you only work is for short time maybe
+for short time maybe in a year or two you would do actually come up with the right set of things to extract from this information
+
+says i understand your you he's using all the machines and you're using on a machine yes this enough into it so exactly
+you're at home and you're trying to like in it takes
+nearly what additional or does enron man and it's a real friends themselves you then i would did
+heard the sub mission though where i've been looking on list of big others some missions and
+
+so if you don't want your job to run on a machine were could be evicted then you give it minus that after being you know knowing that and
+that it's both case and
+visions anyone would be you look at a few things very quickly you pick
+the vietnam tool cost more inflammation
+
+does that and they wanted to see given that you're doing that what are the best teachers you use i see
+i like fifty with it fifty percent
+but you can still find it some kind of fucking mom somewhere
+i also some slight me and i just i like mismatch
+
+some kind of understand
+one eighty i after that added proposal i mean your occasions you tried just the thing and get and maybe my fishing
+but for that her cry too but for christ's or re check everything else and ripped ripken the things and
+brent actually it's the far field like
+
+that's one reason maybe could combine
+stage and then do something in this i they just take it
+little bit senior hasn't heard about what i've been doing
+until justice ties getting prepared to take this qualifier exam
+
+so we just put in an order for about twelve new machines to use as sort of a computer farm
+we ordered send like one hundred and
+and and it there and will duplicate
+
+you can try this as a simple test with the ls commands you can say
+knowing that and it'll pick a machine that can't be evicted from
+so i don't know that i entirely agree with it but
+
+i don't know whether it monitors to keep order actually looks at the console t. y. so maybe if
+no there's like different think
+i don't know what happened but
+
+though you're right you probably wouldn't ordinarily i mean you sort of or something
+snow sincere and in one of these that way you tell us what's up with you
+shouldn't watch this like no
+
+heard the
+because we didn't have any speak announcement system it you know so
+and plus that i'd just sanity and then i phoned
+
+above and he goes though this again then you read is going to be read then pointed speech it just to get a feel
+it just to get a feel how much the base life is going to change biting and find information i just use so people won't even
+go they use exactly the baseline system for converting the kept someone to how the speech i mean if
+
+or ecosystem one so
+but you do throw something away
+and so the question is can we figure out if there's something with right away that we shouldn't
+
+i'm i'm not saying i'm not being clear when i met was
+so we just tried to you too just keep intimacy twice
+when we like the sticker traction became pros cindy significantly
+
+@reject@ segments vacations but the trust the full
+but the trust the full proposal i mean your
+i after that added on this issue my fishing so
+
+but for speech recognition it now
+many men are they may be different if it really don't matter lot karma they do it on a fifty so
+you weren't really union reading anything after that
+
+we should go through these alternatives what we've seen
+mississippi state i'm it's just that the state maybe
+so that will be a little task in itself
+
+what we've seen so far and come
+so far and come up with some game plans you
+be actually i did i decent binary feature the gibson just the
+
+he hear some alternate visions anyone
+he'll have some ideas and that too
+the other thing is too most of this big announcement techniques have reported was it sounds more like everybody else
+
+and you know have sort of two working
+but we go into i'd business should generally and then exchange we
+all these people have shown improvement know for thing and maybe subsidies up until this but the passion to it
+
+manager or i know that i know
+people smoke coming up from the @reject@ trying to do that's right
+you're right that's a real good point that we don't know what if any of these i that's why they're pushing
+
+when they were looking at the difference between the filter bank and the fifty that was going into the filter bank i was thinking so the picking
+so the picking on something
+that's interesting maybe that helps to drive to the thought process of coming up to features
+
+but it might help in combination
+but i have to tell you i can
+things in some ways it's bad to have data driven thing so
+
+we we abandon the lapel because they sort
+i just think this sport think plainly seems for that's we're doing
+
+it's one less than what's written on the back here
+sonata way of doing it maybe would be just to take fifty power spectrum feed into and they're on the
+
+or your channel number
+should do a lot of talking so we get a lot more the pronunciation
+
+sense and having indian friends least so we usually do is
+least so we usually do is we typically will have our meetings and then at the end of the meetings
+
+sessions are the reads the digits on the bottom of the forms
+our nineteen i'm nineteen
+
+uses it my jobs are not getting right so i had
+i took have could decide to be day you could be tuned in you but i meet this they don't
+
+but you can also if you have that level
+if you have that level of sterilization and you don't want to have to worry about writing the logic in munich pearl script to take care of that you can use he make and just the pavement
+
+at once and then will make that it never goes above that
+get it but anyway day
+
+that machine and run your job there
+that doesn't have the same sort of behaviors teammate which is that you know your job there
+
+they come back from lunch and they start typing on the console then your machine will get evicted your job get evicted from their machine and be re started on another machine automatically so
+the capture the different is like that maybe a slight difference and then they
+
+what about i remember it always used
+i remember it always used to be an issue maybe it's not anymore is that if you if something required if you're machine required somebody hitting a key in our to evict things around and see could work
+
+we can't connections but i don't know whether
+on something that much has also some it's magic and that which is i others and
+
+and then you probably go screw this
+the vet imagine matched be many times
+
+then i would did anything so fun and is it commissions so
+like if i come by it but they use the booming what that
+
+art i just phone that
+you know so it's just sort saying if you it's not guaranteed though
+
+by this playing the information off the him and will speeding on speech
+i've flown that the baseline seven goes by the buzz bozeman by just getting a lot
+
+the consensus is like you would you lose it be given the information i voted the beginning and all speech but the horse
+but the horse speeches i live or do you
+
+on our and then i boarded the c. n.
+that should get more and it maybe to distinguish between vice on and invite sounds
+
+to jump on for a second so now you're getting tuned into their a story thing things she has here and so
+no there's like i'm going to just talk to their so then one distinction is that you were taking actual francetelecom teachers in applying i think
+
+something buffy i we're supposed to look combining something from the offense telecom system with if i just right
+but you got some sort of different result some kind of understand
+
+because if we keep the value it twice it made it it doesn't happen till you can remove online
+you see the thing is of speech so the difference the kale
+
+or something and see where it where the where they were different and can learn from
+but you did you use we think we'd we change just because
+
+like i mean did you eddie you use just because we change it's just into it
+i mean did you eddie if it does i mean it's just into it
+
+and it doesn't seem to or some kid each it's mainly
+maybe because if other changes
+
+because you don't actually good matches ordinarily for what anybody particular person's car this line or
+it seems like something like the middle one is more natural
+
+the idea too then how you have all the training conditions exactly like a persecuted in that icing condition onto it's like
+doing it in the beating a couple once more it
+
+it's because beat
+it's it's because beat each
+
+it's each edge of righteous conditions but
+and a couple of posters away with somebody who compared one to just putting in their fifteen fifty
+
+other and manic energy
+like in they gave us the idea that you didn't actually do is anything because
+
+or maybe like maybe other way around
+sigma some space the
+
+said i get something about the sars
+i mean since winter filter also assumes that you're adding together the two signals how is how does that differ from signal substance
+
+it looks as they leave it that what is enough conditions and in colored noise so
+i mean if it especially do civil sexist attraction followed by kale transform followed by
+
+where you don't have third are finalized just the things and i see
+it's like a worthy thing to
+
+that was something that every and they were talking about with the multi band if you're converting
+if you're converting things too and scripts bands into coffee you local sort of local capture coefficients that it's not that great to do it if it's noisy
+
+the other noise
+that kind of the up space approach has i mean it i think it depends on in wording to make this is so you'd like
+
+definite fish spectra subtraction and that no
+addition i mean that's or what to do rested does in a way
+
+west of the cut all that noise and then make
+all that noise and then make the noise light and
+
+are you ready and
+are you ready and
+
+there's one guy and kind of had and another
+yes i heard you look in general thing back from and looking at ways to combine one form or another of noise or with these other things we
+
+active suffer recording right now and
+that we have for the the quote unquote noisy dated is just noisy and river brent actually it's the far
+
+yes other some adaptation though that
+yes though that this has been playing with
+
+i do it i need it to die buffets payment to include these see to dippy we've they without the features
+on to it right now and no done that the ones to set it vice i've always vice seasons silence on
+
+and you know maybe if it's used in combination woke and at something that we're missing
+that's probably why eat it would be likely to work as by itself
+
+speech conferences and i
+saw within very short distance of one another couple different posters that showed about the wonders of some auditory inspired friend and or something and a couple of posters
+
+fifteen fifty just slightly better
+select one one thing to like what before we started using as the eighty in this i don't know so what we did was like i most of you know a board is hiding his addiction is speech patterns beat the catch them intending that you know and that
+
+itself or in combination
+you know maybe there's something to be gained from it and but
+
+for of it and some this some hot morning
+i mean just do it very specifically in
+
+i it i done accumulates or something was
+and i'm not what it is i don't know moments maybe
+
+the terrorism mike type wireless
+
+had head say yes
+
+too cold they were you know they were far enough away that you got more background noise and so forth but they weren't so close
+
+but they weren't so close that they got quite the really good not that they
+
+in iraq they were not so far away that they were really good represented this and bikes
+
+them and then if you only had to have one like in some ways you can target the palace good choice precisely because
+
+some kinds of junk that you get with these things that you don't get will tell a little
+
+you're might numbers written on the back of that unit there
+
+so we have how can agenda what's going on
+
+hundred and
+
+you don't actually have to right p. makes trips and things like that the simplest
+
+thing i can send an e. mail around or maybe
+
+how about an e. mail points to the i think you have to have there's a
+
+it there and will duplicate your environment so
+
+yes this enough exactly
+
+he make and just the pavement
+
+number and that number represents how many machines to at once and
+
+you can say run command in your h. t. k. thing and it'll find
+
+the fastest currently available machine and run
+
+but the machines that don't have that attribute if the job gets fired up on that which could be somebodies desktop machine and they were at lunch they come back from lunch
+
+you to lose time right if you had a two hour job and they got halfway through and
+
+got halfway through and then somebody came back to their machine i got evicted so if you don't
+
+but if you're logged into it from home
+
+and you weren't getting any keys because you were
+
+i'm not how that works seems
+
+seems like countries did something for that
+
+you probably wouldn't ordinarily though you're right y. so maybe if you echoed something that does console or something
+
+you probably wouldn't ordinarily though you're right does console or something
+
+you're trying to like in it takes forever even though your and then you probably
+
+forever even though your and then you probably
+
+i think maybe i'll ask enough of the meeting
+
+to a really good resource for that
+
+are he knows that
+
+just today if it does i just like in i just
+
+that my dad if we of that i used to us different from what lee's summit in the proposed what
+
+then after other that night added online normalization ozone double that and that
+
+i used because all it has that up mean invading update i'm constant and we
+
+i just phone that i've reviews about it i mean i think it's a time
+
+about the other thing we're tired was i just the baseline and then i'd read the end point and though information just the i don't
+
+i came back up the second i missed
+
+the different don't know what the different accents
+
+so it's too dark and online
+
+so i just stopped there would the of speed and spend the other thing where
+
+spend the other thing where tireless though i didn't go and find information to the baseline and that it's of
+
+and that it's of gives like printed above and he goes though
+
+it i issue is that people do that anyway everybody
+
+so i mean clearly there interacts so i don't know that i
+
+entirely agree with it but it might be in some ways it might be better to president giving in points to have a standard that everybody uses an interaction with but
+
+no that is i exactly i or can you then you speech outside of it for estimating background noise and things
+
+work even better because you don't have the mistakes
+
+base lights of i mean it's it there was like read a book and i phoned that in
+
+said that is and the cosby getting good ideal is they'd use to something people have into something like going if i believe in for the night stand i think they have
+
+stand i think they have actually team to close to getting paid you know
+
+i after that i just went home for i just had a vacation for
+
+and and i that's that's good update
+
+and i came back and i started working on some of the speed enhancement i'd go to them i'm until
+
+i'd go to them i'm until bio from this subdivision or whatever phone the people have died spectra suppression mean if i think these are the main approaches work but i've tried so
+
+work but i've tried so just do just to see the space that some few more speed enhancement i was in just that it and was i've been looking on this sickness upstate approach for speed and been spend
+
+speed and been spend you take the nazis signal and the decomposing no and the noise subsidies and
+
+subsidies and then to estimate that being speech from the sigma personally subsidies
+
+so i've been actually designing sums
+
+so vibrant been thing you don't even match lie about it but
+
+things she has here and so we'll have a place for the is
+
+because you get some that you talked about last week i
+
+if i just i know what it was just a wonder system too or ecosystem
+
+the maintained it just to take the specter subtraction from start to become
+
+i'm going to just talk to their so
+
+but they had i know that back and blind equalize that's i mean but
+
+capture a or something right and
+
+the capture because it's and said they just page beaner fencer and then compute guessing features right
+
+i mean if you're using all their own accord i mean back would be the only difference in and this in a of different
+
+i think we should a table we told the reason because i don't know
+
+these without but which are much education tree jews to do the it edgy theaters in
+
+but what seems clear also use that to we have to june to time constants of town and my patience because
+
+so it sounds like you should look at some tables results or something and see
+
+like sixty four good to
+
+there some minor changes
+
+and it's just like he works for matched
+
+but is not significant but
+
+but if you but they deemed a spreadsheet it's get worse
+
+and significantly better for h. m.
+
+i don't think it's your fault it's important because
+
+because the u. n. improvement r. h. happened but the different contribution i think the different descents it'd be more evenly
+
+m. and that's him i'm going to be huge he affected by so
+
+i don't understand that i i have
+
+that i i have meant part of the discussion so
+
+it seems to me that the match condition it's going to be unusual
+
+mean it doesn't match country and it's not like the whining the idea too then
+
+i also that matched mismatch
+
+like the that i just be like it bows and enough what databases use fourteen and that he was in for testing it's
+
+just sort saying if you it's not guaranteed though
+
+for the main miss my just coming from them or enough noise and the silence things and all those present and the enemies actually again if
+
+so you much as you train your dictation machine for talking into your computer you have a car and so you
+
+so some of the proposed and i'm wondering dissing and on that fifty bands other
+
+but i cannot tell you what's which one might be better
+
+proposes ages are you getting them some improvement
+
+that's so doing i mean maybe one or the other things that are doing would benefit from the other happening first
+
+i interesting he's doing a signal substation thing maybe would work
+
+thing maybe would work better if you'd already done some simple spectra subtraction or maybe
+
+if the thing that you see the thing is of speech so the difference the kale
+
+it's cascade elf those generally don't that's
+
+the call waiting's matrix off the noise
+
+so they get a dog is like they do any english fitting west
+
+if you look at what their rest is doing essentially it's it's equivalent to sort of adding a little asthma
+
+us and then if implementation of he kissed techniques
+
+so it's picked or ten dollars series that they're use to to too remote though the confirmation speaking clean get to try and he gets or
+
+what if you take the stand on mother enough this noise like it's and in any r. e. a transformation into concerned i mean
+
+there's a way to approach me d. c. first or second order dinner series in
+
+working concerned i mean
+
+of had and another or in
+
+of had and another or in who sent the name it's it i cast
+
+from seeing do they do i watched on t. v.
+
+it's again different things that could be tried
+
+one it seems like one of the things to go through next week when our shirts her
+
+when our shirts her i was on ideas too or
+
+too or i not next week and a half
+
+very quickly you pick on something that looks like it's promising and
+
+another thing would be to have to pick tupac two possible things and
+
+things and you know have sort of two working things for a while so we figure out what's better than
+
+she does is maybe a few people have reported something on using some id is speech i
+
+some when i was looking at somebody of the on speed enhancement apply to logic of it does and
+
+mean i just get this issues in terms of
+
+but it you know we did we it helped
+
+helped that something so
+
+what most again most of our work has been done with that with
+
+but we have recognition now with some of the continuous speech
+
+speech can't really continue speech using switchboard so the switchboard recognize or
+
+i just think this sport think from this just plainly seems for that's
+
+i that's why they're pushing that in the in the valuation
+
+i meet this they don't cough which she saw it
+
+panic i so you probably need to back up a bit though
+
+i made sides doing to it on there new but i mean there's face in that but i mean there's they caught today though
+
+of it's your cost days day spectrum of the scene not on your crafting
+
+not on your crafting know that's i do class that opened up the measures they're bound to kind
+
+funded if anti dividing us up these decided because
+
+of the of the i know his windows sucks
+
+and she's people blink siphon be stuck on it
+
+it's something is funny to me but but
+
+to me but but nothing if you got to
+
+whatever's that's interesting maybe that
+
+with what targets
+
+know that just the same way we're using in the same way they were using the filter bank phones
+
+so to me i mean the filter bank is good for all the reasons we say it's good
+
+and maybe you know using course you know kelpie or adding probabilities i mean all those different ways that we can find ways that we would let the essentially but in their own network determine what is it that's useful
+
+but there's so much very addicting and bars but
+
+i have to tell you i can remember the conference but he
+
+but he it's about ten years ago i remember going to one of the speech conferences and
+
+but again we have these wonderful statistical mechanisms for quantifying that that very ability and you know doing something reasonable with it so
+
+it's the same you know a argument gone both ways about you know we have these data driven filters you know the a
+
+and the other hand it's data driven means it's driven by things that have lots of very ability and they're necessarily not necessarily going to be the same in training and test
+
+so in some ways it's good to have data driven things in some ways it's
+
+say we just the thought that if we had that maybe it's just a baseline
+
+but maybe their own that nature them's configured up quicker than you
+
+and we tried to this just
+
+but in a christian she's enlarged within speech can be get some teachers
+
+europe dripping information that can might be useful didn't speech and it
+
+doing you know sticking
+
+doesn't work finding the high don't know moment self and i'm
+
+maybe have commitments to
+
+moments you so no and they're all work is in some sense equivalent to computing you know higher order moments inflation
+
+i mean just do it very specifically
+
+you're anyone talk about
+

@@ -1,0 +1,624 @@
+i think it could be here next week
+here next week westie through friday through
+not time as far as i know so
+so by bit and see how much of a difference it makes
+how about for the mismatched or the or the medium mismatch conditions have
+and we might just not even be in the right operating range so
+it's me actually even if you want to be played on the games should side of can be kind of tricky so
+dennis g.
+but let me ask you this what's
+you never coliseum search and swear or higher with s. g.
+so if it's very different then this is the sort of thing i really got address
+be like he'll be around for three days
+
+of like some probabilities together you can take seventh retarded or something or smog i mean
+if you're operating in the wrong range and that's why just in general if you change what these penalties and scaling factors are you reach some point that's that's the minimum so
+we're doing and as you say as you point out finding ways to then compensate for that and friend and also then becomes priority for this particular test
+done it
+we try too you was they inviting it's they if they put in between day except they expect on message that ben it's been two
+didn't we just got to work on one week just people no more
+you may really want to add other things later anyway because you
+really like to have something that needed no particular noise at all maybe just some
+all maybe just some white noise or something like that at most
+the mean can't really do vocal track normalization but something
+so whatever it was it would have to be sort of preferring basis
+but still it's not going to probably radically changed the scale of things
+
+so other than reading that it's hard there
+i mean it didn't make a whole lot of difference like for the matched case
+the performance another it's that even though it sounds pretty dumb just applying the same number of states to everything or alas no matter what language isn't so bad
+so i mean the searching is a symptom
+our numbers into we should probably take it based on the range we get into matched k.
+so there's nothing you
+male female it's good to know also
+if that really help because you already have you know females and
+
+that means turns around one
+and doug props and
+so they're kind of like why probably of and those and those that's
+of and those that's what goes into h. t. k.
+just going to it things are going to scale it you
+doing that it's probably pretty close to a to be causing transformation but still it's
+and it maybe at the very least it may be quite different from a it is for no kept repeal p.
+the first thing that look at without testing anything would just to go back to experiment look at thee associations assertions and relations
+
+is adjusting the of the scaling and assertion healthy sort of
+and then when they finally actually evaluated things they used everything
+and it is true that the performance on the german was i mean
+it's true maybe there's parameters other people have used you know that
+be easy to see but if you're supposedly just using a six pack and then you just coming up with a feature actor i'm not
+it's and speak to garden
+but you know some problems or hurting this
+
+and but anybody using the system what
+that in fact it might have been part of what the difference was you he's
+so my suggestion though is that you know necessarily finished that
+that you put it all together so that it's you've got a clear structure to it you know what
+things are you have things documented you've
+italian in the finish we're development
+i don't know i was just wonder if there was other information we could exploit
+
+so by our friend and i mean take you know the virtues to take some version that and has that is you know our current best version of something
+what's a typical number
+so that's a move tutors fifty hertz whereas the third
+whereas the third format which might start off at twenty five hundred hurts you know might be up to thirty seven fifty s. is that
+or something you know it's more like looking at third form and over overturned or something like that
+my point was more that it's work sometimes and
+but sometimes it doesn't work so
+
+but my suggestion is that at least for this meeting people should go ahead
+you're talking about for for our future
+it's difficult to say what it's going to get because
+it's going to get because when we look at the or k. digits experiments that's three conditions that they're different noises in
+o. j. that need that
+in spanish how much you could adjust things
+
+looking at the i wrote down with the deletion institutions and surgeons or
+four different numbers of states per phone
+and that was when people were saying that we should have a bush activity detector
+that because all that that we're getting through the silence it's getting through is causing search and so
+there's something simple in mind looking for things on my fish no i haven't
+i mean you could maybe use the idea is a similar idea to what they do in boca like normalization you know you
+
+we do have to do over a range different conditions some which are noisier
+went all you could do is just a justice of the back and was once one knob and
+it's always mainly working in europe
+forcing thing voicing detect
+and say look this is not generalizing i
+in terms of gender
+
+on maybe working on what
+you discovering anything it makes you scratch your head as you write this report like why did we do
+it's true except models doing signal processing so
+but something that had some of that in fact
+they should always looking searching solutions and subscription so
+there is kind of specter fattening after a few times
+
+sunday and
+even though it's it's true that in a real situation you can't in fact adjust the these scaling factors in the back and it's our artificial here that we're not that just he knows you certainly don't want to be adjusting house all the time if you have a friend
+i know how this no rhythm
+there's also the inspectors subtraction
+and so i think it's important three jewish music i know asian is just increases our house doing sentence portions
+
+i'm you've already looked at this in these noisy
+i mean it in the dual systems we used to do i i remember numbers kind of like assertions being half the number of relations is being and both numbers being tend to be on the small side comparing to substation
+to substation
+this the whole problem with insurgents was what i think we talked about when the guy from o. j. i came down at one time and that
+what kind of information you mean i was
+
+you know they don't have any check accent not time
+bit what happens is when you get to the noisy you start getting lots of infections
+what a good idea be to try to map it into the same range you get in a matched case sophie computer with
+you don't want to change it for different condition ranges
+
+because the one thing that the one thing it seems to me we really should try if you hadn't tried before worries had occurred it was sort of obvious
+it was sort of obvious thing
+so four
+but it wouldn't surprise me if there's still
+
+so the next
+you when you just that those numbers from l. caps from did it
+were seeing you never seen yes our system is so much better than the tandem system
+it whatever the kill tease doing that it's probably
+
+i don't remember off the top of my head
+so when i was doing i just wrote down some numbers for the matched case
+part of
+no not that she training their own networks now
+
+get someone else to do it you can supervise or something but
+i just need to get friend and for me where you put me to some files
+where you put me to some files that you've already talked
+you can't look at a whole lot of ernst and do anything you can't write
+
+i know the v. a. d. takes care part of that but i've seen that with the male
+cats from i don't know about over our front and but
+i'm it's more balanced
+i'm it's more balanced but it
+
+and we would really justin again even
+pretty valuation you get an extra point or something if you took a little bit but
+but we experiments and trying to pull it together in some coherent for them to be able to see what happens i
+but we raced experimenting i mean we see what happens i
+
+you don't want to change it for different condition sophie computer with the range was in matched and then when we get our noisy conditions that would try to make it have the same ranges
+so we have to at least i think determine that's not true
+that's all that any anything new on the thing that you're working on with be
+i hope i would hope they would
+
+otherwise i mean what ranger we can
+is this a report
+so i think it's good to pause and together everything together and make it's in good shape so that other
+at least just mess female
+
+adjust that and then continuous this what we're doing and
+in europe
+but that's not really what this contest is so
+but it's that in future so
+
+i think it's something we have to try anyway
+adding a from the stage like
+of it's probably something that experiment designers didn't really think about because
+especially if you talk with and when i'm not here that's the
+
+security number
+it really it just something that popped into my head just now and so
+or should shouldn't be there should be less so
+anyway because if the law problems that are coming out of the atmosphere really big the standard assertion penalty's going to have very little effect
+
+through sunday and
+much case we want to adjust that and
+good and it generates they should always looking
+
+so i've tried playing around a little bit with in searching penalties and things like that
+because the the we saw them
+it's interesting thought maybe having something
+
+but they raised a very
+right in searching numbers very high
+you could imagine that they're just
+
+so the next question to ask which is i think the one that and dresses to addressing himself too and a lunch meeting is we're not supposed to adjust the back and but
+he picked right
+into one that so it's is it balanced in terms of gender
+
+if you were just adjusting the back and how much better would you do in no ice
+because the language scaling in searching thomas over there probably set to be about right for mel capture
+part of be that sri system they always adjust these things about of optimize is there
+
+i didn't even write them down
+i don't remember i would need
+they use some process and you've got in database to train divisive kiki's picked right
+
+the most obvious thing is just the assertions but
+of can be kind of tricky so i mean what you would do is set the scaling factor is so that you got the best number for this point four or five times the downside
+but they might change that those ratings
+
+house all the time if you have a friend
+i remember after we got our more or less together and he pretty systems are built that weekend it to set the scaling factors it kind of a standard level and we would really
+to scale it you know subtracting from summit scale it from it but
+
+it's of these other things and they turn out that it's kind of reasonable but then
+things documented you've look things up that you needed to look up so
+to look up so that you know so there's such a thing could be written and
+
+and they german and danish worthy valuation day
+almost then they actually
+they are normalized after that and
+
+being applied to the data in some way
+i don't see how you could possibly do you can't look at a whole lot of
+it doesn't work for just having one frame or something you
+
+do you think that would be the case for next week also or is
+yes i wonder if there's anything that we could do to the front and that would affect insurrection
+
+i did play with that actually a little bit
+but let me ask you this what
+
+but they raised a very valid point
+but i think we may get a better handle on that if we see
+
+so forth and then tweaked out a little bit and see how
+somebody at the stadium and done that go into it and then
+
+but you know four summers and he's a good one you know
+how much this is improved if you actually just that
+
+but it is interesting say you have four the noisy
+i think it's much more about and so it's when something is more robust
+
+so if you have something that has a much smaller range are much larger range and taking the appropriate grouped
+the rules as i understand it is that in principle the italian and spanish and english italian
+
+range and taking the appropriate
+you know if something is kind of like the equivalent of a bunch of probabilities multiplied together you can take a route of some sort of like some probabilities
+
+or smog i mean throughout the seven but
+noises in if it's just to perform as on scene noises into that scene send on the scene
+
+i mean it's more directly like the that the language scaling or the the miles going acoustic scaling but you that's interesting
+scaling but you know that those things have kind of a somewhere effectiveness or should penalty anyway it's slightly
+
+anyway it's slightly different way of handling it so
+i think so if we know what the searching penalty is weak about what range are number should be and so that they
+
+but i've seen that with the male cats from i don't know about
+could look into dish
+
+it's a symptom that there's something wrong with a range but there's
+listen to yourself i mean that's really doesn't sound like a real time thing with less than two hundred millisecond is latency is that and where you're not adjusting the statistical engine at all setting that's true
+
+i was sufficient changes for different conditions i was just saying
+conditions i was just saying that when we pick a range we want to pick a range that we map our numbers into we
+
+and he's probably not going to be anyone who's going to say this the future of you know
+people within this tight knit community who are doing this evaluation are accepting more or less that these are the rules
+
+what's the old with you that has developed over the last week it
+then they are much worse
+
+because you know you're going to have another bunch of results sit in there anyway and
+much better it's
+
+and right now it's kind of important that we actually go forward with experiment so
+and then just add some kind of a minor my fish and
+
+is margot
+so i ended our small things we've talked you discovering
+
+can't hear or something but that there partially result but just look at
+so the question is you know whatever they are at that point i they something for which taking square ruder keepers or four three or something like that is going to be a good or a bad thing
+
+we have extracted the noise from speech that car
+they can train you on the tour speech and he's
+
+drives me was
+drives me was it was actually different cars and so on so
+
+no to build models on day
+it probably would be the case that if say we trained on italian data and then we tested on danish dead and it did terribly that's that you would look bad in i
+
+check it's do we know anything about the speakers for each of the training entrances
+what do you mean we do you have speaker
+
+mean we to be social do you have speaker information
+mean we to be social do you have speaker information
+
+you mean i was thinking about things like you know gender you know genders specific gnats and vocal tackling normalization
+i don't i didn't know what information we have about the speakers that we could try to take it on
+
+fairly quickly can do male female or male female but
+as far as i mean like i thought b. n. did this thing with vocal truck normalization ways back maybe
+
+although you are going to get less distinct higher is still third form it's kind of a reasonable compromising
+so i think if i recall correctly they did something like that and
+
+there's something perhaps they could spend some days that i kept this thing
+it seems that when retrain that's awesome it seemed to payment him and she chose the they look as good as the trucks train the
+
+and so maybe they are much more sensitive to different recording conditions or shouldn't be
+national taxes so
+
+i really got address brought this point
+i sort of forgotten to discuss it
+
+and you might want to change
+then followed by other kind of processing it's not dependent on that hit speech on science
+
+it doesn't tell you what the variance of
+and sometimes you know there's enough evidence or something working and it's harder
+
+knowing with the some of the probabilities are doesn't tell you what a someone longer
+they're sort of the green nominee area values
+
+i won't be here thursday and friday but my suggestion
+
+i seen a here and
+
+been working on getting recorders
+
+what's your projection
+
+like for the matched case it seemed like it was pretty good
+
+i could do more playing with that though
+
+but you were looking at no cancer
+
+right so i mean it's not the direction that you are working with they we were saying what's what's the best you can do with no catch them but
+
+which i so the first
+
+so the first order i mean you have other things you're going to do
+
+but the first order i would say that the conclusion is that if you do some munching around with the exact h. t. k. train and was you know how many states and so forth it doesn't particularly improve the performance another
+
+and i she hadn't gotten to experience you want to do it never doubt seems but
+
+let's just if we had to draw a conclusion on information have far we'd say something like that right
+
+they're probably not at all set right for these things particularly these things that
+
+particularly these things that look over larger time windows in one way or another with al t. a. k. o. t. and their own that's all these things and the fat
+
+and the fat pass we always found we had to increasing talon assertion penalty to correspond such things
+
+i think that's that's kind of a first order thing that we should try so
+
+so the experiment is to run our friend and like normal with the default and certain penalties and so forth and
+
+i mean don't want to do this over a hundred different things that they've tried but you know
+
+to i did write down
+
+but that's all i wrote down
+
+i can do that for next week
+
+also sometimes if you run behind in some of these things maybe we can get someone else to do it you
+
+but i think it'd be good to know that
+
+probably will have time to do that and time to play a little bit with the silence so maybe
+
+so maybe i can have that for next week in phoenix
+
+you he's part of that we were seeing
+
+part of what's going on is the the rain
+
+that has a similar effect
+
+because it changes the scale of the numbers of the differences between different candidate's from the acoustic model as right
+
+opposed to what's coming from the language model so that right so in effect that's
+
+from the language model i mean it's so in effect that's changing the value of your assertion penalty
+
+i think so so that's be and so that they match with
+
+why i think that's another reason other in curiosity as to why we would in fact be kind of neat to find out if we're way off
+
+any other things are we seeing you i'm you've already looked at
+
+this in these noisy cases are we are seeing lots of insurgence right in searching
+
+and it may be i betcha there's still a lot
+
+and it may be less of a critical thing i mean the
+
+thing i mean the fact that some get by maybe less of a critical thing if you get things in the right range so i mean the searching
+
+but there's your substation tend to go up as so
+
+some which are noisier than others
+
+it's if we actually could pick a more stable value for the range of these teachers it's
+
+if you have a friend and it's in roughly right range
+
+once we knew what russ roughly red operating range was pretty stable and
+
+it depends to map everything into
+
+it depends how much we want to two games bishop and how much we want to do into
+
+i just sort of think we need to explore the space
+
+is take a look at the we i mean
+
+i mean and grass gave very reasonable response and he's
+
+but people outside of it is looking at the broader picture certainly going to say a minute you doing all this standing on your head in the friend went all you could do is
+
+or determine that it is true much case we want to
+
+what's all to do developed
+
+on the report to work it was on what
+
+thing voicing detect
+
+to try to phone always seek test for that b. can be team voice on place
+
+bush so they another part of me that they dates we they of to clinician flinch so
+
+s and energy give audience help push up that the clinician you
+
+so that's that's what you're describing a week or two ago so
+
+but they don't cover this we don't publicize to stay of it go to that need to
+
+need to shine in that one
+
+we saw them they just but sunday as
+
+as they do to go can go the needed to do to be someway joke to
+
+it if i can summarize what's going on is that you're going over a lot of material that you generated in furious fashion tutoring
+
+tutoring many results doing experiments and trying to pull
+
+i mean we just like some kind of taking care of report
+
+is this a report that's for or or is
+
+dixie or or is it just like a tech report for dixie
+
+sister and i first of july
+
+and that you think you're on actually finishing it in june
+
+so that other people can get access to it and so that can
+
+to it and so that can go into a report in june but i think
+
+but i think to really work on fine tuning the report at this point is probably bad timing
+
+i got a ring all that for some conditions could get and everything
+
+at some point they did that for the he picked right
+
+i it's a matter of interpretation the rules
+
+in spanish how much you could adjust things
+
+was i mean it improvement wasn't so good to perdue bra performance was really pretty good
+
+it doesn't appear that there's strong evidence is even though things were somewhat too and on those three or four languages that's going to a different language really her you and
+
+her you and the noises were not exactly the same right
+
+because it was taken from a different
+
+i mean were different drives me was
+
+it's somewhat too and it's and
+
+that's something i'd like to understand before we actually use something from it because he gets
+
+really think about because i think most people aren't doing train systems or you know systems that are like cars where you actually use the data to build models
+
+it's true except that that's what we used to never or one so
+
+and then they design the things for our two knowing that we were doing that's true
+
+and they didn't forbid us right
+
+would look bad in i think someone would notice and say look
+
+i hope i would hope they would
+
+you know that they have tuned in some way for other things so it's
+
+maybe just a topic
+
+and when i'm not here that's the topic you should discuss with meaning
+
+with meaning check it's do we know anything about the speakers
+
+made female bank ten
+
+i mean again if you had the whole system youre optimize and that would be easy to see but
+
+i mean having the two that's suppose you detected that was male celia with different you could put them both in
+
+with different you could put them both in a separate streams or something
+
+maybe having something along the mean can't really
+
+looking for things on my fish no i haven't thought it was thought too much about it really it just
+
+head just now and so
+
+normalization you know you have some sort of a general speech model and maybe just
+
+and maybe just a mixture of calcium that you evaluate every other ends against and then you see
+
+and then you see where each you know other ends like the likelihood of each other and she divide the range of the likelihood up into discrete bins and then each pins
+
+but just listen to yourself i mean that's really doesn't sound and then each pins got some knob setting
+
+but just listen to yourself i mean setting
+
+not not just expensive
+
+each frame comes in it's got to go out together and so right
+
+ways back maybe other people do too with
+
+other people do too with the trying to a third format average informant using that as an indicator of
+
+you know third foreman if you imagine
+
+if you imagine that the first order what happens with changing focal track is that the foreman skit moved out by some proportion
+
+so if you had a first format that was one hundred hertz before is this fifty if they vocal track this fifty percent shorter then it would be out at seven fifty years
+
+so but on the other hand male female is is a much simpler categories patient and figuring out a factor too squish or expanding the spectrum so
+
+imagine that they're just like we're saying voice on voiced is good to know
+
+you have to figure out a way to incorporated on the fly
+
+i mean i as you say one thing you could do is simply have the male and female opted sectors you know to nets train only emails and know on and females or
+
+i don't know if that really help because you
+
+you know females and it's pretty into one that so it's is
+
+when they are used in the speech that kind of dictates that occasionally
+
+m. s. g. is very may appeal p. is very
+
+may appeal p. is very much like no custom
+
+she is very different from us
+
+you always have to look at how this these justice affect things
+
+and even though we're not allowed to do that again we maybe could reflect that back to are use of the teachers
+
+so if it if in fact the problem
+
+the problem might be that the range of industry features it's quite different than the range guilty or not catch
+
+we have estimation was mysterious we be in attendance ginny put something like that
+
+but it it doesn't necessarily you know they could
+
+is you taking log these things that could be
+
+so we should look into like
+
+or what you know what you're saying you're actually looking at
+
+the values that are actually being fed into u. c. k.
+
+and so the the tendon system the values that come out of the net don't go through the signal i'd right
+
+and that's something that nothing
+
+that nothing else after that just going to it things are going
+
+scale it from it but nothing will have that same fact
+
+again you don't compared to smaller setup lung problems
+
+again you don't really look at that it's something that's lung problems
+
+it's something that's and then it's gone
+
+and then it's gone through this transformation that's probably pretty close to it whatever the kill tease
+
+maybe entirely off and
+
+if there's a fairly large effect of the difference say do the ratio between surgeons relations for the two cases and that would be indicators like in that direction
+
+carson cage it's and speak
+
+and it's harder breaks in so
+
+breaks in so but
+
+but it could be that when you say it works maybe we could be doing much better it's
+
+i think maybe you should try to integrate it and
+
+i think that's the team falls too use a big key are you a big bunch of the system of ericsson
+
+yes the trust attraction
+
+this is mean initially was also take almost everything from the this proposal
+
+it's a bsing coming for discussion with him next week
+
+it took a lot of time just getting my taxes other way national taxes
+
+i'm starting to write code now for my work but i don't have any results
+
+but i don't have any results yet
+
+on it would be good for me to talk to he neck i think when he's here
+

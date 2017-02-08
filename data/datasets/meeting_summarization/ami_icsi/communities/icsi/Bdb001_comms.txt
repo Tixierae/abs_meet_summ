@@ -1,0 +1,981 @@
+so these are arbitrary assigned by program not by
+not by users they have a whole bunch
+which has start equal t. seventeen
+at this particular time we don't know when to dance
+which maybe somewhere else we say there's
+you know so you could have some sort of type here
+they reasonably compatible probably translate to tune i mean you could
+probably translate to tune in mean you could that's
+to because we need to come up with the davis like this just to do our work and i actually don't
+you have more information so what nist would say is that instead of doing this you would say something like a link start the schools you know some note id
+i mean i think we're sort of guinea pigs because
+with it we have expertise here
+what you have the two gigabyte limit on the file system size
+you know anything you can envision
+so what i was imagining was it today says we can have unlimited numbers of green ribbons
+if it's a large unit or a small unit or we could change
+
+labels and what do you do if you just conception lee if you get transcription where the words are staying but the time boundaries are changing because you've got a new recognition out porters sort of what's
+that's actually very nicely sort of what's the sequence of going from way forms that stay the same the transcripts that may or may not change and audience which are this time boundaries that may or may not change
+handle it because you could all you'd have to change is the times stance in the timeline without changing the idea right that's so that's why and you'd be able to propagate all of information
+alignment you'd have this i don't peewee we have full level back traces
+which i think is better i mean
+is really a concern if you're talking about one refrain i was thinking the advantages that we can share this with other people
+if you're talking about one refrain you're talking about gigabytes ice files you're going to the advantages that we can share this with other people
+which is fine but he gets unwieldy
+i looked at it the last time are they ready to go or
+then he chopped the way i had is each turn or each other and so i don't even remember now had a speaker id tag attached to it
+and this format you would have a different tack
+you want some of the crap that's that works at the structural on the structure up and you have that there's
+maybe good for us to know to use a format where we know we can easily input that to some database of other people are using
+i i'm just a little hesitant to try to go whole hog on sort of the whole framework that nist is talking about with that and the database and all that sort of because
+and so the main thing is just being able
+i the two girls one that chuck
+
+i i am going to be standing up it's a question both of what the representation isn't
+look at it words but we actually
+right but he gets unwieldy to go in and greedy styles with really huge files
+it's it since they're developing a pig but that's i don't think it's but it doesn't that sounds as long
+they're developing a big infrastructure and so
+we should find out should they would the tools with the chills run on something like this if you can translate them anyway
+which would be linked to the link
+so-so somewhere else you would have another thing that would be
+file the rising pitch will never be hand annotated so the all the presiding
+one is and we have it be in and rise representation but suppose we
+maybe you should actually look at it yourself to get a sense of what it feel he'll be dealing with because
+because where we're around when we're with rap where they
+you work fifty it's like the history of dixie
+it probably doesn't matter that's what i always
+
+we had a long discussion about how much how easy we want to make it for people to believe things out so
+years something it's very disconcerting
+used them i don't know what they're structures i forgot for but
+i forgot for this but have peace i'll for
+this whatever you want have peace i'll for each frame is storing victor of kept stroller appeal l. they'll use right
+actually so that what's about the file it right
+from the signal in of course those change every time your alignments change so he rerun a recognizing
+would really look at it again
+that's relative to the structure of the x. m. l. document not to the structure you use it as a tool if
+represent each other completely
+so that you can essentially you know how arbitrary at all most of the tools can handle that
+it because he has all of the channels you know with the channels
+
+right x. files and we just have an ask e. i'll put a frame by frame
+it structure right so each tight tag has only particular items that they can take
+if can you but you can add to those structures
+you want to because they already have something and so it seems to me that if we want to use that we might as go directly to what they're doing rather than
+look at it so it's that would really be the question is just what you feel is in the long run the best thing because
+that's different from touching for the attack it seems like as long as the features
+if the features from
+ones but they'll have a similar nature they'll
+like that they're not going to get the phone level and i'm not going to be at the frame level when we get done with giving them simpler shapes and things
+think that i said i what i did with this i based that on there's it's just
+
+so anything that transcribers or discourse toters whatever put in the say no with tire marks for like words and phone boundaries and all the we get out of the forced alignment and the recognize or
+right i would say right because you have two gigabyte limit on those the last is
+i would say it's a it's probably not a good idea but is and it's
+at that level i mean i'm not what to do about this with that was because they chose a different
+which i really liked and that's exactly
+do you see this is part of this i think you would but there
+right know do something we're some kind of data reduction where the presided features are sort of either at the word level or at segment level or something
+right level or something like that they're not going to get the
+
+that anything extreme frame level you'd better could binary area or it's going
+the other thing the other ways that i sort of establish this was as easy translation to and from the transcriber format right
+and id is ass or whatever
+and then lower down you could have not daughter rents so the
+valley like the slope of something but
+on there's it's just a hadn't actually come up with an extra format yet
+marking it won't it'll be independent at the time bins however
+and having a tighter the first word in overlap segment is unique you know anchored
+
+i'm so it definitely had that as a concept so that it you should definitely
+and then i also had optional things like accuracy
+we should look at less than
+less than this thing
+i in my mind i don't know enough jane would know better about types of medications and
+and but i imagine that those are things that would you guys mentioned this that could stand any
+
+i don't want to have this text file that you have to read in the whole thing to do something very simple for
+you would use it only purposes where you actually want the phone level information so you could have some
+what i'm wondering is whether i think for word
+i think that should be possible as long as the
+so you the thing know i take that back
+the thing is that some so right they're actually overlapping each others
+
+this is a big too is doing is we're running
+me for something the picture value and not only one pitch site but different kinds of pitch size depending on
+it's but something sort of standard enough that you know if we start using this week and give it out other people can work on
+but we have and i mean it must be the equivalent of what ever you guys used to store feed your computer teachers and
+actually we use a generalization if the fear
+but still holland and i have to look at it again but
+
+but it's probably other this is whereas h. d. k. do for features i think that's
+and i wanted to find actually if a nicer format or maybe a more compact from it than what we use before just because
+chandler speaker whatever doesn't i mean channel is
+chandler speaker whatever doesn't this isn't quite right i mean channel is what the channel eyes output out
+you can use pro to read it in and construct a internal representations that is essentially lettuce
+i probably stands for phil word level
+
+to it and then you can refer from other sections to those i. d.'s
+i'm just wondering would it be worthwhile to use that instead
+is the rising pitch feature or
+and they would put up on a separate ridden
+so they are not going to be with respect that
+
+users they have a whole bunch of those and
+of those and then somewhere like further down you might have something like an not a tag
+what would what i mean that i it's the question it
+right and then from the recognition side we have back traces that the phone level if i can
+no how would you represents multiple speakers in this framework where you would just represent huge at
+
+because it'll be too dense otherwise so if
+right so each thing refers to be better instead of belongs to
+then each other and could refer to it turn and each turn it's not it's sort of bottom up
+for about than i think we're so just wrapping
+bins however these befalls drinker whatever increase
+
+too dense otherwise so if you were doing that and you had to sort of companion thing that gets called up for phone level what would that look like
+but why not use it for fun it's i would use just an existing way of doing it how would you
+but why not use it for fun it's an existing way of doing it
+what you would do is someone would build a tool that use that as a lifer
+so that they too that you wouldn't have to construct the internal representations yourself
+
+probably not a good idea but for phone level it's supposed to be and it's
+and then also attached to it is an arbitrary factor of values
+and they can take different types so it they don't
+so it they don't all have to be floats you know you can have into jersey
+you know you can have into jersey you can have doubles and all that sort of so that sounds
+
+do you are you familiar with that i haven't seen this
+up to date or you change a word or you change i'd rinse boundary segment which is going to happen a lot and
+the very have tools me i chose this for a couple of reasons one of them is that's easy
+one of them is that's easy to parse
+because here you specify in the last so the is
+
+i mean they vehement enormous large and these are for ten minute switchboard conversation's and
+it's just that you can only store a feature featured actor it frame by frame it
+coding and just we have to use some we have to make some decision about what to do especially for
+so he rerun a recognizing you to re compute
+you to re compute your features and keep the database up to date or you
+
+right so if you suddenly decide that you want you have to make a different
+you have to make a different type
+no use before just because you got ten channels or whatever and two hours of a meeting at
+you know or something like that actually it's the channel i think that
+which may or may not actually be like us it's usually not the beginning and end of a sentence
+
+and then id close to you one though and then
+and then i also wanted to be able to not specify specifically what the time was and just have a stamp
+i chose something that they're sort of
+and being able to at least get enough information out on where we condition the location of features on information that's in the kind of file that you put up there
+
+else we say there's another outer ends
+speech and i thought it was better if you're looking at a raw file to too for the tax to say it's a not a rents as opposed to attack to say it's a link
+so but other than that are they compatible i mean you could sort of
+as long as it each tag is so it exactly
+
+i imagine you'd have multiple versions because it does get very bush
+but i suppose that as long as they have a type here that specifies i
+it's almost the same that the it's close
+that the point is it's close enough
+
+me for something like that i would use p. file or depending on
+ago probably a year ago
+and so specifically they didn't have any external format representation at that time
+and all that sort of because the big learning curve just to get going whereas
+
+so that external file wouldn't be in so that might work
+so that external file wouldn't be in so that might work
+it but then you store the data in the database which
+my opinion on that is for this sort of that we're doing i suspect it's overkill to do it for relational database that just a flat file and search tools i bet will be enough
+
+like follow the syllables or anything like that father every fry frames
+when we first started talking about this and at that
+but everyone can programing parole and use it
+no you have to what of course it's representing it that's the whole
+
+there's a ton of it man there some documentation on this summer great
+they just had this sort of conceptual will nosed i indicated transcription graph which i really
+@reject@ limitations any kind
+any kind of indication that like isn't already there you know anything
+
+a ton of it man pages and source code in great so i mean that sounds
+i mean that sounds good i was just
+i think the kinds of questions based in the next to the end of this year are there may be a lot of different ones but they'll have
+and then later on if we choose to go up the learning curve we can use the whole atlas and the infrastructure and that sounds good
+
+and again if you have a that where all the frame values
+the very have tools me i chose this
+this i think so you would refer up to the sentence but there they're actually overlapping
+to do i probably stands for and that isn't really i as important as the main i don't know what you call the major word level
+
+do especially for the probably work what it ends up being is you get teachers from the signal in of
+just to parole if you want to use the structured x. m. l. curry language that's a different thing and it's a set of tools
+thing and it's a set of tools that let you specified given the d. t. kiki d. of the document what sorts of structural searches you want to do
+that's really useful i mean this is actually
+
+know so it's very similar
+i looked at it are they ready to go or
+it seems to me you want to keep the frame level separate
+where you would just represent them as
+
+especially if there's you know if someone can help with at least the set up of the right
+the right representations then
+then you know i hope it won't
+we don't actually need the whole full-blown thing to be
+
+without changing the idea right that's so that's why you do that extra level and you'd be able to propagate all of information
+that's so that's why you do that extra level and direction information
+so that you can just change the timeline
+
+i imagine you'd have multiple versions of this depending on the information that you want because it does get very bush right
+a unit you know it never actually it's
+so the type is utter it's equal but you could either
+
+i mean we actually have the one thing that done
+this is a big too the one thing that done is doing is we're running for every frame you get the picture value and not
+i could stand time boundaries of any type they could be instantaneous
+
+you don't want to do with that anything extreme frame for every frame
+you just compare binary area or it's going to be really painful
+you can always jesus them
+
+so the only problem with it is actually storing thee under its numbers andi frame numbers in the file
+even though their voice sequential
+you have another attack somewhere
+
+and again if you have a if you have and we could do it i was just think if there's something that where all the frame values are
+i mean they vehement enormous large and these are for ten minute switchboard
+because i suppose once you get the representation you can do this but the kinds of things
+
+and they've also developed a lot of tools but i haven't
+a lot of tools but i haven't looked at them maybe i
+solutions so we want to try to pick something that let's just do a little bit of both in between right especially
+
+right level if i can handle that could handle states or whatever and
+and then at the probably level we have frame sort of like capsule feature files like these
+like these peace aisles or anything like that and that's sort
+
+that's tasteless let's i think i'm i think we i had better look at
+so for instance i'm this one level there's one more level in direction that i'm forgetting
+for instance suppose you have this one level there's one more level in direction that i'm forgetting
+
+and then lower down you'd say here's aprons audit boundary and has these words
+i think and that helps me that
+i mean it doesn't mean it probably doesn't matter now that's what i always got to go to the codes
+
+but that's going to be the trouble no matter that the if you can
+so unique and this was before that
+flexible all that
+
+used to be a problem that they get too large and a bunch of library speed file utilities
+you can you know any number of categories but the fact is you have
+but the fact is you have a time to act in a way it's independent of the other time then that the word ends up in
+
+usual level that most many of them can you can specify several p. files and they'll just
+the peace then fine i think i've looked at it at least briefly i think we're doing something i have no idea
+the peace then fine something i have no
+
+i worked with these
+i don't remember what the t. is
+quit net library has a bunch of things in it to handle so it works pretty
+
+morgan wants to make it hard
+so it works pretty
+
+i didn't even check yesterday weather was moving it didn't move yesterday either when i started it
+weather was moving it didn't move yesterday either when i started it
+
+test good because we have a lot of breath
+in fact if you listen to just the channels of people not talking to
+
+very disconcerting
+they had the other issue that you had with hobby actually efficiently extract find an extract information and instructional office type
+
+i'm familiar with i mean we i sort which
+what would what would worry me i mean that i it's the question it
+
+i actually mostly need to be able to link up or it's
+it's a instead of and i have it the d. is good
+
+i i am going to be standing up and drawing on the floor what the representation isn't so
+and drawing on the floor i'm so you should definitely
+
+and then you can have lots of different sections each of which
+sections each of which have ideas attached to it and then you can refer
+
+i remember seeing i don't remember exactly what my notation was but right
+but that's the advantage of is that we actually take decide to go that route completely and we program to their a. p. i. then if we want to database later would be pretty easy
+
+i remember seeing a sample of but right
+see equals one point three two
+
+right so you could have some sort of other tag later in the file that would be something like i don't know no ways type equals door slam
+and then you could either say time e. equals a particular time mark or you could do other sorts of references or
+
+beyond her instead it's referring to could be used seventeen or something like that
+so i mean that seems great for all of in coding of things with time and
+
+i my question is more what do you do with say a forced alignment he's
+alignment he's got all these phone labels and what
+
+except the time i'm going to be huge if yes
+you say suppose you have a quality level alignment you'd especially at the phone level peewee we have
+
+you say suppose you have a quality level alignment you'd especially at the phone level peewee we have
+you good you going to do this you got to want to do this very quickly wealths
+
+have you'd have this i don't think i would do this for fun level i think full level back traces
+fun level i think from level you want to use some sort of binary representation because it'll be
+
+is whether i think for word level this would be
+for word level it's all right for lower definitely
+
+is better i mean if you did it this because a long meetings and with
+if you did it this because a long meetings and with
+
+you just compare i mean i like texas formats
+and you know critique impressive on the fly if you if space is really a concern if you're talking it was i was thinking the advantages that we can
+
+that's used them i don't that i haven't seen this particular format but
+that's used them i don't particular format but
+
+built into it is the concept of frames utter and so senses that sort of thing that structure
+you could use the x. m. l. to put the data in and then when you get it out
+
+and so it does waste a lot of space
+but it's still a lot tighter than the nasty and
+
+good i was just looking for something i'm not
+actually i just you know we've done this on kazaa takes and
+
+i mean something that we developed a dixie
+but it's been used here and it's then used here and people
+
+but it's been used here and then used here and people
+right it's still going to be not direct you know it
+
+been used here and you know we and people
+been used here and you know we have configured system that you can distribute for free and i mean it and people
+
+and then the application has to impose structure on top so what
+so what looked like atlas chose as they chose the other way which was
+
+way which was that file format is justin nodes and likes and you have
+of what you're representing in the document you use it as a tool not
+
+and then typed would be under
+right especially that the representation doesn't have to be thrown away even if your tools
+
+it probably wouldn't be a so why would it be a waste to do it this way if it's similar enough that we can always translate it
+it probably wouldn't be a waste it would mean that at translate it
+
+it's it since they're developing a but it doesn't that sounds
+pig that's i don't think it's a big deal as long as it is
+
+think of its conception like close and they already have or will have tools that everybody else will be using i mean it would be crazy to do something you know separate that from one to the other we might as
+so i'll take a closer look at it actually so it's that
+
+a different type so if you look at it and
+and so we pick something else there's learning curve problem but i mean it is just
+
+they could be instantaneous things
+or another example was you know where in the language where in the word sequence are people interrupting so
+
+no how would you huge at
+meeting but
+
+you would have like a speaker tag or something there's a speak to
+there's a speak to your tag up at the top which identifies them and
+
+and each turn could refer to something higher up
+right now what you have is utter and the closest thing that comes out of the channel eyes is the between the segment boundaries that the transcribers put in or that tivo put in
+
+so because this is exactly the kind of
+people sentence
+
+they're two ways of doing it so it would just be floating before
+they're two ways of doing it you could have some sort of link so it would just be floating before the are floating after the sentence without a timer
+
+so you want to be you want to say this segment that's what i exactly what i meant by the other and says versus a sentence can be sort of
+so you want to be you want to say this word is part of that sentence and the spurs are like phrase a sentence can be sort of
+
+frame or i'm pretty that you can do that but i'm
+so you would have to have two different pointers you can do that but i'm forgetting the exact level of nesting
+
+so you would have to have two different pointers from the word up what level up one of forgetting the exact level of nesting so what you
+up one of those so what you would end up having is attacked
+
+feature or is it going to be in the same file
+a word words are going to just decided to sort of
+
+in that case you would add that to this format so we
+format right so we would be sort of taking the format and enriching it with things that we wanted weary in relation to the words that are already in the file and then
+
+not to the structure of what you're representing you use it as a tool you
+nonname user thing it's
+
+and then when you get it out you put it back in x. amount to use x. m. l.
+transfer amount to use x. m. l. a sort of the transfer format it but then you store
+
+know how arbitrary at all most of the tools can handle that so that
+we enjoyed at the eight i level we did the
+
+i used the peace i think i've maybe you do man he filed or apropos p. file you'll see a lot see so this would be like for that zero
+i used the peace i think i've p. file you'll see a lot
+
+they need to look at the dallas again anyway so
+keep i it's also sort
+
+i said that great because we actually can
+to where you can say that it was you surfing of the turner you can you know any
+
+i think it's important to remain flexible regarding the time bins right now
+and so it's to have however
+
+i just i don't quite understand what these things are what
+are what goes themselves
+
+i mean it doesn't mean that it's not for it probably doesn't matter now that's what i always got to go to the codes but i mean this
+i mean it doesn't mean that it's not for the topic of this me now got to go to the codes but i mean this no but the is
+
+overlapping with any other with is to go to any lengths and
+then you can indicate that here was perhaps it's back to where you can say that
+
+three i don't know it doesn't like both
+
+channel too you know i discovered something yesterday on these where this one's you can
+
+channel too where this one's you can
+
+too it you can tell if it's picking up breast noise and
+
+has a little indicator on it on the ass
+
+if you breathe under breathing in the caf boston you know picking up your mouth right that's
+
+what did you see a cannibal recent years something it's
+
+i was going to try to get out of here like in half an hour
+
+because i really appreciate people coming and
+
+people coming and the main thing that i was going to ask people to help with today is two give input on what kinds of database format we should use and starting to link up things like word transcription indications of we're transcript so anything that
+
+i think a starting point is clearly that the generalized output of dave cal arts program which don brought
+
+which don brought a copy of
+
+i mean we i sort of already have developed an x. m. l. format for this sort of and so the which
+
+of and so the only question is that the sort of thing that you want to use or not have you looked
+
+at that mean i had a web page up right
+
+so that it has a single timeline and
+
+so that you start with the timeline tag
+
+and then you have a bunch of times
+
+and equals t. eighteen so what that saying
+
+so what that saying is we know it starts at this particular time we
+
+but it and that this t. eighteen which maybe somewhere
+
+we don't know what the time actually is but we know that it's the same
+
+but we know that it's the same time as the same time
+
+so yes especially defining a lot of
+
+and then and then these also have ideas
+
+or you might have a process d.
+
+that's actually very nicely handle it because
+
+alignment you'd have this i don't think i would do this for peewee we have full level back traces
+
+use it for fun it's just a matter of it being bigger of doing it
+
+you know buying memory limitations or i mean this is still i'm not it's the first thing limitations
+
+i mean this is still i'm not it's the first thing limitations i don't want to have this
+
+so you could have some files that can figures how much information you want in your x. m. l. or something
+
+right for lower than word level you're talking about so much data that i just i don't know
+
+p. file or any frame level i would use the file
+
+or something like it takes it if he has a format for frame level representation of teachers
+
+right that you could call that you would tie into this representation with like an d.
+
+or there's a particular way in x. m. l. to refer to external resources and
+
+so you would say referred to this external file
+
+more compact but what's the advantage of doing that versus just putting it into this foreman
+
+you don't want to do with that anything extreme frame meetings and with for every frame
+
+ice files you're going to actually run out of space in your file system for one file right because these are big files these are really i mean
+
+of space in your file system these are big files these
+
+syllables or anything like that father every fry frames so
+
+but most of the friends are actually not speech that
+
+look at it words times the average the every summer phones in an english word is i don't know five maybe but we actually
+
+so i look at it number with times five that's not that's so you mean pause phones
+
+that's not that's so you mean pause phones take up a lot of
+
+with times five that's not that's so you mean pause phones take up a lot of the long pause phones
+
+exactly the long pause phones
+
+so i that's true but you do have to keep them in their e.
+
+so i think it's debatable whether you want to do phone level and the same thing but i think that their e.
+
+thing but i think that anything it framed level even perceive style is too for both i would
+
+too for both i would use something tighter than p. files do you are you familiar with
+
+you can have doubles and all that sort of right so that sounds about
+
+and have a header it has a header format that describes it to some extent so the
+
+than the nasty and we have a lot of tools already to deal with it you do is
+
+looking for something i'm not a database person but something sort of standard
+
+it's not standard other people can work on it or
+
+it's not standard i mean something that we developed other people can work on it or
+
+probably other this is that whereas h. d. k. do for features or doesn't even have i think that's
+
+that has its own i mean or doesn't even have a concept of teachers
+
+that has its own i mean or doesn't even have a concept of teachers
+
+i mean the topic has their own future format called like s. d. d.'s and that's that for something like that i'm just wondering would
+
+but i mean people don't typically share this did this is exactly kind of decision it's just whatever
+
+but i mean people don't typically share this kind of right i mean kind of decision it's just whatever
+
+they generate their own actually
+
+takes and three or four places of vast for those preside x. files and we
+
+if you have a two hour long meeting that's going to are their for their quite
+
+going to i mean their for their quite large and these
+
+frame by frame it doesn't have any kind of
+
+is the sharing part of this a pretty important consideration or does
+
+i don't know enough about what we're going to do with the data but i
+
+with the data but i thought it would be good to get something that we can that other people can use or adopt for their own kinds of in coding and just
+
+and so i wanted something where all of this can be done in an elegant way and that if somebody
+
+and that if somebody want to try something or compute something else that it can be done selectively
+
+doesn't have to be pretty it just has to be
+
+pretty it just has to be he to is and
+
+see if they have anything at that level i mean i'm
+
+was because they chose a different route
+
+that they're sort of two choices your
+
+two choices your file format can know about know that you're talking about language and speech which is what i chose in time or your file
+
+or your file format can just be a graph representation and then
+
+and you have to interpret what they mean yourself
+
+i because i knew that we were doing and why did you not choose that type of approach
+
+i because i knew that we were doing speech and i thought it was better that type of approach
+
+they reasonably compatible probably i mean you could
+
+the other thing is if we choose to use that less which maybe we should just do we should just throw this out before we invest a lot of time in it
+
+so this is what the means about just sort of how
+
+work and i actually don't care as long as it's something useful other people what we choose so maybe
+
+we choose so maybe it's yet you know
+
+the only thing yet you know if you have any idea of how to choose because i don't
+
+you don't need a full x. m. l. purse or it's very easy to just
+
+as long or it's very easy to just write script to parse it
+
+and you can have as much information in the tag if you want right
+
+i have it structure right so
+
+and equal some other note id
+
+right a translator but it's it since waste it would mean that at some point if we wanted to switch we just have to translate but
+
+because they already have something that's that would be useful for in place directly to what they're doing rather than see that's the question i mean
+
+would be useful for in place see that's the question i mean
+
+in place that's the question i mean how stable is there
+
+the last time i looked at it was a while ago probably a year ago
+
+about this and at that time at least it was still not very complete
+
+liked and that's exactly what this is based on since
+
+on since then they've developed their own extra file format
+
+we should find out should they would the tools with
+
+what would what would worry me is that maybe we might miss a little detail that would make it very i mean that i it's the question it
+
+think of its conception that would make it very difficult to translate from one to the other
+
+the other thing because once we start sort of doing this i don't we don't actually have enough time to probably have to rehash of that again
+
+i mean i like this is sort of intuitively easy to actually read as easy it could it
+
+as easy it could be
+
+that the point is with this though is that you can't really add any supplementary information it's close enough
+
+you have to make a different type so
+
+if you look at it and i in my mind
+
+it could be in its own channel i could stand
+
+like that and that's sort of the world of things that i and
+
+it seems and then we have the line channels
+
+and then i definitely agree and i wanted to find
+
+but to would be neuter like
+
+that's so this one would have an id is link one seventy four something like that
+
+like that and then somewhere here you would have a link that you know was reference saying l. seventy four and had speaker
+
+you know or something like that actually it's the channel i think
+
+but still holland and this one meant to be express hah rocket the relationship between say i'd rents and words within it so how do you i have to look at it again but
+
+it so how do you tell these are the words that belonged to that under
+
+you have another structure lower down and this that would be saying they're all belonging to this id
+
+then each other and could refer to it turn and each turn it's not it's sort of bottom up
+
+it's why called sense sentence so right
+
+so it's like a segment or say so
+
+i mean i assume this is possible that if you have someone and it takes the punctuation or whatever when they transcribe you can say you know from for from the kit beginning of the sense to the end of the sentence from the indications this is a unit you know
+
+it's only unit by virtue of the indications at the level
+
+i mean so you would have yet another tag and then that would get a tag somehow
+
+i mean so you would have yet another tag you have another attack which and then that would get a tag somehow
+
+you have another attack which says this is of type descendants
+
+what but it's just not overtly and
+
+but what i don't understand where the where in this type of file that would be expressed
+
+you could have some sort of link type the sentence without a timer
+
+can you say that this is part of this or do you see this is part of you would just have or it's
+
+the thing is that some something maybe a part of one thing for one purpose in another thing of another purpose right
+
+so you have to have another type then again
+
+that's tasteless let's i think i'm i think we i had better look at it again because i
+
+suppose you have a what sequence and you have two different
+
+and you have two different segments haitians of that same work sequence for
+
+sequence for say one thing station is in terms of offensive
+
+and another segment patient is in terms of i don't know provided phrases
+
+that's so you know i presided phrase my cross two senses or something i don't know if right
+
+that's true or not but that's it it's definitely true with this segment that's what i
+
+the phrase is not part of the settings and you
+
+part of the settings and you there's a sense part of the frame or i'm pretty that
+
+up one of those so what you would end up having is attacked saying here's a word it starts
+
+a word it starts here and it ends here and then lower down
+
+and has these words in it
+
+and lord now you'd have here's a sentence and it has these and right
+
+and lord now you'd have here's a sentence and it has these and right
+
+a sentence and it has these words in it so you would be able to go
+
+words in it so you would be able to go in and say you know give me all the words in the bound in the presided phrasing email or
+
+so i think that's that would really look at it
+
+so i think that's that would really look at it
+
+so you give some examples like
+
+i don't know if this is premature because i suppose
+
+but the kinds of things i was worried about is
+
+very quickly wealths you'll spend all your time for the searching for very complex data structures right you need it's sort of a paradigm for
+
+complex data structures you need it's sort of a paradigm for how to do it but
+
+how to do it but an example would be find all the cases in which adam started to talk while is was talking and his pitch was rising under
+
+i mean that's going to be so the all the presiding features are going to be automatically they're going to be in
+
+mean that's going to be hard regardless right because you're going to have to they're going to be in those
+
+mean that's going to be hard regardless they're going to be in those
+
+right because you're going to have to write a program that goes through your future filing looks verizon pitches so right so normally what we would do
+
+so normally what we would do is we would say what i way to sign rising pitch to are we going to such
+
+to are we going to such a word words are going to just
+
+but suppose we dump out this file
+
+dump out this file they say for every word we just classified is you know rise or fall or neither
+
+right file and then create
+
+on the structure up and there's standard again in x. m. l. specifically for searching x. m. l. document structure x. m. l. documents where you can specify both the content in the structural position
+
+but it's not clear that
+
+not to the structure of what you're representing in the document you use it as a tool not nonname user nonname
+
+user thing it's you would use that to build your tool to do that sort of search
+
+so the is lying that's the underlying data structure and you but as long
+
+structure and you want to be able to search the grass but as long as it's
+
+structure and you want to be able to search but as long as it's
+
+from touching for the attack no the it seems like as long as the features that
+
+no the whole point is that the text and the ladders all right some more for they that
+
+that's true if the features from a crucifix or whatever that are not explicitly in this are at the level of these types
+
+but that's going to be the trouble no matter what right no
+
+what right no matter what format you choose you're going to have the truck you're going to have the difficulty relating the frame level teachers that's right that's true that's why i was trying to figure out
+
+frame level teachers true that's why i was trying to figure out what's the best format for this representation and it's still
+
+i that was actually easier
+
+about what about the idea of using a relational database too store the information from the x. amount so
+
+when things that alice which allows you to do all kinds of good search things in there
+
+when things that alice is doing is they're trying to find anybody i which is independent of the back store in there
+
+so that you could define a single a. t. i. and the storage could be flat x. m. l. files or data base my opinion
+
+it seems like the kind of thing you do if i don't know if people start adding all kinds of bells and whistles to the date and so that might be
+
+just to get going whereas if we just do a flat file format it may not be a sufficient but everyone
+
+but this is i'm still right so as opposed to
+
+is i'm still not convinced that you can do much at all the text on the flat file that you know the text position to
+
+because the text of inflation is going to be not reflecting the structure of your words of adaptation
+
+it's just no it's not representing it then how do you recover of course it's representing
+
+you have to do is you have to point
+
+you have to what you have to do is it that's the whole point
+
+and that that was a different point right
+
+parole if you want just to parole if you want
+
+so you want to say that you know you're looking for i tech within a tag within a particular tag that has this particular text in that and refers to a particular value
+
+so the point isn't that and user who was looking for corey like you specifies wouldn't programming in this language what you would do is
+
+a similar nature they'll be looking at either a word level preside ike and i value like a continuous
+
+value like a continuous valley like the slope
+
+one that chuck mention is starting out with something that we don't have to start over that we don't have to throw away if other people want to extend it for other kinds of questions and being able
+
+i think that there are quick and dirty solutions and then there do it i mean for me
+
+and then there are long term big infrastructure solutions so
+
+right and so even if your tools change
+
+it seems to me that mean i have to look at it again to see whether can really do what we want but
+
+if we use thee outlets external file representation it seems like it's rich enough that you could do quick tools just as i said in parole
+
+which has all that built and that sounds good to me i
+
+which has all that built in to me i don't
+
+just if you look at that and let us know what you think i mean i think we're
+
+sort of guinea pigs because i want to get the probably the work done but
+
+the work done but i don't want to waste time you know getting the
+
+i wouldn't for the formats because anything you pick will be able to translate to another form
+
+be dealing with because you know adam might have one opinion but you have another so definitely
+
+i think the more eyes looking this especially
+
+so it maybe if you guys can look at and sort of see what
+
+so it's a short meeting but
+
+i think i think we might want to look at is alternatives to be file i mean the reason i like that
+
+i mean the reason i like the files i'm already familiar with it we have expertise
+
+but i mean it is just something we developed attic see
+
+disney p. i for it and
+
+used to be a problem that they get too large and a bunch of library speed file utilities
+
+and so busy did the file system that's going to be a problem no matter
+
+that's going to be a problem no matter what you have the two gigabyte
+
+and we definitely hit that was broadcast news
+
+maybe you could extend a. t. i. to support like a splitting up you know because actually one file into smaller files on this so that you
+
+i level we did the usual level that
+
+and they'll just be done sequentially
+
+maybe so i yes if you and don can you can join the peace i'll and see so this would be
+
+maybe you do man he filed or apropos see so this would be like for that zero
+
+i didn't do it died develop it you know i was i
+
+it you know i was i think it was dave johnson
+
+so it's all part of the quick that library has all these two of these were
+
+no p. five around maybe for christmas because where
+
+you work fifty five of dixie
+
+i mean this is actually the kind of thing that wanted to set out
+
+i it's also sort of a political decision i mean if
+
+i i think it analyze decision i mean if you feel like that's a community that would be good to tie into anyway then sounds like it's worth doing
+
+so now that they have come up with a format doesn't it seems pretty reasonable to use it
+
+but let me look at it again i said great
+
+that there's one level there's because we actually can start
+
+there's one level there's one more level of in direction i'm just blanking start
+
+i'm just blanking on exactly how it works
+
+i got a look at it again
+
+and we can start with i this input from days which
+
+from days which you had printed out the channel eyes it because
+
+i've seen it you know with the channels in the tag and like that so that
+
+and like that so that would be directly
+
+easy the map and so
+
+where the censorship coming the map and so then it would just be a matter of getting making to handle the and occasions that are you know not at the word level and to support
+
+where the censorship coming from to support
+
+from right now like jane would
+
+and so put i green ribbon on for overlap code
+
+however you know you want to have it the time located in the course so
+
+if we tightly overlap code to the first word any overlap and you'll have it i marking it won't it'll
+
+or also you could have different ideas for different purposes and having a
+
+the overlap codes i'm not what or the
+
+no but the is that was the green ribbon you know and
+
+you know and less time than there's a word here
+
+the first word of it overlap excitement of anyway
+
+we could change the boundaries of the units so unique
+
+it would be agree
+
+agree this is this regarding it's related but not mean to the topic of discussion but
+
+of discussion but when it comes to adaptations you often find yourself in the situation where you have different adaptations off the same they were taking
+
+and sometimes the word sequences even differs slightly because they were it's one place but the other
+
+so what's the state it gets out there some people might start and a taping this for you know topics or what the heck you know this
+

@@ -1,0 +1,990 @@
+it's pretty it's not ever of here filter
+some things are going to be hurt
+i because they wanted to move it you there
+we could move us
+so we put together all these and we have resolves
+and we have resolves that's on up very impressive
+and it's better latency right not
+match case but i think we are like could hear bide this program that
+instance freaked out and this at seventy eight percent commission rate and the mismatch and these new
+and these new system is eighteen nine
+i don't think it indicates something
+right this is italian right so
+but i mean from d. c. seventy eight percent commission rate system i could change the transition probably for the the first h. m. between that and up to eighteen nine so
+that and it's really worked really happened
+probably supposed to be before five point six i think you're not allowed to
+only tested it on the media mismatch and on their training set i mean
+right you said on the other cases you didn't notice i think i think
+i did notice something i think the mismatch is the more difficult for the training
+worked out and i just for the for most of the
+for the digit models they and that's three mixtures per state
+and it didn't have or any significant effect as the media mismatch in high mismatch cases and i had
+i mean to do one turnaround of the matched case takes like a day
+and if i do running extra right now where i'm changing the number of iterations from seven to three to see
+and if it's not a huge difference from running with seven iterations you know we should be able to get a lot more experiments done
+but they're not making things worse and we have reduce latency right
+but actually actually seems to do what he the big twirls for the when much gays
+and we just no taste that
+but i what happened is that if you have a small improvement small it's on the web much gays you could have you would you through ones and being proven on compared to the reference because the reference
+so it waits the improve manuel match case really heavily compared to the improvement on the other cases no but
+the other cases no but it's a waking up two of the improvement nothing that ever
+nothing that ever rates
+and it's hard to improve on the best case because it's
+the best case because it's already so good
+and been in that aspect of the finest gore almost
+they said almost nothing to find this girl because she improvement because the improvement read i tasted it debated ninety smoltz
+so they do improvement in terms of accuracy rather than worker right
+improvement no
+but it but when you look at the numbers are sense of the relative size of things is quite different because see i mean i see
+if you had ninety percent correct and five percent five over ninety
+no point six percent absolute and italian
+so there is first these thing and then the
+the moment they're working on degrading specter subtraction you from ericsson
+and some of the pictures you're looking at there was a lot of light
+i was just going to say isn't there and aren't there lots of ideas for doing voice sick kennedy or speech non speech rather by looking at you know i harmonic or know
+speech even with the iowa
+to be in that's something that small relate to define structure of the spectrum
+so i don't know we were thinking about like using ideas from every soul
+we've actually back and chuck was here we did some poison voiced classification using bunch of these
+voice twenty you can't you know affect though situations or anything
+
+in that way but it's still is it's a real thing that we did get out of the microphone distance so it wasn't
+were but i think i was trying to figure out what's the best way to show the difference and i had a couple thoughts one was that
+so one thing to do might be just take a piece of the specter gram where you can see that something looks different and
+and blow it up have that be the part is just to show as
+very impressive there's no real improvement
+so from point six point five and you get ten percent better
+so it's a live bits on the when match
+but i we don't have company trees out but
+six system
+is yes it could be for the first time
+the constraints of this task we can't in a very way feed forward to recognize or information but probably
+
+the lovely see how different these sequences of numbers
+or i could just add them up and get a different total
+by using point five instead of point six point four each case chris
+i looked at look at the results one and did that and it's
+but in sort of makes my skate everything is using the far microphone training and testing
+so of started looking at a lot of numbers and getting sensible was important i see
+morgan do you remember that signet for a gram that we used to use for testing to is that still valid
+the see rope army truce for you daddy in but the rounds
+that's the first order but the but it may help first order
+it just so happens that the e.'s were more you know recorded when thee energy was larger or something or the
+some bias so that if you're moving the sources of fury ability in the data that has nothing to do with the linguistic gotcha
+
+look at the spectrum or from that you get out of there
+frames so that they look at like one instant in time
+so i wanted to experiment with cutting down the number of iterations before i increased the number of counseling
+but we've got disgusted that
+can i ask them what this variance normalization do what
+some principle you i see
+we different system
+no is no if you ever know for you know you could be taken for our speech
+they make these mistakes but so
+
+in general we like to do that because of things like this
+somebody he was morgan suggested at the last meeting that i actually count to see how many parameters and how many frames and
+if we saw that making a small change like you know it tends to be self loop had a huge effect can we really make any conclusions about differences and that's
+because it's a vacation
+q. sent this all a copy of the message
+i'm not exactly what the gist of what he was saying but
+gist of what he was saying but something having to do with the voice activity detector in that it will
+what you could do maybe is should do you so if you have if you view this second strain
+
+point one five and we go to ninety three point sixty one
+they're trying to do something with making recorded digits
+but there's also special session about or which is
+which is an extended so the
+i think you know i my initial thought
+of quite a bit the main thing that struck me in looking at the specter grams was the difference in the high frequencies hook like
+right hook like for the one i was farther you know really everything was anyway waited
+
+and for the wedding match they are around one six percent
+first i think there's something where he was having some trouble getting so much and they're i forget the
+know it's like if you're doing image processing and
+you know you'd want to adjust to that nordic compare things and the very
+where what stages the boy security detector applied is
+a distraction it applied here or after the various normalization or that
+i mean thee
+
+rate it's so we can mean off improvements
+of smoking ban when they called crap
+do you remember when the next meeting
+so we should find out if it's really better mean if it's
+the comparison small big that's
+
+no that's so when we look at these error rate
+there's just some filtering
+is the effect of that
+and some there was low light you know you'd want to
+and then voice so normal high frequencies
+
+the i it's the theater
+it that trying to i noticed that in the pictures i think you know i
+and when there is no online or my addiction
+he figured
+i look at the chili that perhaps a good place keep detectors is good before and i my edition and
+
+because there's many features there are still preserved so
+but if we can you know run all of these back ins with many fewer iterations and on linux boxes we should be able to get a lot more experimenting down
+so we are getting hurt someone in is that
+that's but for the visual just you know i'd like to have you know the specter gram again because your
+
+what's what're according to the rules what are we supposed to do about the transition probably supposed
+it's supposed to point six it's supposed to be point six so
+works it's not perfect
+but probably stick information that you might get about whether it's western voice twenty
+
+said on the other cases you didn't notice i think
+the reason he's i and it
+question i mean i think also the fact that the mismatch he's trained only this far microphone
+so you don't have this program if look i mean movie probably and for
+
+we probably should have standardized and all the way through
+but the that but i mean it's ask you something is if any news
+we would try m. s. g.
+so but some kind of smoking ban
+
+always to was thinking that maybe she flew tools seeing about police i'm the all these
+to walk i mean like some place that they seem
+we it and they seen and my feeling is that
+seen and my feeling is that actually when we look at all the proposals everybody's still using some kind of spectrum how's it
+
+if anybody knows go check
+so we're doing all these things using a software there is
+this effect so you can do that by doing was voice two detection also could
+
+i mean recognizes looking frames so like
+that didn't improve things in a way to convince too it substantially improved anything but
+but as soon as we have something that's thing that account that's her down and episode make it
+
+assignment ice size i see
+we are exchanging made soon significant results
+so i mean you could that's why i was thinking is section like that you could take a look at this that part of the specter granny say this
+
+you want to i see i don't mean a graph i mean the actual numbers
+a lot to me and it also makes the experiments go take a really long time i mean to do
+and so if we can get away with just doing three we can do many more experiment's more quickly and if
+
+it's not the square
+whereas forth i mean you snatch training is down microphone so
+difference but i've over ten minutes it's been so
+
+i don't i think it means that you see things more robust
+with i mean it is you know how much very hurt no i
+very hurt no i better example would be how much of the light was coming in from outside rather
+
+chancellor percent difference in the word aerate
+from point even tenth person
+is there any further discussion about this idea of having some sort of source code control
+
+i'm for i'm from reaching the point want but we try went one
+for i'm from reaching the point want and then we try went one
+and then not ten service and one ten
+
+like five percent absolute
+speech is more what it seems that after spectra subtraction speeches smart emerging that and than before whether
+i think they went to work in the second stream so but
+
+so if you have ten percent there and you get five percent absolutes improvement then that's fifty percent
+four and you go to ninety four point four
+that are not if there's strong harmonic structure you can throw away it's not how harmonic
+
+for of me snatched they are on like the two one point five percent
+so it's almost like everything's held up waiting for this one thing i don't know if that's
+the next in june it's saying june
+
+i used it
+i used it a long time ago but it's been
+where's but the fact is that device security sector doesn't work on jen one so
+
+they're i forget the reason behind it but
+and so we would like to actually see voice coming into since
+detection also could do it i suspect destruction before the france no a edition right
+
+she i think we should ask which he
+she i think that she say we did goat a probably keep
+so we should find out if it's really better mean if it's the comparison
+
+about that we had a guy here some years ago who did some work on making use of voicing information to help in reducing the noise
+so what he was doing is you do estimates pitch
+or you asked me if i how my structure maturity either
+
+where this came up was that i was showing off this way forms that we have on the web and
+good match but it certainly was still an indication of the fact that you get no it's assistant mike's
+
+range because i know although you start off with thirty two bits you end up with a sixteen bits and
+funny it's not the mean of word ever rate it's not the way
+
+bits and you know are we getting hurt there but dance
+no it's compared to the whatever it's improvements on the whatever right
+
+here whether we should change a capacitor on put box for that or
+for that or whether we should he suggested
+
+but then i had some other thing discussions and the a.'s
+simple thing to do is he
+
+depending on the option that our suffers being runways it's quite possible that's already being taken care of
+know we can approximate the old numbers still keeping the latency down
+
+if you look at you could just
+so which means that actually do weights on the wedding match
+
+saying either spectrum recapture but
+spectrum recapture but i think the thing is you want to i don't mean a graph i
+
+i just of say the remark why i'm
+percent five over ninety does look like it's a big difference but
+
+and also and do they show so that
+you know the d. shoe that forty online or my station
+
+i could that they're teams
+that they're teams better when we look at demi's match case but
+
+that in some cases when you money fives tonight secondly fighting other condition you end up completely somewhere asking that the space the permeate or so
+the others just them amount friends instance freaked out and this
+
+so then if you take your changes and then it's i mean our father that's
+then if you take your changes and then it's i mean our father that's but i mean
+
+i mean are the only difference is you change the south loop transition probably buy a tenth of a percent really a
+chancellor percent and it causes ten percent difference in the word aerate
+
+so from point five
+so it does get better you know looks ugly
+
+i think it's what you hypothesized in the last meeting about just being very i think you mentioned this in
+a better match i think you know if we make a better silence model i think that will help a lot too
+
+but even if you use point five i'm not it's too always gives you the better results on other tests
+right we on other tests that's so
+
+and less than forty thousand parameters in the baseline system
+i did one quick experiments to make i had everything worked out and i just
+
+because it's forty five i mean you could have
+is if you have a good voice activities sectors and she's in a kind pull that out
+
+he's only four times as many parameters and i think also
+so if there's an overall reason you
+
+and they do a final set a seven and a quit
+seven seems like a lot to me and
+
+i carried away the science course scores computed it's quite funny it's not the mean
+did the number that our here are recon mission experiments on neat that in h. m. and with these two kinds of farming person
+
+but what i mean east that you can is a huge improvement on the h. and gain
+i think we can be completely fooled by this thing but
+
+differences and that's
+just are different so
+
+and with some people from my g. working on paper for these but there's also
+because it's real obvious thing that you hear two voices but not reverberations
+
+once the deadline i think it's the thirteenth may
+whether the difference between the energy of the speech and the energy of been specter supply subtracting portion she's larger
+
+but i think it's probably on some from what and saying it's unlikely to get sort of active participation two cents to talk to the i could
+i could at least
+
+over the web that seems to be very popular way of people distributing changes and over you know multiple sites and things so maybe
+the second one and down here maybe we could just like talking to
+
+great and if you're interested in using c. v. s. i set it up here so
+form it's just the first i think there's something
+
+way for me and i can talk a little bit some point but the better demonstration of the saxon reverberations for where page so
+i mean it not it sounds pretty river but i mean
+
+you have to if you look at closely see here's a place where this one has a big foreman it
+it the informant major form it's here are moving quite a bit and then you look and the
+
+that was the main visual thing that i notice
+so they're clearly are structural effect since you're getting
+
+it's perfect because you can
+and the sentence something on the one world which is doing
+
+it's easier with a close talking the close so
+talking the close channel
+
+this is still but also what happens on the noisy portion is that the parents something is
+i think it's easy to do better because it doesn't
+
+and the very it's just sort of like the next moment you know
+so what if one set of pictures was taken so that throughout the course it was one to daylight and night ten times another time
+
+every all of the parameters
+and some principle you your move that source then you know you can i see so would the major
+
+could just get used not the same but
+no use of pitch
+
+but what happens is that after expect inspection you also increase the variance of this it's easier so
+so upright
+
+i think we went to work and they also want to work
+and they also want to work and do some
+
+as teachers just smoke after
+and you incorporate the different v. h. d.'s and
+
+so they better on which use it i mean
+can't work and everything
+
+next back in the country
+start organizing more visits and connections and so forth and
+
+that you know even with voice none bush than waste
+as a good advice detect or
+
+sing so i think if we try to up the second stream
+my voice speech detector that's working
+
+larry
+in that it will people shouldn't put their own or something was going to be
+
+so so compute the variance i resolution spectrum
+so many decision about that we
+
+but the thing is that can't get rid of things that are not if
+before you do kale peace and so forth
+
+so that's an interesting mail from down ellis actually
+
+down ellis actually i think he re directed to everybody also so
+
+also so d. p. a. mike's i have a big bunch of energy at five hurts
+
+have on the web and i just sort of have noticed this but the major component in they way in the second way for him and a pair reforms is actually the air conditioner
+
+after we're careful about using that as a as a good illustration in fact
+
+in fact it's not of the sexes reverberations british is
+
+british is isn't a bad illustration of the effects of room noise some bikes
+
+and then we have this other discussion about whether this affects the dynamic range because i know
+
+but dance pretty confident that we're not that connotation errors that some amount a significant
+
+so was a question of whether we should change things here whether we should
+
+whether we should right he suggested a smaller capacitor right for the
+
+discussions and the feeling was once we start my came with that many other problems could have happened and
+
+and additionally we already have a lot of data this collected that so
+
+is he has i forget if this was in that or in the following mail but he has
+
+mail but he has a simple filter that you felt that he suggested we just
+
+we just run over the data for we deal with it
+
+the other thing i don't know the answer to but when people are using seek out here whether they're using it with a high pass filter option
+
+i don't know if anybody knows
+
+if it's based on the rest guilty program which does both guilty and drastic guilty there is an option there which then comes up through the few calc which a lot of junior high test filtering in general we like
+
+filter doesn't affect speech frequencies even pretty low
+
+even pretty low speech frequencies at all but it's
+
+what's he cutoff frequency frequencies
+
+i don't know i wrote this a while ago was like twenty
+
+i mean i think there's some effective of twenty but it's
+
+but it's it's mild
+
+i mean it probably just for some affect up to a hundred hertz or something but it's pretty
+
+i don't know in the strut implementation of the is there i test filter are pretty emphasis or something
+
+i think we use a preempt these
+
+so we want to go and check that and for anything they were going to use to be a mike for
+
+and he says that there's a pretty good roll off and they pgm so
+
+so you know they need to worry about them one way or the other but if we do make use
+
+but if we do make use of the cheap bikes we want to be to do that filtering before we process and then
+
+but i also have to pick a different picture so the affection for british
+
+did somebody it during your talk
+
+since i was talking about reverberations showing this thing was noise it wasn't a good match but it certainly
+
+it's just not a great example because i only isn't reverberations it's annoys that we definitely know what to do something it
+
+something it doesn't take deep i knew bold new methods to get rid of five hurts it's so
+
+but so it was a bad example in that way but it's
+
+so it wasn't it was wrong it was inappropriate
+
+if someone noticed it later right now to man man
+
+and i noticed that
+
+so i think we'll change our picture on the web and they were but i think i was
+
+one was that specter ground that we show is but the thing
+
+but the thing is i is and behind them so good at picking out patterns from no lines that in first glance you look at them
+
+you look at them it doesn't seem like it's that bad
+
+another i was thinking of was taking some slices
+
+like bikes we look at with recognizing
+
+the reverberations does make it does change that
+
+and so maybe that would be more obvious
+
+spectra spices
+
+frames so that they look at you know look at like one instant in time
+
+it's at one point in time or twenty over twenty no seconds or something you have a spectrum or custom assignment
+
+you look at you could just throw up you know he some m. s. c. feature victors
+
+you know one from one for the other and then you know you can look and see how different the numbers are
+
+the remark why i'm wondering why the p. d. so far i mean we were
+
+i i mean we were always making it beginning of the table you there
+
+seems that thing we've tried to put together the clean no pass to think of something i mean
+
+then you or that's replacing the india scissors
+
+but it's not were worse and it's better it's not
+
+the fact that
+
+the test will be if you then try to you know one of the other ten cents
+
+think you mentioned this in your you know too it's just
+
+you know you get stuck in some local minimum and this
+
+and this thing throws you out of it i
+
+it's supposed to point six so but
+
+but changing into point five i think is
+
+which gives you much better results but
+
+better results but that's not allowed
+
+right we only tested it on the media mismatch right you that's so and on their training set i mean
+
+i think the reason he's
+
+microphone so it's can speech
+
+and for the wedding match it's it makes us microphone in houston
+
+i did notice something i think the mismatch
+
+and there are almost one twenty million frames of training data
+
+so it's very few parameters compared to how much training data
+
+so that says that we could have lots more rounders actually i
+
+and so i just did a quick fix i changed it so that went to four and
+
+high mismatch cases and i had was just barely significant for the match better
+
+because it's forty so time it's going to run that again but with many more mixtures per state
+
+and i think also just seeing what we saw in terms of the expected duration of the silence model when we did the speaking
+
+when we did the speaking of self loop
+
+the silence model expected ration was really different and so in the case where
+
+and so in the case where it had a better score the silence model expected is much longer it was
+
+longer it was like it was a better match i think
+
+a lot of these cases
+
+but one thing i wanted to check out before i increased the number mixtures per state what is in there do you training script they do an initial set of three rearrested the nations and
+
+and then they build the silence model and then
+
+model and then they do seven iterations then they add mixtures they
+
+add mixtures they do another seven then they had mixers
+
+and so you know in trying to run these experiments i notice you know it's difficult to find machines you know compute to run on and so one
+
+run on and so one of the things i did was i compiled h. t. k. for the linux machines because
+
+machines because we have this one for my b. and it's got like five processors in it
+
+and so now i'm you can run on that and that really helps a lot because now we've got you know extra machines that we can use for compute and
+
+to three to see how it affects the baseline system and so
+
+so you know what happens with that but if we can
+
+rate it's not the way can mean if we're ever rate it's so we can
+
+reference because the reference systems he's quite good for my much gays also
+
+so what you're saying then is that if it's something that has a small word error rate then a even a relatively small improvement on it an absolute terms showbiz quite large and is that
+
+but that's that's the notion of relative improvement
+
+but when you think about the way thing we just point five point three point two it's an absolute i don't read it to figures not
+
+no that's why i've been saying we should be looking at where they're right and not a and actors it's
+
+i mean it's not that different i mean just attract
+
+but i mean just attract because see i
+
+wet anyway so
+
+like it's difficult to say because
+
+difficult to say because again
+
+is that still valid i've been using
+
+i was actually updated
+
+updated jeff updated some years ago and was all should
+
+ago and clean it up made things better now
+
+so i should find that new one i just use my
+
+i'm it's one i just use my home one from ninety two or
+
+i'm it's not that different but he or
+
+but he he was a little more rigorous as i recall
+
+so it's around
+
+would we start from ninety four point sixty four and you go
+
+that's six point ninety three point six
+
+six point ninety three point six four
+
+to be nine you mean but i don't
+
+i'm but i don't i'm not talking about the big thing i my
+
+i'm i my the nineties it submit system just
+
+finish we stopped in ninety three point eight before and we go to ninety three
+
+and we go to ninety three point seventy four
+
+and for spanish we are we where it's ninety five point one five and
+
+you know what piece you done several changes here
+
+trees out but the or so it's or read a short thirty eight or it's on the italian one match
+
+the other things like done something attempting don't seemed to work and
+
+i'm work and then you online or my addition either so
+
+i'm really confused about something if we
+
+i mean especially when the small i mean
+
+i computed like the confidence level on the different that's and
+
+for the women it h. and there are so wrong one point five
+
+but say the these degradation so we're talking about we're on the match case
+
+did it this the new filter make things better or worse for the other case
+
+there's never does get a little better or something
+
+so i the argument on my neck is that if you look at one of these cases and you tickle something it changes then you're not quite what to make of it but when you look
+
+to make of it but when you look across a bunch of these and there's some pattern
+
+and so he hears all the if in all these different cases it never gets better and there's significant number of cases where it gets worse than you probably many things so
+
+so meet the very least that would be a reasonable prediction of what happened with a different tests at the turn taking things
+
+so i the question is if you can do better than this know we can
+
+so what i was asking there our what's the level of communication with g. i again know about this
+
+you from ericsson
+
+we're working on our side on other things like also trying to a specter suppression but
+
+but before own i mean another the curse attraction
+
+for moments there
+
+everybody's quite
+
+there is this your speech deadline so
+
+like good but i think that keep saying people are sort of scrambling for your speech deadline that'll
+
+that'll be done in a week
+
+already a week
+
+anybody in the script oop doing anything speech or
+
+and the good thing is that there's this sort of deadline
+
+so if only for the experiments on or a certificate
+
+especially the sensation it's
+
+where is here estates this here
+
+board
+
+but i'm meeting digits maybe is yes
+
+so i mean i think that you could certainly start looking at the issue
+
+i'm going to be out next week but i could
+
+but i could tried to look into like this c. b. s. over the web that
+
+and things so maybe i can figure out how to do that easily and then pass the information on everybody so that it's you know is easy to do as possible and
+
+as possible and people don't want to interfere with their regular work and maybe that would be good
+
+and i think we could use it for other things around here too so
+
+awhile so maybe i can ask you some questions so
+
+so i'll be away tomorrow and monday but i'll be back on tuesday wednesday
+
+today the other thing actually is this talk this way for me and
+
+made a good audio demonstration because when you play that clip theses the really obvious difference is that you can hear two voices and in the second one and down here maybe we could just like talking
+
+some good river
+
+pretty river but i mean you can't when you play back in the room with a you know a big room nobody can hear that difference really they hear that it's lower
+
+really they hear that it's lower aptitude to hear the second voice
+
+actually that makes for a perfectly good demo because it's real obvious
+
+thing that you hear two voices but not reverberations
+
+because your visual abilities as a human being are so good you can pick out you know you
+
+out you know you look at the good when you look at the crew the screwed up on and you can see the features in it that trying to i noticed that in the pictures i think you know i
+
+right my initial thought was this is not too bad
+
+and then you look and the other one and they don't practically five
+
+say this really sort of quite a bit the main
+
+effect since you're getting all this indirect energy than a lot of it does have reduced high frequencies but
+
+but the thing is the temple courses of things really are changed in and we want to show that in some obvious way reason
+
+some obvious way reason i put the way forms in there was because they do look quite different
+
+after they're put in there i didn't really look at them anymore just
+
+are different so want something that has a more interesting explanation for why the different
+
+and so maybe we can just substitute one of these way farms and
+
+way farms and and do some kind of zoom in on this doctor come on an interesting area
+
+the other thing we had in there that i didn't like was that the most obvious characteristic of the difference when they listen to it is that there's a second voice and
+
+and the the cuts that we have there actually don't correspond to the full away form it's just the
+
+reason behind it but it's it's the first six seconds or something of it and it's
+
+of it and it's in the seven thirty second or something where the second voice comes and so we would like
+
+since it's most obvious thing when you listen to it
+
+i brought some figures here whether i
+
+figures here whether i that we started to work on specter subtraction
+
+the preliminary results where very bad so
+
+so the things that we did it just do i'd stick inspection before process you can think that
+
+and so we started to look at that things like this
+
+and they put the disk phone to china's jenna zero
+
+jenna zero it's closing the microphone just
+
+microphone just this the microphone
+
+this is all part of this easier early energy so they just to
+
+early energy they just to see hero when we don't q. of correction
+
+there's just some filtering would that be
+
+be done something attempting
+
+it's channel one is so she is you're researching
+
+so she is you're researching
+
+them when we mean meaner my education looks like the second figure
+
+good the pockets
+
+and then the third figure is what happens when we but i mean not isolation and the variants on my mission
+
+but you can carry see that on the speech portion some the two channeled come becomes very close but
+
+this is still the parents something is
+
+this is still being a plot it's easier
+
+easier can i ask just says see hero
+
+unless it's the parents so it
+
+i mean it's normal the that deviation so
+
+no i understand that but i mean it you get an estimate of the standard deviation
+
+no i understand what it is but i mean what is it
+
+i mean because everything if you have a system based tango scenes everything is based on means in variance is
+
+in from outside rather than artificial light so food a lot
+
+so food a lot if more was coming in from outside than to be the bigger effect of the of the change in so
+
+so every mean every all of the parameters that you have especially the variance is are going to be affected by the overall variance
+
+so would the major effect is that you're going to get is five normalized in the means
+
+that's the first order but the saying but then the second but it may help first order effect and it may help
+
+saying but then the second orders is a variance is effect and it may help to do the variance
+
+saying but then the second orders is a variance is effect and it may help to do the variance
+
+because again if you try and distinguish between he and n. b. it just
+
+or something or the variation in it was larger and the bees and this'll be give you some bias so
+
+edition and that's what we've already observed
+
+but after you do this what's the key sections that and you think either
+
+but after you do this after you do the variance normalization that and you think either
+
+i don't know it seems like this would be a lot easier than this signal to work with so but i know see that's
+
+to work with so but i know see that's what i prefer to look at the second figure then the third one
+
+but because you could issue where speech is
+
+but for the purposes but the brother me that on the speech portion jenna zero each other ones are more different then when you use virus from my addition our ten as you in general and become closer
+
+but for the purposes of finding this beach but you
+
+you're more interesting the difference between the speech and then on speech right
+
+for i think that wretched shows that the army too is that the voice acute sector should use after you was should be different departments of that has to be used for speech recognition
+
+so you want to reduce this effect so
+
+but that's not pretty
+
+of farming person it's bets are retire after my mission
+
+but there's just have the voice activities section in
+
+a distraction after the various normalization or that
+
+or that i before various on my vision so it's a good thing because
+
+is it applied so it's a good thing because i we're sick easy detection on base it could be worse
+
+is it applied all the way back here
+
+it's a died
+
+that's why it doesn't work for channel one
+
+so we could perhaps do just mean or my addition before he
+
+sort of top level question which
+
+level question which is if most of what deogee guy folklore working with is trying to integrate this other spectra subtraction where we weren't about it
+
+the construction
+
+it's just whether it's another
+
+that trying to use the ericsson and you're trying
+
+ericsson and you're trying to do something else
+
+and also to understand what happens because
+
+but when we do spectra subtraction actually i think the dishes the it two last figures
+
+speech is more what and than before whether
+
+but if you compare to fess figure this one
+
+get used not the same but if you look at the numbers if you see that the difference between b. c. zero the speech and seaworld in those portions voucher
+
+so upright variance in my addition and they see complexities school
+
+and what they did the itchy eyes just they don't choose online on my vision for the moment inspect inspection i think
+
+i think as soon as they were incredible mine online edition
+
+so we're working on the same thing but i think
+
+actually it's interesting to work on things one way or the other but i'm
+
+way or the other but i'm just wondering if a list of things that there are to do the same things
+
+do the same things that we won't do because we've got two groups doing the same thing
+
+they're also could be i mean i can maybe see reasons for both working on it too is
+
+on it too is you know if you work on something else and you're waiting for them to give you special subtraction i mean
+
+i mean it's hard to know whether the effects that you get from the other experiments you do carry over one she's then bring in their spectrum subtraction module
+
+mean we still we have a latency reduction plan which is clearly like to be
+
+and then what their issues of having second stream or something
+
+there was this business that you know we could use up the full forty eight hundred bits and
+
+do you remember when the next meeting is supposed to be the next it's saying
+
+the other thing is that you saw that mail about the v. a. d. the eighties performing quite differently that
+
+this there was this experiment of what if you just take the baseline
+
+says as teachers just smoke
+
+and it looks like the french eighties is actually better improve the baseline
+
+improve the baseline
+
+if they use the small g. e. d.
+
+because it doesn't work at all
+
+i don't know which one it's speculative
+
+which one it's speculative did this experiment
+
+and the it's something that something worse but they it's
+
+but they it's i think you're talking about the other means that use the the riff surrounds features
+
+and on that one the frenchmen i suppose better
+
+and on that one the frenchmen
+
+ms enough better that too but count for a fair amount of the difference between the performance actually
+
+and perhaps we can usually improve if you put like mean no my addition before he can
+
+can mention
+
+hinckley back in town the week after next back
+
+interesting
+
+no use of pitch
+
+eleven that bitch but to
+
+that bitch but to look at find and i resolution spectrum
+
+but don't necessarily want to find the picture and sound it
+
+the other thing that when music you and me likud just at the end of the there's no way you can tell if it's always tenants like if there was some
+
+it's easy in king speech because like sound i'm although frequency and
+
+there is the first formal and just archer
+
+i or looking across time
+
+i think you some but the voice though right
+
+enough position speech
+
+i thought that you were he was talking about
+
+know and finish who's going to sing talking about
+
+it they would be otherwise stream it to the end of it opened the second could be interesting to be in that's something
+
+larry so it could be an idea we are
+
+we are thinking about just taking the spectrum
+
+you from that you asked me or you asked
+
+and that is another way of getting rid of part of the noise so
+
+so that's something that is sort of finer
+
+things a little more information introspective subtraction
+
+and he had some i he did that serving combination ross process kind of
+
+process kind of crosses taken care of loose smells and he was and
+
+and that some decent results doing that so that's another
+
+so that's another way
+
+always accuse we've actually
+
+didn't ahead dude send around that message q.
+
+so that's voice activities sectors opposed to voicing detector so we're talking about
+
+so we're talking about something little different i'm
+
+i i'm i missed it
+
+i what you could do maybe is i missed it
+

@@ -1,0 +1,379 @@
+it looks like the overall result as a are now even without you know any bugs being fixed is that on the other tasks we had this average of forty nine percent or so improvement and
+there's a couple pieces to it to suspect
+so everything we did to probably just be added onto what how could tell bitten probably
+is not usable right
+no and that the training i is always done on the coast talking
+i chitty doing much condition it's great it's quite difficult i mean it's
+i mean it's they have all these states affirmed close mike confirmed this i nike from the from driving conditions opening though close window
+and they take all of these
+percent of testing so training he's dumb different conditions and different microphones and testing
+so and it does correspond to realistic situation in the sense that people might really be trying to call telephone numbers or something like that in their cars and they're
+and they the matched condition is what she might imagine that you might be able to approach if you know that this is the application you're going to record a bunch
+because we change we some want to stay in it doesn't work out
+work out for good to something i don't know it goes
+and so then we would just stop it
+
+you know most of the time even i mean even though it's true that the overall number for danish we didn't improve it
+because he nickleby over there telling people but we did so he
+i mean even with these results as they are it's it's really not that bad but
+i mean i think that one of the things that he was talking about was understanding what was in the other really proposals and
+and trying to see if what should also be proposed to some a combination of things
+to it to suspect this attraction southeast is you know wiener filter
+they are so since we have a bit farther to travel and some of the others to get done a little quicker but
+i mean i think the question is there some advantage i mean you could just take
+i mean you could just take the best system and say that's the standard but the thing
+because so me and told me that we're trying authority to put some kind of the training and so that's that's what the idea l. d. s. that they could
+but the i mean the have to mystical and is
+welders an m. s. g. like finger was an m. s. g. right
+as we were just talking about some work that we're interested in
+
+so i got these yourselves from stefan also
+also i think that we might hear later today about other itself think
+we have a little bit of time on that actually
+and here we have so much better than that in a danish and so worse than that on the german but i
+did anybody do anything with the models is an experiment or
+so as a result of that we have reduced transmission rate for the pets
+that was mister porter the first time out it said the same
+view on it so you know the real things probably somewhere in between the two
+
+so but you can't i mean you got to doing speech and enduring simon's
+they're using because these standards are supposed to go on cellphones with moderate resources in both respects
+but the thing is that if different systems are getting it good things began within the constraints of the resources if there's something simple that you can do
+a friend since it's i think very reasonable to have a standard for the terminal side and then for the server side say here's a number of things that can be done
+and so and they both had some kind of on my normalization right
+or swords so
+so it seems like the main difference there is the as the filtering
+and the filtering i think if you can
+
+three work it better and one market towards
+actually voted any stairs to some kind of military
+because when me you was the street teachers we i'm not able to get these number with
+and they're not things that we did precisely we did
+but the only katie at that is that everybody's being real conscious of how much memory and how much c. p. u. they're using because
+so i think that you know this is this is a neat data set
+i mean are much better than they were you know talking
+
+it i'm going to have a little time on that in actually so
+you know so my impression is they also did very on the evaluation set but
+bitten probably work pretty with them too so
+so it seems like the right thing to do is to on the terminal side take what they did if it does seem to generalize two german and danish
+i'll take what they did and a filter and then and some on the server side and
+and that's probably a reasonable standard
+rerun it other than that you're done right
+
+but you know so too is comparatively later but
+so there are two more so we're going to end up with the same kind of sheets that has the percentages and so i'm just for the
+be something to discussing the meaning
+but not clear what will go on
+and then when you sell it to somebody they will be a different person with a different car and so on so
+goes maybe do that there's so that the age in it and and they have them
+
+eighteen nine forty four
+so hold off on that a little bit i mean even with
+i think the meeting is on the thirteenth or something
+so i'd be interested in hearing your sucks now i mean you're
+and for about that he there is so much more became cassius arrows on my speech
+
+eighteen nine forty four
+and another they didn't report it if they did
+i think everybody was focused elsewhere
+one of the things that's about what we did is we do have a filtering which leads to a production in the band was in much relation spectrum which allows us to down samples so
+
+so i think in this community that's of interest it's not like
+and they might just say they just don't know enough yet to declare standard
+and if we can back off from this now and sort of take our time with something that have doing things quickly be quite so much to constrain what do you think would be the best thing to do
+have to mystical and is
+
+but first so three ever look at the speech from the that the basis because we tried
+because we tried everything but
+everything but we can treated that's what's happening
+or more generally i what is causing the degradation
+
+i mean always of course even with all of our wonderful processing still are horrible kinds of numbers
+sort of one try rights took one filter that they're right and it
+right and it seems to me that if that is an important idea which it might be that one could work at it for awhile as you saying
+and you had you know you had the multi band things also and you know there's an issue with that
+
+but they in one was called french telecom elk tell system it was called up and tell francetelecom still kind of system what's the biggest difference i think but there
+then that's a standard
+it's just that if you just disobey and then you risk not being able to sell your product or
+
+and they use the main thing that they use to spectra subtraction or
+that but this process has gone on for awhile and already and
+lot of times it's true there are a lot of times when we try something and it didn't work right away you know we had an intuition that there should be something there
+
+it's shit i it's the same shit
+so i see so yes the high so
+so yes the high so the rest of the highly mismatched case is in some sense of good model for what we've been you know typically talking about only talking about additives noise and
+
+you you'll be you'll become experts on this and number for more than me about this that this particular standards process once you go to this meeting
+that's gotten terrible results by taking some data day and artificially in oak involving it with some response or something we take a very
+one point brian and i went downstairs into the basement is in a hallway we're is very refer brent and we
+
+because a lot of times it's true there
+but it was you know sort of a small improvement and
+and it was in the big attic complications so you dropped it
+
+phyllis out to after actually so
+and also part of what's about this is that this is he realistic almost realistic database i mean
+
+results from other places
+out in second place second thing is that the only results we have so far before really developments that yourself
+
+and then diet seven up this email about because he has been running some other systems other
+work that way that's you know that's sort of the donna things even
+
+and you know it when whenever anybody figures it out they should also for you mail he because he
+kind of numbers were getting there about eight or nine percent error for digit
+
+somewhere and they're depending on exactly
+in here the worst system still reduce their race by thirty three percent or something so it's so
+
+how much better was that best system than ours so
+day after they leave but lost have to stop at the day before
+
+but foresee developments that our best result was a little bit shorter fifty percent and the best result
+and the best result of any system and fifty four where
+
+it's so you know so everybody is doing things between roughly thirty years and the errors being eliminated and bearing on different s. and so forth so i think
+but live in the artificial setup it isn't noise artificially you know simulated it's it's real
+
+of the they were two systems that were put forth by combination of francetelecom and now could tell and
+i think but there are some other differences too
+
+but i we haven't seen if you haven't seen
+the training and so that's that's what
+
+and they if you haven't seen any find ourselves
+just was a missing columns something
+
+precisely we did unreasonable things which because they like to try strange things and
+strange things and and how things work too
+
+so in reality if you put this the system and into the field it would be twenty four hundred bits per second i'm forty eight so
+it's very short
+
+what is the development set i mean the to set results do
+like the day before you leave or something probably the
+
+d. b. results or do like the day before the meeting or something
+so i think the whole reason for having as long as we have which is like a week and a half is just because of bugs like that
+
+has something to do with the electricity shortage
+we didn't we don't have enough electronics here and
+
+so there are two more comes the shit so i'm just for the i it's the same
+and so on so it's not final even if they declared standards and they might
+
+saw this i just figured these numbers that's
+these numbers that's that's good
+
+shouldn't take a lot of memory to do that and i also wouldn't think the c. p. u. would be much either for that part so if you can if
+so if you can add those in then you can cut the data right now
+
+they are working on disability
+database i mean still not people who are really trying to accomplish something but
+
+your product or
+i mean if you have ten digits for protecting every now and then you get right i mean
+
+interested in hearing
+no accepted because we change
+
+almost done i mean you're done in the sense that you maybe you'll get some new features some snow and little rerun it
+so it's an interesting hearing your thoughts about where you think we should go from this i mean i tried a lot
+
+so there's this demi snatch is the same kind of thing but so that the
+of thing but it driving conditions i mean the speed and kind of froze it different for training and testing is that right
+
+and they're trying to connect to something
+hi katie it's varicose to topeka speech training goes because the clothes microphone and speech testing
+
+of inspired by the by very so learning articulate tory feature and i think in the case paper dishonor it's based on multi band information where you have a combination grady and learning and
+than they were you know talking about thirty to sixty percent error rate reduction this it's really great
+
+so there's a lot of things to work with
+what i like about it you know way is that the results are still so terrible
+
+other itself think that there are some other very good results that unlike compared to
+
+systems other than the c. o. john one so
+
+but it looks like
+
+if you look at it individually weathered really say is that there's looks
+
+looks like out of the six cases between the different kinds of matching conditions out of the six cases there's couple where it stays about the same
+
+we don't have just ninety three seventy eight we eighteen nine
+
+so that's probably something wrong with the features that we get from which she i
+
+and he's working on trying to check it i'm going to have a little time
+
+when you cook leave
+
+so saturdays midnight or something
+
+of time
+
+the german but i mean it sounds like one way or another the methods that were doing ten reduce the error rate from elk upstream four seven to i half of them somewhere and they're depending
+
+we don't know yet
+
+me first place there's still this thing to work out in second
+
+it's not like everything is being pinned on the evaluation's set
+
+where these numbers are the relative reduction and we're there right
+
+and the others just in this we're somewhat lower than that there was actually
+
+that there was actually it was much less of a huge range than there was in her one or are one
+
+one or are one there were systems that didn't improve things in here
+
+it's probably a good time to look at what's really going on and see if there's a way to combine the best ideas swell
+
+swell same time not blowing up the amount of resources used because that's
+
+used because that's critical for this test
+
+about who's was it that had the lowest on the does that
+
+and they differed in some respects but they in
+
+i actually something and then there was some modification of the capsule parameters
+
+actually something that's close to i mean subtraction
+
+but the weight i mean he's adapted cigna depend
+
+but it's very close to two concerning subtraction but some people have
+
+but some people have done exactly that sort of thing of
+
+of thing of i mean it's not to look in speech only try to measure these things during speeches but that's not that
+
+but that's not that uncommon
+
+but it still looks like he did some reasonable things
+
+it's possible that some combination of these different things that were done would be the best thing to do
+
+it said the same amount because for convenience sake in a particular way this is being tested they were repeating the packets so
+
+the packets so it was so they were they had twenty four i bits per second but they were literally creating forty eight hundred bits per second even though it was just repeated
+
+right they could have had a repeat counting there or something so in practice
+
+they could have had a repeat counting there or something in practice
+
+i mean this is just a phony thing just to fit into the software that was testing errors channel areas and so on so
+
+so that's a feature of what we did
+
+but we still have to see how it all comes out
+
+what is and then there's the whole standards process which is another thing altogether
+
+probably the day after they leave but
+
+but i mean it's just chasing down these bugs i mean just exactly the
+
+i mean just exactly the sort of thing that you know why these teachers seemed to be behaving differently in california than in oregon
+
+i think you know the main reason for having you
+
+having you know it takes to run the two test that's interesting computer time is just a day or so right so
+
+so he neckers tried to push for trying to combine different things so
+
+that's one aspect of it and then on
+
+and then on terminal side i don't know how much memory and c. p. it takes but it seems like the filtering mean the v. a. d.
+
+are working on disability because so
+
+that's what the idea l. d. s. that they could you know they could actually show that in fact a combination of some sort would work even better than what and in is
+
+on i mean on the one hand sometimes people are just anxious to get a standard out there and you can always have another
+
+there and you can always have another standard after that but
+
+and already and people might just want to pick something and say this is it and
+
+standards are always optional it's just that
+
+and people often work on new standards on old standards in place and so on so it's
+
+i mean you're almost done i mean you're
+
+this i mean i tried a lot of things in a hurry and
+
+it's a novel idea look
+
+idea look at the data
+
+actually there's something that most of t. r. us we can funding classes
+
+taking it could be interesting to see i don't think it's too true when we had knowledge in
+
+in so we i the confusion make the confusion matrix is a very different in an is now he's in when it's can speech
+
+so it perhaps we could have large king it just by looking at improving and re commissioned nothing funniness with the funny because he simply
+
+which is the same pair program perhaps but which is perhaps important for my speech
+
+think strikes me just looking at these numbers is just taking the best cases i mean
+
+just take the best case the matched german case after are matched danish after we
+
+it's it's real condition
+
+and they take seventy percent i think for training and thirty percent of testing
+
+microphones and testing also is dumb on different microphone and conditions so
+
+conditions so probably we only take the close microphones i the research should be much better and
+
+excise partially
+
+and that's condition is microphone for crane and done for this thing
+
+you're going to record a bunch of people in cars and so forth and training
+
+and so on so it's this is in opting somewhat optimistic view on it
+
+things even say on the development set that we saw the the numbers that how could tell was getting which is you know the best and the numbers it just it wasn't good enough for real system
+
+so looking at today they were you know what's what's what's characteristic it
+
+characteristic it i think that's good
+
+even thoughts about what else you're thinking that you didn't get too you would like to do if you had more time
+
+sweet thing and it those seen
+
+and we've doesn't look we to most these maybe
+
+these maybe the chinese game we've got to go to a few to no accepted
+
+i don't know accepting who's seeing what we i pools
+
+and one of the things i don't remember the details on but i remember at some point when you were working with the second streaming you tried they'll pass filtering the caps term in some case you got welders
+
+caps term in some case you got welders an m. s. g. like finger was an m. s. g. right
+
+you i think in some case you got some little improvement but it was you know sort
+
+but that was just sort of one try rights
+
+is going to be continuing working multi band things as we were just
+
+and then you mentioned before also have the new digit set coming up from recordings in this room
+
+this it's really great that to do that in a relatively short time
+
+but even after that it's still so poor that no one could really use it
+

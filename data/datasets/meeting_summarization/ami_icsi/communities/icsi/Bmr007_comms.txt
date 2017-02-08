@@ -1,0 +1,1018 @@
+there's a i mean there is telephone call tomorrow be a conference call some of us are involved in for possible also
+we'll talk about it next week something do you want to be there for that i know
+it's not indicated with type precision is just indicated that so is indicated to it too so the people know what participate which stretches the speech we're in the clear persisting overlapped by others or
+and then if you look across the right then that's where he was the person who was just the first speaker and a pair and got overlap overlapped with by somebody
+very true because you normalized expected that now to how much
+you know it's like i'm not saying on the tape who did better or worse because i that's right say something
+numbers even though enjoyed it but you know it's like i'm not saying yes that's right say something
+and it would be you know of course there's also the question of what type of overlap was this and were they
+thing i mean do you have behind bombing style from the east coast where people will overlap often as an indication of interest in what they the person thing and
+she talked about differences of these types that they're just different styles and it's you
+is this considered as one overlap in each of the minutes away have done no i wouldn't
+kind of thing these are simple thing assumptions didn't happen very often
+because it i find it interesting that there were a large number of overlaps and they were all too speaker
+it's just that people haven't been looking at that because they've been doing single channel processing speech recognition
+but because they crucifix imitations that were done and the fact that somebody could seagate in switchboard were missing people can study but that
+that's exactly why we wanted to say that precise timing of overlaps and so here's right
+i have a feeling most of these things are that are not kind our our competitive as opposed to really hostile next
+you go back to the sort of one person at a time with one person
+but i think it's worth reporting on the meetings we can
+because one of phone changes
+then weather whether you know nothing about
+to be too hard to make barriers i was thinking because they have to go all the way
+
+start with yours make to get to it
+same idea so if people
+same idea so if people today she seen it before so
+today she seen it before so i as you know part of the in coding includes a mark that indicates an overlap
+i read a script which divides things into individual minutes which we end up with forty five and a little bit and
+numbers even though i rather enjoyed it but @reject@ now this is the case we're yes
+and it's you can't impose a model of their of the ideal being no overlaps
+that would be a new overlap
+but otherwise let's say be comes to the conclusion of that turn without anyone overlapping with him or her in
+overlap counted in the second minute but suppose they both talk simultaneously both a portion of it is a minute one
+in that case my the coding that i was using since we haven't incorporated adams coding overlap yet decoding of
+cracks it would be an underestimates other number of overlaps because i wouldn't be able to pick it up from the way it was encoded so far we just haven't done
+i'm i'm confused now so far we just haven't done it the precise second to second i'll second a second coating of when they occur
+and one of the reasons they were considering it you know one of them and all of them one of them is that at least you know i'm very interested in this scenario in which but people talking here pretty much equally audible from a single microphone
+but where are you where you where you so it wasn't in the design
+actually to tell you the truth the reason why it's hard to measure is because
+i agree them and the reason is because i either way
+so actually that's in part because the nodding if you have visual contact the nodding have the same talks about on the phone
+about two it when too hot food choice to go to the else you know if side and between vince and i seen it you but they're to use the equities trinket that the bay she i eat i eat takes old and bike dictate it and for go she or the spring's p. m.
+sort i find it wouldn't women's studies i and i said didn't do a speech five from day might get from it of course there is microphone is i phones that we took a different level of energy you feel it anyway put your name and or you want to do it but
+
+i think chat with you about
+final i think we i remember where they just thought have
+kind of it now the question is there are there individual differences and whether you're likely to be overlap with or to overlap with others and
+probably more mean the general cultural idea which the conversation alice originally star was in the seventies was that we have this strict model where politeness involves that you let person finished it before you start talking and
+so it was think about the case where a. start speaking and then be overlaps with day and then the minute boundary happens and
+here just never run comparison something else both
+else both learn about is over lessons situations that the first order thing i would say is that there's a lot of
+i don't do @reject@ agree with that it i what i'm comparing to is more the common sense notion of how much people over land
+but you know of certain types now if
+of certain types now if it's just back channels people maybe doing that with less intention of being heard just sort of spontaneously doing back channels
+in the two person
+so here's a here's the first interesting labeling tasks
+still takeovers that might be an interesting problem to look at
+out the person's face
+how big their head or whatever but you know these are important too this means they in transit
+question it'll be much harder much are
+the look what you're it when they give you the war will have you looked
+also what i'm doing right now is not intended to be an acoustic changed it actor for far field likes what i'm doing
+
+and then if you look down a summary table then you see that that they're differences in weather person got overlapped with her overlapped is this just rock
+rod counts is this just rock cancers it
+yes would be interesting to see how much each person spoke
+yes very true because you normalized to how much
+problem and places also which i thought were interesting where two or more people gave exactly the same answer in unison different words of course but you know the
+switchboard and if you think of meetings being recorded over the telephone which i think you know this whole point of studying meetings isn't just that people in a room but to also have meetings over the phone line maybe
+so that's important question to ask think secretive applause really
+so think secretive applause really saying is that i don't think we were considering that switchboard
+it is that right i just saying that we're now we're looking at
+were benevolent types
+and i could imagine that is that there's a fair number of cases where i'm this is so it's not really hustle bustle of competitive where one person is finishing something and you have like two or three people jumping trying to time true crap the next turn trying to get the floor
+people jumping trying to time trying to get the floor
+vote in florida things you have to studied a lot
+is i phones that
+weather fine with it without there's this one i'm just going to sleep
+
+you know conversation us also agree with that since
+is likely to be and so and to there are a number of places where someone just answered early the
+let's say that in second fifty seven of one minute you start talking and i start talking and we ignore each other and keep on talking for six seconds so we go
+what i mean is that in switchboard despite the many other problems we have one problem that we're not considering is over
+and what we're doing now is besides and many other differences in task we are considering overlap and one of the reasons
+where you where you are we measuring i mean
+even though i've action like are completely inside your track
+out because data say switchboard which isn't exactly the same kind of contact me neither to
+and the reason is because i think there's a limit there's an upper bound on how many can have simply from the standpoint of bought ability when we speak we
+actually unusual to have everybody going
+wonder what determines who gets i agree
+try to pick a realistic goal his goal was do something
+@reject@ @reject@ i'm supposed to be good and probably should it would i think the blindfold
+
+and so much with us when this is what this is actually when jane sent this email first is what caused me to start thinking about on him eyes in today's
+i think it's really interesting though is before saying yes meetings have a lot of overlaps is to actually find out how many more we have and to party because into party it is i think so too
+if i have a question in fact that would be
+interesting i mean it that made my
+that's also true switchboard it may happening a lot i was
+thing is that @reject@ i say if i have this complicated thing in front of me and we should which you know we're going to get much more sophisticated about when we get lots more data
+and i was going to describe somebody what did you learn right here about you know the modest amount it was analyze and say first order thing is there's a lot of overlaps in fact
+right lot of overlaps in fact it's not just an overlap bunch of overlap second order thing is it's not just a bunch of overlaps in one particular point but that there's overlaps throughout the thing and that's
+so here's a here's the first
+it's very difficult if you try while you're trying to say to convince somebody on the phone it's difficult not to ever have not
+but it's my phrase it that way hasn't been signed yet but it's getting ready
+but it's my phrase it that way but it's getting ready
+
+vote in florida they're very things you have to studied a lot
+what the head nodding here vigorously must linguistic anthropologist would suggest it would be useful to also take pictures of the meeting
+on bright on the and a lot of looting similar approach like it is it that the when i'm that the basic they should go g. energy goo go see that's its own homes is more fighting speakers because old
+old loading poop grosses to do the same in between my ex is found it to bodies is dead they bike days not bright for each thing i've seen
+thing i've seen is and you want to be on a more general approach the if we compare we'd we use it the new one that i want to live it's because you when i should we said brooke class will old mobile class be
+i'm then if you go if you energy too predictable dropping needing a new porsche that and a speech five from the and is business it's society knobs
+to be too hard to make barriers i was thinking because they have to go all the way
+forms do you mind being blindfolded that's right we didn't tell him would be blindfolded
+i i'm probably things wrong but what i said was exploratory analysis of long distance inferences for topical parents b. c.
+
+that was sort of the point
+so soccer
+talking and you know i mean we know that and they've loosened up on that to too in the intervening time that's that's viewed as being culturally relative thing i mean do
+other we know what the topic is what the possibilities are and we've spoken with each other so we know
+other so we know what the person style is likely to be and
+i don't do @reject@ agree with that if you said it i what i'm comparing to is more the common sense
+day that you have i think that's a problem also what i'm
+
+and no minute zero courses the first minute up too sixty seconds and
+and also i can say university but anyway the people who
+in the two person detractors track
+but maybe it's just a small overlapping
+but maybe it's just a small overlapping did you think it'd be interesting
+if candidate like marking here a candidate actually field likes what i'm doing is trying to use the close talking mike and just use canned and just generate and just try to get a first pass that something that's sort of works
+i still think we should try it meeting or two with the blindfold at least of this meeting
+
+and and what i was looking for it's just specifically was the question of whether they're distributed evenly throughout or whether they're bursts of them
+and there it looks like you see some differences
+so three to four minutes altogether with none or
+so that's it would be considers overlapping the first one
+want to go back and listen to minute forty one
+no i agree with that i just interesting
+and that's all and it would that was making statement about
+
+you know you this is just if this would this is not physically verified but it did look to me as other burst throughout rather than being localized to a particular region the part
+a percent six is two point eight percent of the total number of overlaps in the session at the very
+again i want to emphasize is just one particular one particular meeting and also there's been no statistical testing involved but i i took the coding up the you know my i
+position is it the body ish you the vision is it but he's that i suspect that also differ
+yes used to spend minutes so if an overlap travels the boundary between two minutes that counts towards both
+then we also have these are you know pretty large partitions
+
+but anyway the people who used to say was strict now don't i mean they
+don't i mean they also it you know acknowledge see influences it's a cultural norms and cross cultural norms and things
+@reject@ it's at the bottom you have the bottom three to four or
+@reject@ it's at the bottom you have the bottom three to four or
+were yes but just no overlaps
+it'd be interesting so is just no overlaps
+
+so then it becomes so just superficial you give couple ideas of the types overlaps involved i have at the bottom several that i noticed though
+several that i noticed though other back channels like what i just now and
+just now and anticipating the end of the question and simply answering earlier and there's several those
+and there's several those in this in these data work because we're
+because we're people who've talk to each other
+two were doing so i sent to you and
+
+i'm confused now so let me restate what i thought interesting and see
+there maybe like three overlaps affected that way the whole thing i
+depends what you're doing it
+good plus that
+about on the phone the switchboard you that would work so you don't have it
+be trying to different just because i seems that me we you my opinion you be is but different speakers
+
+what about thee your trip
+sort of off topic i because it's
+adults me children don't address a i mean
+so if you fiddle around with it a little bit you get good numbers you can actually do a pretty good job of segment thing when someone's talking and when they're not but if you
+not but if you try to use the same parameters on another speaker doesn't work anymore even
+
+fair enough and actually know the point is not about it individuals point about tendencies toward you know different styles different speakers styles
+meetings what i had thought we were going to do is just take pictures of the white sports rather than take pictures of the meeting and
+human subjects approval on campus and release forms worked out so the meeting participants
+wondering alice is of overlaps in the pilot there we have transcribed
+and explore terry analysis of long distance inferences for topic topical parents those if are the right way after i would describe that with a little exercise that you and the kindred what was it called
+
+agree with that since universe like i agree with and
+because the idea was the first speaker had the floor and the second person started speaking and then the first person race or the floor kind of thing these
+and so this pick a different word
+i mean we most of our meetings are meetings currently with say five six seven eight people should we
+should we really try to have some two person meetings person to person meetings and they record them just to beef up the statistics on this control
+
+vote in florida things you have to studied a lot
+river
+what winning i'm into or you can tell the joke and then everybody's laughing and you get a chance to break in but seniority
+we say that makes for it mixed
+i but i'm going to you do and to take to a club right that's the is but you when i so pulled up or into the p. d. a. is peach find that i seen you were supporting because the can show you were needs and i suppose we need to put we think this is not what i was suggesting to do
+
+fair enough
+what should use words like it's to do besides what i mean is
+to distinguish between say back channels decision timing's those you know benevolent overlaps and and so this i don't know pasta i love the last for someone's trying to grab the floor from someone else pick a different word
+meeting it does work for the one speaker throughout the whole meeting
+
+but you know the you know everyone's saying yes or you know or you even more specific than that
+so the point is that overlaps not necessarily a bad thing and that it would be a useful to subdivide these further and see if they're habitual differences in styles with respect the types involved that's all i want
+a speech five from day you feel it anyway
+might get from it of course put your name and
+
+the question is you know how many more overlaps do you have of say the two person typed by adding more people to a meeting and
+it may not be so but see i find it interesting even if it wasn't anymore because
+the noises past and i fascinating we generally do monitor things like that about whether we whether our potters will be in the clear or not
+we can you figure it out from the mike number put native language on the newer forms
+
+anymore because since we were doing was full duplex sort of thing and switchboard where it was just all separated out we just everything was just so the city
+address a i mean if a truck grows rolling past adults will depending but mostly self will hold off to what to finish seeing this until the noises past and i fascinating
+coconut ice they'll use it could be different and it inducing
+but that's it i mean the to you it in do makes it fun to go find to it sewn with it a good idea for them to notice energy so my intention to this isn't as an aid for ground truth not
+
+good plus that
+in the two person conversations when those back channel is there a great deal of overlap in the speech or because that is an ear phones just it so it's on your here
+a great deal of overlap in the speech or because that is an ear phones just it so it's on your here
+inducted a speech fun these more seem to right
+
+right i mean adamant right on that my status reports
+right i mean not as as with i mean you would be able to have any once we're done with this disgusting
+i mean not as as with i mean you would be able to have any kind of an but once we're done with this disgusting
+what do you think about that do you think that would be useful
+
+so so what area my next attempt which i am in the midst of it haven't quite finished yet was actually using b. fresh holding as a way of generating the candidates because
+one of the things that definitely happens is you put the threshold low you get lots of breaks all
+breaks all of which are definitely acoustic events there definitely
+there definitely someone talking
+
+the list you have to send off too adamant jane but i think i'll just run through it also and see if someone thinks it's inaccurate or in sufficient
+the list you have to send off too in sufficient
+i'm just thinking that be more like i control condition
+
+attain since you were sort of cut off last time when we start with yours make
+and i how and i was shanawa to
+which case there would be no overlap counted in the second minute but suppose they both
+
+and it looked to me as though
+and if you look at the marginal toes which is the ones on the right side across the bottom you get the totals for an individual so
+for an individual so if you look at the bottom of those are the numbers of overlaps in which adam was involved as the person doing the overlapping and if you look i'm but you're alphabetical
+
+so that the percentage of time i but other times of the person spoke what percentage it so
+months i was say that everything did but sort of highlights that i can tell some outside person what were you actually working in
+in a particular order one ten more hours of meeting meetings recorded something like that you know from three months ago
+
+i rather @reject@ now this is the case we're
+numbers even though i rather enjoyed it but @reject@ you know it's like yes that's right say something
+we've all right we're looking at here and you maybe wanted to look at it before but for these various technical reasons terms other day it was you were so that's why
+
+at it parties poop just because they're little uppity sit on his own needs that and to find out if they'll do a good defined at the end in a war or the band finished you uses and next war is in the news because
+i'm like go she was that's a little uppity specialties and mix with it and years brody do women when we study the ended up so it would cost it is consortium we it that noise
+but i it that's what got to songs but to tony information but if its own thing
+
+i'm i'm confused now so coating of when they occur
+just the question is even switchboard you would think that's the simplest case of a meeting more than one person and
+but where are you so it wasn't in the design
+
+they're not double counting other otherwise you'd get double accounts here definitely
+double accounts here definitely
+more than one person and i'm wondering how much more overlap of the types that she described happen with more people presence it maybe
+
+and so in that case it does get mixed and it's pretty hard to just ignore it just to processing on one and on the other
+what we want to pursue no because you get done they special relationship
+what we want to pursue no because you get done they special relationship of the speakers and that could be you could do that by just noting
+
+of contact me neither to people who don't know each other and
+but we should still be able to say what is the outer construct contribution to serve overlap of each additional person @reject@ that's a good to senility we can't no i could certainly see it going
+person @reject@ that's a good to senility we can't no i could certainly see it going either way
+
+people actually wasn't so if you
+wasn't so if you watch people i'm like right like this here but
+but it's a lot it's fun person speaking and
+
+this know when there's back channel i mean just i was just listening and then there's two people talking and there's back channel it seems like the back channel happens when you know the pitch drops and the first person
+you're missing is last syllables or something so technically
+so technically it's an overlap
+
+and a lot of times the first person actually stopped talking and then there's the back channel and then they start up again so
+and then they start up again so i'm wondering about i just wonder how much overlap there is there a lot
+i think there's a lot of the kind that has they was talking about where it's called precision timing and they come in overlapping but at a point where information is mostly you're
+
+it depends on what you're after course but
+course but seems like that would be more case of the control condition compared to an experimental station with more than two
+this is raising the question of whether it's the number there's a relationship between the number of people in number of overlaps type of overlaps and
+
+and that could be do that by just noting on the involvement
+the i'll do that on the next of the forums
+but i seen it when you i. d. i. shows of this of the speech phone p. d. a. and then garage coconut ice
+
+you just like to be in charge coincidental i'm sitting here so i can run into the room with the hard work starts you know catching fire or something
+you just like to be in charge of anthony fire or something i just want to be at the head of
+of anthony i just want to be at the head of the table
+
+goal his goal was always to proceed from there too then allow broad category change also
+so the problem is that if you say i have these other data over here that i learned things from either explicit train of their own that sort of cussing mixture models or whatever
+use any of those things you say you have look for clues to change what does
+
+form
+so my first attempt was just using fresh holding in filtering that we talked about it about two weeks ago and
+
+will do it's it doesn't matter
+it's i mean might be someone here has to go
+
+by others or use this market and and divided d. i read a script
+mean @reject@ record the have to set up for it very different thing than what we're doing
+
+to look at that but the final three there no overlaps at all
+ten couple times they're not so it
+
+very true because you normalized expected that now normalized to how much
+very true because you normalized to how much
+
+@reject@ i mean it's throughout this thing it's at the bottom you have the bottom
+@reject@ it's at the bottom you have the bottom three to four or
+
+you don't have a feeling for roughly how much it is because
+these were benevolent types of people finishing each other's senses and i could imagine that is that there's a fair
+
+i'm he's that's it because i suspect that also differ depending on the type of overlap involves about child to be very
+that's all and it would actually be interesting to find out because statement about
+
+it's not a word
+because we have incorporated adams method of handling overeat or laps yet then that would have fallen through the crap cracks it would be
+
+to interesting know what i thought what i would have thought in is that when they were a large number of overlaps because everyone was talking at once but not that's really neat
+interesting have thought in is that when they were
+
+me so the question is you know are they really were overlaps happening then there would be in a two person probably and there may but let
+and there may be but let me rephrase i'm saying something
+
+and there may be but let me rephrase i'm saying something and getting across what
+got the you know the reason that he just use silence was not because he thought it was better it was it was the place you starting p. m.
+
+line maybe far from like people want interest in that but all the dialogue is just still apply that each
+apply that each of us was calling and having and
+
+so from the point of view upsetting dialogue which in kendra so i had some projects on you want i know the sequence of turn
+so what happens is if you're talking and i have a back channel in the middle of your turn and then you keep going what it looks like in the dialogue model is your turn and then my back channel even though i've action
+
+so that's why coming to us is new even though
+even though it may be you know if you're classes are offering it right
+
+that made my point was just if you want to say somebody what are we learned about overlaps here just
+because it probably do need to go find a do and it's more of up a but we speak because we said it can some more duration and is bound is to comes in shackles for the simple on bright
+
+right that's also true switchboard and now i look at this think go i can see life having such a hard time happening a lot
+i think we're going to have to work on my on human subjects forms do you mind that's right we didn't tell him would be blindfolded
+
+thing is that @reject@ i say if i have this complicated thing in front
+i know that and over such a thing different groups at the walking with it on the book of nudes it be so boo to go shoe people so she's it between each fourteen
+
+so you know you it's also people tend to time they're they're when they come into the conversation based on the overall rhythmic i andi i think so you don't want to be cross
+so you don't want to be cross cutting and
+
+actually i think i've done it for a number of times today
+still takeovers i mean you could do look at
+
+the speech or because my is sometimes it happens when there's a pause take for example on your here thank you
+posture and we could like what people were wearing
+
+it seems like there are two possibilities i mean
+i mean it seems like if you have just two people it's not really like a meeting with is not a similar as the rest of the the sample it
+
+have the visual c. wouldn't have that difference also that half and intimate support
+two meetings with maybe that's obvious maybe
+
+right i mean adamant been working on that that's the that was my status reports
+every @reject@ but it would be trivial they would be another task having
+
+i my first coming to think this next item if whether we should try to record some meetings meeting or something
+i my first coming was only that we should not attribute overlaps only two meetings with maybe to record some meetings meeting or something
+
+that's obvious maybe everybody knew that but that
+knew that but that in normal conversation is two people there's an awful lot of the same kind of overlap
+
+now that would be interesting look at whether there are these kinds of constraints the chain mentioned that what maybe additional people add to this competition it happens right after term you know like at
+you know like at five people i'm grabbing turned out pretty
+
+i would not recorded a two person meeting just because it only have to be could we right
+can we actually recorded i so it just seems like that's a
+
+we have to have in the past and i think to work because you have a fair number of phone conference calls
+and and as a to have another could comparison condition we could see what happens in terms of alive when you don't have regular contact we talked about this repeatedly
+
+@reject@ lysol no you look at each other close your eyes turn off the lights
+same place like here low put them like put them on the table today
+
+lysol no you close your eyes turn off the lights
+anyway because you get a sense also posture what people were
+
+that was the other thing we're going to take a picture
+we're going to take a picture the beginning of each of these meetings
+
+every @reject@ it would be trivial they would be another task having
+how big their head but if you just but from one picture too this means they say how person sitting is addresses right nothing else
+
+every @reject@ it would be trivial they would be another task having ground choose truth
+but that's it so my intention to this isn't as an aid for ground truth not
+
+but you know they like put them on the table today
+but you know they stood linguistic anthropologist would say it would be good to have a digital picture anyway because you get
+
+that right on a video for that i think of you it'd be better than nothing is
+a video for that i think of you it'd be better than nothing is it just from a single picture and you can tell some aspects i mean
+
+and that's the average out you know pitch you know the bitch chocolates and things like that
+then then nodding with blindfold whether you know
+
+do you think we set up but it's just trying to get some ground truth
+do you think we set up but it's just trying to get some ground truth
+
+anything the onset detect and it
+i see onset detector k.
+
+class be cools you my opinion taste in my opinion it if you chain and dick won't be with the speech i mean he had to adjust to new orleans was it me sister speech fired on blue in i'm not going the run that to you said but you have you we didn't used to fighting
+was it mimi safari we say that mixed with the what fun
+
+from something that you look that so
+you look that so you always have this problem you're going to new data
+
+if candidate a candidate actually canned and just generate and just
+like marking here that something that's sort of works
+
+it to the number of people in the meeting
+it actually and respect maybe just something simpler but the long lines or anything i was anyway
+
+and that person is certainly talking
+but i also wanted to find threshold excuse me moult overlap
+
+harder but i think that what i was noting just when he under race that was that there's other information to be gained from looking at all the microphones you may not need to look at very sophisticated things because if there's
+because if there's if most of the overlaps you existence ever see three but most of the overlaps there too if the distribution looks like there's a couple high ones and the rest of them are low you know i mean and everyone else is low you know
+
+there's some information there but the distribution even with very simple measures
+you know profusely just like
+
+i thought i had an idea it was watching chuck nodding a lot of these things that we could all wear little bells and hence so that he you know that thing name
+i think would that he you know that thing name
+
+then whether you know nothing about
+fine with it with i'm just going to sleep
+
+here actually also i can say i made better barriers third so that the i assume and i've which just used this kind of foam board writ really inexpensive could just turn out the lights
+board writ really inexpensive you can
+
+i think we need a barrier that doesn't disturb this town is it's true would disturb d. m. though the long range two sticks
+this town is @reject@ i'm supposed to be good and it's true would disturb d. m. though the long range it would two sticks i think the blindfold
+
+that's forms do you mind being blindfolded you're interview we didn't tell him would be blindfolded
+long i did have this other attend item which is it's a list which i sent to a couple folks but went to get broader input on it so this
+
+i only this long
+input on it so this is the things that i think we did in the last three months i
+
+x. m. l. formats another transcription aspect sorted out since i b. m.
+pilot data put together and since i've been for transcription
+
+around again
+
+it's just a great so so if anyone hasn't signed a consent form please do so the
+
+so if anyone hasn't signed
+
+please do so the new consent forms the new
+
+new consent forms the new improved consent form
+
+and so i go ahead and do some digits
+
+we were into that and remember
+
+just because system from on and at least that will do it's
+
+so i had to ask actually anybody had any ideas for an agenda to send it to me and no one gets so
+
+right from last time i went into echinacea wide topic must
+
+so one item for agenda is team has some research talk about research issues must
+
+honest shirt research issues i and i have some shorts research issues
+
+and i have some shorts research issues
+
+i have a list of things that i think we're done over the last three months i was supposed
+
+three months i was supposed to send off a i sent a note about it to to adamant jane but i
+
+off too sufficient to a damn
+
+you must talk about
+
+it next week something do you want to be there for that i know
+
+something be there for that i know she's c. d. but i wasn't actually recipient
+
+both i talk about that make of that
+
+so it sounds like the three main things that we have talked about our this list damon gin adam have sufficient items and other not anything unusual anything goes beyond that
+
+to get to it it's very it's very prefab and just let me just handy so
+
+it's is this the same female are different
+
+it's fun i are different
+
+same idea fun i the same
+
+what you can see is the number of overlaps and then to the right whether they involved two speakers three speakers more than three speakers
+
+region the part down there where this maximum number of overlaps is an area where we were discussing whether or not would be useful to and to code stress send stress as possible indication of information feel so it's like
+
+so it's like brother lively discussion there
+
+what's that prophesy that's is like the first one to six overlaps and then two point eight old as
+
+like the first one to six overlaps and then two point eight old as a percent six
+
+at the very end this is when people were you know packing up to go is
+
+is final i think
+
+not so it seems like it goes troopers but that's kind of it now the
+
+you know my i had the script figure out who was the first bicker who's the second speaker involved in a two person overlap i didn't look at the ones involving three or more
+
+and this is how it breaks down in the individual cells of who tended to be overlapping most often with whom who else and if
+
+i'm but you're alphabetical subject juicing and then
+
+expected that now on the table i did take one step toward away from there are frequencies by putting percentages so that the percentage of
+
+it so other times the person spoke and furthermore was involved in the first two person overlap what percentage of the time where they overlap or and what percent time or they the overlap the
+
+that some people tend to be overlapped with more often and they're overlapped but of course
+
+so it would be statistically incorrect overlapped but of course you this is just one meeting there's no statistical testing involved that would be required for finding any kind of really
+
+so it would be statistically incorrect to conclude that i'm talk too much or something kind of really no actually that
+
+or something no actually that would be actually statistically correct
+
+or something no actually that would be actually statistically
+
+i that's right and i'm you know i'm i don't see a porno singling people out now this is the case we're
+
+better or worse because i don't think that it's i
+
+you know and here's a case where a course too most of these people would they be that you anonymous results and so much with us when this is what this is
+
+and it and i know that i can distinguish at least three types and probably more mean
+
+there you see fine i'm it's
+
+and you know and contrast a different and all also ever tenants these she talked about differences
+
+that's all i want to san less people question
+
+of course the biggest results here which is one we've talked about many times in this new to us but i think would be interesting to show someone who isn't familiar with this just the sheer number overlaps
+
+that do that right that here's a relatively interesting
+
+that do that right interesting
+
+here's a relatively short meetings
+
+short meetings forty plus minute meeting and not only hundred ninety
+
+and not only were there two hundred and fifteen overlaps but i think there's one minute there where there wasn't any overlap i mean it's hundred ninety so
+
+and not only were there two hundred and hundred ninety so
+
+@reject@ it's at the bottom you have the bottom three to four minutes altogether with or
+
+so the bottom three did have going on none
+
+it'd be interesting to see what the total amount of time you know @reject@ so is yes exactly
+
+@reject@ i of us that just for the hell yes exactly and that's where most days per project comes in
+
+about how much i of us that just for the hell of that information now there's and that's where most days per project comes in
+
+about how much is there's a division also those
+
+about how much is what's there's a division also those or are what about
+
+what's the what's the average and i
+
+you to i see where noone would live of the study it was it was a burn with it was different to that and situational physician also will drop
+
+i'm because your services about child to be very brief and
+
+i'm because your services it'd be too it's almost a little upping the to the issue it build ups i don't know it buddy bush looked about child to be very brief and
+
+but i tony information but if its own thing
+
+and let's say that after that minute boundary be still speaking and a overlaps would be that would be a new
+
+so we go over so we were talking over one another and it's just in each case is just sort of one interval right
+
+so we talked over the minute boundary
+
+that's good because see overall ratings so that's good and i think in this sense that i think andres meant the question they're not double counting other otherwise you'd get statistical
+
+that's good because see overall ratings good and i think in this sense that i think andres meant the question statistical
+
+they're not double counting other otherwise you'd get double accounts here
+
+i should also say definitely harder
+
+i should also say i did a simple fine count in that if it was speaking be overlapped with a and then a came back again overlapping be again i harder
+
+be again i didn't count that as a three person overlap i count that as a too personal relapse and it was eight being overlap with by d.
+
+didn't happen very often there maybe like three overlaps
+
+there's a lot of back channel a lot of this is really interesting
+
+there's a lot of back channel a lot of this is really interesting
+
+i think it's really interesting it is i think so too
+
+to party because into party conversation like switch where there's an awful lot too if you just look at that challenges you consider those overlaps
+
+it's also very it's huge it's just that
+
+it's not really just so the city issue is in a situation where the that's
+
+it's not really it depends where the that's
+
+it depends what you're doing so if you
+
+it right now where do we have individual on the people that's me so the question
+
+i agree that it's an issue here but it's also an issue for switchboard and if you
+
+presence it maybe that having three people is very different from having two people or may not be
+
+so for things like language smiling or die like modeling it's we know that's wrong in real time but because
+
+can study but that doesn't mean in the real world that people don't talk that way so i was saying
+
+looking at here you maybe wanted to look at it before
+
+it right if it's an oprah hypothesis and it's actually you have as much overlap two person we don't know the answer to that threesome you don't know the
+
+i meant is that threesome you don't know the answer to is because it wasn't studied was the study because there some sort of
+
+i meant is that if you're asking the question from the point of view of what's different on a meeting studying meetings of see more than two people versus what kind of questions you can ask that the two person meeting because there some sort of
+
+it's important to distinguish that you know this project it's getting a lot of overlap but other projects for two but we just of study that may have
+
+there is a higher rate so it's and we don't know the numbers
+
+there is a higher rate and we don't know the numbers
+
+if i so it's but i don't know how high in fact
+
+have a question that would be interesting i mean it that made my
+
+i don't do @reject@ in the sense that if you said it
+
+you know the fact that when and was looking for stretches of speech before the didn't have any overlaps and we use having such a hard time
+
+so it's just right i was telling about that
+
+i was telling about that
+
+that i just saying that it made the reason you get overlaps may or may not be due to sort of the number of people in the meeting
+
+and that's all and it would that was making statement about
+
+when we speak we do make a judgment of can't as adults me children don't
+
+and partly is related to rhythmic structure in conversation so you
+
+cutting and just to finish this that that i think that there may be an upper bound on how many overlaps you can have simply from the standpoint of odd ability and how allow the other people are who are already in break but you know
+
+in which case that those might i mean be no upper bound on the i have a feeling
+
+people actually on the i have a feeling that back channels which are the vast majority of overlaps switchboard i don't play it girl here because it's very unnatural i think too back channel it in a multi audience you know in a multi person
+
+but it's a lot it's fun person speaking and everybody's this thing
+
+so you need to use the back so you don't have it like this
+
+you know like you get a lot of back channel and somebody deposit
+
+did you think more in terms of alignment it'd be interesting if we could do prediction
+
+did you think more in terms of alignment over it'd be interesting if we could do prediction language
+
+over so language model prediction of overlap that would be really interesting
+
+that's exactly so interesting
+
+i think that in this meeting i really had the feeling that wasn't happening that hostile type these were these
+
+so it's not against the person who talk first because actually while waiting for that person to finish
+
+i have a but they all want to be next
+
+thinking was that these all these interesting questions are of course pretty hard to answer with you know a small amount of data
+
+so i wonder if what you're saying suggests that we should make a conscious attempt to have a fair number of meetings a smaller number right
+
+and if you had two people meeting in this kind of circumstance and you still have the visual c. wouldn't
+
+i'm just thinking that be more like i control condition
+
+but from the acoustic point of view it's all good
+
+because you can fine but the same if
+
+you can fine but if the goal or two just because at overlap you would you could service of save yourself a lot of time and not even trying to transcribe the words
+
+i think you should be able to do this been working that's the that was my
+
+right i mean adamant right been working on that that's the that was my status reports
+
+turned out pretty quickly there they back off and you go back to the sort of
+
+i don't know to answer a question i it i don't think it's commercial to have controls but i think it's worth
+
+so i have an idea
+
+i have an idea
+
+and we talked about this repeatedly
+
+recorded i mean @reject@ have to set up for it just seems like that's a very different thing than what we're doing
+
+mean @reject@ record the other have to set up for it we're thing than what we're doing
+
+the other we're not really set up for to do that but
+
+that's what they did on that's or this is kind of you know extravagant we could put up some kind of blinds or something to remove there's a contact
+
+that's what they did on that's you know that's that desperate that they ran exactly there's a contact
+
+that they ran exactly the same pairs of people with and without they still kids that's quite
+
+kids that's quite interesting
+
+we record this meeting so regularly it wouldn't be that i mean a little strange we can record but no one can
+
+@reject@ i mean a little strange we can record but no one can look at each other
+
+turn off the lights
+
+we a picture of anything blank
+
+the head nodding here vigorously would suggest it would be useful to also
+
+what we want to pursue because you get done
+
+of the speakers and that could be you could do that by just noting on the involvement cheap the seat number that's a good idea i'll do that
+
+cheap the seat number that's a good idea i'll do that
+
+but you look at information from the number them somehow of the forums
+
+we can but you look at information from the gays man science number them somehow i finally remembered to put put native
+
+we can you figure it out from the mike number the from the gays man science i finally remembered to put put native language on the newer forms
+
+and even the jacks i mean i'm sitting here in the jack is over in front of you
+
+but probably from could easy could intern but
+
+you know we could get it being forming every @reject@ would be trivial having ground choose truth would be so see number would be good
+
+you know we could get it being forming would be so see number would be good
+
+it being forming during the digit number would be good so i'm going to
+
+so i'm going to put little labels on all the chairs of the seat number that's a good idea
+
+you have to keep the tears in the same place like here not the chairs such as a chairs low put them like put them on the table but
+
+the tears in the same place like here such as a chairs low put them
+
+posture and we could like you know block out the person's face or whatever but you what people were wearing
+
+just but from one picture i don't know that you really get that right on person sitting is addresses right nothing else letter again
+
+just but from one picture i don't know that you really get person sitting is addresses right nothing else letter again
+
+some aspects i mean i could tell you i mean if i'm in certain meetings i notice that there's certain people who really do the body language syria it's very interesting terms of the dominance aspect and that's funny
+
+i could tell you i mean if i'm in certain
+
+aspect and that's funny i got
+
+i mean you could blackout that part is just you know that the body i got
+
+is just you know that the body
+
+course the where we sit at the table i find it's very interesting that we do tend to caught to gravitate to the same place each time
+
+and it's somewhat coincidental i'm sitting
+
+speaking of taking control you said you had some research i've been playing with
+
+some research i've been playing with using the close talking mike to do to try security speaking so my first
+
+ago and so i play without a little bit and it works except that it's very sensitive to your choice of your filter with and you are threshold
+
+but work anymore even if you normalize it based on the absolute last this
+
+but doesn't work for that one cigarette throughout the whole meeting this it does work
+
+pretty pretty
+
+the rhythm was you take every frame that's over the threshold and then median filter it and then look for runs
+
+every frame that's over so there was a minimum run like so
+
+every frame that's over one special so the
+
+in terms of energy threshold that you pick
+
+say that again came over from so you take h. each frame
+
+over from so you take h. each frame and you compute d. n. or g. and if it's over the threshold
+
+or g. and if it's over the threshold you said it to one end of it under the threshold you said to zero then i have a bit stream of zeros and ones and
+
+and ones and then i me and filtered that using a fairly long filter likes
+
+actually i just depends on what you mean by long you know tenth of a second sorts of numbers
+
+and then look for long runs
+
+and that works if you feel if you tune the filter parameters if you tune how long you're median filter is and how high you're looking for your threshold is
+
+did you ever try running the filter but for you pick a special no certainly
+
+but this is just i had the program mostly written already so it was easy to do
+
+it and then the other thing i did was i took hobby years speaker change detector acoustic change detector and i implemented that with a close talking mikes and
+
+and unfortunately that's not working real and it looks like it's the problem
+
+the problem is he does into passes the first pass
+
+passes the first pass it defined candidate places to do a break
+
+and he does that using on underworld that doing broad phone classification he has be one of the phone classes of silence
+
+and so the possible breaks or where silence starts and ends
+
+and then he has a second pass which is a model laying down an extra model
+
+looking for whether it improves or degrades to split at one of those particular places
+
+and what looks like it's happening is that the e. even on the close talking mike the broad phone class or is doing a really bad job
+
+do you remember morgan was it broadcast news
+
+i think was it broadcast news
+
+but like it could be someone who isn't the person here but the person over there or can be the person breathing and
+
+and then feeding that into the acoustic change detector
+
+and so i think that might work
+
+but i haven't gotten very far on that
+
+but all of this is close talking mike so
+
+i seem to fuller and i wouldn't bicycle in the energy into and more or less like to it and so sun and the detective
+
+when you did the to the and the fess up to d. until all of the that the polson in michigan which
+
+then and to do difficult olsen also the in this and he went to war and all i don't that to i mean they i'm not you're saying
+
+anything the onset detect i mean they when you used to and it
+
+i see for you to war have to be closer to upsetting to me she finds it's inevitable energy and
+
+and good difference between speak up
+
+i'm probably is no see when you use the beauty because the same at least that and it you know you right
+
+be trying to different just because but different speakers
+
+you be is more difficult google geek that they should put energy to
+
+i see managing in the clothes in
+
+and you in the clothes in the p. d. a. i mean
+
+i seem to and then the d. l. c. machine and never one that will food to get there but classes when i picked a from noon and they told me in the speech thing and you do
+
+and you do how soon uncle shooting one because how do they or take a few you is it like kind a to do and it's heightens because is it real anymore of it if you wish that the it in to the day there that will she be deals with dick cheney between to speak up right
+
+because it seems more i speak about to the to oracle shielded do and into this item because
+
+it that there are their seats is fighting between and it is speaking of
+
+it i with two kids even you put them poop go shoe i.
+
+shoe i. e. i found that the this site and making manual cushions seem to in the speech science
+
+so was trying to get something going and
+
+going and you know as in your case here for only a modest number of months you try to pick a realistic goal do something
+
+but to do you think that if you go shoot or the frames pull up bright that isn't a bike stadium to the states today and a different type of chain they'd just because we sell
+
+because we sell time we society now so we solo dropping that i seemed i'd
+
+that i seemed i'd like to it they do a good too we portions of that which chain you know such
+
+i'm they do it with of course you into you can do come close to the energy like it another part of me tooting the industry true but there right
+
+avian huge did you move up to it was a bike a teacher for simpler always and all that kind of for the feast on you know for step they think you food and you'll get and is that people so she's produce trainable take is and couple purses right
+
+i the can show you were needs and this is not what i was suggesting to do
+
+i the can show you were needs and this is not what i was suggesting to do
+
+but i think this is a one which you were needs and i suppose we need to put we think to do
+
+one which it's i used to look like i'm voice sounds that action and since this kind of thing
+
+if you have somebody who has some experience this sort of thing and they were kind of for a couple months they can come up with something that gets most of the cases fairly easily
+
+then you say i don't want to skip most of the cases i wanted to really accurate i it gets really
+
+i it gets really hard to matter what you do so
+
+clues to change what does that mean
+
+that means you said some threshold somewhere or something
+
+and so where do you get your threshold from something that
+
+how are you going to adapt to whatever you can very quickly learn about the new day if it's going to be different from all day that you have i think
+
+i and i haven't spent a lot of time on and i'm not intending to spend a lot of time on it so
+
+i i first have to run but intending to spend a lot of time on it so
+
+have to run but i can't imagine building a model of sneaker change detection that takes into account both the far field and actually not just because talked to mike for that speaker about actually follows the speakers everyone else
+
+if you model the effect that me speaking has on your microphone and everybody else microphone as as on that and you build
+
+i think you'd you would build and h. m. that as a state space all of the possible speaker combinations
+
+and you can control little tick
+
+not that big actually too
+
+the long lines or anything i was just realizing snow this guy used to build like mixers automatic mike mixers where you have to in order to be able to turn up the game you know as much as she can you lower the gain on mike's people who aren't talking right and he has
+
+mike mixers where you have to in order to be able to
+
+right and he has some sort of reasonable way of doing that but
+
+that but what if you're just looking for simple measures like energy measures but you don't just compared to some threshold overall but you compare it to be energy in the other microphone
+
+i was thinking about doing that originally to find out who's the loudest and that person
+
+but it i think so not just the loudest
+
+but it i think sort i just the loudest
+
+can people are up sewn can
+
+close food is dependable she and knows it with a microphone video features because of schools it to get more or less energy and dust nieces something that in deciding on
+
+and excitement it
+
+what's probably i seems to be difficult or did too and do with energy google she was that to end up song would cost it they all about this phone it if you purchase one of those the and interview with was still speech spring
+
+what's probably harder but i
+
+and the rest of them are low you know i mean and everyone else is low you know
+
+i think would be really interesting too with a blindfold
+
+actually i probably a woman to bus stop the other day who was talking on the cellphone speaking japanese and was battling
+
+you know profusely just like that
+
+you know profusely just like
+
+not you know if you watch people that actually do these things so
+
+at least of this meeting that we have lots of recordings of
+
+maybe for part of the meeting we don't have to i think it's a great idea
+
+and i can see chuck even if put a barrier here actually but we could just turn out the lights
+
+even if put a barrier here actually also but we could just turn out the lights
+
+you can masking tape it together these are you
+
+then we also have these is the other thing i think we need a barrier know pretty large partitions
+
+@reject@ i'm supposed to be good and it would i think the blindfold
+
+@reject@ but so you know it's cheap and interesting that the camera going probably should till after adam set up the mikes but
+
+@reject@ but so you know probably should till after adam set up the mikes but
+
+that's that's the one that we videotaped so
+
+next batch of recorded data put together on the c. d. roms for shipment i b. m.
+
+out so the meeting participants have a chance to request audio pick solicitation of selected parts of the city there's speech
+
+audio picks motivation software written untested
+
+so i a lot of that was from you know it but you two were doing so i sent
+
+to you and please mail me you know corrections or suggestions for changing i don't
+

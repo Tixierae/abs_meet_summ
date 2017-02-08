@@ -1,0 +1,582 @@
+still do doesn't matter what time i should come a long time ago i mean like two weeks ago
+doesn't matter what time i mean like two weeks ago
+i was actually oversight but anyhow
+so we had a meeting for awhile and
+remember running to bring us up to date on where we are with you
+she's actually suggested to look and the psychology department students because
+because they have to partake in two experiments in order to some requirements
+so they have to be subjected to before they can actually graduate
+on yet but i think i have the info now that i need
+that's done and i am meeting tomorrow so
+doing and why it is somewhat religious
+and for each site you know what how this fits and
+this fits and a rating of how it fits in what to do with it
+the one of the things he was do this it was just the fact that
+the people at stanford write papers is if they had
+so are they the plan is one definitely gets back we'll get in touch and supposedly
+are looking at that most of the work here is josh train to get the frames right this linguists
+you actually do an old noting grease expect one person that you send over here and i'm right
+spotting just that it's coca that would be a very
+
+like i use your closet psych class and you know what time around and a query class
+the red lines on the graph of the relations between that different classes like
+the special needs and you know money and use and trish
+this is more or less similar to the flat base that they have you know what the input notes and all that and
+a lot of the i got from the flat based not on what they depend
+actually you know classes with different attributes that are they intermediate notes and
+notes and one of them is like time afford ability money if what abilities site availability and the travel compatibility
+and so some of these classes are
+or it's just from i don't like the site
+but if you look at travel compatibility for each of these factors you need to look at a pair of you know what that preference of the user is
+and they all get the same users but different sites and that makes it
+i'm very coarse grain so you have something
+grain so you have something like science biology and but that's
+
+as force marked call i'm that last like a meeting i mentioned that we have some problems with the synthesis which as
+so maybe and when tomorrow is over we're done
+the p. r. and because then you have one user optics and potentially
+and they can blame the computer to the book exactly
+so maybe just a little background on my visits home
+the reason this really for me toughen up tunisia talk to some of the research is in the field and then
+in the field and then saw just sort of give you a real quick introduction to what i'm working on and
+filler admit you're interested in and sign up more and then
+what's sort of the state of the art there is to the you have a bunch of the documents are learning units ordering objects
+and you store meditate on associate with and so there's some international
+
+one of his many occupations that just contributes to the fact that he is very occupied
+try to simplify down a little bit so that i can actually
+so that i can actually look at it more as a same paper
+that i think was actually in the previous be who wouldn't stop i don't remember
+stop i don't remember whether they carried that over to this or not
+so this and they're is the follow you're working for this project and you under certain problem now what
+sources and sort of looking into some of the ideas that the semantic web community came up with
+carries you can have the best learning system with the best search interface if
+wondering if i were student i'd love to come here for person company
+
+and so you know it's easier to specify d. c. p. t. you know
+so there are some you know collaboration elaboration of this
+structure but i don't think it's worth it now because to
+and but that's pretty all that we have at the moment so i think there's a huge
+so i think there's a huge the need for improvement there now with
+so what i'm what i try to do is to have so
+because you know standard stories that she works keywords revoke frames and the frames and they will give you additional keywords or
+and when we have all the sponsors that always of eager to get some teams but i know
+to be semantic web workshop in two weeks right and
+
+but you have to have a genuinely
+but you have to have a genuinely funny before you'll get an example
+maybe it'll take some more time
+you might tell us a little bit about what he's actually doing and why
+a user has like very
+so anyhow using those indimedia notes then this would be the class that me immediate notes
+it's sort structure uncertainty
+and then the sort of an add on to this whole idea the book be
+
+so when you said interest i thought you were talking about stalking and
+so i tried it constructed dependency models and
+maybe what's the background of the students
+side that's that's one of the things that might be worth looking into while you're here
+unfortunately screamy who is heavily involved in them all and all this sort of is himself out of town
+because he did some work on topic spotting just that it's coca that would be a very
+
+anything else i missed
+focused again
+home i'm not really involved in any project that's that's relevant to you at the moment the
+so if i knew which operating system the person was working on with this improve my search or something
+and so what i'm what i try to do is try to model this in a way that you could really combine knowledge from very different sources and
+so i think you must be able to re use some existing the main information or on policies that other people wrote and try to
+
+it's got a laptop just kind of showed
+which as a this morning should be results
+should be mean stay on yet but
+and it but never have it again
+in touch and supposedly will actually gets deep connected to there are working
+
+and probably won't have one next week i think a number
+in the expression weather for instance and faster
+it wouldn't surprise
+notion of an stench aiding you or a woman's problem uncles and it's very nicely and doesn't it and that
+and that was one of the main reasons
+
+that so the data collection as force
+look at the p. r. and
+and that makes it seem they're a little different in the p. r. and because
+you should be able to accidently try to solve problems and
+of take care of this and so what i want to build is smarts s. e. q. system
+
+because it's all from the user size if you change
+if you change she you can you know say some work on that
+and boppers are with not much cleaner
+and they can blame it to say you don't have to fight about this just give your preferences to the
+in much of that in the as a matter of fact the only thing that really works out so far our library ordering coats which i'm very coarse
+
+somebody with it you know if it's a group meeting once a week probably someone will go down whatever so we're
+good does my job for and you wanted to plan something that some hall with some pre go up the mole thing for
+and find out which which questions are worth asking and that's
+way now the big problem that i'm facing right now is it's fairly easy to pack up the system it quickly that works in the small domain but the problem is
+i i'm trying to think of how it maps to the kinds of things that we talk on this group and actually associate groups of some
+
+because there's and then place it's assumption behind it this that's
+i think that's a very that's a key point of the systems and the sort of
+but the problem is the scale ability
+and it's robert was mentioning earlier today is that mike suffered something with their printer setup program has bayesian network which is exactly
+trying to have an approach how to integrate certain representation of certain concepts and also some computational rules
+
+know what you need to do here if you need to provide some context information which is
+need to tell you this i'm you have the same when somebody out there sentence in a certain context it's
+have that in the previous in bun small difference in a way is that he doesn't have to come up with an answer but she
+documents that have the answers an answer but she wants to point to the places so i'm not i'm not building an expert
+so i think that's this crucial for the success of or
+
+action i like to spend on your
+to find out some more and then maybe i'll just walk around the office and
+and these shows are pretty straightforward you have to offer information have size information format information and so on but
+and if you have a question about homework it's probably makes sense that somebody was in your class with you was sort of to grow in a certain area
+
+i don't know to look at the next page he should be at least
+on what they depend on and
+i do that so i try to see if i can do putting the computational notes in between
+yes is an interpreter looks like what is it you should be able
+
+form of this and that will be done fish these once we're done
+actually i had to go the complicated
+analyses and i'm guessing that you won't be doing that sticking no
+that would be a very good idea
+
+versus you know what type of an event it is or
+and then plan a robbed
+it can go all the way back to the very top
+that so you could talking about you know both of those things at once
+
+was you know references to the user and the site and the time
+so instead of doing all of you know competition about you know which one sided once months to use an once of his it out cup up try to come up with like sort of a list of sites
+and there you could have an idea where you actually have sort of a peer to peer approach we're
+until these guys never
+
+christmas was nothing easy right
+and that's what i then probably get back to the user and sort of tried
+now depending on what the search engine or the content depository depending on which which rules and which apologies it uses are it's view of the world you can get very different results so it's like they make
+so it's like they make a lot of sense to actually korea a lot of different search engines
+
+which i think you're also looking into right now
+and interpret it in this case
+happy occupations which and no i mean it you didn't but what he did was much more so sensible from
+are being recorded right nurse or
+
+i don't know i mean that right i mean i had forgotten about to be
+i don't know i mean that right i mean i had forgotten about to be honest i forgot we had a program
+it's in the program i think it's
+i think it's more the lack of students really and when we have all the sponsors i know
+
+holy macro
+and using this in some knowledge about the domain i think you can do some simple inferences like you
+like you know that when something's working about working on service for example he's
+
+and can be looked at if you're interested
+we want to design it so that they really have to think about having sometimes two days
+tests or did you ever ride up in enough to read it and
+
+something happens and you go outside it the p. r. i'm that we're going to look at today and
+that would be expecting to start with
+context it's and then the same sense another context makes a huge difference so i went
+
+for me i and into asked i think you've met everyone except nancy i i
+kind of talked about that but we haven't worry too much about that end of the discourse and maybe guys
+discourse and maybe guys have that in the previous in bun
+
+so my age scientific director of the e. mail is also did dean of the international university one of
+it's only like user
+and potentially you can have many different sites in mine
+
+some of these attributes only depend on from say the user or it's
+if we got and there were a couple other ideas of things for you to look at
+groups of some of us do pretty detailed linguistic analyses and
+
+i'm i would have been trying to see whether the p. r. m. would make it more efficient if we do everything like that
+i you end up having fewer number of notes in a flat base net because otherwise you would
+as mesh before were pro at to do tests or did you ever ride
+
+that trouble planner should be able to take it from there
+and you know with some other information about how much time the person has and whatever
+something i remember them learning when you know the structure for but i don't remember
+
+until then will come up with this something that's way more complicated for you
+documents that have the answers places so i'm not i'm not building
+but i just i'm a little surprised that invested didn't come up with anyone else
+
+does my job for official thing for
+then we can move on see what i'm dresses got honesty
+so for having me here first of all
+
+except for humans can't really felt it either so that's but if something you would say or right
+true the idea was area
+true experts in that there as
+
+up more and then the have to talk to you and
+and use this as a metric in the search
+what i envision this but you rather than just playing a bunch of keywords you could for a friend i think you for somebody could state sort of like a logic conditions when this document applies to this
+
+the systems and the sort of always pressure over this real quickly without really elaborate in much of that in the
+some work willis got the same answers without
+the same answers without a couple of be to have a system that could sort of take care of this and
+
+like that now you using this you can in for more information and you could then
+and you could then matched us to meditate off off the documents you're searching against
+so what i want to do is have some sort of given these inputs and then i can compute
+
+as i assume that that will be learning systems that attack they're content
+so something very specific that you can then
+but the i think that the key point with these learning systems is that learning system is only as good as the amount of content it carries you can have
+
+up something quickly but it maybe then make sense to me but not to anybody else and
+the other know anyway you'll see certainly see long
+and you know like taking the date and so you said the learning systems that figure out we either
+
+they had just started transparent him yet know just talking to this day with action what is it and he explained to me i like to spend on your
+and he explained to me
+
+he should be at least you still set aside a lot that you're on jokes
+it's a different last
+
+one next week i think a number of people are going
+sometimes two days for example and certain
+
+in a smaller group we had talked and decided about comes communication of the data collection
+so face time with us this almost officially over
+
+because there's another entails around so
+and eventually i'm meant that to me whether they open at this are not
+
+that would be right off park
+at it more as a same paper that goes to your time
+
+and wasn't enough of an update
+and my daughter short procedure
+
+so this is sort of like the latest thing i have on it
+and so i ended up making several classes
+
+so i took a lot of a lot of that decision notes
+like do you share
+
+and then said that the red lines
+on and turns out you know the c. p. t. to really big if i do that so i try
+
+and what that would look like in a p. r. m.
+rather than going into some yahoo like search engine
+
+be able to be used like all the user and
+all the user and not having to recruit people a lot of those because it's all
+
+and it it's just another class in the model was you
+no the dependencies would of the various would be reduce it thus and so you know
+
+so i think that's about as far as i've gone on the p. r. and
+you can get tell us what the output
+
+so what other questions you know about the and just
+we are going to build our own interpreter so if we can't find
+
+and ability was can shave instances people and sites and will help in the expression weather
+information i think there are things
+
+without going this incredible hacking sort of
+sort of green building it on the line notion of
+
+people saw that problem like robert
+it looked to me like if you were able to come up with a you know value for each of the number of sites plus the t. v. a. thing
+
+i think basic leave them too similar things
+some of those things might that might be different movie like is it the hours for this site and
+
+and status would be you know more
+and status would be you know more or less like was and the construction in
+
+it's sort of in the definition or and deafness definition of a p. r. i missed it
+using which homework assignments or she working at the moment
+
+p. r. i missed it passing relations and you
+and i some questions and then a couple of days i'll be here for
+
+relations and you know c. pictures of the classes and the relations
+which chairman such with encountered
+
+for but i don't remember reading how you specify
+that would be expecting my question probably to start with
+
+we get roxanne eroding on this again once we get a package if when
+then this becomes full grown it's
+
+and sewage
+so they some of the just system with honesty ideas and i think a lot of
+
+but what the pet potential results pizza to split up and never talk to each other again
+information which is more elaborate than i'm looking for this and this keyword
+
+to what i'm working on and i just hope that you have some common filler admit you're interested
+so i went to be able to model information like so in the concepts off in the context of developing distributed systems of the computer science school
+
+document and one is you have sort of
+what it's talking about so that some sort of texan on like ordering off the off to you and it's now
+
+now what we have it our university quite a bit is that students tried to programs certain assignment for some that was
+not very useful so i think ultimately it because and developing these rules and these inference inferences i think is very costly so
+
+and always come running to us and i say what's up
+and i say what's up some work willis got
+
+and i think it i don't need to tell you this
+school what kind of suffers the person using which homework
+
+we somehow need to have formalized way of writing this down and that's
+and that's where the shared interpretation off of certain terms and keywords comes in again
+
+for example he's using java concerns used written in java some inference
+some inference like that now
+
+so it seems like a lot of some of the issues are famous i know about i thought
+documents that have the answers places so i'm not i'm not building an expert
+
+to you also don't have to figure out in europe is still understand what the contents s. about itself and then match until what you think the information and it's
+to you also don't have to figure out what the continent you're just taking think the information and it's
+
+people wrote and try to integrate them and then
+integrate them and then also search the entire went around and just a small content management system
+
+on the other hand friend that could be useful so do you have the friend
+so do you have the friend that story
+
+keywords or if i do know that a bunch of keywords indicated frame then you can find documents and actually if the whole frame rather than just did you so there's a lot of
+that so you could talking about you know both of those things at once
+
+this linguists and there's a lot of
+it and they're busily working away
+
+but there are some application efforts trying to split it
+i'm i could learn a lot and it's just it seems to me that this is a place where you might be able to do that
+
+this is supposed to an exchange program and i we
+and i we don't fight we don't care but i just i'm a little
+
+i didn't say anybody to anything to offend except for sponsors
+except for sponsors maybe
+
+for some reason he's not doing
+the other person i thought i was daniel day because he did some see long
+
+they had just started transparent him yet know just talking to this day with
+
+holy macro
+
+and she brought us some study subjects and protected today
+
+protected today and ten that have been transcribed and can be looked
+
+at if you're interested in
+
+and we found another caucus i student was interested in playing with her too far us
+
+they're going to make it a little bit more complicated for the subjects this round she's
+
+and certain things and figure out which can be done at what time and
+
+like it's the whole thing and everything if you are more complicated structure
+
+but induced where we seen the end of the time that
+
+don't think we need to discuss this form of this and that will
+
+we have a visitor from books out from the international university and into asked
+
+so some confusion
+
+and but using maybe some of the same technologies that we are using
+
+so it's just been looking at
+
+i of constructed a couple of classes like i use
+
+and then also has you know reference off too it's preferences
+
+or you know what form of transportation the user has
+
+and whether you know on site parking matters to the user in that case
+
+for each of the site you'll come up with this rating of travel compatibility
+
+because otherwise you would
+
+in the case right it depends on both the user and the site then i'm still having a hard time trying to see how using the p. r. m. will help
+
+and then after group them together this no the
+
+so it only makes two decisions in this model and
+
+one is how desirable site is
+
+being how could it matches the needs of the user and the other
+
+and the other is the mode of the visit with it
+
+the visit with it's the easy a decision
+
+so that was pretty questions
+
+pretty questions it's not a little write up on it
+
+it robin williams
+
+no not the we look at all you have to see if there's anybody has a implementation
+
+so anyway so that's major opens yes
+
+problems and they do it
+
+i actually think that is cleaner and
+
+i think there are things that you can express this way would you can't express a normal belief that
+
+certain the computing at some
+
+at some beauty towards we're in good shape
+
+these these but we when wendy's terrorist and she did they take on the same values that we had before or me
+
+we had before or are they changed i think
+
+i thought question i would have is said presume up from the way the stanford people talk about it you can afford probably which is also on the relations
+
+which is a structural uncertainty
+
+uncertainty or
+
+so we're actually figure all this out
+
+i think that long-term perspective is pretty clear
+
+because i made a really complicated in the beginning and
+
+you could from this go on and say suppose there's a group of people traveling together and
+
+except for humans can't really felt it either so that's but if something you would say or right
+
+that would be good enough you could sell it to say
+
+that you could try to put in to this structure but i don't
+
+in the interim
+
+i'll be here for tomorrow and the ranger of next week
+
+so what i started looking at to begin with this just content management systems in general so
+
+so there's some international standards like
+
+standards like i tripoli but my triply l. o. n. standard
+
+but they're too fields that are more interesting one is you historic
+
+one is you historic keywords so she's would be with the document and one is
+
+off to you and it's now if you sort of put on your semantic classes you say that's not all that easy because there's
+
+it this that's all the uses of this system share the same interpretation of the key words and same interpretation off which ever to economies if you spend the
+
+now with this standard like this what gives us this week it's sort of with the search engine just corey different repulsive towards all over the world but we can't really
+
+for some that was friends at the same problems and
+
+so the surf information i think should be transmitted when a certain documents for treat
+
+giving this so we somehow need to
+
+inputs and then i can compute how many documents match
+
+know what i plan to do is someone to sort of do it try to improve the quality of the search results and i went to do this
+
+and i went to do this by having it that's escapist descent approach so if
+
+search or something and having symbolic formalized models dislike it said to compute that and
+
+and sort of tried to optimize the searching this way now the
+
+this but there you face the problem that these are very hard to expand and so
+
+but i'm also looking into is the probably the sick approach into this because documentary people's
+
+documentary people's very fussy procedure so it's probably not that
+
+so it's probably not that easy to sent have the symbolic computational models detect
+
+models detect all probably and expressive enough so
+
+enough so that's another thing
+
+we're also discovering around our individual bookshelves and
+
+and i think a lot of even though it's a very different still may think a lot of the issues are fairly similar something
+
+so some of the i don't know how much you know about the larger heidelberg project are you i know
+
+famous like you know the context based factors influence how you interpret
+
+interpret it in this case of friends were in knowing one you know what kinds of things to ask we've
+
+of things to ask we've kind of talked about that but
+
+an expert i want to post smart librarian they can point you
+
+they can point you to the right person so i don't
+
+to the right person so i don't want to compute dancer so it's a little
+
+so it's a little bit easier for me
+
+what the continent you're just taking the keywords is the topic taxed as i assume that
+
+document applies to this document explains how to set up your email accounts on line up for something like this
+
+search interface if there's no content side of it's not very useful so
+
+so you take very and
+
+a rough over you so that's another thing you might want to look into while you're here
+
+that people are looking at that most of the
+
+i'm i could learn a lot about it's how to to come up with these structures because it's
+
+these structures because it's very easy to whip up something quickly but
+
+to anybody else and if we went to sharon integrate things they must they must be defined
+
+the pressure persons story right
+
+and i'm chris and i tried to come up with a we had come up actually with with him working on the interface frame that is the worst back and that would bird with some of the work for this machine right
+
+which i never got them person to happy occupations which and no i mean it you
+
+but i just think the we had that idea you know the idea was area
+
+interesting information extraction also right
+
+so you guys never sent anybody else my you
+
+except for some you were you know
+
+program i think it's really the lack of students anti you at the moment no there was no whole caught there was a little contracts
+
+anti you at the moment no there was no whole caught there was a little contracts was
+
+in two weeks and
+
+the other things too and what he said but i'll i don't know anyway
+
+which is i mean you maybe i don't depending on how you want to integrate with that and you know like good idea
+
+that figure out we either someone and if you're actually working on has worked on that kind of and he's worker from
+
+of and he's worker from that so you could talking about
+
+and he just finished writing it got to the thesis of
+

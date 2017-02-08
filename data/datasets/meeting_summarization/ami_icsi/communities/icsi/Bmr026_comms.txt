@@ -1,0 +1,825 @@
+a week and a half ago and that it's gone out to the transcribers and hopefully next week
+so we have a little bit of time before that becomes critical but we are
+there and i i can start deleting some because we don't know what the best teachers aren't you won't be using the
+i think you need a direct conversation with them and that he's leaving
+no that would be for next so we can talk a little bit about that now it's there sometime
+their own systems because they're self consistent but
+self consistent but certainly to start off when we're trying to recover from our initial hundred and forty percent error rate
+so what is the performance the best switchboard system that we've done
+the hybrid system we never got better than about fifty percent here and
+i think there's just a whole lot of things that no one ever had time for we never did
+had time for we never did really fix up the dictionary we
+i think again it's yes a kind of
+because it's a pretty good indicator that so to
+so to the vicinity check of the canopy outputs before we go ahead and try use them as a basis of attendance
+also probably worse i mean
+probably worse i mean it's the context independent so no should we bother
+so should we bother with using the net before doing and batted training
+that's a good question we weren't use that are so they just go straight to
+we weren't whether it's worth it to just use the alignments from master i recognize whether to actually
+try it whether to actually go through one or more iterations but anyway training where you
+keep both versions see which ones
+
+so i think is going to be pretty short meeting because i have four gender items three of them
+type of ten
+so i think for a lot of reasons i think i'd be very to have this transcriber interface be able to shows some other interesting signal along with it so
+for the next meeting might be out of luck with those ten minute
+i didn't know you know they've johnson's gone for like ten
+i didn't know it left already
+it left already tonight
+so it's about i think there's about twelve gig last
+it and you have the next drives installed liking
+and you're all you're offering so i didn't realize it was so critical i
+but i've also been throwing up and starting the future files there and i and do and stefan fisk
+not for long isn't that x. h. that's like say that's like i have a lot of space i have a lot of space and it's not it's there's very i don't think it was on x. i
+the more disk space but in just press prestige meeting saying we need my just base just like
+and then the really thing with that is if we combine the two systems we got to one and a half percent improvement
+so i said to me the only key difference between the two really is the kind of smoothing it and it's just other aggressive versus because the vacation
+
+that it fish our system first of all with i. b. m. i got a note from brian yesterday saying that they finally made the tape for the thing that we sent them week a week and a half ago and that
+our system that they finally made the tape for
+backed up we're only about thirty percent on all second desk
+are we going to get maybe get another rock but you still need to store the desks i see
+maybe get another rock but you still need to store the desks and
+we need about a gig permitting i don't know what schedule is and just things done i have
+maybe i'm confused on long but i mean it's not going it's
+what they want that says edmonds would prefer to have one external drive per machine
+so they don't want to stack up external drives
+and you can probably consolidate them onto larger this and
+no but that can't be that hard i mean good short term solution
+so they actually have to run a wire somewhere
+it all saying is that on all right i'm i misunderstood
+
+three of them were requested by jane who was not going to be at the meeting today
+unless that vitamin need in day is disc issues yet again so we're
+again so we're doing on backed up we're
+also where we started to no
+but i won't be getting any bigger i don't think that's on x.
+the problem with that is that they don't currently have a wire running to that back room that goes anywhere near one of the exceed
+it then you know anyone of these things certainly not a big deal if there is
+but they've has to do all of them a big deal if there is a person dedicated to doing it have happened pretty easily but it's never ever everybody has a has
+maybe after tea or something you know i can go down and talk to him
+meetings so something that we want to do next meeting is two put together kind of reasonable list for ourselves of what is it we've done
+no but i don't need other folks that i mean i can do
+so i mean that's actually this would be maybe two hours
+
+and then bleeping out
+and in terms of if the off code you confines
+no friend in futures you know we bells and whistles
+futures you know we did guilty and no caster let's
+although and so you know if you're dimensions and the phone sex would be actually helpful just from a logistics
+and i think it was again check we should check with and my impression
+with and my impression was that when he did that before that had very little using those lose much
+by just taking the top whatever
+because you know compared to what eric to awhile ago where he trained up i think it just missing broadcast news something
+
+i mean you just have a set of numbers that are associated with
+in my answer back wizard issue just someone
+but i know that generally their and so he always has a lot of plans of things is going to do to make things better in many ways and i rent out of time
+desk and so i think what he's been concentrating on is the back but backup system rather than on your disk so
+which some but this is a very specific question forming
+and i don't think we can solve it here is just asking that we can put some this
+here is just asking that we can put some this and not back from there
+to the machine that collects the data
+that anyway and it's training amaze will test the one you have and see how it's
+
+type of ten jane seems to be moving right along on the transcription from nick seaside jeeze
+that's a synthesis tough enough to be transcribed thing so it's only two
+you anyone set up
+how much space do you need for these
+we need about a gig permitting i don't know what schedule is and just things done
+just so that's it is this going to be in the morning
+
+but i've also been throwing up and starting t. i next years only carmen and do and stefan fisk
+it's probably only about four gig is on x. on your ex drive will definitely too so
+more disk space but in press prestige meeting saying we need
+that was the interesting and you can't leave out all the conversational data with all of them
+so we only for the hot five training we're only using a fairly small subset of the microphone database ever
+like it also put so you could be set up and probably do even better
+
+i haven't done that so i
+and you're all you're offering i didn't realize it was so critical i
+it was so critical i mean i'm not doing anything on it right now until i get new meetings to transcribe that because christians coming and i really can't do anything i'm i just
+i'm not going to catch anything i just gave teal some
+i'm not going to catch anything i just gave teal some about ten gigs the last ten gigs of space that there was on habit
+
+done that so i have lots of that's just in my own directory try to get
+i was the other point i was just wondering because we're running out of be i'm backed up disk space and
+the nautilus i mean it's sort of i mean when they're talking about data collection sometimes i you know i'm bored so it's like i
+so one compromise would be to only to have the everything up to the point regenerate gladys is because he one system and then
+we always had a list of a half dozen things that we were going to do and a lot of them were pretty
+
+and we feel obligated to collect because we get into these other topics
+so you know that might be useful for the people who are trained that just to use something other than candidates
+they've been using tonight
+and that would probably help actually because it's a little different
+is and experiment huge difference we made some provinces
+
+i mean since he's a very short that should really be
+except but i don't i mean a lot of times lately it seems like we don't really have enough for a full meeting on meeting recorder so if we
+i know three digits and go if we could alternate the focus of the meeting
+and so but it definitely helps to have the other outdated in there
+
+and also related to the transcription so i've been
+it will work but the problem is the version transcriber expose this neck version is one point six whatever and
+and my original intention was like we would just delete them and we need more space but unfortunately
+are just alternate the focus yes on i mean new every don't have to do it every week we could do it every other week or so you know whatever we feel like we could we right i was one we alternate this meeting every other week but that's what i mean
+
+that's a good point pieces and
+i bet there's still some old i like nine gig this around and you can probably consolidate
+to talk about but it would be so this maybe the wrong place to do it in this meeting
+no that would be for next week it's there sometime
+
+because the sun that the sun blades take commodity hard drives so
+hard drives so you can just go out and buy a. p. c. hard drive and stick it in
+but it's a habit is going to be hard disk server that house over it seems like we would want to get the second this crack or something
+plus we talking about buying a second this foster
+
+you've had an eighteen i had
+not for long that x. h. that's like say that's like i have a lot of space and it's not it's there's very
+day ago but then they didn't response i don't know how the whole process works i mean does he just
+without talking today dave concerned one i think part of the reason why dave can't get the new machines up is because he doesn't have room in the machine room right now we have to rearrange
+
+skip the rest of the conversation
+paying them but we could you know if you want to get four discs i mean it's
+rate that was a good way to start we're not quite
+we're not quite that bad with our support systems but it was in certain areas because it's arrives so what is the
+
+i mean it's small he these things are just two dollars why send
+why send that message on to i you and dave asking for if we can get some desk i said
+but as a result of you know we were sort of wondering wise the outside system doing so in the business and the reason is
+that's so under is brought over the alignments that the or the sri it's
+
+but who knows when that will happen they might be
+that's right read speech did i mean show pick one example
+which is smaller than the and thought that's pretty interesting so
+actually because the fear dimensions it's less trouble probably with as far as just the
+
+or so you know whatever we feel like we right i was one we alternate this meeting
+not exactly read speech but it's pretty darn close
+and we work together we garnish alignments from decipher
+and later we got away from it because once we had decent systems going then it was typically better to use their own systems because they're
+
+in and i you know where we go from here kind of things and
+and so that all training that and
+and i think it was front and so that would mean this doing the top i don't know ten or twelve or something if the county
+of in the base is starting off with the base of the alignments that you got from pretty decent system exactly
+
+that's pretty impressive and so after i told the my comics that's wry about that you know now they definitely want to you know to have it next time
+and then i chuck and i had some discussions about how to proceed with it and then system and
+it's just a converting those alignment into label files that we can use to train and the that and
+so that would give us a more hopefully you better system
+
+is that it sort of i do peripherally
+that it fish
+it would be if we could i that's work but that's all right because they
+
+because i they're just doing their own thing and so we're doing in parallel
+because i need to ask jane whether it's it would be for her some of her people through transcribe some of the initial there we got from the smart come their collection which do short like five seven minutes sessions just doing their own thing and so we're doing in parallel
+that then you version is different and
+
+sounds familiar get started and so
+the overall they wear the veils i think were slightly better than the females are slightly worse but nothing really i mean
+is and experiment huge difference
+
+she's i was going to ask her but she's not around
+it but it wouldn't be hard to do
+how long is david can become
+
+for held up in this other a little bit harder compass out that's because i think mean i still have high hopes that the we b. m. i. plan workout four so it's
+so transcriber is tickle t. k.'s mean we have more windows machines
+i got to confused on their three or four meetings
+
+and if anyone objects too much and they can do it instead
+what's your computer's name so
+your computer's name you've had an it's the most
+
+i going to send out to the participants with links to web pages which contain the transcripts and allow them to suggest that it's going to
+maybe we could look into that
+just record the audio clip and showing image right
+
+to listen to them so the idea that they're going to have access to will that be in compressed version or
+i was the other point i'm backed up disk space and
+and then one side effect of that would be that it's that this one i would change right
+
+too starve a demo status not much to say the back and is
+so might just be flights
+so can some of the that i'm talking about somehow fit into this
+
+it's more or less ready to go i've added
+to go i've added some that in s. indexes by the meeting type m. r. e. d. u. et cetera and also by the
+for the next meeting might be out
+
+too busy so i think dawn and i are going to work on that and you and i can just talk about it offline more
+you may not be as that's pretty as we might like go have something i
+have something i wonder when we reached a saturation point sort of the
+
+for demo i'm that they get as potential for a little something
+i just filled the latest up was that
+broadcast news something train retraining them switch partners
+
+i thought it was packaged with transcriber library and so it breaks but
+i thought it was packaged library and so it breaks
+transcriber but then you kind of at our patches that then
+
+so someone is familiar tickle t. k. has to do it but it wouldn't
+but it would almost be like having another way from displayed
+read just it just to give us an idea of how the hybrid system would too
+
+do you mean by realtime you mean like being able to scroll through and
+more space but unfortunately we're in the position where we have to deal with all the meeting data all at once and a lot of different ways there's a lot
+and put where we can get some desk i said i sent this out a day ago but then
+
+all those need to be expanded and then people
+and jane was going to talk too i gave johnson about it one of
+i using p. g. i got to confused meetings on their three or four
+
+with them and just can't say it just asking that you know what should you do
+so the question is where are you going to hang up
+right i don't know what the space situation is in the machine room
+
+one now we have to rearrange of
+but we agree that we would have telephone meeting the friday after next
+and i wanted to make it after the next one of these meetings so
+
+but they've has to do all of them it's never ever everybody has a
+anything other thing i was going to had was that i talked briefly to mari and
+to mari and we had both been busy with other things we haven't really connected that much since the last meeting you know here but we agree that
+
+yes on even weeks have basic on data to do that i personally i what i mean
+i know three digits and go would start so if we could alternate the focus of the meeting
+would start was that and
+
+there wasn't and there's still bunch of messing around with different kinds of those are buses however them so we
+them so we don't know exactly which combination we're going to be going with
+once we know then that trainable parts of it would be great to run
+
+we made some provinces dictionary it's to the extent about two years ago which resulted
+the other thing is dipping deep too history and into a resource management days when we were covering this right before
+speech that because our broadcasting systems actually pretty good you know it was
+
+it was i think it was a really key starting point for us that we actually got our alignment and we work
+it's yes a kind of these conversational speech that because our
+and the other thing that would help us to about it is to see how the p. a straight up right
+
+we've run out of eighty use because a certain number of them are sort of waiting to go to i b. m.
+say it seems to me you could do images
+
+so does she for doing something parallel and the rest are in process being transcribed here
+no we haven't done so does she have transcribers right now we're sitting idle because there's not that affects from doing something parallel here nope no we're not waiting
+
+familiar and so i wanted to ask jane anyone that this could do i mean since he's a very short
+these pages and so that's where i'm putting it but i'll
+
+it's only two channels so it's only it's
+so this is a question is pretty hard to solve without talking today dave concerned i think part of the reason why dave can't get
+
+make they're reading and they just
+i she's i was going to ask
+
+can you mail that out to the list it's
+i that's the thing that i found just a food people saying can you update these pages and so that's where
+
+no they'll have access to the audio also not the only
+they'll have access to the audio also
+
+but that is a good point to get to that too
+so but it would i mean we could get a map i mean you can do it and number of different places i'm
+
+and also by the user id
+that was the interesting thing because that was a right
+
+he actually he volunteered but denny's penny retracted it's so
+and also i was just showing address i got i'm an ex ways kind of display and i
+
+so right now it's just an ex ways and we have three
+an ex ways and we have three windows but
+
+i've been putting together a transcriber things from windows so
+and i saw that on they scuttled p. c. n. and breakfast fine so
+
+anymore but i jobs through an email to the although the snake will find you sent
+bill want to put it that way watch a ball game good thing was is here
+
+it's some whatever rep thing and you're
+thing and you're kind exit that so you have
+
+so you have to install justin still tickled then install snack and then install the transcriber
+and then install the transcriber thing and then
+
+that's just hasn't made is release yet
+so did you put thee into the n. t. varies now and the recorded pager
+
+seems to me just it'd be to see it would be
+on data i personally i'm not in favor of mummy things
+
+and see the pitch contour is also i think it
+but i don't think i you can do all that just adequate in powerpoint i think it was
+
+so now we're kind of on
+now we're kind of on the computer and right
+
+ways there are a lot of transcribers there's a lot of transcribers too
+there are a lot of transcribers all those need
+
+and then people are doing sean king and i want to do the permission form so i want those to be life
+so i want those to be life so there's a lot of data that has to be around
+
+me ten spark blade son blades they so they can in some place they came in the other day
+son blades they came in but they're not set up yet and so it seems they came in the other day
+
+one i just hang them off about it is
+because there's no more room in the disk cracks on that but there
+
+i mean there are lots of long term solution is what i'm looking for
+is what i'm looking for is where do we see expand the next meeting
+
+but i won't be getting any bigger no
+i don't think that's on x. t. i next years only carmen
+
+isn't i have a lot of space i don't think it was on x. i
+isn't i have a lot of space i don't think it was on x. i
+
+take it up again i think you're right it's x. h. and keep the i think it's about four or five take that's four
+take it up again i think you're right it's x. h. and keep i think it's about four or five take
+
+so that will get us through the next couple
+you have penalties we need another ticket quad
+
+so it's one point five right yes if being depressed everything it's even more i compressed
+one point five or something even more i compressed how much are
+
+like thirty some day of just meeting so
+including are together set and you and not all of no it's
+
+think because we have the i compressed around also so it's like right we
+so it's like right we haven't been compressed all the meetings but
+
+we can easily get one four discs i mean you just got good
+so just a week from tomorrow that would
+
+it's just it's not on the net so it's a little all cord the only what do you not on the net
+little all cord what do you not on the net
+
+allow any services through except s. h. because it's in syria machine
+and also on the list is to get it on the normal like seeing that but
+
+eleven days or something
+tomorrow and all weekend
+
+jane i think i know jane may not be
+i think i know jane and what
+
+see the so it's like i can sympathize with them not wanting to be you know if i could get out this could
+they there's one thing i mean you don't want to overdo it because every friends and you know if you
+
+every don't have to do it every week we could do it every other week could we
+we could do it every other week or so you know whatever right i was
+
+with investor over which is like our new and improved version of for over which
+so of for over which actually uses the whole investments from both systems
+
+to have it next time we haven't even nation they want to do you know the kid at least assist in common
+you know they're right is half of what you do if you train onianta attend that not to metallica digits which is only
+
+fifth of it just how much it the rest is red timid
+fifth of it just how much right but if it the rest is red timid they'd and it just and and lots of travel and like that
+
+we never did and never did any adaptation even that's number
+and that number i think wasn't switchboard one day right
+
+they right now it's in the twenty
+so we're we're probably at least a factor too often so the so it would be
+
+so be first was transcription status does
+
+status does anyone besides j. know what the transcription status is
+
+and hopefully next week will have the transcription back from that
+
+i think about two and aren't that nick seaside jeeze assigned i think probably five or six more meetings
+
+i think about two and aren't that you know something more meetings
+
+you know something which meetings so i you tired some new transcribers and
+
+which meetings she transcribing and
+
+so does she have transcribers right for doing something parallel here
+
+no we haven't done that process so no we're not waiting on them
+
+no we haven't done that process so no we're not waiting on them
+
+that process so they're doing the full transcription process they're on them
+
+i doing in parallel
+
+right again we have a similar logistics set up where we supposed to send the data to munich and gets inscribed
+
+right and gets inscribed and get back
+
+sounds but to get going we would like some of the data transcribe right away so we can get started
+
+it's only two channels
+
+so it's but he one china to transcribe it
+
+so that should one session and so
+
+so that should have made too many fewer
+
+and it's also not a bunch of interruptions people and all that right and some of it is
+
+and all that and some of it is read speech so we could give them the thing that they're reading and they
+
+workout four so it's
+
+so i've been trying to keep the web page up to date showing what the current status is of the trans of all the things we've collected and
+
+can you mail that out to we've collected and what stage each meeting is in terms of whether it's
+
+these pages and so that's where i'm putting it but i'll
+
+i haven't i'll send it out to less time people
+
+so jane also wanted to talk about participants approval but i don't really think there's much to talk about i'm just
+
+no so but it's trusted friendship's not the only
+
+i mean that's my attention because the transcripts so
+
+because the transcripts might not be right so
+
+so you want people to be able to listen to them so
+
+that's a good point compressed version or what you have scripted like and compress the various pieces and
+
+that's a good point it's probably going to have to be the young compressed versions because it takes too long to do random access decompression
+
+that's another agenda item i was another knocking how late
+
+the back and is working out fine it's more or less ready
+
+so that the friend and can and do filtering based on that as
+
+the back and is going more slowly atlas i think i said before just because i'm not much of a tickle t. k. programmer and
+
+and they've gal bart says he's a little too busy so i think
+
+but the back and was pretty smooth so i think we'll
+
+smooth so i think we'll have something you may not
+
+point sort of the involuntary for everything and
+
+i said he was too busy i
+
+kind of display and i don't know how much more we can do with it with like
+
+we can do with it with like the person like for we have like style eyes pitches and signals and the transcripts in the bottom so right now it's just
+
+windows but i don't know it's pretty i'm that
+
+sounds good something for a demo
+
+so again the issues for july is going to be what can we fit into a windows machine
+
+fine so hopefully it will work really so that because
+
+because there's some people it would be
+
+so transcriber is tickle t. k.'s very generic with snack so mean we have more windows machines
+
+with snack so anything you can get snack to run on it will work but the problem
+
+whatever and that's not anymore it's pulled it's not
+
+it's pulled it's not on about page anymore but i
+
+the snake will find you sent me know one point six whatever library and so
+
+you confines it took defies anymore it's some
+
+patch thing and then do the patch i
+
+patch we have the patch i wonder if we should contribute dollar changes back to the author so that they maintain those changes along
+
+no i haven't done that yet and
+
+it's ask if i was a planner files whatever representation
+
+it's away form and stylish pitch factor so it's
+
+so i mean we could get a map i mean you can do it and number
+
+it'd be easy enough to add that again it's but it would be if the transcriber interface had like another window for the you know maybe about the way for them when they show some arbitrary valued function that is you know times thinker that i tight times thinking it's with the way form i'm that is very
+
+it'd be easy enough to add that again you know times thinker that i
+
+to add that again it's it's more tickle t. k. programming so someone i tight times thinking it's with the way form
+
+it doesn't seem like having that real time is that necessary say it seems to me
+
+what do you mean by realtime
+
+you mean like like being able to scroll through and for the demo
+
+and to hear it see it would be like to see he'll and see it and see the pitch
+
+to hear it and see it
+
+just record the audio i mean right
+
+just record the audio clip and showing image i think that's right i just got few human
+
+i think that's you know what i just got few human side i thought you meant like just would you grass or something
+
+the computer and i think when we were talking about this before we had little this little demo meeting right
+
+you sort of set up a range of different degrees of life mess that you could have and
+
+have and the more lives a better butts given the crunch of time we may have to retreat from it to some extent so i think
+
+right just looking for ways that we can actually show what you're doing
+
+it's a lot of the ticket for communicator that's certainly significant chunk the things we've terms about originally had to do with preside
+
+to show that we can actually kept him in
+
+but we are like ninety five percent ninety eight percent on the scratch desks for the expanded meetings
+
+johnson about it one of the things i was thinking is we just got these hundred our excuse
+
+up yet and so it seems to me we could paying scratch disk on those because they'll be in the machine room they'll be on
+
+room they'll be on the fast connection to the rest of the machines and
+
+and if we just need on backed up space we just hang discs off them is there
+
+the sun late have spare right days
+
+until you know you mean you put them inside the pizza boxes
+
+all right i have i have an eighteen gig drive singing off my computer
+
+you won't be using the old ones
+
+not for long that x. h. that's like say i have a lot of space and it's not
+
+that's like it's there's very little enough for
+
+it's probably but i'm using x. h. too so on site it's not going it's not being used often at all
+
+it's probably but i'm using x. h. too so site not being used often at all
+
+drive will definitely take it up again i think you're right it's x. i think it's about four
+
+h. and keep the i using p. g. i got to confused or five take that's four meetings on their three or four
+
+i got to confused on their three or four meetings
+
+it should just be a i should have a button
+
+we've collected so far something like sixty five meetings
+
+and how much is each meeting take about a gig
+
+and how much is each meeting take about a gig on compressed
+
+and so they live in morris i usually don't doing on compressed the all of the p. m. in the p. d. a. things so a little more right yes if being
+
+one point five or something even more i compressed how much are they like
+
+so we're definitely restoring you know all those
+
+there's a hundred cake or something of just meeting so
+
+i mean it's they really are cheap i mean it's just
+
+i mean it's just a question of figure where they should be paying them but
+
+so i was assuming he was going to take over that but
+
+i think over that but he's probably too busy given that he's leaving
+
+i know so i mean i think to what you want to do is plan has a little bit and secure here's what we of grand doing for the next few months
+
+i know what they want that few months
+
+and then they want everything else in the machine or
+
+one thing too and to to do when you were need to consider spaces i bet there's in the machine room right now we have to rearrange of
+
+this and you know her the space
+
+i know i think they've done is always things person and
+
+but i know that generally their first priority has been for backed up this desk and so i think what he's ways and i rent out of time
+
+i mean you just got good for and got the money for it's no big deal
+
+but the question is where they go
+
+so then you could at least temporarily star they're
+
+it's behind also firewalls that don't allow any services through except s. h. because it's in syria machine
+
+will happen no the problem with that but that can't be that hard i mean they might be good short term solution
+
+but i agree i think that there's a longer term thing in his immediate need and i think we need to
+
+and i think we need to a conversation with
+
+they just sort of bullet eyes or you don't that don't i can dream of tax but is going to lead to the annual report so
+
+is the fifteen so
+
+so just a week from tomorrow that would
+
+or because you know i find if i have to leave around to
+
+is that on yes what i meant i'm i misunderstood i thought
+
+yes what i meant was on the made this meeting if i was something i'm making major thing in the engendered as i want to help in getting together a list of what it is that we've done so i can tell or i think i thought
+
+or i think i have a pretty good idea but
+
+and then the next day and in the day i'll be having that discussion
+
+i'm one thing i mean we in past meetings we had also a very talk about the work that it was happening to us on the recognition sides but
+
+sides but this in this survey related to meetings specifically so
+
+specifically so and i wondered whether we should maybe have a separate meeting
+
+between you know whoever is interested in that
+
+because i feel that there's plenty of to talk about but
+
+i'm interested it's that going to be very boring for people who are not really interested in the details and like nuisances
+
+so how many people here would not be interested in in a meeting about recognition me too
+
+know if we talked and what do you mean in a separate meeting or talk about it in this
+
+know if we talked about it in this meeting so about it in this you wondering how much overlap there will be
+
+about it in this meeting so you wondering how much overlap there will be
+
+lives in saying
+
+lives in saying probably
+
+bill good thing was is here
+
+you know real man real men do decoding or something like that don't listen to this list
+
+you know real man don't listen to this list
+
+can sympathize with them not wanting to
+
+see the better developed feminine side could
+
+i would be a lot of police in this not i want
+
+it's nearing the end of the week
+
+i know i iverson like i said that could be
+
+we feel like we one we alternate this meeting every other week
+
+are just alternate the focus but that's
+
+basic to do that
+
+except that we keep going for full time and so if we did that because we get into these
+
+we feel obligated to collect more data other topics
+
+would start was that and then if we find you know we're just not getting enough done there's all these topics
+
+was that and then if we find you know we're just not getting enough done there's all these topics not coming up then we can expand into another meeting but i think
+
+meeting but i think that's a great idea
+
+sad about it with us and jane get you if they think that would be good i mean andreas
+
+that would be good i mean andreas and i have various talks in the halls and
+
+in the halls and has lots of things
+
+in the halls and has lots of things you know details and that i think people be interested in and i you know
+
+and you're attending d. the fun in meetings so the other so you have probably one of the best even i
+
+bridge even i have them in the mainland to sort of see the bridge between the two we are doing recognition
+
+we are doing recognition and
+
+i'd i tested the so the final version of the yuppie configuration development tested us up for this year's applies to set
+
+and be recognition performance was exactly i mean exactly up to the you know the first decimal famous with see cuts to friends and for both females
+
+yes for both females and males
+
+really i mean definitely not significant and
+
+and be but a person has
+
+that's pretty impressive and so
+
+clearly going to add a few more so
+
+clearly going to add a few more features though so
+
+what any more teachers
+
+no what any more teachers in the sense of funding features are and since it's just bells and whistles
+
+no caster let's you know try ross an m. s. g. and i mean right so
+
+you know if you know you if you multiply effort by and number and it's a number of different systems in
+
+system and then after that to re score lettuce this was the multiple systems and
+
+multiple systems and combine results and that's a fairly painless do you think
+
+i do you think we'd still get the one and a half so
+
+maybe less because at that point right so lower and so
+
+you know maybe it's only one percent or something but that would still be worth while doing so
+
+just you know from what you know that's working out very nicely
+
+and then we had some results and digits we so
+
+this was run it really so that's just to get days going with this experiments
+
+right including are and the reason is that there's a whole bunch of threats each data and how five training set and
+
+not all of no it's actually did this is only maybe if so of it the rest
+
+so i mean that's actually not that different from on the training and so but it definitely
+
+about two hours something
+
+and more read speech that definitely helps and you can't leave
+
+thing because it was apparent if you put in a bunch more data would be better but that was a right
+
+would be better but if they're even more
+
+but so if they're even more read speech kid ever
+
+like it also put in bogus condition zero from hope before from burqas news which is mostly prepared speech better
+
+no i mean if they never read speech did i mean
+
+they experimented for a while with a bunch of different databases with french and spanish and so forth because they're multi lingual times and
+
+and and actually the best results they got we're using tonight
+
+if we knew what the structure of what we're doing there wasn't
+
+system and you want to tennessee that's i'm so under
+
+so the m. l. p. would be trained on i think only forty six forty eight
+
+just you know we want to try things like dealt us on the attendant teachers and so
+
+and so you have to most everything but two or three and so you know
+
+although we i mean it's not that many fewer and we take k. l. p. anyway so we exactly so that was
+
+the other thing and then we want it to is just limited to maybe something on the same order us dimensions as we use in this and it's front and so
+
+once we have the new m. l. p. train up one thing i wanted to try just for the fun of it plus to actually run like standard hybrid system that is based on you know those features
+
+kind and retrain m. l. p. and also the you know the dictionary that we use for the five system
+
+but he i think he didn't he probably didn't use all the training day that was available and his dictionary
+
+that's and his dictionary probably wasn't as humans too conversational speech is as a horse so
+
+that's certainly one thing is so and experiment
+
+which resulted something like a four percent absurd
+
+and a lot of them were pretty simple and we never did but that's
+
+we never did and never did any adaptation but that's even that's number
+
+so we're we're probably at least
+
+so the so it would be good to let us read just
+
+that's a good question we weren't use that are so they just go straight to
+
+better i mean i agree with i mean you would then
+
+i mean you would then you perceive is even better training
+
+even better training i take a while chances that anyway and
+

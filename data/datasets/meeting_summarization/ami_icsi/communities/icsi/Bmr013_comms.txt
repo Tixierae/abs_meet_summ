@@ -1,0 +1,796 @@
+my feeling what do you think
+but it allowed for them an extra dimension might be an interesting break for them and also it is
+because we can incorporate december strictly and it'll be a more complete transcript so
+complete transcript so i'm i think it's fine so there's
+i'm i don't know what they're doing or a digit at a time or because
+i think a lot of systems sort of get half percent of course percent we're right
+forth and you do this gross things saying i if this phone starting there so
+so the fact that they're reading first of all whether they're reading and i'm a room of people or read you know just the fact that they're reading will make a difference
+and it depends what you're interested in
+know so they maybe the single beach do take some very small subset and i have a big program or take a small set subset of the conversation speech in a small subset of the digits
+if you're going to add the features it's also
+to add the features it's also useful to have some level of representation which is the reduced it's of pronunciation variant that currently the pictures don't give you because if
+everywhere so there are some things that you don't have access to either from your or the specter gram but
+right that if we can't we should put in another level of description there for going to get into some of this low level you know i'm
+and i tested on three or four meetings and it seems to work i mean sally i would say out
+say out some problems with up i'm like of course
+i know if we were to start with this and then tweak it had manually with that would be good right they might be
+it you know it really depends on a lot of things but i would have
+and so i was in the process of like anything this wonderful news
+be funded experiment with also
+so that's what we were discussing sportsperson among it right
+
+my digits
+those yours is pretty so
+that as you can see from the numbers on the digits were almost on the digits
+so that the reason it's not just a transcript is that they're false starts and miss reads in this keys and things like that so i this
+is something it's all compromise right so the
+it seems to me that would be good so have a few minutes from different meetings so
+both now you're saying different meanings because the different speakers of because the different audio quality or both or
+both different if a number of speakers different conditions we don't have that much variety
+the word strings and if it's good then that that may give you a good boundary of course if it's good we
+of course if it's good we don't then we're fine but i
+i was glad fine but i don't know yet whether these segments that contain a lot of pauses around the words work or not
+good and then i run it the channel ice program to get into the multi channel format and
+
+p. they'd be able to do phonetic level coding or are they busy for the next couple of
+it so i mean i and this would be up there alley so we could one that when you me with john and fine what just on anyone applied and they'd be good to train to
+i think so too just came up could be very interesting that have that day i wonder how would you first my
+interesting thing to think about it might be
+and then that means that if a person contribute more than once in a given overlap during that time been that two parts of the others end up together is the same channel and
+channel and then i took his tool in last night for the first thirty minutes of one of these transcripts i tightened up see boundaries on individual speakers channels because his
+so that's great but being to have some more meetings not trust one meetings too to be that there was a system it seems to me that would be good so have a few minutes from different meetings so but i'm not about how much both different if a number of speakers different conditions not really it's so because of the limitations i was glad like to have some manually transcribed preferences for the system have i'm not if it's really good to bed with some other automatic asylum boundaries intuit trust them or if it's not the first i mean it's also i mean that's with me but in the first minute often there is that some strange things going on which on really for which already a really good so what i quite like press is to have some five minutes of different meanings i could do a restraining with that but i hope that i don't need to do it so it can be doing on supplies but i'm not about football for those three meanings me which i did it seems to be quite but that some it's that some problems with the and like perhaps we can do something with cross correlations to get rid of those that's what i'm that's my future recumbent what i want to do is look at the correlations so removing goes false overlapped and i'm not i'm if there are any what mike's in those meetings or i have to live having a good but i'm i think that's a no difference you know some n. f. a. meetings yes when he was how much time we said the meetings very and like what are we talking about in terms of the number of minutes you'd like to have as your training set now you're saying different meanings because the different speakers of because the different audio quality or both or the precision i know if we were to start with this and then tweak it had manually with that would be good how many minutes would you want from i mean we could easily get a section you know like say a minute or so from every meeting that we have so far from the newer ones were working on one that we have and then somewhere not in the very beginning five minutes and then someone she's from my interest information then would you be trait that crime is so would you be training then these segment or so that it could on the basis of that segment dress the meeting so they give you like five minutes is the idea that this would then be applied to two providing tighter and excellent so then if it's five minutes for me got like twelve minutes twelve meetings roughly done that i've been working with then i in terms of the speakers or the conditions in we have different combinations of speakers i mean just from what i've seen that there's somewhere your present or not present and then you have the difference between the networks group in this group we do no we could i mean you do record one last week or so i could get that new one we don't have that much variety in meetings at i mean we have this meeting in the future meeting we have a couple of others we have a couple examples of but potentially of the meetings that you're working with how many of them are different but are there any of them that are different than these two meetings yes makers so yes i didn't know in a group you had if you had that she have the networks meeting do you have any jerry's meetings near or no so current this week even really with the games differently the fact that i mean they could do the normalization yes if we could get a couple meetings done with that level precision i think that would be a good idea we can try renting we haven't done this yet because dress and it's going to move over the us or i recognize or around and machines sri because they're running these elves and instead of machine time there but once that's moved over hopefully in a couple days then we can take what changes told us about as the presented the dissemination that you did at level eight versus at some threshold attain that right and try doing forced alignment on the word strings and if it's good then that that may give you a good boundary of course if it's good we don't then we're fine but i don't know yet whether these segments that contain a lot of pauses around the words work or not right they might be it you know it really depends on a lot of things but i would have maybe a transcriber look at the result of a forced alignment and then adjust those that might save some time if they're horrible it won't help at all but they might not be horrible so but i'll let you know when we have that are the wireless different on the wired mikes at all i mean have you noticed any difference just a look pal versus everything else
+was a system yes if we could get a couple meetings done with that level precision i think that would be a good idea
+how much time
+and like what are we talking about in terms of the number of minutes you'd like to have as your training set
+the precision but once that's moved over hopefully in a couple days then we can take what changes told us about as the presented the dissemination that you did at level eight versus at some threshold attain that right and try doing forced alignment on the word strings and
+which i hadn't thought about before but i was realizing
+
+but in order to do that we need to extract out the actual digits
+you know i mean they that they're interested in continuing working with it so i mean i
+i you'd want models for spreading i think it might be
+specific problems but so using ninetieth court file rather than
+and i did some things like that interesting
+renting we haven't done this yet because dress and it's going to move over the us or i recognize or around
+around and machines sri because they're running these
+the precision some threshold attain that right
+how many minutes would you want from i
+to the gravis i can't calculate in my
+
+like this morning it's done so
+you know someone fills out the form and then they're not at the meeting and so it's blank
+use the hours for because they get the time that they be setting doing that they wouldn't be able to be putting more words on
+so that's an indication that was with
+how do we do on the t. i. digits the pros on x. are so much difference it's going to be
+it's going to be strange
+it was on its are not the same as t. i. digits for example
+how so i'm not how much of effect that will have what do you mean
+in the i don't know i think we one and a half percent two percent something like that
+
+anyway this is not merchant thing it all just came up could be very interesting that
+and and so i understand that's what you were saying about your problem with minimum i get it
+and i had specific problems but i get it so using ninetieth court file
+that's there are some problems in when and the channel their to so to speak it doesn't work my truck doesn't talk at
+down some problems with them and listen to my station and the system doesn't work it'll so
+form format and then you have all these things but across according to channel and then that means
+not really it's so potentially they could
+and i was going to take it from one of the new ones i can usually
+
+and so forth the only thing is i'm a little concerned that maybe the kind of phenomena and the reason
+also thought just listening name would get the hall into give us some advice on that
+but i i was like you said and that's that much thought
+right but i mean you like might be restricted but you also want to have coverage you know you right
+and you can go from not from that to the particular ray features but that would be a better starting point for marking the jest real features then data where you don't have that because
+parts and then we run it through that i'm going to edited and then but i read it to channel i switched takes and stay still parts form format and then you
+
+that it had been randomized and so on and that's just what
+how do that will have just what do you mean the presiding
+just what we were talking about was grouping that
+or i don't know what they're doing or are they reading actual phone numbers or a
+or i don't know are they reading actual phone numbers
+
+they were we should catch up on what's is
+we said the meetings very and like what
+the good example was an in breath where a transcriber working from the mixed signal doesn't know who's press it is and they've been assigning
+and they've been assigning it to someone that may or may not be correct and
+and what we do is if it's a brass on you know sound from the speaker we map it too annoys model like a mouse noise model and the recognize or and
+
+so more typical my first like although the model's weren't that good right i mean
+you're that good right i mean the models are pretty crappy
+right i think that we could have done better on the models but the thing
+because i don't think anybody is i at least i don't know
+
+free and we only recently got it to anywhere near human like the single cell
+there's no name for that so you have this feature here and overlap right but it still is
+be something broader but that but where i'm coming from is were coming off the that they're assaulted with john talon regime entertainment which they have in a multi band system that is trained in combination ingredient learning and the m. too estimate the value from one for particular feature
+you know i'm i mean if we're talking about having the and it caters annotate these kinds of features it seems like
+
+that's a reasoning but
+also thought you were thinking of a much more restricted set of features on that
+i mean i was thinking that you would be interesting to do with respect to parts switchboard anyway in terms of
+you know some n. f. a. meetings yes i didn't know in a group you had if you had that she have the networks
+
+and he might end up with more closer correspondence
+what it looks like it didn't look like a sequence of phones look like right
+the harder ones
+i mean was it depends how you look at it and i understand
+
+sort of less predictability that it's just
+because i've seen you know where does the voice bar start and so forth
+or you could start from the if we were going to do the same set of sentences that steve had done we could start with those transcription that's
+so i'm listened and on the nine that this morning and the barker room that home please and this afternoon
+
+an interesting design too because then you have to cut the comparison of the predictable speech versus the less people speech and maybe you'd find because i don't think anybody is i at least i don't know i don't know that's you have to
+i really meant place i see
+so i'm glad that there is that the digitalk where everybody's supposed to say something so
+we could i mean you do record one last week or so i could get that new one this week
+
+something to really difficult
+i actually think that there should be used for that maybe
+good they might be it you know it really depends
+down so it's precise i did so that should be faster than the ten times kind of thing
+
+you know you should it should be such that if you if you had all all the features determined to tell you that you are you have chosen that would tell you in the study state case the phone right
+i with vowels that would be pretty hard
+identify actually you know which one it is
+and we actually look at switchboard this out you see and and it i mean was and in fact the internet's here green it was not that good right on the harder ones it depends how
+
+no name for that and overlap right but it still is
+no i don't disagree with that and steve's type is fairly it's not that's low
+don't disagree with it and you know anything is that what you actually within and end up with is something it's
+right so the string that you end up with isn't actually what happened but it's
+
+i think that's sort of qualitatively different right you can add those features and but it'll be under specified building be no
+i think so too i wonder how would you first alignment my
+the idea to unions want you to rate somehow
+so that and so current
+
+new version presentation
+we want to say something about an update of see transcript what you summarize the
+at all but they might not be horrible
+
+it for their references that we need to go from the fancy transcript to the sort of brain dead
+maybe they're using phone recognize or south of doing is they i thought that
+these no i'm serious there all these
+
+and then as you get really smart or the next year or two and you get better and then can preset by one or two percent
+at work now but i think that steven gang or doing something with an automatic system first and then doing some adjustment that's
+then of the meetings that you're working with how many of them are different but are there
+
+and also it is contributing to be cut composition of the transcript because we can incorporate
+all i'm saying is that it is useful to have that the transcription of what was really sad in which syllables were reduced
+that home and this afternoon
+
+it's my way of a order of magnitude we've been working with this or data set and the
+and the best score on me nicest part of the data that is where you've got training in tests that are the same kinds of noise and so forth is about
+so that they the point there and this is car noise things but real situations real
+
+you right so if you were doing ten digits recognition really be in trouble you
+the there's one microphone as close that they have is this sort of thing because versus distant
+because the and then also if you did it on switchboard you would have the full continuum of transcription she'd have it from
+
+but in a car instead of instead
+of the new ones i can usually get them jerry feldman saying no problem
+that first set so they're really running out of date it pretty i mean that's good
+
+not i know what i mean it's connected disconnected digits it's connected
+so there's also that not just the presidents across for knowing it's probably
+but so there's also that not just the presidents across for knowing it's probably quite different
+
+free prehistory to anywhere near human like the single cell you know
+and it's still like an order of magnitude worse than like humans too right
+when they're wide awake
+
+after coffee
+not after lunch so
+so do then is all go ahead and enter this data
+
+you can unpredictable have to think about the particular acoustic features to mark too because i mean some things they wouldn't be able to mark like you know ten slacks something
+that might save some time if
+some time if they're horrible it won't help at all but they might not
+
+which are all like where your time comes to rest place of our place of articulation are
+i mean i'm just the about of course we're just talking about what to provide is tool for people to do research have different ideas about how to do it so for instance
+so for instance you might have someone who just has a word has words with states and has comes from articulate or gestures to that and someone
+
+two steps one you know one is going from a dictionary pronunciation of something like going to see you tomorrow it could be going too or
+going to you know one is going from a dictionary pronunciation of something like going to see you tomorrow it could be going too or a going to gun just and
+and that it would be to these intermediate are these some of these reduced pronunciations that those transcribers markwardt have people mark those as
+
+low i don't know
+so it can be doing on supplies but
+i was about to need to sign a new meeting and i was going to take it from one
+
+i don't disagree with it and i don't know exactly what the timing was
+i don't disagree with it and timing was
+it's so it's a little different so i
+
+right they overlap each other in weird ways so
+it's not strictly one dimensional signal
+so i think that's sort of qualitatively different right you can add those features and
+
+like it's not that was over that was not we probably have a separate discussion about it whether you can do that
+it seems like you could do both i mean i was thinking that was saying maybe meeting isn't the right corpus
+anyways an hour and a half per that's really
+
+you've got a good start on it but we don't have a
+it but we don't have a really good meeting recorder recognize or transcribe or anything yet so
+not really it's so because of the limitations potentially they could do the normalization
+
+channels you have that from their transcription
+about football for those three meanings me which i did it seems to be quite but
+but that some it's that some problems with the and like
+
+hopefully that's not the same meeting that we did
+no actually stiffer meeting so i'm
+meeting so i'm e. so the you know we have the they transcribe as if it's one channel with these with the flashes to separate the overlapping parts and
+
+things and then we'll see if he others that were getting with that at that level are sufficient
+and they don't need to be further broken down and if they do
+and if they do need to be further broken down and maybe just be peace twice maybe it won't be a whole thing
+
+and also all be and coding as i do my post editing the things that are in curly brackets what you're clarification material and
+material and it to incorporate that keyword at the beginning so its going
+so its going to be either gloucester is going to be a vocal sound like a laugh or a cough or so forth
+
+so so i wanted to discuss
+so right gender items so i wanted to discuss digits briefly but that one too
+
+you know it's more pressing enough things
+so anyway just in case once you get into this kind of realm even if you're looking at connected digits it can be pretty hard
+
+things finally just do those yours
+in there somewhere but i mean it's really it's close talking mike snow annoys clean signal just digits i mean every everything is good the beginning of time
+
+and so we probably will be done with the t. i. digits and another couple of weeks depending on how many we read each time so
+all these kinds of functional elements i don't know what you call them
+
+but those are almost all filled in as and so
+that but that's easy to handle at the post editing face i'll mention it to
+
+on that and then presumably we should go to that just and like and stupidly right
+the reason for doing it just because the argument is that certainly conversational speech the that we've looked at here before just doing the simple mapping from the phone to the corresponding features that you could look up in a book in right is
+
+by one or two percent but
+not really it's so potentially they could
+
+so i this a description x. waves where did you select the portion is our
+that's what i'm that's my future recumbent
+
+that you know so it'll put on the screen the next that is six nine two
+in terms of partly to see if you could generate first guesses at what the air ticket or a future would be based on the phone representation that lower level that might
+
+right for coffee and i think it's a fine idea partly because it's not an unrelated to their present skill set but it
+like that and i'm going to be doing a more thorough editing with respect to consistency of the conventions
+
+a choice so are these two separate past that can happen
+they but we discussed this morning i would summarize the saying that these units that results and it a particular channel on a particular time band at that level vary in length and
+
+or do they have to happen same time before no they don't have this
+but not just still pauses but all kinds of ways of interrupting and so forth and some
+
+time before no they don't have this you have to enter the data before you do the second task but they don't have to happen at the same time
+so forth and some other are husband
+
+hours but it was an artificially add it to get some artificial sweeteners racially was just people driving
+was just people driving around the car
+
+that was with many sites competing in this is the very best score and so forth so more although the
+so more typical my first like although the model's weren't
+
+the models but the thing is that got this is it's kind of typical number for all of the things in this task all of the languages and so
+and so i think it probably be the models be better in some than others
+
+do we do on t. i. digits going to be different
+but and it's more accurate than the dictionary and it's more accurate than phone labels and the word
+
+free prehistory only recently got it to anywhere near human and like the single cell you know the beginning of life
+you mean i don't think morgan suggesting that because it's not that easy to go from the dictionary word pronunciation the dictionary phone pronunciation to the gesture of one without this intermediate serviceable level kind of representation
+
+it's definitely true that when people are reading even if they're rereading what they had said spontaneously that they have very different patterns submit show that
+submit show that and some dissertations have shown that
+
+an interesting design i don't know that's you have to
+it and i understand what you're saying about this kind of transcription exactly because i've seen
+
+seem to me that they points of articulation would be more i mean that's i
+i mean that's i think about a ticket or teachers i think about points articulation which means rather than dolls
+
+for that maybe although i think the meeting context it's great that he has transcription is they give you the actual phone sequence and
+he didn't know what to say about what is the sequence of phones there they came up with some
+
+you might be have that because we you want to know both about the way that they're producing a certain sound and what kinds of i mean anemic differences you get between these transcribed sequences and the dictionary ones
+you might be right some of it might be the way at getting it what i was talking about that particular ones
+
+about that particular reason why i was interested in doing that was because i remember when that happened and so i was over here and he was looking at the specter grams of the more difficult ones
+ever recall so i mean that's
+
+going it could be going too or a going to gun just and
+deceived tomorrow deceived and
+
+to that and someone else might actually want some fanatic you know intermediate thing so
+don't give you because if you add them to the dictionary you run recognition you had confusion the people
+
+here and they could be overlapping and all sorts of bizarre ways that don't correspond to the timing on phones
+and but still open within that whether you would have an intermediate level in which was actually phones or not he would necessarily
+
+i mean this is a kind of reason i remember
+a kind of reason i remember when it's one of the switchboard workshops that when we talked about doing the transcription project they've talked and so it can't be done right
+
+no i don't disagree with that and steve's type is fairly
+i think that's actually what i was thinking that the problem
+
+has three or four this might have been the fifth one that you ruined or whatever so so it's like a continuum it's you're going all right
+that you ruined or whatever so so it's like a continuum it's you're going all right
+
+it's just having multiple levels of information and marking the other differences where made e. boise right
+the other differences that the teachers are not synchronized right they overlap right
+
+building be no way for you to actually mark what was said completely by features
+not with our current system but you could imagine designing a system that the states were features rather than phones and if you're
+
+not he would necessarily have to
+and this week i get that anyone and because i we're going to be recording them every monday
+
+the question is do they do that on meeting data or do they
+data or do they do that on switchboard that's what i
+
+and you could tell you know the phonetic level that steve did in that's all i was thinking that it is telephone
+and you could tell that and you get the relative gain it's so it's a little in it'd be a complete set thinking that it is telephone band so the bandwidth might be
+
+so i mean that's probably the right way to go anyway is to start off with the automatic system with a pretty rich enunciation dictionary that you know tries to label at all
+and then people go through and fix it
+
+so in our case you'd think about it started with maybe the regular dictionary entry
+and then or would be regular addiction
+
+recognize or south of doing they i thought that they were we should
+to it and then as we get further down the road you can do more things ahead of time we can do some of the same things to me today
+
+maybe need to do some fanatic features these nine word words
+word words or are these kinds of where the people never the husband and these
+
+conditions we don't have that much variety in meetings at i mean
+at i mean we have this meeting in the future meeting we have a couple of others we have a couple examples of but
+
+intuit trust them or but i would have maybe a transcriber look at the result of a forced alignment and then adjust those that might save
+to the gravis actually stop with the transcribing you meetings or how they
+
+with also see we were thinking maybe applying that to getting paid
+that'll be very useful to getting overlaps to be more precise only through
+
+and so i mention the process that i'm going through with the data so you
+with the data so you know i get the data back from the transcript i'm in fort lee get the day back and transcriber and then
+
+and they recognize your would prefer that the then it's not be overly long but it's really an empirical
+but it's really an empirical question whether the units we get at this point true just that process i described might be sufficient for them so
+
+we just needed away to strips you know all the comments all the things that the linguist wants but they recognize or can't do anything with
+but to keep things that we map to like reject models or you know mouth noise or cost and
+
+gender items
+
+were enough to presuming fishing new
+
+say something about an update what you summarize the
+
+i'm transcripts and
+
+and i that includes some the filtering for that to s. r. s.
+
+it be recap of a meeting that we had time like this morning sort of brain dead it's done
+
+on the digits goes up to about four thousand
+
+time so they were a bunch that we skipped you know someone fills
+
+so we'll have and so what's it's done it would be very trapper recognize earn actually start working with this data and so
+
+so we'll have a corpus that's the size of jet digits data and so one
+
+jet digits test one particular test that of t. i. digits
+
+that so i extracted there was a file sitting around which people have used here as a test that it had
+
+great so on and that's just what i used to generate the order of these particular ones
+
+some incredible we could do is take the standard training set for t. i. digits train up output whatever you know great teachers we think we have for instance and then test on this test that and
+
+this test that and presumably she do reasonably on that and then
+
+you get better and then can preset by one or two percent
+
+it tells you what the next one should be and you just look for that you know so it'll
+
+so this and you find that and hit the key in record in a file in a particular format and so the
+
+so this is and so the question is should we have the transcribers do that or should we just do it with some
+
+of us i've been do i've done eight meeting something like that just by hand
+
+just myself rather
+
+so it will not take long
+
+is that we discuss this right for coffee and i
+
+so you think it's fun to have to transcribe mister there's
+
+there's one other small bit which is just entering the information which it's which is at the top of this form onto the computer to go along with the where the digits are recorded automatically
+
+and so it's just you know typing in name times time date and so on
+
+which again either they can do but it is you know firing up an editor or i can do or someone
+
+and that do or someone else can do
+
+and that you know i'm not that one i'm not so fits into the things that wanted to use the hours for because else can do
+
+but that's really a choice so are these
+
+so it's just i have a file with which has this information on it and then when you start using my scripts for extracting the times it has the times at the bottom of the file
+
+and so i mean it's easy to create the files and leave them blank so actually we could do it in either order
+
+it's sort of to have the same person do it just as a double check to make you're entering for the right person but
+
+i think the best score was something like five percent air per digits
+
+instead of having a projector it's it's current hours
+
+can be fun to see how we compare to
+
+how do we do on the t. i. digits the pros on x. are so much difference
+
+that but sees the grouping there's no grouping at all and so it's just the only sort of just this do you have is at the beginning and the end so what are they
+
+or so what are they doing in aurora are they reading actual
+
+i don't know what they're doing or a digit at a time
+
+how do we do on t. i. digits but in t. i. digits they're reading things like zip codes and phone numbers and things like that so it's going to be different quite different
+
+how but in t. i. digits they're reading things like zip codes and phone numbers and things like that so it's quite different
+
+how do we do on t. i. digits things like that so it's going to be different
+
+i mean we were in the one and a half
+
+i don't know i think we got under percent two percent something like that
+
+but was but it's but i mean the very best system that i song literature was a point two five percent or something and somebody had a at bell labs are but sort of pulling out all the so i think a lot of systems really
+
+it strikes me that they're more each of them is more informative because it's so random and that people might articulate i mean the very best system that i song literature was a point two five percent or something and somebody had a at bell labs are but sort of pulling out all the so i think a lot of systems sort of get half percent of course percent we're in there somewhere when they're wide awake after coffee or not after lunch one question i have the i mean we would know the answer to now but like do some guessing but i was talking before about doing some art modeling work marking of articulate tori teachers we overlap and so on and on some subset one thought might be to do this on the digits or someplace the digits it'd be easier and so forth the only thing is i'm a little concerned that maybe the kind of phenomena and the reason for doing it just because the argument is that certainly conversational speech the that we've looked at here before just doing the simple mapping from the phone to the corresponding features that you could look up in a book in right is actually right in fact there's these overlapping process person forcing comes up and then some you know some nationalities comes in here and so forth and you do this gross things saying i if this phone starting there so that's a reasoning but it could be that when we're reading digits because it's for such a limited set that maybe that time in this incur as much i don't know did if they give me been opinion about that free prehistory right but i mean it's really it's close talking mike snow annoys clean signal just digits i mean every everything is good yes exactly and we only recently got it to anywhere near human and it's still like an order of magnitude worse than like humans too after coffee so do then is all go ahead and enter this data and then hand off jane and the transcribers to do the actual extraction of the digits the beginning of time and speech recognition like the single cell you know the beginning of life right
+
+percent we're in there somewhere but i mean it's
+
+mean every everything is good yes exactly the beginning of time and speech recognition
+
+and then hand off jane and the transcribers to do the actual extraction of the digits
+
+one question i have the i mean we would know the answer to now but like do some guessing but i was talking before about doing some art modeling work marking of articulate tori teachers we overlap and so on and
+
+one thought might be to do this on the digits or someplace the digits it'd be easier
+
+it'd be easier and so forth the only thing is
+
+actually right in fact there's these overlapping process person forcing comes up and then some you know some nationalities comes in here and so forth and you do this gross
+
+that's a reasoning but it could be that when we're reading digits because it's for such a limited set that maybe that time in this incur as much i don't know
+
+it strikes me did if they give me been opinion about that
+
+and that people might articulate more
+
+sort of less predictability that's i agree that it's just
+
+sort of less predictability that it's just
+
+an interesting design see i don't know so they maybe the single beach do take some very small subset and i have a big program or take a small set subset of the conversation speech in a small subset of the digits and look and just get a feeling for it just take a look really because i don't think anybody is i at least i don't know i don't know that's you have to would this corpus really be the right one to even try that on it's definitely true that when people are reading even if they're rereading what they had said spontaneously that they have very different patterns submit show that and some dissertations have shown that so the fact that they're reading first of all whether they're reading and i'm a room of people or read you know just the fact that they're reading will make a difference and it depends what you're interested in
+
+would this corpus really be the right one to even try that on it's definitely true that when people are reading even if they're rereading what they had said spontaneously that they have very different patterns submit show that and some dissertations have shown that so the fact that they're reading first of all whether they're reading and i'm a room of people or read you know just the fact that they're reading will make a difference and it depends what you're interested in
+
+and look and just get a feeling for it
+
+for it just take a look really
+
+speech and maybe you'd find it worked in and see case with if you can unpredictable have to think about
+
+points of articulation what to me
+
+so is it by late deal or dental or is it which
+
+your time comes to rest place of our place of articulation are
+
+which are all like where your time comes to rest place of our are
+
+thank you what reversed said this i really meant place i see
+
+regard jurgen
+
+it's also there's really a difference between the pronunciation malls in the dictionary and the presentations that people produce and so
+
+produce and so you get some of that information from steve's work on the labeling and it really
+
+there they came up with some compromise
+
+because that really wasn't what it looks like it right
+
+of phones look like this blending thing happening here there's so you have this feature here
+
+here there there's no name for that so you have this feature here and overlap right but it still is
+
+but it still is there's that there two steps one
+
+you mean i don't think morgan suggesting that we do that though representation
+
+thing so i think it would be best to have all that if we could
+
+what i'm imagining as a score like notation where each line is a particular feature right so you
+
+right so you would say you know it's a voice through here and see of label here you know and nasal here and
+
+he was what we meant was that this isn't you know sequence of phones and we actually look
+
+out you see and and in fact the internet's here green it was not that good right on
+
+the people purposely don't add them
+
+so it would be great if we had so it's useful to know which marian was produced at least at the phone level
+
+so it would be great if we had either these kind of labelling on the same portion switchboard steve mark or steve type markings on this with these the phone level right that's exactly
+
+but it's the best compromise is a group people scratching or has to come up with to describe what happened and it's more
+
+but and it's more accurate than the dictionary or if you've got a pronunciation electric on that has three or four this accurate than phone labels and the word
+
+the way down that's what i meant is and
+
+meant is and in some places that would fill in of the kind of just real features are not everywhere so
+
+you know what phone it wasn't that's about all you can i can say and then there are other cases
+
+it's just having multiple levels of say and then there are other cases where made e. boise right
+
+like it's not that was over that was not comes direction i time so i mean we probably have a separate discussion about it whether you can do that
+
+i time so i mean what where this is i mean i wonder would like to have something it's useful to people other than those who are doing specific kind of research i have a nine so should
+
+i have a nine so should be something broader but
+
+and this is part of a larger image to chinatown has but how the human brain doesn't which is sort of imagining that individual frequency channels are coming up with their own estimate of these kinds of something like this might not be you know expect
+
+might not be you know expect teachers tickets and saddam or something
+
+and saddam or something but i mean you know some something like that some kind of low
+
+like that some kind of low level features which are not fully you know phone classification and
+
+and the that this particular image how the how it's done is that then given all of these estimates at that level there's a level above it with and which is making some kind of sound unit classifications which is you know and you
+
+and you know you could argue what goes on there should be and so forth but that's
+
+so forth but that's sort of what i was imagining doing
+
+but again i wouldn't want to what we produce to be so local and perspective that it was matched what we were thinking of doing one week and
+
+one week and you know what you're saying is right that if
+
+was saying maybe meeting isn't the right corpus
+
+lower level that might be a time game
+
+but also in terms of comparability of
+
+and you could tell she'd have it from the lowest level that the because the teachers and you have you know the phonetic level that steve did in that's all i was thinking that it is telephone
+
+that and you get the relative gain it'd be a complete set band so the bandwidth might be
+
+and you get the relative gain it's so it's a little set the bandwidth might be
+
+different so i mean know we'll see what how much we can get people to do and how much people have and all that sort of thing but it might be
+
+and all that sort of thing but my they do both but it might be good to do what jane was thing and you know seated with guesses about what we think the features are based on you know the phone or steve's transcription or something to make it quicker parts to based on the phone
+
+make it quicker just think exactly parts to based on the phone transcripts they would all be synchronized but then you could imagine nudging them here and there
+
+think exactly nudging them here and there
+
+to voicing over little because right
+
+i think with i mean i'm a little behind in what they're doing now and the they're doing into at work now but i think that because right
+
+and then or would be regular addiction i mean is a pretty rich dictionary it's got
+
+dictionary it's got a different interpretation or you could start
+
+thinking that the problem is when you run if you run a regular dictionary even if you have variance in there most people don't you'd always get out the actual pronunciation so that's
+
+actually maybe they're using phone pronunciation so that's why the human transcribers giving you the that sensation is they
+
+yes i think that if we also don't have i mean you've got a good start on a good
+
+so i mean other way look at this is too is to do some and switchboard which has all this other to it and
+
+and these people might they are most of them are trained with i. p. they'd be able to
+
+coding or are they busy for the next couple of years
+
+i'm just acoustic teachers
+
+i don't know what you call them but not just still
+
+grunts that
+
+might be interesting
+
+he's got lip smacks going to meetings
+
+new version of pretty segment tasting
+
+i wrecked a little bit on a presentation to get another version bitch dazs channel specific speech on speech detection
+
+and what i it is use the last few trips bitch looking into it and it was just the last entry into and the penalized by them mean over the channels and by the minimum over the
+
+and to him too you have to know what i saw this and i'm my about this and things and that those features that you are ninety tractor
+
+and it to be able to somewhat distinguish between foreground and background speech in the difference in each channel
+
+so that's grateful for my purpose
+
+and the thing is i you know nation off the system is a little bit hot as i don't have any reference we did the hand the
+
+that's the one in know but when i do the training on so i kind of the other nation on
+
+so the thing is candid transcribe this perhaps to some meetings in terms of speech and on beach and in the specific channels you
+
+so now any so no because i mean it really tight
+
+so now any so no because i mean it really tight
+
+great i think i might have done what you're requesting though i didn't in the service of even think i
+
+of even think i have thirty minutes that i it's more tightly transcribe with reference to individual channels
+
+because his interface allows me to have total flexibility time tags across channels and
+
+so that's great but being to have some more meetings not trust one meetings too to be that there was a system yes when he was so current yes if we could get a couple
+
+even really with the games differently the fact that i mean
+
+because of the limitations do the normalization
+
+we can try renting we haven't done this
+
+because they're running these elves and instead
+
+elves and instead of machine time there but once
+
+i was glad like to have some manually transcribed preferences for the system have i'm not if it's really good to bed with some other automatic asylum boundaries i know if we were to work or not right
+
+intuit trust them or at the result of a forced alignment
+
+how many minutes so but i'll let you know when we have that
+
+mean we could easily get a section you know like say a minute or so from every meeting that we have so far from the newer ones were working on one that we have
+
+if it's not the first i mean it's also i mean that's with me but in
+
+me but in the first minute often there is that some strange things going on which on really for which already a really good
+
+so what i quite like press is to have some five minutes of different meanings
+
+somewhere not in the very beginning five minutes
+
+and then someone she's from my interest information then
+
+information then would you be trait
+
+so would you be training then these segment or so that it could on the basis of that segment dress the meeting so they give
+
+i could do a restraining with that the meeting so they give you like five minutes is the idea that this would then be applied to two providing tighter and
+
+i could do a restraining with that providing tighter and
+
+but i hope that i don't need to do it
+
+the and like perhaps we can do something with cross correlations to get rid of those
+
+future recumbent what i want to do is look at the correlations so removing goes false overlapped
+
+and are the wireless different on the wired mikes at all i mean have you noticed any
+
+and i'm not i'm i mean have you noticed any difference
+
+and i'm not i'm if there are any what mike's in those meetings or i have to live having a good but i mean have you noticed any difference
+
+having a good but i'm i think that's a no difference
+
+just a look pal versus everything else
+
+so then if it's five minutes for me got like twelve minutes twelve meetings roughly done that i've been working with then of the meetings
+
+different but are there any of them that are different than these two meetings
+
+i in terms of the speakers or the conditions in yes makers
+
+we have different combinations of speakers i mean just so
+
+i mean just from what i've seen that there's somewhere your present or not present and then
+
+you know some n. and then you have the difference between the networks group in this group yes i didn't
+
+you know some n. f. a. meetings yes i didn't know in a group you had if
+
+we do you had that she have the networks meeting
+
+no do you have any jerry's meetings near or
+
+i could get that new one and this week i get that anyone and this week we're going to be recording them every
+
+great because i think he really needs variety and monday
+
+great and having as much variety for speaker certainly would be a big part of that
+
+became clued includes
+
+includes then i if i were to include altogether samples from twelve meetings that would only take an hour and i could get the
+
+take an hour and i could get the transcribers do that right
+
+i mean what i mean is that would be an hour sampled and then they transcribe those that hour right that's
+
+that's i mean transcribe i mean right but your you
+
+i mean adjust so they get into you
+
+adjust so they get into the multi channel format and then adjust the time down so it's precise so that should be faster than the ten
+
+i did so last night i did
+
+last night i did about half an hour and three hours which is not terrific but
+
+they're still working and they still have enough to finish that i haven't assigned a new meeting but
+
+a new meeting but the next they i was about to need
+
+they're around they're less reason makes a decision that we should go over and start transcribing the other so
+
+you're the first time
+
+yes it does this but nicely into the update on transcripts
+
+interested into the afternoon concerning this issue the it's the shitty interplay between the transcript format and be processing it they need to do for the answer i recognize her
+
+and transcriber and then i check for simple things like spelling errors and things like that and
+
+but they're generally very good and
+
+for them so as a first pass through the first chance without having to do a lot of hand editing what we're going to do is all run through channel eyes give in those days after it on the other team cross i'm it's clean i can do that
+
+it's clean i can do that pretty quickly with just that minimal editing without having to have a break things and then
+
+also we discuss meditation and things so then lots of right
+
+it's like god you know i hadn't incorporated a convention explicitly to handle acronym for example but if someone
+
+example but if someone says p. m. it would be to have that be directly interpret herbal from the transcript what they said or pick
+
+what they said or pick articulate p. c. l. i mean so you
+
+i mean so you it's and so i've incorporated also convention with that but that's easy to handle
+
+face i'll mention it to transcribers for the next day so that's
+
+and then a similar con convention for number so they say one eight
+
+so they say one eight reverses one eight three
+
+or non vocal sound like a doors slamming that can be easily done with you know just a little like additional thing and the general forum
+
+and then there's this interesting issue chain brought up which i hadn't thought about
+
+before but i was realizing as i went through the transcripts that there's some noises like
+
+and the recognize or and probably doesn't hurt that much once in a while they have these but if
+

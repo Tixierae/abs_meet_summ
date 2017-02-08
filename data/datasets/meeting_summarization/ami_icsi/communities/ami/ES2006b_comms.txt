@@ -1,0 +1,578 @@
+sent to i. so i just think that
+think that the last minute i'm
+and what the functions of the remote control that's the
+we need to it we need to have a clearly defined group that we want to focus on an a in
+and see from the design functional design perspective what i can we can now i know what exactly the components are and how
+are and how they work together with each other
+the identification of the components and
+and update and come up for the new designs it's a cyclical process
+so it should incorporate it and colour and the slogan that our company and it has its standard
+so he is a functional or feel of the remote control
+i think we need like some general discussion at the end
+i think since the since way you wear discussing some design issues then i would like to india
+she'll whip all this at i think that has
+for example brightness and similar and functions could be just done through the menu and
+can you mean the cable thing
+to add to it
+so plugged in that is working
+popular with them so if you want to put in something stylish than than it would certainly be more popular with as it yet but the younger people as compared to order people
+you share a television or something
+if you can just look at up on a computer
+seventy six point three percent
+that was still quite popular amongst them to even they are
+they've got my commitments and
+say that discuss wanna do that
+
+and also it's and the question is it because there's so many different and there's so many different things that could possibly be included because besides
+so this is my little cloth thing
+uses and so that's that the numbers a lot on the top or present that like them important is you know you say
+know you say on a scale of one to ten how important is that and
+and everything else i think in a you can forget about having those buttons on the remote control "'cause" they
+site so this is what people
+so this is what people find annoying about my controls at that
+that can they are not intuitive and
+and that bad for the repetitive strain injury i think if you watch
+i think if you watch t. f. t. v. to get the best a strain injury from "'em" in a watching t. v. that's a list of you problem but
+this is pink because i was copying and pasting the table and at times
+it a say please my
+is it in a setting should either be functional or beautiful or preferably by so i
+say say maybe something where you clap and then it beeps and being a kind
+five minute "'cause" you it that the label you lose it by throwing out the window something say
+that's break it's very interesting
+
+because incorporating other features makes it more calm complex
+and the reason why teletext is outdated because of internet and the availability of internet or television how
+and you could change things on the screen then for
+i mean that was the directive it came through from management but if we had a
+so it might be problematic to choose between all this possible things
+hi i'm getting hungry
+that you know at the at you want the whole that would work and a t. v. you name tends to be people talking and
+my from a you know talking about this on the way in c. news wanting
+in normally have a call on it's
+
+and then they give them a questionnaire so is
+control actually get many ounces on the l. c. d. screen so she's taken
+are important and the rest of them you name nobody really uses and
+by so i think we need to aim for both
+or not map of thing
+so we've got a parts ten fifteen minutes to discuss
+remote control bomb a seeming key name yes
+difference and i don't really
+
+the agenda for the meeting i put it in this shared documents folder i don't know
+on the what all bridget project documents
+wise of people get all the most cats for bats and then less willing to
+then less willing to try it i
+you know a functional say is useful but minimalist and as
+
+for this meeting and just take minutes as we go through and then i'll send
+and then i'll send them to you after the meeting
+the main focus of this meeting is your presentations that you've been preparing sharing the time so we'll go
+you don't have to do it now but where once you go back to so that
+it in my personal preferences i'm hoping that we can keep the design as simple and clear as possible this for the
+
+that but this is there any any thoughts on that
+functional requirements
+and can you how you going to stop it from just flipping channels was watching t. v.
+are of protect your it's
+because you know like i mean you know if you university you're paying you when you can
+
+last time "'cause" this is when you get to it shows what you've been doing individually the agenda
+i don't know if that meant that you could see it or not
+did anyone know
+be a bit strange to have a fancy right now remote
+
+so if you take in there as a shape project documents folder and it should be in there
+but i don't many people that t. v. we
+we didn't have the t. v. last year not want to of
+that's too and remote control might not
+
+pain we need to buy the end of the meeting come to some kind of decision on who our target group is going to be and what the functions
+then the most have buttons would be on off and then the channel numbers and then
+as you see on the next slide as
+lately you know you say i mean they are and the displays or blink when i do think it's something to ignore uni
+
+so with that i think specify hand over to you does anyone have a preference
+so these are the ascension so at all the functionality
+and then it must be easy to use so
+not as an in an economic to design the encourages could use of the remote control and
+
+no i don't have any idea about what each component cost
+i if we're using more advanced technology much in chris the past
+like a site
+is a menu remote control beeping and p. five minute "'cause"
+
+and the user would like to switch the channel
+channel for example just means changing should next channel to flip through all the possible channels or then
+channel so we would need the numbers and
+as our target because actually i mean they all still young people
+
+so now we are here at the functional design meeting
+hopefully this meeting are we doing a little bit less talking and i did last time "'cause"
+reject documents so put in
+
+the last minute i'm about that but we can see how
+like what it shows is how much things to use relatively and what
+and what you couldn't really see from that is the thing that she's mouse is the channel selection what
+
+that's the main goal was to
+the main goal was to come up with those two things target group and functions of the remote control we've
+what they found is that people don't like how current remote controls are say
+
+i thought was last minute things you can make use of west
+we need to the function "'kay" you things and it comes up on me
+and at times as i can
+
+so the blue function "'kay" at the bottom and f. eight
+now it's coming computer and so
+so one more time
+
+for a moment adjusting
+update so but for the time being that's all you have questions
+that's a bit difficult to say
+
+that was some of the main functions would be switching on switch off and the user would
+sitting on off channel you mean
+and among the findings i've found that most of the car and presently available remote controls also include all the functionality is in the design like operating a v. c. r. but they don't
+
+maybe the colour tends to be rate or something
+popular right so on my are
+i think the fact that you need ninety one point two percent of fifteen to twenty five euro to say yes i would pay more for voice recognition or a control that's a quite a lot lately you know you
+
+numbers and then the one that's allows us to go to the next of the previous channel and then volume
+but then the other functionalities it could be just
+and the possibility of speech recognition l. c. d. screens your remote control
+
+that would make the costs
+i think that's i would think the pot and the buttons but
+if we if the costs a lot we can have like an l. c. d. display and
+
+where am i going in the right direction you know it
+say you can see from that they you need younger people say just a five are quite likely to pay quite a lot more quite a quite likely to pay more for voice recognition software wise of people
+and as it is an important things that you need people use when "'kay" when you filling up your hand you know a lot of people for the time we basic in a
+
+so is all of our o. k. a. how people feel about the look-and-feel of the remote control unit will see most annoying
+what you can't see is volume selection to little bit higher than all the others
+say please my personal preference as i say we have
+
+things like that whistle
+whistle on the screen is that you
+but you know how much money generally i would've thought it's
+
+this not unaffordable but the problem is
+but the problem is whether people need it to whether they do have a t. v. a. t. is at all
+because one that or things like that point about was the how do we go about implementing it
+
+but the t. v.s are off and kind of someone's olds t. v. that's bombard be a bit
+i was having the general cocoa and most like sophisticated features would voice
+would voice recognition itself i'm not very about because one that or
+
+top
+on an a in a look at the functions of the remote control itself
+
+so put in there is the best
+there is the best if i send you an email maybe to let you know it's a
+
+office
+the them but even in the case of twenty five to thirty five it's quite popular right so
+
+these were the basic findings from today the last
+the as i told you are the identification of how the remote control looks and whatever we use parts to it and what are the different policies and how the parts communicate with each other
+
+the last three bullets have the integrated from the last minute email
+a it's a learning to drive actually say that discuss wanna
+
+also the management wants that our design should be unique it
+i think that would do said
+
+there can be how about or something to indicate whether the remote is on or communicating
+and and then just to put the main function of the remote control in words
+
+this for the help us or to operate that technology at the feature point of time and
+you could you call that for a second sitting
+
+and also if we can incorporate the latest features in our chip design so that are remote control does not become outdated so on and it's compatible with more most the televisions that's about it
+but the unfortunate i do not have any data so
+
+do you have any i'd hear about costs at this point
+so at this stage to how we go about implementing those buttons we will not identify or
+
+cost
+is that something to consider i if we're
+
+data so i just identified the functional components
+that's fine
+
+it'll take some time
+it takes
+
+there's just nothing
+and then and off having corpus inspiration and having compared to what i found on the web and just think about what but it will be easy really needs and what what the user might design as i additional functionality is
+
+have you need to then also the press when you lost function f. eight so
+and the one more time
+
+so i'm going to speak about technical functions design and it just
+and it just like some first issues that came up
+
+or then what are the other possible that would be that it and she miked just want to choose one particular channel so
+if we to if we take fifteen to thirty five but then does
+
+and the last question i had to abort whether we wanted to incorporate the more functional it is the answer
+slide and how popular was a
+
+it's just whether it's worth arguing about
+or i mean in that we can complete you two are the buttons and
+
+a little screen or something that this would be really
+keys and things like that
+
+user and i mean they use it just wants to get data results and quickly not to spend time
+not to spend time mean like and giving several doesn't matter i
+
+pot and the buttons but if you have a then proposals
+i think the colour costs a lot of the big role when we come to know about them so
+
+here comes
+cue "'kay"
+
+you to twenty five percent a fashion side at eighty
+but that she is how people whether they would pay more for voice recognition software say you can
+
+like eight fifty percent of users say they only use ten percent of the buttons as
+percent of the buttons as came back to what you know saying idea about you need to you need all the buttons on the remote control is make
+
+if you explain it was sort of be fine
+what i can send it only what it is
+
+make "'em" to stop playing with the little pointier think
+year not want to of our heads in a
+
+that's the next one along
+so you what the crash a is that you knew power channel selection volume selection are important and
+
+part we'll do it in this town we can do and everything else
+the remote control "'cause" they just don't need it and then we
+
+this is the bit to the email myself i mean
+email myself i mean that's what i was thinking about what does it mean like a
+
+of you problem but you know a set that they
+say i mean the r. s. i. d. thing would be that like when you have the computer keyboards and you keep you messed up to be something that encourages not as
+
+be quite because you know you might control just sits there you could just sit in
+a unions and say in
+
+i think one of the interesting thing is that came up in the k. k. cats presentation was this issue of like voice recognition being more popular with the younger people so if we need
+i mean that's the thing is they didn't say in the survey in a way of the "'kay" these the people that will pay more for more stylish remote control bomb
+
+cats
+so if we need to have a target group then i think as far as them more call for companies can send if you want to have things to be and you know good-looking we're better off targeting a younger audience and you know people are compatibility and ugly
+
+it's a seventy something
+to even they are seventy six percent of the have more
+
+i'll try and do that for the next meeting as so if you take
+
+i'll do that next time
+
+time acts is circuitry for this meeting and just
+
+then we need to briefly discuss the new project requirements that was sent to i. so i just
+
+the last minute
+
+but we can see how that affects what you were doing
+
+and pain
+
+we've got forty minutes to do that in
+
+should the power good groups
+
+as i know it is that we going to be trying to sell this thing too
+
+does anyone have a preference for going first
+
+i can go first
+
+you wanna go first so
+
+so we need to unplug my laptop and plug in new
+
+and plug in new walls
+
+yes him we just call it up
+
+just before you start to make it easier would you three mind emailing me your presentations once we you don't have to
+
+to so that i don't have to scribble everything
+
+so with regard to the working design of this a remote control have identified a a few basic the components of the remote and
+
+so this is the method
+
+this is the method that mostly be following in my in my role
+
+and since i'm dealing only with the technical aspects that would need feedback from the marketing person and from the user interface person we had an
+
+we had an integrated this into the product design data technical level and
+
+it's a cyclical process
+
+email i just quickly to put them down
+
+so they're them email
+
+so they're them email said that teletext is now outdated so
+
+so we need to do a with that functionality of the remote control
+
+also the remote control should be used only for television because incorporating
+
+how are a remote control would only be dealing the with the the use for television an hour to keep things simple
+
+there's an energy source at the heart which feeds into the chip and the user interface the user
+
+the user and for the interface communicates with the chip so
+
+the chip so out this call were to the
+
+if if this is our energy source the solar cell of it can make it it feeds energy into the chip which find out how to do everything there's
+
+there's a user interface here
+
+so when the user presses a button which feeds into the chip and the chip then
+
+and the chip then generates the response and
+
+and takes the response to an infrared terminal
+
+so the output of the chip is an infrared bit cold
+
+which is an can we needed to the remote site which
+
+the remote site which has an infrared receiver
+
+so at all the functionality of the remote control whatever
+
+remote control whatever new functions that we need to do make the chip more complicated and they're
+
+so it in my personal preferences
+
+we definitely need to operate within the constraint but the
+
+anymore questions or should
+
+questions or should we just skip straight to the next one and then we
+
+to the next one and then we can discuss all of them together and
+
+said you wanted
+
+and have you need
+
+something is coming out
+
+home no signal
+
+computer and so you know
+
+no signal light
+
+my computer one blank now
+
+adjusting
+
+i don't see anything on my computer now this is the problem but
+
+if you press it if you press function and that again there's usually three
+
+this is the problem but
+
+there's usually three no it's one where it's only here one where it's only there on where it's both
+
+just for a moment adjusting
+
+that's fine that's good
+
+that's from the beginning so i'm going
+
+so the method
+
+so the method i was adoption at this point it's not for the whole period of the all the project but it's just at the at this very moment i'm
+
+i'm so was to look at up and all that but in remote controls so mostly
+
+so mostly just by searching on the way up and see
+
+up and see what functionality they used and then
+
+so the findings where me and that the main function of the remote control is just sending messages to the television set so
+
+set so this quite straightforward and that was some of
+
+and and also the volume is very important
+
+but they don't seem to be able to deal with d. v. d. players but
+
+d. v. d. players but then there are actually there are many of that functionally functions that could possibly be added to them but according
+
+them but according to the last minutes update actually we do not want to have all this complicated functions at it to our design so my personal
+
+so my personal preferences would be it to keep the whole remote control small and just like the physical size and then it must be
+
+easy to use so it must follow some conventions like where ball to find the on off button and maybe the colour
+
+channel and then volume has to be there but then
+
+be just the could be a menu button and you
+
+is the answer was already know because of the last need update so
+
+all you have questions
+
+but if we had a decent case for that we really think it's important to include video and d. v. d. i could get back to them and see
+
+because besides e. d. and d. v. d. day rubbed media c. d. is an with so
+
+and there any questions for clarification of market before we go on to the next one
+
+so in the user interface requirements so and that we have been able to identify what are the basic buttons that we do want
+
+and have some kind of a fancy user interface or something like that but
+
+i think the buttons are still kind of the most in easy for the user to use i mean and
+
+i mean and what are the options we do have a little screen or something
+
+that this would be really kind i think a lotta learning for the user and
+
+so now we can probably weekend and we have more knowledge than that if
+
+in because we do want something fancy and fashionable as so
+
+we can discuss that maybe after the next one to add to it
+
+try to press
+
+try to press
+
+so i have why have got my information from as a survey by the usability have i'm said to my control use with a hundred subjects and then they
+
+will see most annoying things about remote controls and
+
+screen so she's taken up at that you're
+
+became same what they found
+
+say you need it definitely should be looking at something quite different seventy
+
+seventy five percent of users find most remote controls ugly
+
+at eighty percent of users would spend more sick at you know a looking remote control current
+
+current remote controls they don't match the user but maybe as you see
+
+as i was asking is the
+
+it's and switching between channels sort of randomly going through
+
+be have a little thing that comes up at the bottom and tell you what's on like eight
+
+control is make it like eighty
+
+what it is these kinds "'cause" that would be more
+
+'cause that would be more exciting but
+
+i like the god
+
+yes can make "'em" to stop
+
+that's the next one along
+
+that and you need channel selection volume selection are essential and the power
+
+and the power button is not quite so essential part we'll do
+
+at that they get lost that can
+
+the remote control
+
+control and may not straining your wrist watching t. v.
+
+i say clearly voice recognition is a need to think about that
+
+say we have sleek stylish sophisticated they say something
+
+in a new poll this and you just like what the hell is that there is there any is it in a setting
+
+like a banana long battery life like you were talking about adding up and
+
+up and you know i was thinking that solar power be quite because
+
+you could just sit in the sunshine and save
+
+the sunshine and save the environment a bit and
+
+a to say you need kind of like you have a mobile phone or not map
+
+some kind of having seven
+
+i mean is where my from a you know talking
+
+c. news wanting us that they needed a one for everything say
+
+and being a kind of summary then often here on the t. v. you need is a menu
+
+i'm just gonna take minutes
+
+though but the so we did say that and things like voice recognition are more popular with them so
+
+then again i that to where it was most popular was the fifteen to twenty five brackets and i don't know how often
+
+and i don't know how often they're buying televisions
+
+that's when you get a unions and say
+
+you share a television
+
+i would've thought it's more that twenty five to thirty five when people are really making us and i've got their first job and i want then asked always and
+
+right but it's still if you can go back to that slide and
+
+we unplug do it
+
+people would think twenty five to thirty five how popular was that was still
+
+i know i mean i know what you're saying about the fifteen to twenty five euros but
+
+to twenty five euros but i mean it has been proven that the people at that age group have a high disposable income because you
+
+paying you when you can home mortgage in
+
+home mortgage in a life insurance policy in
+
+usually know like power and all those things
+
+i mean like is in a script on it really i think
+
+and if we're talking twenty five euros is the price that's not unaffordable even for the yen painful
+
+no i mean as as like fifteen pounds in a
+
+it might not even function with the l. t. v.
+
+i'd we've got quite a decently
+
+or what maybe we can just kind of them
+
+but and the same time i think maybe we can just decided to have so this group so as our target because
+
+it's not a massive difference and i
+
+but then does imply that we should try and incorporate voice recognition is that gonna have a an
+
+is that gonna have a an implication for the technical specs
+

@@ -1,0 +1,521 @@
+or is it on fire or something happening to it was
+no because i mean if we i mean we going to interface to we're going to get an x. amount of document from somewhere they that's back
+how you talk about the structure once
+no it's enough this
+so you could just can you just run i
+liked what you want is you want to say give me the post here probably the tease of the go there no it's when this is happening right when
+and with this you can specify the what's happening in the situation and what's happening with the user so we
+so we get after we've done through the situation we get the use of extra
+so this is just a specification of all the possible but
+and that's going there and it's been scary approve of it
+because the output is always going to be all the decision you know it's another but i lot post europe religious love the values
+so like if i'm just interested in the going there note i would just pull that information out of the struck that gets return that would the java base without but
+much yes but i think it's a little bit more complex
+as if i understand correctly it always gives you all the press super loses for all the values of all this you know it's
+and the question is what's do but
+on how to interpret it
+that's a good example
+should could be able to conclude from that
+he was nowhere is
+for we have whereas axes the question right there would just be
+right there would just be info on a location based
+know about in december german but again
+if we had a you deal with arbitrary language it would make any sense to do that because
+because there'd be no way to generate the nose for every possible sentence
+because we can only do with a finite amount of
+i'm happy that they're recording that
+they had found the headphone that you have to put on backwards with a little thing and a little foam block on it
+it's a painful microphone
+i think it's called the crown
+versus the sony
+it's the crown
+are you're my got into my town
+and thinking that we're discussing this
+and thinking that the french but you this
+so we have something coming in christmas as
+in terms of the be how we would answer the question where is right
+i can do the timing no didn't here too and say
+but in this that's just deal with this is the simple cases were not worry about timing or anything we just want to know
+tried to go there and not go there it's
+go there it's of those are the first year program but she's of that
+info on astro falls indication so
+and in this case we would probably all agree that he wants to go there all believe
+these c. so again it's some kind of base that
+so then the question is my question is it to you then would be
+so you the only reason we can make all these smaller base that's because we know we can only deal with a finite set of instructions because if we're just taking
+get a piece of language we wouldn't be able to answer it with this system be if we just because he wouldn't
+of the inputs regardless but how does the expert that has the expert system no how which one to declare the winter if it doesn't know what question it is and how that question should be answered
+which one which ones are important
+i mean i use saying that what happened you started skiing this up to situation or student arbitrary language
+no i've i my question is the reason that we can make a note or so like
+so like if i'm confused are we going to
+instructions is based in things like there's going to be ignored for go there not that it's going to be north for interview approach someone
+do we decide how to answer it
+what we need is it just a mechanism that test there is
+i just don't think the winner take all type of thing is
+no so if for some grow their first there for really is so high
+because that is the way you describe with them and they weren't issue she i didn't see matrix was me
+if he doesn't want to go there even if b. just exterior appropriate so
+those are the boring things and it's also i see
+
+it's a fun going all the way who pocketing locational towncar restroom right it's terrorist strikes or disasters is this is the situation
+exactly the searches allows you to say i'm just give me the value of that and that specific
+of curiosity is a reason why we wouldn't combine these three nodes into one smaller or that
+they would just be the question for we have
+as for the to decide the response is we have a finite number
+where way right where what do you do these wonderful that
+through or they tell me something about
+to go there all believe that thinks she wants to go there right
+the is and this is another thirty evenly weighted true
+so the final decision as they call nation these c. so again it's
+what you're proposing is into where is snowed right
+the winter is info on function off
+that would take l. of the inputs and wake them appropriately for that question
+i it's confusing me is if we have a base that to deal with another base had to deal with this
+so no matter what they said if i could map it onto a where is construction i could say
+and realize i had my hand between my mouth and my or my for fun
+so then the days that they would merge there that would make a decision between goes there in one location would have been no did they tell you which one of those so you wanted and based on
+that sort of one of those that's it's monica deficient free or if you want that make sense
+your first took are the real ones and then i
+i didn't intend to say that every possible there was confusion
+or got in tend to say every possible thing should go into the base that because some
+like b. and point is not necessarily relevant in the basement for where is until after you've decided what do you want to go there or not
+the way buster
+they the thing is that gossip's
+but that's assisting the problem
+yes you have to make if it's a worries question which is there's no it's very
+we eventually
+we eventually so to pick out which ones you look at so it's pretty much the same
+go there if that's false corey this one if that's true grit that one individual
+true grit that one individual binary search through the
+i don't know if it would necessarily be that complicated but
+i can't figure out how to get d. probabilities into it like i look
+then that's we'd meet again next tuesday
+
+is this is the situation or is all the things can mapping right now
+right when the person said this the cars they're it's raining and this is happening
+so there's no way of telling it not to tell us about these values exactly
+so we get this whole list of things and the question
+so you said if i'm only interested in what he wants to go there or not but i just look at that note
+repertory look at that struck and put right
+both in x. m. l. structure that spinners return right
+every part of the structure is instructive
+not as he struck that's not what i was trying to keep the
+i mean it's always going to give us the value of nike we think it is to wants to go there does want to go there
+awe attack it is that you went to get information but
+is we have a finite number of constructions we can deal with you have a finite number of nodes
+we haven't note for the where is question
+but we believe that all the decision that i can be relevant for the wariness and that
+and that were harder to get through or
+it's like you're not wearing your headphones
+because he wouldn't have the correct note what you're
+now we need an expert system or these and that's something that interpret that
+it was really bad to know something or water do they have to be an issue do they have to be
+it was really bad to know something or do they have to be an issue
+water do they have to be mutually exclusive
+and i could look at those
+enough care whether that's consistent with anything
+what iris appointee where
+and then four days
+
+as a meaning for me
+testing or anything but it is it under construction
+no problem but i even think that
+and we just take the structure this upgraded and then run another transformation on it that would just dump the one that we wanted out
+or selected i mean there's so you just have three decisions for the final note that would link these three notes in the together
+he's that so they take these three things and then put them into another belief that
+it seems like we could have i remember we could put all of the all of their information across the be relevant entity where is no dancer
+and i know tuesday you stick them the
+we just want to know how we should answer where is that
+go there has two values tried to go there and not
+so that but i they think of the question that i was that they're wondering or maybe robber with moving to me is
+you like in the case of get a
+that looks at all the values and says the winner is timing now go there
+decisions i know but how do we what we get out
+they intend here was where is
+i'm also agree that a simple
+was that makes a lot more sense now
+so i'm confusing too
+there's a dog went to but that's job is isn't
+but that's job is isn't it
+there's something about problems or something with the dog
+
+we need to prove
+throw things away
+approach someone asked a question how
+because all of these factors i presume the p. r. dig gone into making these syrup over the
+i janie santa monica i don't know
+but he's going to enter months it's going to take him a while i you won't be
+she was sort of finishing up be calculation appliances any of grades but i don't know she
+i don't know she knows about it
+beat carlos
+appointee where we're combining coupling
+just fiddle around with it a little bit more
+
+you could say here's the whereas construction everywhere
+everywhere is construction we know we need to look at this note that merges these three things together
+in here played in
+i just had a the other three that you had any those
+take the ones where we have a clear winner
+can't expect this to be distribution are important three or four three over three right
+we but the base that they would merge
+gossip's a question you don't even
+it's it's apples and oranges
+i mean maybe it does make a difference in terms of performance education of times either
+education of times either you're which have a computer all the preserver is all of all know it's and then prune the ones you think that ever rather than
+
+eve that's good and i did
+no know were like the news
+in for each of the situation no it said just in the basement
+or what is the situation
+that's just specify the imports qualities is what's
+just because it forces us to be specific about the values there
+this is saskia my business i just
+which we view as input into the basement
+let's assume this is our question
+like a guy to whereas question i mean not even look like i ask for the post here probably be if he you know a great
+
+the reason is why i think it's a little bit more complex away way we can even think about that as an interesting problem in enough itself is
+but again in this given this input we also in some situations may whatever question that opinion whether that person wants to go there now the nicest
+i'm just learning about
+indy whatever if we
+you mean they go there the info on the location
+this is making the assumption
+if we trusted to go there nor do more than much more than because of the other ones in mute conclude even the situation if you want to go there
+how do we make a decision on as to which one to listen to
+and now you have to make a decision what do we think
+added a bunch of notes or
+
+no know were like the news in the middle and all that i tell you if
+maybe we should just reverse this making a little bit more delicate
+because if we're just taking arbitrary language and we couldn't have i know that for every possible question you know
+so they see you have decision tree query go there if
+won't meet next monday
+because the memorial day
+he just visiting
+that some part of what where she wanted us to discuss about what we went to surprise him with what and when he comes back
+
+that adamant all tricked not as he struck that's
+tell me the location off halifax
+where is actually located that we
+down to be this gone they can do
+but we're all going to be here on tuesday again
+
+that's used boy
+so you want to know something about it and he wants to know
+otherwise twitching no arrows appointing
+what they're missing i'd be what iris
+
+and if they're sort of a appeal winter here could
+don't see a manufacturer
+the crown of pain
+but i can excited to merely we want to know how to answer the question where is the x.
+
+you may not even bother to compute things you don't need
+we always computer golf
+you can compute the voice you're probably be if one subset of the nodes given some other nodes but
+but ignore some other notes dogs
+
+in the case because if you needed it and if you go there was true you'd want to know what in point wasn't if it was false you'd want
+it's no it's boggling me
+but hopefully it's six so
+i just think i haven't figured out what the terms and hugging mean versus what java based terms are
+
+right and that takes another document will say we are able too we were able to observe that the adamant and of the location that the carissa year
+all the plus puppets puts too
+so we have for example the go their decision though
+
+i mean we were just look at the is struck that we want to look at in terms
+that's assume this is the outputs
+the point what would but i am thinking what we're about to propose here is we always going to get the whole list off values and their purse here probably tease
+
+output is though i would call a destructive but
+that's a good we're going to get some very strong input from these sub that from these discourse things side
+so the presence of location i've got two inputs that
+
+i tend to agree and if it's
+tend to agree and if it's i
+then we might conclude that he actually wants to just nowhere that he does want to go there
+
+and i know tuesday you stick them the microphone i seen the t.
+that's just assume base that just has three decision no it's for the time being these three
+does it use it seemed like excited to merely
+
+the decision if every possible question you
+what does this tell us
+you do need to know and have that kind of mission
+
+so but we have a finite what
+but that you guys have any because sometimes because
+any because sometimes because i myself i'm going to be gone but
+
+know about that because that was suggested i mean
+gone but this is actually and not really important just this weekend
+just this weekend we're going camping down to be this gone
+
+forget about the ones where it's all sort of the ground
+never because it would be the easy was way we just compose
+we just compose as are put into throughout best misunderstood says go there no and historical information
+
+no i tell you if you were at and
+this is just again the next masculine which defines a set of possible permissible x. somehow structures
+
+no because i mean if we i just don't know if this is what java based takes his they that's back
+at in terms of we're only asking about one of the
+
+just just abbreviated it destruct and my head been started going with that
+far as accent we get sick and we have a situation victor and the use of actor and everything is fine
+
+that we don't really know what they're interested in before we look at the compete at the over all resolved
+what were processed decided prior to this meeting is that we would have a rerun of the three of us sitting together
+
+and some things would always be sort of to not significant enough way or
+it'll be tied you won't be hard to decide but i mean i
+
+but i mean i the thing is this is another smaller case the reasoning in the case of uncertainty which
+in the case of uncertainty which makes me think that should be the way to solve these things so if you
+
+regardless off of the inputs regardless but how does the expert
+that's actually what i think they should do guys you know work for the two weeks that he's gone
+
+i don't not necessarily i would think
+i mean it's not basic instructions is based
+
+if it's if it has to be is a certain height then audit this becomes about events so
+so if even if the function all the history or something is scoring pretty good and the true no it's true value
+
+answer is high and info on this i just had a the other
+it's it's so it's pretty much the same
+
+no there's no three nodes that didn't seem like they're matrix was a
+is if they have some so some things are dropped on something still be important
+
+and it's called this it wasn't a something
+it wasn't a something about the history of
+
+no the but for some reason the end point approach that's a really high score two we
+sort of baskin in your glory
+
+somebody needs to sap that
+or no the new to some noticed that
+
+is he how long are you going for two days
+a conference anything he just visiting
+
+your or have a finished construction parts are and working but these nets and
+i wouldn't be disappointing
+
+so i this is more or less not just to get you up to date right now
+
+eve
+
+and so we thought that we can write up adamant
+
+what's the situation like at the end she that mention testing or anything but
+
+it is it under construction or is
+
+and also i mean this is what the input just going to be
+
+because of the situational
+
+because of the situational context everything is that was situation
+
+is that was situation it's unfortunate situation
+
+it's unfortunate situation context
+
+and we can possibly run one of them transformation the put in
+
+the put in the format of the base their job is whatever once
+
+i mean when you're observing it when you say
+
+it when you say the input to the job of vase it takes a certain format right
+
+which i don't think is this although
+
+texas so
+
+the converted to the job is for it
+
+no problem but
+
+and once you have this sort of as a running has so much
+
+which has to add immense going there
+
+pretty much yes but
+
+so when we input something we always get the super rich father these sites
+
+look at that struck that the output is though
+
+actually they need to do like some can't you just look at one
+
+exactly can't you just look at one specific
+
+so the person that where is act and so
+
+we want to know is that he wants in full
+
+are no dedication
+
+and this is pretty and different
+
+there a lot of people ask that if they actually just want to go there
+
+people come up to you and kind of say west so irate
+
+so irate notices you sick going on that plane you know because
+
+plane you know because it's five hundred yards away from you and or it's not the view or selected i mean there's
+
+the nicest way music
+
+what's north what's nowhere this because he wants something fixed thereof because he went through visit that it or whatever
+
+certainly i what i'm saying is whatever our input is we always going to get the full i put
+
+way or it'll be tied you
+
+these things so if you had to for every construction right
+
+so the idea is to defeat the art part of believe that into another but he's that so
+
+i mean for the where is question
+
+i don't know if this is a good idea or not i'm just learning about
+
+i know but the base that would build the weights on me on the nose in the base that would be able to do it i wouldn't
+
+that's almost painful it hurts so bad
+
+even working with these guys you know what's going on
+
+in christmas as far as accent we
+
+these three he wants to know something about it he wants to know where it is he wants to go there
+
+it and he wants to know something we it wasn't a word is
+
+whatever if we have something back this year
+
+then we would id or believe that has a strong nobody said he wants to know where it is spent actually wants to go there
+
+the i they are even weighted
+
+the different decision nodes you mean they go there
+
+but i mean but different the way that they don't feed into like
+
+but i mean why that they don't feed into anything really anymore right
+
+so in that sense you meet them equally
+
+someone says and if we and if someone says you know something in mandarin to the system we wouldn't know which you know to look at to answer that question right
+
+i don't see the point what
+
+go there timing now the winter
+
+so you want to know something about it and wanted us
+
+they said that what the question was so what the discourse scientology situation and use a martha gave us we came up with these values for these decisions i know but how
+
+so my so if we were to do with the base that we have to have a note for every question that we knew how to deal with
+
+are we going to make a note for every question does that make sense
+
+look at look just have for this to question you get this
+
+i'm not knowing what was and what happens and whether the person was a tourist orinoco because all of
+
+i mean in general like we won't just have those t. right to be you have
+
+those t. right to be you have like many nodes so we have
+
+so we have to like so that is one of the boston to just look at the north themselves and figure out what the person is trying to say because search of dependencies
+
+to say because search of dependencies read
+
+i think to some extent they hire
+
+is the only reason so i if we have been another babe had to do was that's the only reason we can design just because we know what each question is asking
+
+and then so the only read the way we would know what questions that seems based upon us
+
+based upon us let's say i had a construction part certain places and i would know what each construction the communicative intensity construction wise
+
+than i would know how to the notes appropriately in response
+
+just hand over the once we have been or
+
+in this case and we say definitely go there he just wants to know where is
+
+so you said tell me something about the history of that
+
+you wanted and based on that note then you would look at the other
+
+into the base that because some of the things are relevant in the base that for a specific question
+
+because that's what they mean to be that you always ask for the push you're probably give specific annoyed
+
+things you'd north get marginalized over but that's
+
+yes you have to then you would have to make fishing if it's a
+
+you just make it i prayer already estimate of what you think might be relevant and corey those
+
+and they get to go there would be in the case because if you needed
+
+if it was false you'd want to look at either looking for info on our history
+
+some somewhat boggled by that hugging software
+
+it is it by the way our do we know the jury and nancy are coming or
+
+they should come and they're done they're whenever that is
+
+whether they need to do that
+
+santa monica i don't know if they do that now and here but
+
+grades but i don't know she should be here
+
+she should be free after that so
+
+assuming she's going to disney
+
+she's on the email this right
+
+sometimes it this week again
+
+and finish up t. values this so we have
+
+so we have believe it or not we have all the bottom ones here
+
+we have actually what we have this design
+
+i would of the structures so
+
+i'm in the dog i thought it was like that one in stewart spoke about you know the
+
+so i or the earthquake any alarm
+
+and we have be help ones otherwise
+
+because the memorial day
+
+i mean excuse
+
+on wednesday leaving for it to
+
+on friday it to
+
+i think we should disappointing
+
+that's actually what i have had personally i had
+
+i had sort of sketch about in my mind that you guys do a lot of work and i do nothing
+

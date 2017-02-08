@@ -1,0 +1,458 @@
+the strangest things and icons now china for
+i the l. so filters they were doing do have
+so did you see idea drinking i said just mature courteous
+are you that maybe and maybe no one really thought about that this latency thing would be such a strict issue that
+and you're busy
+so we're to start to do with this so
+common is just looking at their money
+you know i my five days when life
+i used he that he close minded and to would
+it sounded like he
+read it more i don't really understand what he's doing it
+so i'm not going to be too much helpless i read again
+about the that miriam has been doing
+so they're training and that's to try to recognize these acoustic features
+study and you know what are the features that they're finding it problem with
+right and that's certainly one thing to do and we're going to try and do something more fine than that but teachers
+so i you know i was trying to member some of the things you're saying it so
+and just between these different teachers
+it's a soft and i but in
+in our skiing or try to train up to his belt they can't at predicting
+and so their guests of eighteen state seems to be pretty matched two the two longest words the italian digits
+and i fixed length model for all of them but
+you know what is b. what are the transition probabilities look like in the self looks look like in those models
+and so i talked andreas and he explain to me how you can calculate the expected duration of an h. m. just by looking at the transition matrix
+lots and the silence models one that used at the beginning of the end of each of the string of digits
+
+that's what it's that's a characteristic as so you could
+they told us when we do that's possible too and it's space on the talk
+not it was recognizing my words which was background speech on the close my so that we
+band do you want to ignore that band that's a bad band as a noisy i see measure and
+so he doesn't have to have truth marks
+battista but what he's not
+i one way of describing would be
+if i saw this on rent is just honoring this band
+center in that band it's
+that what you really mean is the whole sound designer right so then
+it comes down to you know to what extent should you make use of information from particular band towards making your decision and i see
+if we had enough data to really get poster for probabilities and if
+and if the you also had enough data so that was representative of the test data
+i mean we have a kind of it or training because we do this in bed at the derby
+so there is some something that's adjusted based on the data it but it's
+just because and whatever that alignment is that for all bands no that's not
+no that's not quite right we could actually doing separate try do them separately
+what's next
+each and so they had sixteen so that's pretty close
+some i about what's happening is that know if you assume i fixed the same amount of training data for each of these digits
+them but the actual word this for some of them are half as long you really
+you really have you know half as much train data for those models
+i mean it's not so i'm going to try to create more word specific prototype h. m. is to start training from
+
+he just mounted to that they would even notice
+has learned with g. m. whereas so he doesn't
+i could feel about i've been playing with
+so i've wanted to do this experiment to see what happens if we try to improve the performance of the back and recognize or for the or a task and see how that
+you know sort of that can annika way of setting up and h. m. system is that you use three states per phone and
+and so when i did that for the italian digits i got a number of states ranging on the low end from nine to the high end eighteen
+so that's pretty close
+but for the most of the words are much shorter so
+shorter so the majority of them want to have nine states and so
+so woke out the next experiment to tries to just you know create models that seem to be more match too my about how long they should be
+and it's part of that i wanted to see sort of how the
+how these models were coming out you know what when we train up you know the model for one which once they have nine states you know what
+
+and we ended up with this thing where they were filling up all of the possible latency themselves and they just had
+an process or that you it's finished and it didn't get a good result no
+he wasn't really flashed out and
+we'd like to be able to have other sounds from other people and so forth removed from someone
+that really echo but just
+be in health science
+your cluster just do some kind of clustering
+shook it's going to be hidden variable because they're not going to get everybody sitting in these meetings to where the pellets and
+phones so you use that data to give you sort of what the true math things are for each phone
+the beginning and so you don't necessarily want to train everything up towards the
+
+let's i mean i think that as you said before the one of the things that were imagining is that there will be and system we end up with will be something to explicitly do something about noise in
+and system we end up with will be something to explicitly do something about noise in addition to the
+areas like what's happening with here investigations that echoes so
+the target for the training of the hand and did things is something that's skipped as a hidden variable
+battista but what he's not training up what he doesn't depend on truth is
+a few times to afford calculations to again us trainer knows
+then do the same thing for ick c. o. g. i. friend and
+because if you have a long word and your training it eighteen states you've got the same number of gal seems you've got a train in each case but for the shorter
+i mean it's not at all uncommon you do worse long longer i'm worsen long words anyway just because years accumulating more evidence for the longer work
+
+and that's about the reason why and i know my tuition and it's because
+true movies me
+panic about it later and that sort of had the sense sort of that neither group of people wanted to bother with the other group too much
+week have not make the statement
+maybe it would be good because you sound so at least really
+yet but it sounded like the channel normalize asian part the sees is was done in a bit of i don't know what the word is a bit of a rough way it sounded
+i haven't read in awhile so i'm not going to be too much helpless i read again so
+my yes so that we talked about yesterday that was actually my i
+
+we should of course that perhaps the magician spectrum
+it's like since
+so this is especially true for the tell but even
+so the only hesitation i have about it since i mean i haven't seen the data is it sounds like it's continuous variables and a bunch of them
+i don't know how complicated is to go from there but you
+and part of it disrupts their seems to come from stream royalty band sorts of things and all
+and so i'm going to sort of print those out for each of the words to see what's happening you know how these models are training up
+
+that i think that you were sort of waiting for them to tell you that they had something for you and it and
+but then perhaps they were do short of that
+when you say don't ever sell yet you mean it's just such an process or that
+the tell but even further close miked cases
+and we're making a censor this hard decision that you should use everything with equal strength i see
+and because in the ideal case we would be going for poster probabilities if we had
+are the estes optional and skip and so
+
+i not about things in that first and then
+so there's original system trained on the email capture features
+and then up to my eyes b. h. d. k. system and run that again
+so look at the difference there and
+which tests with
+now so as far as i've gotten is i've been able to go through from beginning to end the full each decay system for the italian it and got
+so i started looking and now i'm sort of looking at the point where i want to know what should i change in each day back in order to try to to improve it so
+
+i check you weren't there either so i
+already knows what happened except me
+try
+so try to taking talk on did you have to recover something on i mean commission
+stuck with panic about it later and
+
+than we would in fact be doing the right thing to train everything as hard that can
+using tenants are using first and then and to
+where he's this is not labeling per se
+experiment this matrix where i would take the the original system so there's original
+and then if you i print out a computing matrix for the matched case and it turns
+
+it's always tell me
+first discussed about some of the points that i was addressing the main i found it to be
+and i don't think anybody is you know closed in and they're seeking or on like to talk about things that i think that
+talking so maybe i can just take their is that he has and you said
+
+what we don't know really what's the important part liquids response and there's the fact
+response and there's the fact that and very low frequency decisions dawned on me to move out compared to the tendon prostitutes or
+this morning i remember if we talked about that last week or not but
+of snow
+
+i it's it's also the time constraints because
+because i we discussed about this problem
+right this machines are busy and
+from that which means that it's it could be for instance that for a particular point in the day to you don't want too train a particular band that detectors for particular band do you want to
+
+one of the things that people working in the meeting task want to get at is they like to have cleaner close miked recordings
+but i know i just remember it had to do with you know position all parameters and
+variable course and that's the other question is do you want binary variables so i mean
+things and all seems to have a reasonable way of looking at it at least for one particular tori feature
+
+do that was detector
+and then the other thing was so we get the targets from
+the initial thing is just the obvious that we're discussing is starting up a phone labels somewhere and then doing the transformation than
+than the other things to do something better and
+
+but the things that you could do like a child in voicing a couple other things you probably could do reasonably
+been him up into different categories
+but anyway that's that's another whole direction but could be look
+i mean in general it's going to be for you dated shook it's going to be hidden
+
+so you guys had a meeting with with teaneck which i unfortunately had to mess
+do also what generically to do the research
+and this was has d. a. joining perhaps and connect proposed again too is traps so
+
+about that's probably the best thing to do and there was that
+thing to do and there was that one e. email it said that it sounded like things look very promising up there in
+she and then you're also going to be doing this echo cancelling between the close on it and what we're calling cheating experiment of sorts
+
+terms of i think they're using ericssons approach or something
+randolph for what was
+and then they would it would really be this binary variable course and
+
+and we try we d. c. to just we seek to list i go to something to be having
+to be having to sucked into his mommy
+what we are looking in desperate so
+
+because i look at it i haven't done is these days and i don't really understand what he's doing yet but it
+but that's a lot that's is a certainly relevant study and i see
+i was on issues were talking about those and just getting a good handle on what good features are and what this
+
+be so but they're talking about doing is using act echo cancellation like techniques that really echo
+pierced tongues
+@reject@ i mean my i mean when that's interesting what he was the guy get it misusing
+
+taking the input from other bikes and using adaptive filtering approached or move the effect of that other speech
+are and what this what did larry saul use for it was this owner and detector right how
+do something better and what still seeing about this database so
+
+it problem with the overloading the term teachers so
+what are the variables or
+conga so what are the variables that they're founded finding useful
+
+so the only and trying to you know do speech recognition based on them
+whereas if you did something instead that like having so many meditation you know linguistic students
+this would to be eliminates set of things that you could do is as for discussions with john before
+
+radio too
+people say the strangest things and icons now china for
+
+it twenty five hurts it on sampling too
+terrorist i think that the feeders
+
+and the third prong is what's the
+the online or my station where
+
+and they said it's not work and
+right you were talking about that
+
+but perhaps everything could should be in and theater i
+in and theater i mean my condition
+
+i mean i the key thing for me is figure out how to better coordinate two sides
+and it turns out that the longest words are actually the ones that do the best
+
+certain things and they were so they didn't want to bother you and
+and are sort of waiting for you and
+
+but there is a problem perhaps program props communication so
+show and be tough some defeat carefully back second that base
+
+in addition to
+their drinks noise referral thing right
+
+know just all right or i'm hoping it's been with that
+but it's still not quite the same because then it's setting targets based on where you would say the sound begins in particular band
+
+so how did he combine all these teachers what were
+what were classify
+
+for what was his name to remember that
+you the guy that was using the town of pressure on that song
+
+researchers in t. he's a while back it was studying trying to do speech recognition from these kinds of features i
+i can't remember his name is
+
+he's a motorola randolph i see
+you of thinks it's about what he had i thought was that it
+
+and take the continuous variables from the data itself there but
+itself there but i'm not your cluster
+
+hidden variables others and just assuming that you should train and every detector we'd equal strength towards being this phone or that from
+and just looked at you know the number of phones in each one of the digits
+
+i but in principle you want to get a strong concurrence of all the different things that indicate something
+and then he oars across the different soft oars across the different channels
+
+dishonor in that band center in that band
+it's hard to even answer that what you really mean is the
+
+but this is something that's more built up along an idea of for buses from in the beginning and so you
+and so then the total number of states for a word would just be you know the number of phones times three
+
+so where did he get his sister his high-level targets about what's on her and what's not
+and so i had this think i sent around last week a this plan i had for an experiment this
+
+one of the first things i thought of was the fact that they use the same number of states for all of the models
+and so i went online tonight i found a pronunciation dictionary for tying digits and just looked
+
+and also when they use models that have eighteen states to really sixteen states they've
+states they've got this initial and final mull state
+
+you know the long one's just a short ones
+quickly i did the silence model and
+
+and so the s. p. model which is what they put in between digits i haven't calculated for that one yet but
+are now the one thing about e. s. p. model is really only has a single stay meeting state to it
+
+so if it's not optional you know it's not going to hurt a whole lot and it's
+and it's tied to the center state of the silence models so it's not it's on
+
+so every time hey it
+
+but the dog something problem
+
+and about i think the theater is
+
+what's it what was the concept of problem again i forget so it so
+
+problem again i forget so the fact that there's no so but censoring before the downtown
+
+there is because there's sandia censoring but that's perhaps not
+
+as so you could do it you could do a stricter one
+
+so we discuss about face about
+
+but in a conclusion about that
+
+second this is it this is the downtown playing of the future to strain
+
+let's see so the future directors a calculator every ten millisecond so
+
+the question is how far down there a fifty hertz
+
+so let me know the frequency characteristic is
+
+we started to work with this
+
+during christmas break or something but i mean it's commission you see her with some kind of today
+
+that's not taking into account right now
+
+what this conclusion necklace try it
+
+so why discussing about these as you for us some issues subpoenas like
+
+the fact that if we look frequency response of responsive interests
+
+so they kids that's we discussed about to be
+
+we discussed about to be discussed about good things to do also
+
+you and it and expected they would do certain things and they were
+
+i don't know what happened or leave
+
+i don't know what happened or leave it
+
+just we have no we were try too
+
+i mean you're biz other not you books are busy doing all the things that are trying we talked about before right this
+
+addition to the things that we're talking about that's probably the best
+
+common is just looking at their arrogant americans go money
+
+and to would they thirty days it's just that this the test they show and be
+
+i maybe to i know that guy office but recitation then
+
+good result no cough and read have dual day statement
+
+when he had the features the teachers but the statement half
+
+so i suggest actually now we sort move on and here what's what's happening in other areas like
+
+i'm haven't started running name is that sad i mean without him today
+
+and he's let so many scripts it's for running recognition on me meeting recorded is it
+
+i also haven't got the code guy i have
+
+the code guy i have a nineteen except for the cruise code yet because i look
+
+out and maybe he did something that was interesting for the test situation
+
+want to use to read it more i don't really
+
+they like it i think he's at least trying to do it to be close my cross talking so maybe
+
+wonder who else is like maybe
+
+like maybe stan dallas is going to be doing different cancellation
+
+from someone isn't speaking you'd like to part that they're not speaking to actually be so but
+
+there was some point where eric or somebody was speaking and he had lots of silence in his channel and i
+
+and i was saying something to somebody else is in the background and it was
+
+you a few hours that was actually my i was wearing a look helen you were sitting next to me
+
+and i only said one thing that you were talking and i was picking up all your words
+
+so they would like clean channels
+
+and for that that purpose i'd like to pull it out so
+
+like to pull it out so i think dan ellis or somebody who's working with them that's going to work on that so
+
+and i don't know if we talk lately about the the plans are developing and we talked about this morning
+
+week or not but maybe just a quick price of what we thing this morning
+
+for right and that's certainly one thing to do and they're targets are based on uncle mapping was of phones too acoustic teachers
+
+the thing you're talking about is where we get the targets so
+
+mean just issues of what are the variables to choose and
+
+and do you combine them using the soft and or you do something you know more complicated
+
+then tell him to talk naturally
+
+goodies parlors and the and they could you know don't have it have you know reduced rates if you can do measurements that's right
+
+you could what you could do is you could sell little rings and within batted you know transmitters and then and things
+
+there's a bunch of dated around
+
+people have done studies like that way back right i mean
+
+back right i mean i can't remember where wisconsin or someplace these to a big databases
+
+i remember there was this guy eighteen t. randolph
+
+@reject@ i mean my i mean when that's interesting what he was the guy get it misusing
+
+i mean when was this my grand there he's mark randolph it misusing
+
+i can't remember exactly what he was using now
+
+but you really want are these binary labels and just a few of them
+
+and maybe there's a trivial mapping onto it and
+
+onto it and it's easy but it
+
+i were a little bit that this is a research project in itself
+
+so i mean the other thing you could do is both trying to get those binary variables
+
+you're talking about using that data to get
+
+instead of using can on uncle things of phones so you right
+
+so what where this is the rest and in my mind i is that we're looking at different ways that we can combine different kinds of for printing representations you know need to get rebuffed this into difficult or even typical conditions
+
+the question is can we learned from that to change some of the other methods we have since you of thinks
+
+the decision about strongly train the different pieces is based on reasonable criterion is hidden variables
+
+whereas what we were doing is taking the phone target and then just back propagating from that which means so he doesn't have
+
+we don't we're still going to try to train it up in our
+
+it's it's like yes no what works on rent it that aren't
+
+much closer i if we did soft target indebted all my training we've done a few times
+
+and see how that affects things
+
+i'm looking at the italian now so
+
+it and got the same results that that stefan had
+
+now you have to really had to do that because in each case there's an initial in a final and also when they use
+
+four and five which according to my you know sort of off the cuff calculation should have eighteen states each and so they had sixteen
+
+and so there's sort of twice as long so my gas
+
+so my gas and then if you i
+
+for the shorter words you know the total number of frames is actually happens many so
+
+so it could be that you know for the short words there's because you have so many states you just don't have enough data to train all those gaskins
+
+and so i little matt lab script they calculate fat and so i'm going
+
+that's coming out with about one point two seconds says it's average duration and the silence models
+
+they they're model for a whole did you string of silence digit espy digit as people to football and then silence at the end
+
+and skip some i have
+
+some i have to look at that but i'm not that they are now the one
+

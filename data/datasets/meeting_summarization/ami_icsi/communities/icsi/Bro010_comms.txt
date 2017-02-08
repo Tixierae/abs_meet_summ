@@ -1,0 +1,724 @@
+seminar but that at the shore court case
+like trying to do something different like taking it what do you think it takes that takes past
+this is the different but
+the different but i would i will send him an email and tell him exactly what they are going
+in the rest two it aren't because he's
+frequency which the most important speech
+so that would be reduction
+three hundred and thirty the whole system
+but there are other points of chili
+which would perhaps at some more today is
+like to dump something which has to be dropping frames
+was about and people have longer latency though
+that straightforward so we it would this is a test that largely had as of noise and we did we
+and we did we ever did nothing explicitly to handle it's always
+so forth how long was it from when somebody finished another instead when something started
+what is the advantage of that
+it's that but for the moment of something that the screaming and you they are
+and the other sitting out but it's not just it so but it's
+when the speech that when dissing other studies more important compacted snow it's at home the christians more on one
+but when the part that those senior of obvious small compared to noise and so the christian just more important
+so you have a mixture too graphic i
+a variant that after just determining signal to noise ratio is to just you can do it a neutered of saying mike thing to determine means only i
+kind of a problem i mean imagine if i purchase the middle of the speech population spectrum right samantha
+to do but i just think that for real noises with what's most likely to happen is that they'll be some things are relatively stationary where you can use one or
+where you can use one or another spurts subtraction thing and other things
+summary of what you're
+but so there no girl units
+and was played around with this in a different kind of way a little bit but better smackdown
+didn't they also do some kind of an oracle experiment
+what could be those enough to take terms i mean or other kind of features
+in addition to detect taking something wrong
+that's what she wanted to go far also
+
+they were more or less treating competition for performance and we were
+think the best systems so
+don't think there's any good reason for it in the application actually i mean you're
+good deal these are large vocabulary thinks of the decoder
+thinks of the decoder should take a really long time
+and there's also this there night and
+and that any manufacturer would put a bunch of effort and having some kind of good speech analyses action
+we could probably get a really good estimate of the noise if we just went to the noise files
+where we've been taking sub and teachers in training up these new and that's and on phonetic targets and then combining
+it's but with the exception of the stops i it's pretty much the same as wasting at least right so
+if you knew you were doing that if you're doing something say
+other so that's that girls build other detectors on different phonetic teachers
+
+this was the talk where they were supposed to try to decide
+so that would be reduction of a hundred and thirty six millisecond
+it would probably feel different but
+so you get a decent hissed a gram of these energies takes at least a few seconds
+you know it's that's tricky do has mistakes
+do has mistakes and
+for example he present a detector to detects honor it's
+so that by the way is a is one of the units in our in our own networks that's all it's that one and
+a number of properties that i really liked i mean
+but the one the good questions from the audience was but that wasn't trained for that i mean
+didn't they and says that perhaps even you know trying to use them the best way we can't that we ordinarily do with you know gutsy mixtures dress and so forth you don't actually do that in determining whether something is honored or not which means
+
+there is why when remarkable these injuries that they don't have sorting our phase
+and we were trading latency performance and they were dealing
+and they were dealing with noise explicitly and we were in
+a brain damage system which is something actually we've done a lot over the last fifteen years
+then the microscope and start moving or something
+and here is tracking in that in i power domain
+there's this i this is mysterious pay people to do this
+i think when the paper a show that actually they commission of the now he's gay rights
+you know you have to centered window
+didn't they also do or not which means you're going to make errors between similar sounds that are so center drops
+
+to decide what to do it
+but it's not get past so we have this business just
+and i don't think anybody's going to notice the difference between a quarter of a second latency and thirty millisecond of latency
+we had a silence detector so
+we would look for the end of another it's based on the silence detector
+and that's when you start
+we did the back trace at that point
+techniques so if you're driving along in the car i would think that most of the time the nature of the noise is kind of change relatively slowly it's
+and so in that sense it was not fair test
+
+are we talking about today
+which there's some discussion
+clearly the way that we're operating this other does involve some like see to get rid of most of that you get down to forty
+get down to forty fifty miles second street after what's the word
+a quarter second person processing to clean it up doesn't seem like it's good deal these
+so that's just one detector
+they can imagine building many of these detectors on different features you get enough
+
+response ordered over currency downs in
+and high frequency pens internet something like you have in many sitcoms compared to that one friend many with i are girls
+aren't because he's almost being out
+and so so today i gave you here it's computed life much magician frequency which
+people and they strike shoulders and say works
+especially in noise
+
+you know past but he thought this what supposedly my parents
+that would be another center which would at ten minutes it comes again
+and when we did you contractually hasn't you know fifty five minutes it comes so
+to so i think of it is complimentary
+no it's pretty quick so
+so it's for everything else i mean if you look
+
+six sixty five this stand is fourth don't sampling is
+so but it's sitting out the information
+like anyone he wants to spreadsheets to replace it with something that's this coming on in thing or
+and then given those pounder then everybody the recognition you too
+works so
+but i'm looking into extending the work done by larry all
+
+we just you know up systems to be more discriminate
+and we did this ross to like filtering which
+to like filtering which son-in-law domain and
+new g. m. figure out what it is so
+but just determine the means only don't worry about
+they're taking sub and features and training up by detector that detects for these fanatics teachers for example
+
+i mean you're you're speaking to recognize here in a remote server
+what i'm asking a question you may start answering before i mean and done so
+this there night and there's also this multi frame
+we've always had usually we use this a metric does but i don't we've but
+i thought i remember hearing about an experiment like that
+would that's you're right that's exactly the question a follow up discussions
+
+no he's told me anything
+you don't just track the estimate of the spectrum each track
+be some gas
+you said they estimate of the night that's all
+so it's friends the covenant hit the purpose
+
+if you want to be very corrected so if
+i they argue about that yesterday and i'm don't
+i mean there's this you don't just track
+so do you is there some long windows it extends into the past over which you calculate the average
+just one of the concerns and the audience actually was
+
+i mean it may feel different than talking to a person because when we
+but i don't we've but we played a little bit with vision metric you can do
+let's separate that
+no i understand it's better to do but i just think that
+this particular futurama look at this frequency or what
+
+they weren't looking him much
+so the scares you at the sickness and what the noise and or g. is in that band in the spectrum and then you look
+i mean you time and i fish are that i think that
+seats on each side band you have several independent tests to
+tests to test whether there's the existence assignments in a sub and
+
+just look in the past i it
+what if you have a good estimation of the noise and
+like after work that's hard but that's hard
+features you get enough of these detectors together then you have enough information to do higher level discrimination for example of discriminating
+for example of discriminating between phones and
+
+done over the pentagon has sixty four minutes it comes of today and high
+like free keeshonden abrupt
+abrupt closure
+it's a half dozen like that are
+
+was annoys me did we actually did nothing
+i that was my question you just i mean if you just if
+they have to have targets so
+targets so targets come from
+
+so you had a quarter second delay before plus some little processing
+gas
+i could eat if i wonder how they did
+using the local characteristics and time is probably going to work pretty but
+
+i mean it just it feels so quick
+but the other part of your as suspects attraction so
+is the estimate of the noise spectrum a running estimate
+slowly it's not going to stay up with the same if you if
+
+feel different but i don't think it would feel slow
+we could cut we know as we could cut down on their own that
+playing around a little bit going more to
+going more to the past or something
+
+you can't do with smaller amount but it's pretty rare
+and in fact i think the newest standard method of determining signal noise ratio is based on that
+it's based on this kind of massive sister gram acid
+sister gram acid t. v. history
+
+that's a special structural how practically speaking if it varies
+if it varies a lot to get a if to get a good estimate you need a few seconds speech you have centered
+where his windows centered around
+but i don't know if you know it certainly modular apple juice modulator noises is sort of a big problem in practice i think
+
+i'm i know now i know what you're talking about no he's come
+and i can't remember now the top of my head how many frames of silence we had a detective for would declare it to be the end of an utter and
+i mean depending on where the window was that you use to calculate signal ratio
+
+regis i knew was gross
+using a regular seasons intersection so
+so we took the is girls the fear factor is and we the saying i r. girls that have the same frequency response
+
+so you need to discuss with what we're doing because
+out what it is so now you have this picture to gosh and she's you know
+and some period and then to expect from its
+
+be in contact more i think that the fact that we did that with had that thing with the latency is indicative of the fact that there was enough communication
+so we try also to add a time sampling
+in the theater
+
+is that the way online or my education was dumb he's just using this week or something and features stream
+very slow it's very useful you didn't you know stationery
+they're probably looking in on speech sections and getting some
+
+it would get six sixty five
+at the beginning you have some
+they have some and getting some
+
+i would say it was probably around the order of two hundred fifty millisecond
+i mean we have an experiment this but
+the low level detectors are logistic regression is
+
+i don't think you can really tell a person
+now this is coming at it from a different angles but
+from a different angles but maybe it's a good way to start that these
+
+so we was thinking tool i mean tool up tight day and expect us just to and for waiting so i'm
+so i'm too to change big context i can't. full id
+day and just like in t.
+
+chain and use id disco montego
+and i mean that did look like it buys you something over just to kill the
+and if you've got enough time this other method appears to be some
+
+d. c. seeking prove over ordered owned a nun discriminating ours formation
+and he's been your friend that's been turned and so
+you know that's a manage to see whether it having their own that really buys or anything
+
+would you know is it p. ways that it
+be book i state b. d. o.
+one thing that would be no good to find out about from this conference call is that what they were talking about proposing doing but having a third party run a good v. a. d. and determine boundaries
+
+right samantha jack hammer going five hurts
+you could get hurt a lot if you just took some something from the beginning of all the speech of you know an our speech
+sense though i mean it's possible you should you should make it center the center of the window
+
+and it keep combine by a soft and gate and then at the
+a little bit but better smackdown
+than that we train these things up
+
+and so our each of these low level detectors are they
+are the something that you decide ahead of time like i'm
+ahead of time like i'm going to look for this particular futurama
+
+she probably done for you done separate that are peace on the different forced alignment on
+so so that may or may it that aspect of it in may or may not be helpful because in the sense that same
+because in the sense that same sort of thing you're taking global information and the
+
+that's us programs call yesterday
+i mean you could do this with a recurrent that
+
+because the women we look do yet if it draws why they are made you know past but
+so you see you heather so
+
+corrected so if you want to get commission is i mean to be what directed commissioner they mean we have to do take academy sequence in the future
+this safety called you're on that and she but on this
+
+so it could be around two hundred and four tease
+posted that the frames just barely in there
+
+what were they thinking of changing it to
+how do they measure but this is i think a little more drew
+
+they were the main ones as long latency but
+other so that's that girls other detectors on different phonetic
+
+she would take as long as it's under half a second or something i'm not
+once you get that time you train the whole thing on maximum likelihood
+
+on demand containment think we
+they are but let's not have that be part of this test let's
+
+i would you know is it p. ways that it
+magnitude i mean probably power
+
+and i'm don't know the answer we
+should find out i'm will find out soon
+
+yes people and they strike
+over the whole thing and then i have a noise factor
+
+and four or less so
+and jerry did this
+
+which is more important during assignments potions one
+without tricks like this
+
+in the spectrum and then you look over the whole thing and
+it's like saying what's friends talk onto this purpose
+
+the variance and then just use those mean values as being sing always ratio napping
+it seems like this kind of thing could add to the latency
+
+but what is what this how could tell
+but but what is what this how could tell do
+
+right a few seconds to get a decent estimate but it's changed a lot in a few seconds kind of a problem i mean
+and you worked on stationary no i just like not as much as
+
+studies that i stationery press you don't even need some kind of noises commission agreement
+agreement beginning of some
+
+they maybe maybe overtly complicated for this test but
+but what you're saying you know make sense though i mean it's possible
+
+where we're ready having problems with these delay delay issues
+for that i mean disuse a very smooth stuck drama low it's something that you know has evolved as being generally a good thing for speech recognition
+
+and they show like six or ten d. be both
+what's under this pressure always used to take yes to me
+
+these meetings yet so you're
+and for every sub band it you just pick ahead of time i'm going to have like five independent logistic tests
+
+so you're coming up with here calls proposal
+they have a system that's multi band system but they're multi band
+
+i've talked to somebody already but
+if you're doing something say for you wouldn't use the same kind of features she would do something
+
+the higher level there's day sauced four gate
+what're what are some of the low level detectors that they use these are all
+
+to train degree
+say use any amount rhythm to it train up these parameters for logistic regression
+
+i'm this is dorothy of it
+danny has each of these and things
+
+or what are they looking at
+and he shows that using this method to detect connor insist very robust compared to to typical full band gushing mixture estimation of assignments
+
+and you initialized these parameters and some way and
+and use the to come up with your training targets for the low level detectors
+
+then you keep working your way up and so you build a full recognize or so
+or so that's the direction which i'm thinking about going in like
+
+rather than just immediately going for it the typical sound it's another
+another thing i like about it is that shoot this thing is going to be trained explicitly trained for product of errors rule which
+
+sound and say we train every but this is saying
+but this is saying is that's maybe what our ultimate goal is
+
+what should we be train these intermediate things for
+because we don't know that's this is a particularly good feature and there's no way
+
+we don't really know how those should be labeled it
+it could speed that you should not be paying that much attention to certain bands for certain just yourself so
+
+forth and it didn't do nearly as especially in
+unless it was on it was interesting because this is what we are actually using for speech recognition these develops
+
+but if you knew that what you're going to do is just exxon or it's not so not it's
+not so not it's is almost like forced on voice except i that the voice stops or also called lobster joints
+
+when we talked with john a holiday that we made a list of some of the things that
+so the sort of things he felt would be difficult for humanity or two reliably mark would be tons position kinds of things
+
+don't know i he was from the conference tolkien
+
+the money and video confidence
+
+i would have been a good thing to signed up for this thing
+
+i've done i've no idea
+
+so i mean that's let's assume for right now that we're just kind of like and i had because
+
+like and i had because even if they tell us that the rules are different we're still interested doing we're doing so
+
+added a bit worked on trying through see what to read the books and program with that and he's
+
+we took personally took it as the girls
+
+so they had to fit response ordered over
+
+currency downs in another one i forgot to dance
+
+so we're using computers
+
+but we still have two e. p. amount a routine that does precursors they're trying you
+
+they're trying no you had a discussion with this email about this though
+
+i mean that the they'll probably have before was coordination right
+
+we just have to be in contact more i think
+
+three what was the total we ended up with two the whole system
+
+some more today is that somewhat other in the process of our perhaps not very what interior correct like to dump
+
+opacity stayed at twenty five it's
+
+and then there's the third think
+
+that's a little bit of a problem
+
+but what when we add up everything it's it would be all right if
+
+don't sampling is a. t. five four online on my mission
+
+posted that the frames but the turkey barely in there
+
+what's the allowable
+
+that's the change the rules
+
+the people who have very low latency wanted to be low very are very narrow they was about and people
+
+and the best proposal that something like thirteen or fourteen musicals efficiency you know
+
+think of it this way but the complimentary
+
+so everything that we did in a way was it was just adamantly insisting on going in with a brain damage system which
+
+then they do it and then someone else that's something that straightforward so
+
+domain and tending to handle was annoys me did
+
+thee spectra subtraction schemes couple places did seem to do and i stopped and so
+
+we're talking about putting some of that in the mocha still keeping some of our i think you should
+
+of our i think you should be able to end up with a system that's been both clearly the way
+
+no what this what was your experience when you're doing with the surgical microscopes and so forth
+
+to get the answer course i didn't take too
+
+no it's pretty i didn't take too
+
+and there's the school nurse or they're so probably
+
+and it felt so probably the motion itself
+
+and it felt to the users that it was instantaneous i mean it's fastest
+
+i mean it's fastest talking to a person it
+
+talking to a person it they i don't think anybody ever complained about the delay
+
+or something i'm not an expert
+
+i don't remember the exactly immerse but
+
+tell a person like a person can tell the difference between you know a quarter of a second ten a hundred millisecond
+
+i'm not even you can tell the strain according second half a second i mean
+
+i mean if you if you said what's the what's the shortest route to the opera
+
+and i took half a second to get back to i mean
+
+would be i mean maybe too abrupt might have put in
+
+i mean it may feel different might have put in this adele
+
+because when we talk to each other we tend to step on each other's utter and says what i'm asking a
+
+the past or something like that i we
+
+so the latency like that i we talked about that
+
+so the latency from the narrow own caused by how far ahead you're looking talked about that
+
+was it in the recurring on that's where they weren't looking ahead at all they weren't looking
+
+an experiment this but i imagine you could predicting a label more in the past
+
+we've done we don't some that before i think
+
+that before i think it works
+
+so that's what you're busy with
+
+i'm missing that last word content k. l.
+
+word content guilty hell k. l. t. can't she
+
+there's just understand maybe what the difference was between how much you're getting from just putting the fans together and how much are getting of the discriminate to what
+
+the nominee area does for you or doesn't do for you just
+
+for you just to understand a little better i
+
+but maybe it's his discrimination and
+
+and maybe maybe the nominees discrimination business
+
+attraction so it just kind of what
+
+what stage do you do that to you doing that
+
+containment before so just do that i the know we know we watch
+
+before so just do that i the know we watch
+
+containment before so just do that i the know we know we watch
+
+we watch thinking to the before that they'd be deal
+
+the reason for that was that if someone one per one group put into the eighteen another didn't
+
+or one had a better v. a. d.
+
+since that they're not doing that as being part of the task and that any
+
+still would be perfect but i mean
+
+yes a question of eighty but otherwise it's
+
+but otherwise it's on of the mel felt a bank energy seconds you do
+
+i probably power
+
+i part of me i can't
+
+part of me i can't remember exactly
+
+i mean if you look at the theory it should be in the power i mean but
+
+i mean but seen implementation some people to the ninety to me
+
+yes people and they strike
+
+pay people to do this a lot i helped little tricks of the trade i mean there's
+
+it'd be tomorrow and the spectrum each track that times four or
+
+it'd be tomorrow and that times four or
+
+so you have this commission of the forums picked the noise
+
+you missed tied this by a factor which depend depending on the ice
+
+you ritual security to make you kind of noise
+
+potions one just the and then she's without
+
+that's i mean that's what differs from different tasks and difference circus attraction methods i mean
+
+i mean if you have fair it's the noise is quite stationery than the smartest thing to do is use as much data as possible to estimate the noise get a much
+
+get a much better estimates attracted
+
+so do you but if it's airing at all which is going to be the case for almost any real situation forgetting factor or something
+
+there's a lot of different ways of computing noise spectrum so one
+
+so one of the things that hans inspector hersh did
+
+was to take some period of speech and in each band tilted his degree
+
+t. v. history gram
+
+now if you have signaling his noise noisy have these two bumps and has to grab
+
+but what's she could approximate is to conscience
+
+but what's don't they overlap sometimes
+
+so i've got controversial others use that kind of method and
+
+kind of method and the other thing to do is which is sort of more trivial obvious is too determine your magical means that there's a speech and some period and then
+
+don't worry about the variance and
+
+because you don't like the future right
+
+i could eat if you want to as a good estimation on station reno is you have to look in in the future i mean
+
+in the future i mean if you take your window and if you're raised around this window but you can expect revenues commissions if the noise in the middle of the window not at the end so
+
+the past i it works because the noise almost area but
+
+what if are that i think that circus attraction is really is not going to work really for nothing noise and
+
+doing so i think that what is what's more common is that you're going to be helped with slowly varying or stationary now
+
+i mean good luck so
+
+i think irish does experiment with windows to five hundred mesa comes in one second and
+
+last five hundred went was that's about it
+
+like not as much as they could we can motivations
+
+thing and other things were it's not so station or
+
+i mean you can always pick something that falls between your methods
+
+and built it averages from them
+
+i know i don't know if it was tried this or
+
+everybody seems to use some kind of attitude but came but into tennessee
+
+came but it's very but you know stationery into tennessee
+
+very slow it's very useful you didn't you know stationery
+
+very slow adaptations useful you didn't right
+
+the word stationery is a very precise statistical meaning but you
+
+meaning but you know in signal processing really what we're talking about i think it's things change slowly compared with our processing techniques so
+
+the same if you check it out five minutes later you maybe in a different part of the row whatever
+
+if they're going to provide a voice activity detector that will tell you the boundaries of the speech then couldn't you just go outside those boundaries and do your estimate there
+
+so i imagine that's what they're doing right
+
+they have some kind of threshold own and the says to me
+
+i think i think ericsson use this kind of pressure you said they
+
+it's like saying what's another threshold assignments talk onto this
+
+this francetelecom do same thing
+
+for it we've done with that
+
+we talk about a couple other things briefly just
+
+things briefly just things that we've been
+
+two three can be that
+
+but they're multi band is a little different than the way that we've been doing multi band in the past where
+
+and then combining them some somehow down the line
+
+at the lowest level there it's an or get on it and get
+
+and then at the higher level for every
+
+for every if the higher
+
+so if this detector do text the presence of dishonor and in any of the sub bands and the detect the war gate at the top says this frame has evidences hundreds and
+
+a six point
+
+waited so
+
+there's always using i'm get the targets
+
+so you have this and gate we call in and get it's a product real thing at the out
+
+and then he uses it and then feeding into that our
+
+so i d. three sub and there are several measures of s. n. r. and correlation
+
+and he said there's like twenty of these per or something
+
+that i really liked i mean one is like going towards they're bad information for phonetic features of some sort rather than just
+
+which is what now and going out that fletcher observed in the twenties
+
+for people listening to their ban that's friday talk
+
+this issue of where the targets comfort
+
+so in our case when we betray multi band things the way we get the targets for the individual bands is that we get the fanatic the sound
+
+or not ultimate penalty but goal is getting these sound units but
+
+along the way how much should we
+
+and there's no way to someone in the audience
+
+to someone in the audience just today was asking what couldn't you have people go through a mark the individual bands and say where the where it was on rent they're not but
+
+not but you know i think having a bunch of people listening to critical band wide texas speech right turn with i think could be possible it's ouch
+
+could be possible it's all going to sound like sign like see more or less lot of i
+
+it's very hard for someone to the person to make that determination
+
+yourself so what we have been doing they're just sort of mixing it all together certainly much cruder than that we train these
+
+i that experiment she probably done
+
+peace on the different forced alignment on these up and labels
+
+done that did that help all
+
+it helps for wondered one iterations but
+
+so iterations but anything after that
+
+how do they measure the performance their detector he's like
+
+he's like he's just actually looking at the confusion between son rent and then
+
+so you can apply that to recognition if he
+
+that to recognition if he did it's
+
+he did a comparison too are all four all the nasty
+
+four all the nasty old standard recognize no filter bank at the fountain nature demands and so forth and
+
+she would do something that was sensitive to the period is and
+
+so i think that the question was right
+
+it was and that's not for test unless it was on it was
+
+these develops and
+
+where they said if we could detect dishonor it's perfectly and then show how it would improve speech recognition
+
+the easiest thing would be to go do some voicing but that's
+
+but that's very similar dishonor it's
+
+way to start that these are things which john felt that he a a human annotate or would be able to reliably mark
+

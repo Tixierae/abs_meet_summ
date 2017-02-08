@@ -1,0 +1,422 @@
+and the both of the yes right system and then for one thing it
+but that's using a huge amount of data mostly
+know to the word miles but if you have
+but if you have a huge amount of data then you're going to have many occurrences of similar phone
+and then that's just a huge amount of training for it so it's
+it so it's i think it has to be that because as you say this is this is near microphone it's really
+microphone it's really pretty clean data
+now some of it could be the fact that
+let's see in the in these multi trained things did we include noisy data and
+kind of numbers every getting m. t. i. digits it's
+sonny actual t. i. digits database forgetting point eight percent
+four i could easily see that difference coming from this huge amount of data that was trained so it's
+that's exactly magical here it's we used to simply
+it's we used to simply c. k. system with a modest amount of data and this is
+and this is you know modern system
+given the same yes ignoring it ignoring the that's my point
+from just looking at t. i. did the tandem system
+i mean it's even it's close miked still there really is background noise
+the best because within your view instead of coming comes perhaps even but or something
+so there's this bombing
+the program is that it's very big in i think too where to put it in
+did eighteen weeks somebody else is smaller
+these fourteen and as you turn on
+
+so there is one difference whether this you stand
+whether this you stand the reason the duress our system that they're presented here are we adaptations of
+adaptations of
+we could do that but i'm saying even within not with that partner retrained
+what's wrong what's the difference between ten digits and the digits and
+given the same yes ignoring it ignoring that's my point
+it was not i mean there's no attempt to have it be realistic any in any sense at all
+again you know you hey that's true either way i said
+it doesn't get too hot there i think that did you school
+kind of things
+and the the great advantage is that a lot of times secular wage demands don't don't over learn the problem that they have a limited
+
+or not of the the best kind of number we have on the english on near microphone only is three or four percent
+but i the main points the that because
+but just train those h. m. choosing different features
+different features coming from our so
+because it's probably not the program snow noise because our future are supposed to be but no it's not the program
+it's not the program if china because of their race norman reached respectively channels so
+so much worse i but the fact that they resented it and them and or system so much worse
+but having a huge if so
+i mean that could be hurting us actually for the case like actually received
+because this clean data
+
+not digits just course but then
+did anybody mention about whether it's this our system is is doing the digits other word is a word model as some phone states i it's
+mature or back
+and so that's not too surprising but
+in here you had you know something like three point four i
+which i find that interesting because i think this is closer to
+i mean still read but
+i still think it's much closer to two what people actually face they're dealing with people saying digits over the telephone
+the telephone i don't think i mean
+
+take i a somebody's going to do this right is to
+and here we're getting three or four three that's the safest
+point eight percent is something like double or triple what people who've gotten who've worked very hard at the man and
+at the man and also as you point out there's adaptation in these numbers also
+so if you know put the i'd edit take the adaptation off then it's for the english near you get something like two percent
+so these i think on both systems these teachers are showing up it's harder
+i don't know i think that they caught on
+
+but he's doing with the same data right i mean so to do so it's
+right i mean so to so there's there's two things that affected i mean one so it's
+because they can eat listens pretty
+i you the only thing with making recorder
+she's quite learning to speak
+and shared within the ideas about extending hilarious all work
+that they have a limited number of parameters and they focus directly on some problems and so
+
+that was kind of interesting as far as there are perhaps these making recorder that's it
+that affected i mean one is that you know there's something simple that's wrong with the back and playing
+of data this is a modest amount of data
+it's going to eight percent
+it's you know it's not awfully high but it's you
+
+but what's would be interesting to see if least what perhaps
+so i mean ordinarily you would say given that you have enough occurrences of the digits you can just train with digits rather than with you know
+but the thing is if you have a huge you
+high but it's you know it's time
+i went to talk with mike jordan this week
+
+numbers but i don't think that the companies that the telephone speech get anything like point four percent on their digits i'm i'm
+me fronting people do phone up who don't have middle america accents
+so that you should be before which means perhaps
+and smooth s. a. t.'s famous too
+thing way up timed it and that up with the message that
+
+papers and trying to prove anything
+perhaps the point is that we've been working on he's
+he's we have but the good you deem the system
+folk but yes everybody trilogy is the c. a. d. and take that they just want to parents today
+and take that they just want to parents today don't want to fix the d. because thinking there is some direction teaching picture extraction give you a friend dropping
+
+i mean clearly a very big queues for voice come from spent the slope and so
+each feature is myself i don't know but
+i we i would probably don't have enough competition to do simple to see sector something that initiative
+and carry happiness
+and so what happens is that add addition is are you b. t. two
+
+right when i get this other door too
+that was kind of interesting and the both that's it
+effect mostly not to just for the actual training each man's whereas in this case we're just using it just can you commands
+that's fine so they're so we have a couple a for special session
+
+we're talking about today
+a huge if you look at what commercial places do they use a huge amount of data this is a modest
+so the three point four percent for this is
+so i think they were lesser it's not controlled insulting
+
+and given given that you could come up with some kind of an estimate how much is frequency entertainment's was explained those are my
+smooth i think as you say it's not that smooth hair and so if
+and so if he just subtract it off your harmonic stand something like this would end up with quite a bit lower energy and first fifteen hundred years or so and her
+and her first killer too
+
+for one thing it that you're supposed to difference between having a lot of training day to or not
+we could do that but i'm saying even within see every country train some of the stand
+and we put that on the server side it doesn't work because in the service
+
+but to improve it
+but he's with check to do
+yes ignoring it ignoring the yesterday system from just looking
+
+so that's a problem so we can
+quite a basic perverse nature of reality
+playing it i mean that was given a smooth i think as you say
+
+when i designed the defenses which are thirty day from you sisters there was one sister we just sixty music can beauty and the other week and me succumb
+mean it could just it that both the deaf sixty five sixties i think
+sixties i think it's sixty five
+
+didn't gain anything butchered that sixty five because
+having to pay with nothing that telephone so but i mean to helpless boy somebody to see she has
+you know think the nowhere ones
+
+but the filters of call schools or
+they done they do need to mix the b.
+it's quite seemed
+
+that's as a separate thing
+so what you have of time i was just starting maybe fifty you could
+you could do very rough thing to estimate that's to make which
+
+some questions about sect or religion and so like later
+so like later down the line when we come up with these feature detectors how do we every model the time series that happens
+and we talked a little bit about fact royal h. a man's and how when you're doing your friends or when you're due recognition there's like simple maternity that you can do for these h. a man's and
+
+compete she stemmons including unsupervised visitation
+it's true and if you've done to the station error rate is fifty percent worse like
+
+it's quite significant
+but what but i think i'd be interested to do given that is the reason we should take i a somebody's
+
+i don't know if he got to the point of playing with the number conscience yet
+i mean i'm they wouldn't release the numbers but i don't think
+
+that's always the same amount of data which is pretty small
+and i'm the same system would get you know point three point four something i mean actual t. i. digits so these i think
+
+it's it's orders of magnitude off
+so but what i what they meant is that
+
+given the same that's my point
+it doesn't get too hot there i think that did you school
+
+true either way i said take a look at thee this right resulting in much
+right resulting in much better but so you
+
+so it's u. s. has as many people
+has as many people it's not that many different ways
+
+but that's the assumption is that we'd be able to make a v. d. that's modem that works fine
+but i don't think we need to be stuck on using our or what you guys did eighteen weeks
+
+so he must be attorneys somewhat fixed but not compete so they just
+return so they just would be some requirements that honesty and
+
+didn't gain anything right
+for this one senior this most suspect to look dying out there that did too
+
+and then we start to work with always been i've always
+next week i think we really perhaps by too is and you see standing with m. s. g. stream also
+
+something that not doctor the proposing too but
+need to mix the b. c. not it's mostly
+
+i'm just that there's no use actually as a labeled so i don't know what this
+what's the sexes d. c.'s and just ask says is he frame
+
+just hide is voice platoon so that should be persons the peaks
+so jazz up here you know put of the message
+
+i know you want to get it something worth talking all from what you get with the smooth spectrum
+what's the v. c. is that in some cases and carry
+
+but if you weren't really trying to force and voiced you want to ignore that i mean do you
+i mean do you i mean clearly
+
+this would be perhaps in addition me
+because it's indies symptoms korea
+
+if it was noisy proportion that would go down
+was who was on waste
+
+pick out voiced segments
+least should be
+
+and it's significantly better in that using fairly simple friends on me with the s. system so i say i think that
+
+states it's out a to
+
+i think so because it's very do huge there your system
+
+going to do this right is to take some of these tandem things and fifties into yasser system
+
+mature or back down he's fairly simple but
+
+back and playing number states
+
+but so far he hasn't gotten any being pregnant but that's always the same
+
+just using having the h. a man's much better h. immense
+
+the h. a man's much better h. immense
+
+perhaps it's not read it i'm on today tepid recording conditions and
+
+i'm what is the problem that you're trying to explain
+
+i but i'm almost certain that it has to do with the i'm on the same day it's
+
+but but retrained on neon digits and two digit desk so
+
+case because like actually received the king train or proposals so are better than the mystic
+
+but it's a free i'd you know if they catch a train and on the me king recorder digits i we could that but the reason
+
+but they mentioned that perhaps you kind of learn something what's
+
+so i mean used to case there is you can't even so
+
+it's not that surprising but to me
+
+that surprising but to me it just meant practical point that if we want to publish results on digits that people pay attention to we probably should because we had a problem
+
+because we had a problem before you get show some improvement then something that's seems like too large number and
+
+and the people don't necessarily take it so
+
+is it's interesting question though so why is
+
+why is it three point four percent the digits recorded in this environment as opposed to he point eight percent for years and digits database
+
+forgetting point eight percent which yes it's high it's you know it's
+
+why is it four times as high
+
+and i suspect when the t. i. digits were recorded if somebody fumble they said something wrong or something that they probably made them take it over
+
+different did you teach it's very clean and like do you recall
+
+he's making recorder digits sometimes read
+
+so it's i think it's syndication it's harder
+
+much better but so you getting something like one point three percent for things are same day isn't. i did just same thing taxed
+
+we end up giving up on in your speech submissions that are
+
+tivo and dan else or are submitting something but
+
+no actually for the year we do have suffer
+
+we do have suffer right because
+
+right because we have enough extra month or something so
+
+fine so they're so we have a couple little things and meeting recorder special session
+
+and meeting recorder and you know it's a flight was papers and trying to prove
+
+the system really makes a huge difference
+
+i think it just perhaps one of the reason why our system is that not the best because within your
+
+he you some day
+
+work because in the service i teachers you your ideas idea but i
+
+which means perhaps on that they're
+
+what g. i. so it's been it's work trying it's been it's work with you a month and he'd to feed and you need ten
+
+you need ten nine put frames compared to if you do that plus into propose on which very small amount to feed and any and she wearing
+
+this is the one they had originally
+
+but they have to get rid of it because of space
+
+so that's a problem so we can
+
+the other thing is you to use a different eighty entirely i mean
+
+i don't know what the thinking when among the the see folk but
+
+but they still want to just to get some re crime i'm from d. v. d. because
+
+from d. v. d. because it's not be talking they don't want it to be talking to stand
+
+but i was thinking that they may be some interaction but i don't think we need to
+
+long as it did the job
+
+id signed and you it or
+
+so that means logically principals should be better so probably would be worse
+
+so probably would be worse
+
+that have to pay we
+
+we that we phoned that's maybe what if i got to cook i mean today school and if i and bitching day and f. s. d. up at the scene on sundays smoke spectrum of tiny we asked that day and my feet they're bound
+
+what it's monday so was is good
+
+was is good for tennis beat she's quite
+
+that neat we must have hot big studies dick we teammate
+
+distant that i do
+
+should be you went to something like expectations thing
+
+i thought for one single for one frame
+
+game then excel to they an only son on my son scene i just these
+
+d. c. sit and as you know letting energy of the just picked a bit
+
+not this is day of audience the deciding
+
+of audience the deciding between day expect know if they seen s deals each frame of the senior
+
+do speak d. c. ds to see none
+
+there's two things on the same grass
+
+which is clean which is
+
+so it's harder you know what snowy sunday high to scream
+
+so it's harder to distinguish the
+
+just hide is voice platoon persons the peaks should be fun
+
+is voice platoon the peaks should be fun
+
+and it just the noise put
+
+famous too to add to it picked
+
+did you say something for a frame
+
+and days spectrum they seem scene
+
+these they smoke bishu the spectrum instead of and message they're bound
+
+and this is the difference d. c.
+
+do you know these no the dependencies
+
+the dependencies it's nine to a dying with ed p. c. my just picked him but
+
+him but using much that we'd go guy fucked up
+
+it just another thing
+
+wonder i mean do you want to
+
+if i buy but you least into got used to do some boys frames and
+
+they probably want to paint certainly going to do good voice actually need a few features each
+
+i don't know but and people look at that so then first on a correlation coefficients
+
+that initiative to you because have a and has to minute of what the
+
+mean you could just do it going through the fifties figuring out some probable harmonic structure
+
+these companies have a paper but this gets me just to be
+
+say that they there's some program
+
+so the problem
+
+there is this fact that if you
+
+that if you the kid this spectrum
+
+and these kind
+
+that the i'm more makes our resolve
+
+this cannot be after messenger
+
+for high pitched voice because that we was no frequency messy messengers sometimes even smaller them beach
+
+so we were thinking too much decide to mess spectrum it's something that's smoked or
+
+this is very into watches which are playing it i mean that
+
+and so you can imagine five or so parallel features transitioning independently and then
+
+and then that then you couple of peace fact really tremendous with i'm directed links these times this on some more data
+
+so he seemed you seemed like really interested in
+
+said that this is something very doable
+

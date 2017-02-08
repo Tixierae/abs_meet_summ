@@ -1,0 +1,1078 @@
+did you now is to sort of come up with a highly as a sort of abstract pass
+was so you still have the the thing about having dinner where you know what the actual intention was but
+the task then for that person is spending all type to get there
+of the recognize or in the dictionary then we can actually so the speech recognize are also works
+you can speak into its and ask for t. v. and movie information and then when
+actually so the actual beta might be german name
+then i wanted to do dukes
+the screen it's a i mean to what the generator like the english
+but the to tell you that this is what's going how to berkes and they're girl in the presentation so we don't have to worry about
+girl in the presentation asian local like that
+and then you pick a movie and a certain churches times and you pick a time
+because we're a problem for the german system to incorporate all these english movie us
+unless we got some topic rose german movies that have just come out and that they're in their database
+this is very rough but this is sort of what managed to come up with
+go and there's going to be a lot of on the golden glove about that a can be and so forth
+one question or when you
+ski my rights are the source by going for chemo fit into the actions like is it one of the tags have
+there's orientation could it could also be blocked out then that's
+a very specific romances view thing and heard thing this thing that we start think that think of interviewing approaches
+so where the gateway the argentina
+f. m. like porch motion and caused action like that for s.
+so like in are you able to enforce that you know if it's. p. g. action then you have that scheme out if
+we have no you have that scheme out if it's a forced washington you have get a scheme present and
+and then we started thinking about going through all bakery questions so when
+they would bought scheme us would under so i under actually came there's a list that can include both
+they would bought scheme us would appear so but snack
+that commercial event or something sighing food there's a commercial events scheme and summer i
+like i mean could have plot structure and just are two independent things
+but there's also the sort of like causal also
+and scheme wouldn't commit i think that's nicer
+and scheme wouldn't commit i think that's nicer for a lot of reasons but might be a pain
+i mean they're truly times when you have two independent goals that they might express it once but in this case
+it sort of depends on if you actually write down the you then
+maybe even not gee do you mean within the
+maybe even not gee do you mean within the source that school actions this three
+one of those things are going to be lit up when he passes on it's only
+in that nevertheless
+in that case we can't if maybe i'm not understanding where this comes from and where this goes
+in that case we can't maybe i'm not understanding where this comes
+so and this is useful you doing
+they could guarantee that
+this is a scheme that defines eczema out messages setup passed from one much work for another
+main you mean from the natural language understanding or if the deep natural to and the sanctity action planner
+now d. the reason for not using this approach is because you always will have to go back each
+back each much of what you have to go back to the cop which you know and if you can have which parents and
+
+when i'm they ask start tea and his gang when
+his gang when they have the language model of the recognize or in the dictionary then we can actually put it all together so the speech recognize are also works
+and then the person is presented with what's running on t. v.
+or something like that this is not an exit of this sort of towards
+this sort of towards and scheme
+actions that can be categorized with her that
+it gives us a kind of so what
+did this but this sort of gets the job done in that respect and maybe deceiving
+and more on d. business but your basic bolin and see my down there
+like a we have ducking to it
+we had this is the output sort of these natural language understanding right
+so in the future it's so it's just additional information
+like is it one of the tags there have go back to that
+a supple beating and
+beating and with we know
+so we'll put on a that's a source but
+and then the same about goals so i the question
+with the scheme and in what actual action is shows in is will be in that and the action came a section so one
+so one question this is
+question this is in this case it's all clears her obvious but
+but you can think of the interviewing approaches each having their roles right the i
+right the i mean is implicit that the person that's moving is doing entering viewing in approaching but
+but you know the usual thing is we a binding between so
+the sort of like action specific girls and the more general source spot school this is the real story
+yes is the real story worrying about that or not for now
+a very specific romances view this thing that we start
+thing and heard thing think that think of interviewing approaches frames and they have
+don't know that's has question i was just doing it this
+for me and this referencing thing great that's exactly what
+it is if they're buying sits next action interesting
+the bikes next chemo sighing i'm
+next chemo that commercial event or something sighing food i'm there's a commercial events scheme and summer i
+no of like causal also one is really facilitate any other and it's part of a compound action of some kind of structure
+rifles and so i mean you have to focus on and decide to live
+going four section of course motion
+data structure you know like you say all right i'm going to do and s. p. g. action and
+
+majors harvard has many
+majors harvard has many mayor
+but that so it was really callous i was confused nah me and not jerry
+this other person can maybe make a mental note that i wanted to go shopping here and
+it's a schematic so he'll be given this map which means that they would have to like isis assistance and for like kind of information would where things are
+it's a schematic tourist maps so would be are
+yes in a sense it's expected that the idea which
+but that's look i not
+it's the last week of april until the fourth of may
+of may it's twenty six who for that there be here that they'll be here
+that much from the posture and generate recite and this
+perhaps advancers has something to do with the questions that just like anything
+and then those actions can be in multiple categories at the same time if necessary so
+so the first at school scheme in this case i've
+scheme in this case i've ever i understand how we discarded we set this up
+so or the in and full so the fillers of the roles source
+let's see so it doesn't seem as exist because in case
+with we know a lot about sources so we'll put on a that's
+buying sits next scheme what interesting
+and i it's kind of weather going is a bakery and then
+because they have a related first ethical scheme in our course domain
+this is more this is probably the way that's the way the two more to it just to draw no i also for i didn't mean to
+so you always send up here i'm this person and i can have these parents and every message
+
+and anyone who doesn't know nancy
+not really the street network it doesn't have like street on it that would allow them to figure out their way
+right and people talking about pictures and victoria representations and
+i mean i'm not saying it's necessary but
+project and make one more general remark has sort of two sites actions it's action items that were dude do you think with one is
+with one is my to find this marking posture and the other one is so much if i'd find the smart come natural language generation marginal
+respect and maybe deceiving concept really somewhat adequate in that sense that we're talking about two different things were talking
+right those one the things but if it has if it's supposed to be categorized in category x. men the course scheme max will be among the structures that follows it's like
+those one the things you're the follows it's like
+also for awhile for
+no but now you guys have seen the light soon
+no because no we have not whereabouts either died seen the light soon
+because doing it this way is in case there's extra structured it's any enter action that's not captured by these game is right either died do they go back and forth and i agree right which is why i would think
+because doing it this way either died do they go back and forth and
+right which is why i would think you would say enter and just say all the
+and just say all the things irrelevant specifically enter and
+enter and then the things that are abstract will be in the africans as and that's why the findings
+right but as and that's why the findings become useful
+that when you need this medically
+
+do some sightseeing i'm a member of
+and he also approached me and he offered to help all project and
+questions and saddam together and write
+but in that sense it doesn't make in that case it doesn't really make sense to read about like that right
+such as the that goal
+and all the names could should be taken comb kind of about it so
+one question or when you point at the screen is it your shadow that i'm supposed to look at it's
+are they working for and other things it's all
+so it's this back it's there and it's going to
+not i want to go to a bakery maybe their friends that they were going and meet them in
+that like and i'm i'm inventing context or maybe i'm like the i mean like
+but it's still the case that you could override that default by giving extra permission which
+extra permission which is to me a reason why you would keep the inference of that separate from the knowledge of they really want to know if there's a big around here
+be in it like first of all what modules are talking to each other using this right and
+
+for example and they're mostly in english
+like the english language sentence of it is these are the follow you know the falling films are being shown like that
+so pass go and there's going
+so i push maybe and both you know push in this and this force
+exactly motion action friends
+and right now the way the interfaces action go and then they have the what the person claimed the source of the person clinton's is the goal passed on and
+actually the future of the content of the hypothesis would not only be right that doesn't hurt the currently
+bad because i mean there's multiple multiples i mean that particular
+but maybe means read nothing to i mean that particular cases mall there's a force side of that verb as
+but maybe means read nothing to say about the that's what's that verb as
+questions so when i say is there a bakery here you know
+here you know i do i'd somebody once our macho too it was too personal tell the rest of the system paid this person actually wants to go there and be
+and decide to live in a off of touching that you amateur kind of zero in on that
+list all the parent categories that you know i list all the parent category a just like
+
+no i don't we just don't continue anymore
+because it's getting more complicated so if you know anyone interested
+there's nothing that says you know these are the things you want to do so they'll
+i'm not i understand this but i'm not i understand so it's this is what you made say like
+are you familiar with that with a very about but i imagine i'll catch on it's based on like the materials
+what so it's extremely important that the two of you also presents this town through that time
+and i was completely flabbergasted either and i and
+right so the rest of the building do these this is just the layout of the possible things that could go play that role i got
+right so the rest of the building with the scheme and things that could go play that role i got
+year so this means we can start using it basic you know
+
+and the person is not allowed to take of this high level category this with them but just
+that's better than running into problems
+in english so it's not really a problem unless
+the fact that with cutting the sections chemo right now should not intended to be going to continue caught into sections can know
+on the end of the first generation stupid least also so gold actions
+you know this person's so you have constraints that are dependent on the actual a filler semester entry
+he because this is it's a good the discussion we need
+there is no more quantify or something so no this is useful you
+
+new set up using this new i
+new set up new i
+so it's you can see this is on one level and we are going to add to another straps if you want i. e. all rich action description on that level
+as far as source that's what's to when you identify
+and and so i mean i still i'm not entirely
+it's not it's and so i'm i mean i still i'm not entirely that i really fully grasped the syntax of this you know one
+and they do we want this scheme that's just dum bum
+i mean it's if we can actually you know get it so that we can i don't want hot trends activate more than one scheme i've remember already pretty good right
+
+know sue the interaction primal giving hints about how specific or how whatever the kind of question that there can to ask during actual session
+and so diversity sending us is already producing the english it's news to get by in version one part one
+right and they kind of are different correct
+in germany on that day that evening
+and so you take one look at it and say that's really nothing there's nothing for me there what's
+actually the future of the content of the hypothesis would not only be an object and action in the main object but in action the main object into rich action description right that doesn't hurt the currently
+there and be that person actually wants to buy something to eat there
+so i mean so please particular action that you may want to characterize you would have some the middle sloughs that define you know in some way what distractions what about you can be i've
+
+so if there's something that you're sending out you can also and mia copying of oscar
+so would be it was still required that information and
+but to favor already have something to print and i can work with that
+and they're just sort of what would you like to buy and
+not i want to go to a bakery maybe their friends that they were going and meet them in a bakery around the area
+i have a question about the slope of the s. p. g. action so damned
+think i'd i'm not if i understand the question only one of those do
+
+and so we had a meeting on friday talking about how to avoid that
+and it proved finally food fall in the sense that we came up with the news scenario for hollow to get the subject two reading have intention
+they're the idea is now that makes actually we need to hire one more person to do that drop because it's
+and they're just saying like what part of town the things censoring
+which hope initiative script together
+i should have we should have added and not annex another example with some excellent of this
+but i think it's we are done think i system can handle that no not at all but to what are we doing
+
+but first question for the subject is so they some things you know we thought the tourist can do is
+perhaps advancers has something to do with the questions for example that just like anything and they're mostly in english
+this and i'm us some of the better happened there and then
+there and then you get your shown what movies too which films and it's going
+and it's going to be of course all the hard to burke movies and what from are actually shoring and
+what's is also and i for me in my mind it's
+other thing i just i was that you could want to go to the big free because you're supposed to meet your friend are some you know to
+
+so clerical so
+so american beauty is american beauty
+at and do we have means of telling it within that
+so it's sort of because being in at first i mean is going up to it and or actually going from one place to another to take a picture in this
+and the things that go into a category are it's suppose to have a corresponding scheme a definition for that time so
+time so i what's the function of having it up there too i mean
+he and then those are the ones actually you then actually define and say how the rules bind to your specific roles which will probably
+
+so i the question is when you actually still ones out it'll be under action scheme those are
+is going to be one of you'll take one of those four or
+and other things it's all of those have they see these either specific france is a real sore more general franks with the roles that might have finding so
+finding so the question is are how do we represent when things are linked in a certain way so
+but this is a texaco detailer so pointer way to
+really references from the roles texaco detailer so pointer way to really say pointers
+really references from the roles in the scheme the bottom seems to the actual game is so i'm assuming really say pointers
+
+and sort of to act upon those
+i'm like i need to be within twenty four hours a day for the seven days that they're here not
+so this is sort of what it looks like now
+who uses this this data structure you
+which is may or may so it's just like a pain to have to send it
+for next i mean just because i knew when i
+
+and we want to maybe ask them if you have get into isolated streets
+got to get rid of these sort of s. p. g. slash something these i wouldn't need to have that right
+these stop actions category because right
+because what does it tell us
+and i that you know this is something we need to discuss that and fact what you could say it's for enter you could
+and you could have also indicated that by saying enter what the kinds of action i am right
+
+and the things censoring
+in and full then right source
+these action team is have extra
+a source but it's independent whether reusing dseg scheme in an interview our approach motorized this is just
+all the i think what we're supposed to thing here is the category of the actions and or even approached too because they have a
+
+it using the database the german t. v. movie
+we have cost action
+because in case we need extra information
+what x. chemo or this action scheme there'll
+thing to buy interesting would you say that the like i mean
+
+do we have those means or even part of the m. c. i opie
+but in this case it's really like there's a purpose means that you know for achieving some other purpose
+if i'm the recipient of such a message and i it's
+they're two different things one of which is you
+it's not actually very actually it doesn't actually i'm it could it occurs to me that i mean it you know one right worthy intended
+
+and motives you know the rest i this is some indications that he wants clemson girl's home from some but the relevance
+and as a matter of fact when i travelled with my friends we make these expected these kinds of appointments we exactly
+but i have a question all it's that's one of the bakery you know in the victorian of stations for you changes and when the before
+no you define i ionizer action going four section
+what are some types of action scheme as one of the types of actions
+
+here and already she has already gone to the trouble of anchoring it's with specific i the into cheese and so she will find in heidelberg
+april twenty six to the may fourth something like
+so forth in the trench actors would be it coming in there as and then the
+right types of that and her viewing approach those
+
+such as if there's a cop a category and emptying your year old a film the person can then decide i want to do that at this place sort of
+who those who know him he's the founder of i see i
+is about seven seventy years old i didn't know he was the founder
+i didn't know he was the founder
+
+the whatever rivers streets
+rivers streets and they know
+and they know that they've decided that yes that's what they want to do this kind of action that they have it with them and they can actually read and person if
+are you worried about being able to identify
+
+and i do have some good news for the natural language generation forever
+and the good news is i it's done
+i mean that two month becker who does the german one actually took out some time and already did it in english for us
+they're there should never be a hard coded fucked up from the bakery question the double scheme thing how
+
+what today is
+i don't know if you want to have in the same level as the action scheme that speech you can it's it somewhere in there
+it's it somewhere in there that you need to represent that there's some kind of center and
+like a source that goal or force whatever right
+
+but is it using the database the
+they both be listed here and
+it is if they're buying sits next scheme what action interesting
+and featuring you guys
+
+i wanted to do dukes one has
+but those could include roles like the thing that you're viewing of thing that you're entering the thing that you're betraying
+too it seems like each of them has its own internal structure and mapping to these scheme is
+get a you have a set of specific additions to the list to be feel rifles and
+
+branch
+i think we got to hit a lot of interesting problems and me in it
+and as i preface that this is the result of one week of argue about it
+being hungry in a specific intention to cross the traffic lights to get a you have
+
+i'm i maybe just reading misinterpreting it into my head and the way that i've always do things
+that may or may not be what you guys intended but if it is
+but if it is in the top block is sort of like
+of like you know you have to list exactly what x. chemo or
+
+i think we've met before like
+a couple times that's right be petty nineteen we've met before like i'm never talking to you about aspect or something like that some someone or other so
+a couple times be to you about aspect
+
+i mean is or counselor and just virtual guidance and
+no i don't we just don't continue anymore roberts i
+we've been arguing about it all week
+
+we're sticking with it i'm dessert
+so this about being recorded also
+the in terms of why is played out like this versus some other the pets
+
+majors and i'm just sending that have the right up that we did on too gross you hear this but but so it was
+experiment the tourist information website this is where they're a website and then you get like figure out what the kind of
+and then we can sort of this answer can say then you may want to find out what to get over here because this
+
+copying of oscar took either of us could post it too
+so the idea is to try to get that's just amazing that they might he was and tried to in to see if it is possible or with the choice of fools i the one experiments that i've in he was pictures so to actually and i did the tests but you know the it right i mean i'm not saying it's necessary but you may be able to combine you know taste and something but you know and also i think it would be a good idea to show them the text it kind of choose the task and then picked it this way and that that's the way so that the most guided by what you want but can come into his own yes in a sense it's expected that the idea which is never possible and that and this and that situation we had to exactly that on our list of possible way things so we were i've made a sort of city thing how that could work are you control you i hear you want to know how to get someplace and this is the plays and it's a museum in you want to do something and there's a person looking at pictures so you know this is exactly getting some place for the intensifying of and looking at pictures however not only worse to comment senses work more all the participants in friday's meeting worse it's got to be very laborious to make these drawings for each different things all the different sections if at all possible and also people would get caught up in the pictures saddam suddenly get descriptions of pictures in there and people talking about pictures and victoria representations and i would still be willing to try it they would have no more linguistic matter in front of the monday enter this room then i suggest we move onto the two we have do you project and make one more general remark has sort of two sites actions it's action items that were dude do you think with one is my to find this marking posture and the other one is so much if i'd find the smart come natural language generation marginal and this is not too complicated but i'm just mentioning it put it in the favorite because this is something we were talk about now i have some news from the generation do you have news from the parts or but that's look i how wonderful did you run into problems or did you run into not having time so that's good that's better than running into problems and i do have some good news for the natural language generation forever and the good news is i it's done i mean that two month becker who does the german one actually took out some time and already did it in english for us and so diversity sending us is already producing the english it's news to get by in version one part one i've it even though the generator is a little bit more complex and it would have been a changing one hundred birds but maybe four hundred words there would have been but this is i good news and the the time and especially bus grow and the time is snow pretty much takes it's the last week of april until the fourth of may it's twenty six who for that there be here not yes i pretty would be better if i talk about it on friday time fired so i think it that was similar to what you did for them watching that they'll be here
+or whatever number of things and pasa partly because you need you know somewhere that those things fall into some categories and a maybe
+
+it's i don't remember getting anything
+take in a batch of arts
+you know it and it opted some attrition for me just do that i
+
+and person if they have been able for the object because it's too hard
+because it's too hard to memorize all these strange german names
+and then we going to have another we're going to have another try run i. e.
+
+talk to a machine it breaks down and then the you were comes on
+inside and enter there would be roles they can be killed so and
+he was that type and you can rent
+
+we were sort of get a protocol concerned so it's like enter versus view
+we were sort of get a protocol of the primary into action right versus view
+but they're shown like on the screen it's a
+
+the tourist can do is anything that interests you
+the person can say shot this is something i would do
+this is something i would do i would go shopping
+
+so to actually and i did the tests
+i was just doing it this way we're talking
+because i knew when i don't really just i just don't know what to make of this and what
+
+right saddam suddenly get descriptions of pictures in there and
+the idea is so imagine we have and i agree off scheme
+a link between the action team that appealed in these and they came up or the image came is that would link is which actions came we were supposed to use it we could
+
+actually name they'll like american t.
+that bothers me that they're the same thing
+because they're two different things one
+
+they'll like american t. v.
+too is there an easy way in dissertation to show when there's identity between things and i
+no it's technically possible that you can fit scheme not written scheme
+
+right i keep looking where your hand is
+being put into the action planning
+and again for john please just focus on the shadow
+
+what that says is that there's an interface between what we are doing any action planner
+i mean but there's what i think of you hit the button and
+that's all recorded
+
+think also that we can have one down as many as you want things from this came up to these action description of it
+but the notion i got from nancy's idea was that we may find sort of concepts sewing rollins and the action description of the actions enter frame up there that i when you talk about the real but actually i tend to close with the goal and i'll be it was something called scheme at and do
+something called scheme at and do
+
+it's not actually very actually it doesn't actually i'm it could it occurs to me that i mean it you know one right worthy intended
+me that i mean it worthy intended interpretation of this
+i mean but buddy's goes the
+
+that put write a letter in these categories that in which it had it would had even as a there could be a communication event action
+even as a exactly he was that there could be a communication event action or something like that and you can rent
+he was that type and you can rent
+
+but on what link daisies for filled out to the action because in my
+because if we know that answer is that as an s. p. g. action right
+we know what to look for in s. p. g. scheme and put up a powerful and they paroles later on and you could have also
+
+and hopefully it is by it by means of keys to that we would be able to get a better form formal and a better semantic idea of what a construction is
+and my we can make it work for us
+
+because it also intense german
+so you had like an action ski
+
+and by the by popular vote
+why don't we get started on that subject anyways
+
+so whereabouts of collected and
+collected and be this the funding things have happened since we last met when will
+
+and more than three
+what happens is that eighty there was some confusion between you and jerry with it they getting to you're talking to gotten snow
+
+made majors major majors in the department
+i'm just tell you what i think of you hit the button
+
+and we have a little description of asking people subjects tool contact save for it recruiting them pauler thing and
+and and that i hope doing
+
+and since we have one already did
+did jerry talking about maybe using our class
+
+the students in the undergrad class he's teaching
+he said we definitely yes however there's
+
+much to reach out to try to get them all but i it's that
+i would just like to ask like if that could happen for next i mean
+
+to try to get them all but i it's that people in class cover a different set so then
+i the is the department that you were talking about
+
+he that's what i suggested to have that people like and you can't too because we have you know people from other areas
+just or even i could you know i in their classes as
+
+not only cox so also we were talking about linguistics
+also we were talking about linguistics and of course comforts
+
+a sort of analogous to what fate say has started in combining biting here and already
+action and then you know somebody need either the computer or the users as i i know i want to do a source that goal actions so what're my choices among that and
+
+them but just that the person is able
+that the person is able to take notes on the map that we would give him in the map would be that tourists systematic representation with the symbol for the objects this other person
+
+and then goes in and toss it tasks with the system
+that's the way so that the most guided by what you want but can
+
+and we're going to try out that any
+questions to he you'll have the say somewhere what their intention was so you still have the
+
+and the censoring
+the that is more i mean for them to have the buildings send their names and maybe some
+
+run i. e. the first with that new setup tomorrow it too
+and we have a really interesting subject which is wrong k.
+
+you could come in as a subject and if
+over here because this is where the shopping the circus
+
+the tourist information website so this is where they're supposed to like figure out what the kind of
+no not at all but the approach inventor
+
+and there's a store there so
+either and i and that's also it's going to produce the concept of speech donovan i'd summation for necessary for one put one in english basin and just you know
+
+so the idea is to try to get that's just amazing that they might he was and tried to in to see if it is possible or with the choice of fools yes
+i don't know that this is a cat and this is a category structure here right action scheme
+
+i the idea which is never possible and that and this and that situation
+i the one experiments that i've in he was pictures
+
+and there's a person looking at pictures so
+it a change every s. p. g.
+
+and also i think it would be a good idea to show them the text it kind of choose the task and
+of choose the task and then picked it this way and that that's the way so that
+
+i have some news from the generation do you have news from the parts
+of which is you could think of one as a sub you know prove wannabe condition for the second
+
+yes i pretty would be better if i talk about it on friday
+and most of them are going to be hollywood movies so american
+
+so that's good time fired
+so that's good time fired
+
+and it would have been a changing one hundred birds but maybe four hundred words there would have been
+then onto the modeling
+
+bus grow and
+time is snow pretty much takes it's the
+
+that it doesn't really have much meaning to grad students but final projects
+guarantee it's just i be here i'll
+
+i'll be here working anyway so this is
+i'll be here working on something so this is
+
+no it's just you know they're coming for us so that we can bar them and ask more
+so no sample generator output yet
+
+so you don't know how determined dying a dog determined that they would i like actually works it
+works the first thing is what's you know showing on t. v.
+
+this is they the scheme the x. m. l. here not
+l. here not an example or something like that this is not an exit of
+
+and then we have forced motion we have
+the other into those is right but having a separate
+
+we have a library of ski mess
+they're going to be you know finish college in their real arcade detail so pass
+
+and we'll have you know force motion and cost action actions
+dry currently this is what the action plan or uses is
+
+to you have the action and the domain object check and i'm what did
+check and i'm what did you think you
+
+laser pointer would be most appropriate there
+and this is on on my list of things that's the next week be that would be
+
+set of between here and here so
+the are some you know to so you like being able to infer the second thing is very useful in probably often right but having
+
+instead of just making an attribute in which is just one thing we decided to make its own entities that we could exploded out later on in case there is some structure that we need to exploit
+because it just x. moment additional but
+
+a block whereas sources just an afternoon is that
+no so it's just it's bad out here first
+
+here first meeting source would be i would have a name it i it maybe i'd i mentioned that i t. maybe
+the kinds of action i am right
+
+this action scheme there'll be a certain one that has his own structure and maybe
+and maybe it has about that specific to entering or viewing or approaching
+
+and you can also describe them in a general way outsource medical him and maybe
+outsource medical him and maybe there's other image came knows that you could you know add after this that you know how do they work in terms of you know a forced dynamics are they working for
+
+and all and of our very easy would you similar you know i happen
+you similar you know i happen to know how what sooner or later means they practice
+
+that commercial event or something food scheme and summer i it
+that commercial event or something food scheme and summer i it
+
+but might be a pain so
+i mean they're truly times when you have two independent goals that they might express it once but in this case
+
+with some excellent example that would
+example and this is on that would be
+
+so damned interview approach they did and up but so it's in these particular action as the
+right you like so you're saying you can practically turned the structure inside out or something or
+
+in a way similar up to i the interview approaching they want to send a little bit a little dictate let's see a dog that
+the i think they and sometimes we think got the task bendix done he because aggressive
+
+so it's sort of somebody derived football much of it that is being pencil this
+redundancy right in which the things that go into a particular you have categories of the top under active scheme and the things that
+
+inside and enter there would viewing approach those are all sorts of school and
+so if you wanted to have a new type action you could anytime category
+
+so if i had one to go from outside inside then you have the all the need needle we have is worth that goal set of roles
+so you start to be outside in pass at the door whatever right
+
+it up there too i mean i i'm wondering whether you could just have outer
+you could just have outer actions gimme they're just sort of say whatever you know going to be interviewer approach or whatever number of things and
+
+the parent categories i list all the parent category a just like
+category a just like frame higher key right like you have
+
+like you have fundraiser so you say enter
+like that so if someone could make an example of what would actually be in it like first
+
+around here re enter it could you're not a coincidence
+i'm i'm just hitting everything with a hammer that i developed i mean
+
+that and so i can do an interview approach it's not
+only one of it's more like just i want to i want to do and enter and
+
+and it's going to get more and more complex the complex or not drawer the main scat
+i think we would have lot of our points in writing so
+
+a couple times that's right be petty nineteen to you about aspect or something like that some someone or other so
+
+you are my g. s. i. briefly until i drop the class yes is that's right
+
+no summoned some introductions are in are
+
+apartment that so the old gang show annoyed advice cry have been with us from day one and
+
+and they're engaged in various activities some of which you will hear about today
+
+and also interested in problems concerning reference of the more complex type
+
+and he sits in as a interest just participant and pepper
+
+that's pretty that a good characterization
+
+that's pretty good i think
+
+keys is not technically one of us yet
+
+but it's too late for now so it's about
+
+i've got the headset on her
+
+especially i you will be joining us in the summer
+
+additionally his interested them surpasses english because it also intense
+
+german extra capability of speaking and writing and understanding and reading that which
+
+do you know nancy i know nancy
+
+i made that they've already nancy sadly the i don't know myself what
+
+the i don't know myself joking you didn't
+
+before you came in win
+
+didn't know i didn't mean to be humor copying but
+
+and say is with us as a love six days ago officially
+
+but in reality already much longer and
+
+much longer and next to some more or less thorough crack with the data collection she's also the wizards and the data collection of
+
+for us i think day
+
+and he it was he completely that some something confusing happened and this
+
+and this idea ways to get sort of speed this of mayors of the department
+
+the students it's exactly how you interpreted it list of majors
+
+it list of majors in the department
+
+made majors major majors
+
+that me and not jerry
+
+using thing that you read up
+
+thing and there was some confusion to the consent form which is that you just signed
+
+however there's always more people in and the fact that department and are just taking his class or anybody else success at the moment to much to reach out
+
+he that's what i suggested to have that people like jerry and george and et cetera just and you can't too because we have you know people from other areas in
+
+or even i could you know i could do the actual their classes as because i mean
+
+could do the actual that's so it's done because i mean i know how to contact our student so if
+
+that's so it's done i know how to contact our student
+
+is it is a general solicitation that you know just contact you then we can proposed posted to the newsgroups
+
+as a matter of fact if you if i couldn't you can send it to me
+
+have very i suggested if you look at your e. mail carefully you may think you may find that you already have it roberts i already really
+
+it's i don't remember getting anything
+
+and then secondly we had you may remember the problem with the re phrasing that subject
+
+that subject always rephrase sort of the task that we gave them
+
+so if you know anyone interested and what i'm about to describe how that person to try to mean to me terry suing passed
+
+i'm a member of a sort of analogous
+
+the these high level categories this subject can take a couple
+
+place sort of make up their own i tell your area and pass
+
+here and i want to maybe take a picture of that's and maybe
+
+of that's and maybe each year
+
+hopefully said they'll have a little bit more natural attraction
+
+not really the street network it that would allow them to figure out their way
+
+and maybe some made a major streets and their names
+
+all project and he was more thinking board some high level thinking tasks and
+
+and we did help you could come in as a
+
+so that's what's going to happen tomorrow
+
+i'm not i understand this but so it's this is what you made
+
+i'm not i understand everything that's been talked about but say like so
+
+are you familiar with that with a very rough set of the based on the website i'm not i understand everything that's been talked about but i imagine i'll catch on say like so it's based on like the materials you had about heidelberg
+
+are you familiar with that with a very rough set of the day that based on the website about but i imagine i'll catch on it's based on like the materials you had about heidelberg there's
+
+set of the day that based on the website there's
+
+day that experiment there's a website and then you get
+
+the tourist information website so this is where they're supposed to like figure out what the kind of
+
+the question is just sort of how do we get the tasks and i had that they have an intention of doing something and have an need to ask the system for something without giving them sort of perky awarding of phrasing of the task because
+
+because what happened then dennis that people reprieve repeats as much as the kind of that freezing
+
+the goals that we've that you guys have been talking about our this these to i i'm which is three modes their question concerned so
+
+that's where the instructor the person we are going to hire and the subject sit down together with these high level things and
+
+would you like to buy and then there you want to buy whatever cookbooks talks and there's
+
+right that's or what's left
+
+and we know that the intention is to enter because we know that the person wants to buy coke so
+
+hopefully that's what i mean to like those tasks are all going to be on in the u. s. about which of the three modes right so
+
+it we had to exactly that on our list of possible way things so
+
+we were i've made a sort of city thing how that could work are you control you i hear you
+
+hear you want to know how to get someplace
+
+and this is the plays
+
+and it's a museum in you want to do something and there's
+
+so you know this is exactly getting some place for the intensifying of and looking at pictures
+
+however not only worse to comment senses work more all the participants in friday's meeting worse it's got to be very laborious to make these drawings for each different things
+
+all the different sections if at all possible
+
+and also people would get caught up in the pictures saddam suddenly
+
+i would still be willing to try it
+
+but you may be able to combine you know taste and something but you know
+
+they would have no more linguistic matter in front of the monday enter this room
+
+then i suggest we move onto the two
+
+we have do you project and make one
+
+and this is not too complicated but
+
+complicated but i'm just mentioning it put it in the favorite
+
+because this is something we were talk about now
+
+do you have news from the parts or
+
+did you run into problems or did you run into not having time
+
+so i think it that was similar to what you did for them watching
+
+i've it even though the generator is a little bit more complex and it would have been
+
+but this is i good news and the
+
+and the the time
+
+and especially bus grow and
+
+it isn't finals coming up and pretty much after that fine it's just
+
+but final projects mine
+
+them and ask more questions and
+
+saddam together and write sensible code and they
+
+and they can get some talks and but
+
+for the seven days that they're here not unless you're really want to they're very dependent
+
+unless you're really want to they're very dependent
+
+not unless you really want to
+
+and this more questions and that's
+
+it just to me that you know you sending me the soon and i was things and
+
+so that was like one of the first thing in the first task was getting at working for him so that's
+
+the basic requirement is full sales morse when
+
+if something actually happens in some answers come out then we're done
+
+so it's not done and they're kind of correct and
+
+so it's not done and they're kind of correct
+
+me there what's running in this and i'm us some
+
+the cutest thing so he'll just displayed
+
+but the to tell you that this is so we don't have to worry about
+
+like that of a car
+
+and it pick seats and all of this so
+
+but it's this at this time we are at an advantage because we're a
+
+person may selects through that and then you know whatever chicken
+
+what's the next thing
+
+the idea here is that
+
+sections can know what that means we have here first of all
+
+with her that are related to start school so that's
+
+also these things may or may not get their own structure in the future
+
+so this is something that you know made us to be it as a result if you work in the future we
+
+in the future we may find out that they're really decide these subtle differences between
+
+even within the domain of ensuring in the light of us up school pensacola scheme they we need to put in to an additional structure up there
+
+kind of so what this week and you know it's sort of the call any of any way we want
+
+it was sort of gave us some had how
+
+gave us some had how do we avoid writing down that we have some of the answers up at gold did this but
+
+different things were talking more on these sort of attention that level out there and more
+
+that i'm supposed to look at it's
+
+and the problem is that the current system does not thing was between goes of type going into goes to type on a go to a place like big picture of et cetera
+
+looks like now since it'll go action from it from an up tick name p. just fairy off the type church tune-up ticket part of tower of the type teller
+
+and is that and that's changeable
+
+check and i'm what did you think you
+
+right i'd like to be a distracting have no
+
+right i'd like to be a distracting enough that i just thought he was have no
+
+enough that i just thought he was doing
+
+which were abbreviated english rad is
+
+so you had like an action ski right a sore spot school ski my rights are the
+
+like is it one of the tags there have go back to that
+
+in this case it wold be but the teachers i i'm it's hard
+
+i i'm it's hard for me to exactly he's so busy that will
+
+he's so busy that will start the object that is
+
+it go so or the in and full so the fillers of the roles source
+
+additional but the fact that action scheme and then sort of watch extra that's the whole
+
+that's a block extra that's the whole and to that's
+
+here first meeting source
+
+maybe kind of orientation could it could also be blocked
+
+motorized this is just proper keys of the s. p. g. scheme
+
+we can talk about past being the fastest the quickest the nicest and so forth
+
+since you bring it up now we worry part of it that's
+
+frames and they have frame specific parameters and roles
+
+are they working for and other things it's all
+
+in a certain way so we you know for enter that there's container potentially involved and
+
+involved and it's not
+
+some kind of center and the interior of it corresponds to some part of the source that's you know go goal i in this case
+
+and i don't know that something we need to invent or you know just
+
+would wasn't there's supposed to be a link in me i invent or you know just
+
+but that's one thing is that we can link up
+
+meaning we can reference for me great that's
+
+this referencing thing however is of temporary nature because
+
+nature because sooner or later the w. three c. would be finished with their dicks path specification and then
+
+specification and then it's going to be even much nicer than we have
+
+nicer than we have really means of pointing at and be you the sensation of one of our elements here and link it to
+
+and link it to another one and this not only within a document but also documents
+
+but as soon so it's
+
+it's there and it's going to be part of the and see other i p. a. p. i. by the end of this year so this
+
+i mean personally i'm looking even more forward to the day when we going to have x. forms which is a form of notation lady that was you just say it u. c. s. p. g. action up there he's enter then the goalie type can never be a statue
+
+a filler
+
+you know this person's not make sense in light of the central never t. how ever semester entry
+
+how ever it is you know some of these sort of things are imaginable
+
+so like i did have some their scheme eyes for f. m. like porch motion the gateway the argentina
+
+we have no present and
+
+have no means of enforcing that
+
+so it's would be considered about it if we have an s. p. g. action and true no it's p. g. scheme but a force action scheme
+
+could happen which is not bad because
+
+in my mind it's crucial really necessary is that we can have much of a scheme us in my action scheme us in parallel and
+
+and these are two different scheme outside either
+
+outside either and so called scheme of getting the and then the buying stacks scheme would
+
+scheme what is the the bikes
+
+so so we what can stay in shape the s. p. g. c. with this up at school about that
+
+and to buy bands you know at bush however in that respect the place thing to buy interesting would you
+
+is a bakery and then i get a commotion action which takes place in a bakery
+
+and they're be identifies identified to be the same thing
+
+so so there's like level little guy the other day so there's
+
+day so there's a single event of which they are both apart and
+
+apart and then they're independently they're events which have very different characters as far as source that's what's to when you identify
+
+to when you identify source school and whatever there's going to be a desire or whatever eating hunger whatever
+
+eating hunger whatever other friends you have involved they have to match up and in ways too it
+
+is also a question of the workers this and i hire hierarchy and they do we
+
+what would it have to be careful but with thing because
+
+because i mean many actions i suppose some of the almost in so many other options if you go to bed early
+
+if you go to bed early you have a general intention off not being hungry maybe
+
+the other into those is or bakery around here not right but having a separate
+
+particular action as the actual this guy and we have a choice over
+
+over the justice
+
+it a change right every s. p. g. action either isn't enter or if you are from right
+
+so it is i'm so old judy was open could be between one and sixteen
+
+however be it seems to be sensible to me you to view the mass mutually exclusive
+
+but he i understand i not do you mean within the source that school actions this three
+
+but no and how racy and so that's
+
+is here's an s. p. g. action and it has to
+
+and it has to different i aspects
+
+because you got to a beagle fuel ito approach it touch it
+
+going and did you g. and that has to do with right it so it's i mean but even within four section of course motion
+
+mean but even within this context but it different auction
+
+and it's all action too would have that is variable possibilities of intel between what you would like to do
+
+these actions i don't know if i'm an answer a question out of this but
+
+a question out of this but the categories inside of action humans s. p.
+
+action humans s. p. g. action as a category all
+
+i don't know that this is a cat and this is
+
+one of the types of actions came as a source that school action
+
+and what are some types of that and
+
+then this category but we put it or it may not
+
+put it or it may not necessarily we put
+
+necessarily we put i knew action name in the categories that and which it has be
+
+wet reactions that are related scheme is like a source
+
+and then later you know the we have a communication of action where we define it down there is
+
+so there's a bit of redundancy right in
+
+categories and a maybe multiple carry jersey you say which is the like a fool messy
+
+got to get rid of these sort of s. you mean but i don't know if i wouldn't need to have that
+
+know this is something we need to discuss that and fact what you could say it's for enter you could
+
+that list all enter you could say here list all the kinds of scheme is that on the category that you know
+
+fundraiser so you say enter you say my parents frames are such a such he and then those
+
+sounds like a paper i've read roles which will probably be richer and fuller and have other in there
+
+sounds like a paper i've read around here re enter and have other in there it could
+
+i mean but there's a good question here like i mean
+
+how do i come at this question
+
+one of to do and enter and then you're more interested in knowing what the parent categories are that
+
+i think i'd i'm not right so that the the sort of representation you were just talking about seems more relevant i kind of think you have to do
+
+it's only turn will be it's hard
+
+it's hard i watched was had the enters the case even approach not be there
+
+it's that came into my mind that sometimes even too could be on a would be interesting
+
+in that case we can't if but i think it's nevertheless maybe i'm not understanding where this comes from and where this goes to what are we doing
+
+the approach inventor
+
+we will not and this discussion anytime soon
+
+that's kind of a contentious point between the two but
+
+was just like so refers organization
+
+yes again so i can listen to you are the reason why one is better than the other i mean that come from other sources
+
+yes because no but no the marches don't this is sources
+
+you always get the whole body of your models and to figure out what the dogs to watch all
+
+all you always it along with it
+
+and every message
+
+may or may not be a just a pain it's it
+
+i'm completely wedding to throw all this away and i understand
+
+wedding to throw all i understand
+
+this away and creepy to redo it you know it and
+
+i a promise for the next time to have session and annex and i like samples pulse for run through and see how this then dates to each other using this right and
+

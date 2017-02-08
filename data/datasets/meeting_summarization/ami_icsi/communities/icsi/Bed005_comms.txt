@@ -1,0 +1,865 @@
+we are all switched on all right all
+on the same form we need a separate form but anyway
+a separate form but anyway i'd like to added a little and think that initial saying i don't want to see the final transcript but other
+that it was about an hour and ten minutes
+and an hour it's we have a complete english sponsored that does everything determine first us and
+so this sentence is isis the same output just think person property
+say have a running here so if i and go i see
+so if i do this now you can see that it promised the wonderful conditions and switch phones are on this and i'm cinema today evening but
+on the cinema or running in the cinema which
+showing i've seen that at the cinema
+i change that five actually when it's on my account you want this evening i see what there which is on tonight
+as and one thing i was wondering was
+business would you do to change to get the x. amount of changed so what it a
+so what it a concert and conquer stay
+i think that's right i think it's actually that looks like it's state modification it's going to change
+where is it's playing that should also be a reference to something maybe
+plans of interest to them the weight
+this you know better but it's probably a good idea to lick to minimize the number of change requests we make of them so it seemed
+we suggest yes i it improvements in description
+as this whole framework problem that i'm feeling really uncomfortable by
+and i haven't had a chance to think about it but
+about it but i want to do the early rather than late
+and sort of we don't know how to handle them to right i mean it's
+we don't know how to handle the declared of forms really and
+cases that we had from last year we first thought about this domain actually was that most
+was that most of the things we talked about our story understanding and have a short
+we want with it being once d. have fulfilled these requirements
+as so i've been in contact with move so probably
+find lacks prejudices like you know touch or
+which means that this is this even if you don't really know anything but it's right
+the important point is that there's it's a general kind of idea of short cutting the full c. p. t. flow conditional
+and up you but at some point in life i i think
+right so there's no numbers there's just
+especially whatever it's probably stick leave whatever would be and it's just it's not a great
+
+are they're going to try and say it's the german data from the t. v. and some of for ontario so
+i have known that too
+place the
+them there were other actions that it's seemed is that state variable somewhere like
+it's actually that looks like it's state modification
+it's it's under underwent subtype you're doing it
+seen it runs around looking for discourse status tags
+can understanding what's going on then and
+route adam ends
+or the right the restaurant where they were later hose and that is that other
+if you're great amounts model problem in here it's
+that's interesting is in a sort of over arching story we worked it out for the as you say this the storytelling scenario
+and the one for next summers just half down and the other half
+down and the other half is this generation thing which we think is much different so once that
+down and the other half is this
+and we can do all sorts of things that don't fit into their framework at all
+but there's no obligation on the news
+no do me doing sensitive information extraction and
+so call that we want to have this kind of structure in our business
+the typical example is that these are all a bunch of q.'s for something and this
+for something and this is in the fact that like to conclude
+like let's just look at the kids were in this is actually be find lacks prejudices
+answer do you approach right so is this
+so i mean we like to take all these various cues right so this one might like i only
+right that's one of the problems is because we're the wherewithal come from is
+
+right so before we get started with the technical part i just want to review what i think is happening with thee our data collection so wheeler still
+activate those classes x. files
+was always it's whenever i just say right it was ever put this in here
+but it to speak english and there
+i asked them whether or not we could a
+it seems to me that some notions were missing
+we have to think that our it in this problem is interesting but just
+but its abstracts or newspapers something like this but
+if you looked like you it's just that the goals
+and have a short discourse and
+so this what is it the basics of it as the teal to get us to do but it's not a big so you become
+like that because it might be a good right that's true to have in general for problems that you know month though but you know
+was a little embarrassing because all this was in his thesis
+because all this was in his thesis and i was honor's thesis
+that doesn't was actually one of the examples he's got in there
+anyways skipping the question of exactly which functions
+it's clear that you might like to be able to shortcuts the whole conditional probability type
+for this they did basements in general are quite good at saying if you have no current information about this variable just take the prior for that
+they're really what i know there seems to kind of i mean you don't need that data enough to cover nearly as much
+
+bought i just want to make we're all together on this what
+and then to be a certain number of hours during the week which she will be available and we'll
+but we'll start with that in parallel
+we also considered using the berkeley high school and the their teachers maybe
+mentioned
+to get it or is was it easy to get it
+so in a sense it's pretty broad
+it gets that from that's correct
+i think that's right i think it's actually that looks it's going to change
+right such a short time
+will be so did you understand is very simple the you have
+no i think the i think the idea is sad
+to not only an hour for a but
+or you know the church across in city hall or kind of didn't
+the whole isn't really relevant that we are getting mostly with sort of questions
+if the things that i'm mark you know that was another thing that says it's
+so no you a funny way of referring to speak lies
+whatever so noise yard my paranoid
+
+nothing was special thought specified except
+does those assumptions action to buy into one right i they actually
+this is where it takes it all in syntax
+converts it somehow
+this is sort of what happens business would
+so once that and all the rest of it is sort of you know what we want the research
+if we can use all they execution engines than we can you know really try things that would be too much pain to do ourselves but there's no obligation
+a particular piece of this big system
+which in german takes these two sentence templates and produces x. m. l. structures
+and one of our jobs was to make the english equivalent of that
+that these guys did in a day
+the other thing is at the other end roughly at the same level there's something that takes x. m. l. structures produces an output x. m. l. structure which he is
+and then after that as synthesizer that goes from an x. m. l. structure too language generation to actual specifications for synthesizer
+i you could partially issues
+probably just as easy i this
+all right would not be able to observe
+that would actually isn't that always this isn't a noisy or anymore
+that would actually isn't that always you are supposed to think of isn't a noisy or anymore
+
+on this what we think it's going to happen is that in parallel starting about now we're going to get say to where are you working with me robert draft a note that we're going to send out to various cog psych another classes saying here's an opportunity to be a subject contact
+and we'll bring in people roughly
+people roughly how many robert
+in parallel with that we're going to need to actually do the script
+and so i it's a plane ever meeting friday afternoon with jane and maybe liz and whoever on actually getting the script worked out but
+then we won't do that spring break so
+meaning conservatives gymnastic classes preschooler parents
+preschooler parents and so forth
+and that's next to but we'll get
+really was that straightforward it be for me and
+so they be not everyone reach german so if you
+probably just partially issues this
+you can put the microphone in your pocket
+whereas in this case is that piece of this ceases says fifty for this right you
+right so it's also more or less like although it isn't necessarily some it's you know some of weights or anything like that i mean you could
+
+not a lot but that's the point
+that that's not a lot point
+there's a future called disco start and one was a feature
+do it now what's the state of the art tough getting two entrances what's
+what's the syntax for that time got getting too
+so that the databases she which
+and if we want to answer a question on that we actually have to go one step before that and understand that
+there was describing the
+but like i don't want to tell you i haven't heard that before
+long right to see a mark if
+be for example they could be time of david's keys
+this assuming that the skew was turned on and the other one just didn't apply
+lies is only one instance this
+
+or really no there's no end
+to the complexity you can build and to the what the in heidelberg might ask
+know your proper names and descriptions and
+it and this is it seems to me that we should maybe i do spend a session over bring some of the better or whether that's a special case in that sense
+looked like you it's just that the goals are very different cases that we had from
+there's no reason why we're constrained to do that if we can
+and much more interesting is the fact that they started doing as we are you know inheriting this system and does all of these other things that's great
+so we were incessantly probably these we
+it and you got one robert i don't
+
+so we're looking for a total of fifty people not necessarily was a sort of a first
+but i'll just make the first draft of the no it's the
+it's the last part if you agree to participate love the opportunity to have anything excise would you prefer not to have included in the data set
+that i didn't measure that it was about an hour
+the you have a wrapped and you got
+reference although the to get out of the language may not be trivial there aren't
+that i sent a message saying here's a way to take
+one thing you could do which is kind of in a way stupid is take this determining stick function and use it to build the c. p. t.
+
+and people look at them some subjects next door
+and we were i was afraid that
+what's going on then the next thing we talked about is actually thing out how to add her own tags and like that
+and as a sport it's sort of this the structure of the map requests
+action and it's important to worry about the language and but
+necessary but not right
+read it so you should take a look how you can you stick with it
+so you should take a look and up you but at some
+
+really simple this is sort of the parameters we have
+no matter how we want to call it there's a sort of alternate and
+but you know it depending what people are interested in one could have two hours one could
+hours one could have explanations of why something is you know why was this done or really no
+and then the and rugged reforms
+and the paper i think
+so i gave buster copy of this sort of ninety two paper it and
+
+object where you where years and in some points of interest in on the
+know your proper and that's aspirin
+talk to i know i'll get some
+what i think i'm going to try to do
+what we want and that's where it gets difficult and i
+so i gave
+than all that right that things can many of a function that combines them in
+
+up in this meeting this should be you know there's a there's another thing going on of gathering data and
+just can understanding compete understanding and
+got the n. c. out for the routes today i
+said i got some more this is sort of
+so you guys will send to the rest of us a version of this
+it's difficult but i
+
+so i mean lately and have them because
+to even though the generator is a little bit more complex
+that means they may need two hours and twenty minutes from time in our ten minutes
+and the next thing i would like to be able to do and it seems like this would not be too difficult either is to say that's not will pretend we are actually wanted to not only change the mapping off of words really unfair but we also wanted to change and he was sentenced i've been could make up
+into the picture or try
+whoa look at that but
+
+think jesus functions act in the context of structure
+great so this is just plain it's a design
+plain it's a design thing not a political thing once
+put him i missing here and then maybe it was just me being stupid is i didn't get the notion of the government of the whole route really
+so it seemed to be what we ought to do is get our story together
+and think about something internally before asking them to make changes
+
+so probably after today that shouldn't come up in this meeting this
+it's just specifications
+this is important but what again it's kind of almost managerial point
+and then there's the language generator and then after that as
+move so probably let's put the doctor like i do i understand better what do you do was a little embarrassing
+
+right up north in it to you and say and then
+what did you end up having to do and
+sentence just think person property
+that's just giving these all body which they may not be for example they could
+that's what they do and they use in that paper
+
+i we have we concluded that these forums are sufficient for us unnecessary
+i think they're necessary
+this and this of course is just the action and it
+i've got a couple new papers as so i've maybe
+they're really what i know there seems to kind of never old i aside these basements to cover nearly as much
+
+accepted but munich everything is fine now
+now transcribed are they're going to
+so at least unless somebody else wants to suggest otherwise i think the general domain we don't have to broadened
+this person heidelberg
+but just to confirm part of tower an object i id in the database is also not pretty trivia
+
+and the reason was that the posse completely ignores the burp
+we are we can attempted i attempted before
+it you medically are facing the switch
+are facing the switch rooms are showing i've seen that at the cinema
+they also seem to affect state to some of
+
+right which is means of ten the system to shut down
+so that's funny you bury this state in the function
+all the entities do have concrete reference although
+when you'd add up the total evidence for thee and hey i don't
+think you do this because jesus function from that
+
+but just automatically initialized things are common right such a short
+so no this kind of do anymore
+for a but more generally the this whole issue of referring expressions and
+formed because there is an apology
+so the idea is that let's call these want to see two c. three and c. four and eat for and effect
+
+or tell or this or that building or unique
+where you say how you know how do i get back
+and i think it's really worth thinking through what it looks like what
+and jumping out of windows and tons of
+it escalated so it's also
+
+and b. problem that we're having was that you know given and know what this to the n.
+given and know it's and for the thought of the see things here we need to specify see times to the in probably these that
+the distinguished disinterested entity you know if there's something for the person talking about did mission see
+so depending on what your situation is their different functions which are most appropriate and
+one of the questions is my prosper is how much of this job the base support
+
+we know so we're fifty was a sort of a first
+that it creates this
+nothing comes out of here
+and here it is the more interesting classes their ballots
+
+so if you happen to be sort of in a non students social stacking and you know people
+and every step as if i'm up checked where you start to object where you
+right i think that's one of the things that's interesting is as many logical
+that's why they invented pocket peace
+
+just the permission form
+there's one tricky part about
+now that we had to be included for this other one which
+other one which might have meetings you know about something in this case
+
+about it could be this evening which ones are on the cinema or running
+so the idea is that you have these untreated no it's right you one
+so this right you one you too eat three eighty before
+so this is the heck run paper you're working with good eighty before
+
+actually it's a little tricky in that there's some allowable german orders which aren't allowable english orders and so forth and it is order
+in the business looks to me like a function call right
+so whenever i it's it encounters goodbye
+there but did you i think that would be great to cross
+
+i change that five actually when it's on my account you want to get it or is this evening i see what there which is on tonight
+i can't stand it
+again there's one module in which there's one piece that we have to convert english right
+because we don't have the access to the information
+
+i saw this actions the goodbye somewhere
+right so this one might be say new terminology
+so if we ever want to wonder what the french it seemed to be not be able to obsessive know
+what the french it seemed to be not be able to obsessive know that's find that
+
+that function automatically generates an initialized eczema structure think jesus
+it seems to me that this way of doing it this other prospective step backwards from the way we've done it before it seems to me
+so this is his specially is preference
+at so specifically in this case you have to have this many numbers whereas in this case is
+
+us is a one i was advocating some tax for actions scheme and true mister approach
+in what we want to request now it's going to leave enough space to do all that right now
+isn't that isn't real hard and
+and one of the questions
+
+and the approximate anyhow is the default
+especially if we want sort
+hose and that is that that would be fine right
+not precisely what we want and that's
+
+the problem isn't the short red grange optimization it's
+it's just sort of one or two year kind of thing
+be say but like new terminology
+and the final thing is that this is a domestic function of these
+
+right now but that requires some thought
+if touch or
+if you've right answer
+just have to see what function this is right
+
+out but what i'd like to it's is this too i say start recruiting in parallel and possibly start running subjects next week after
+week after the spring break and people
+and so that sounds like a great thing to do as the priority item
+
+do the same thing which is we going to check out our social infrastructure for possible subjects meaning
+we love the way the actuality action goodbye maps into something
+where those constrictors to find
+
+you know about something in this case it doesn't really make sense
+departure time oscar went to class and when she came back there was finished
+if it's it disco discourse initiative phrase we would have nothing in the discourse astray what
+
+i do sentences in the city i mean the these are
+know to today evening i'm too evening
+right i think that's one of the things that's interesting is they're just course patterns probably don't follow quite as many logical
+
+and you can have it many variations in the sentences deal suppliers fine
+you give me an example you know worlds on that story carry hours trappings
+you give me an example of a reference problems of liking
+
+and so this means
+this and see i've not optional
+they also seem to affect think jesus functions act in the context of structure and changes in some way from example batting feel to it or something
+
+so if i know their rights goodbye but to do that it
+not a numbers value
+so this is offensive for we have stinky fault so
+
+sometimes it sometimes they find somebody person
+some other and i suggested that they should maybe good kind enough to do two things for us is a one
+and so you other guys can decide how interested isn't
+
+thing once we can just sort of agree on what ought to be done
+i mean i we could take all the standard metaphor examples in the question versions of them
+i don't want to tell you i haven't heard that before
+
+time got getting too stepsons and calculating dose on the spot
+you know to talk about this
+that's especially that we should have
+
+no this is important but
+five and they want to approach it probably point one day
+right so they up with these little tables each of those
+
+then with some suggestions about where do we go from here
+i've got a couple paper i think maybe
+so it is in each of these t. i. is resents walked this would be if all the other ones when distinguished it right so for example
+
+and the scope of this is beyond approach and this service this is
+and this service this is
+this is everything that you know we might want to do in the next couple of years
+
+or you know the church across in city get some kind of didn't
+or you got kicked out of friends
+packages or say hope parse or there's a particular piece
+
+let's say that by the end of spring break i'll try to come up with some story about construction grammar and what constructions
+and what constructions we use and how all this might
+and how all this might get together as this whole framework
+
+if you're discourse and the person talking is trying to i don't know give you a statement tell you something in here it's
+one time but i if part of what i haven't figured out yet is how all this goes together so they
+together so they got some more from the time
+
+what it looks like what is the same spec mean
+et cetera right because for a while we're thinking how can we change the dated to sort of illicit actions that are more like what we are used to but
+i don't know i mean maybe that's what we'll do used to but we would rather you know try to figure out what
+
+so is that makes sense to everybody also
+also buff and i will do something of which i may kindly ask you to do the same thing which
+
+i mentioned
+and again it's just a question of which of these things people want to died into
+
+the final transcript but other than that one's been approved this
+this really is the same project
+
+but i the good use of last week the parts or
+i started working on departure time
+
+right we the first thing we did is we tried to do dude changed the house and into yvonne running or runs that
+and we noticed that whatever we tried to do it had no effect
+
+if you get attached to day and evening at that time or not and it's and the time right
+if you get attached to day and it's and the time right
+
+does look get that but all the rest just simply frosting on the cake and
+so it that these optional elements it's actually a set it is not
+
+today evening if anything happening in this in the mud this evening keywords
+keywords
+
+this the reserve anyways
+is it is something that even mole scary how did you get to the said beating i still talk to
+
+is what i had to do i had to change be offensive to
+you mean that summer actually my fantasy but
+
+this into movies cinema
+movies cinema keynote a cinema
+
+next to but we'll get to that in a second
+i they actually i didn't want to be called
+
+actually watch
+except that it has some references to audio visual media here maybe the
+
+so what is set they right
+but there one was this percentage signs right
+
+and the value of the score is i assume i the more of these outcomes things actually in there the higher their score it is that's the main purpose
+it's difficult but i think we don't need to get beyond it terrorists in heidelberg it
+
+and it's very flexible
+and that's hope that the generation will not be more difficult to even though the generator
+
+it's be great to be i've been could make up some senior i'm it's she
+be great to be a good exercise to just see whether one can get that to run it's she
+
+so where does those assumptions action
+that whatever it takes is in three was it actually changes the state not
+
+how they present it in the courts of sir
+i mean it's some seems very puzzling in some sense where we will be like you to not be hopes so of some of this because we
+
+it has these spies sheets and also the scheme of time sort of probably
+sort of probably does is it takes the
+
+variable somewhere like that discourse status confer
+i thought i should talk a little like that because it might be
+
+it function called hearted nor to put goodbye and content but confirming teachers
+because so it's not just a adding that feel it's
+
+mystery functions
+sometimes it sometimes they find somebody person
+
+on you know it you can see it on the solution and
+and what's the other one so they're just you know with the agendas and the
+
+so they said did your friends back it you email these that
+and what is it that they're actually dealing with in the world
+
+you email so this is not a complicated negotiation that we're doing this
+so this is not a complicated negotiation this is we're doing this
+
+i'll talk we can do it now what's the state
+what it looks like what is the same spec mean et cetera right
+
+days wherever you find a route planner and does nothing but get to the closest part where the street network is at minimum distance with your budgets and
+we suggest yes i it improvements and be description
+
+to you guys that i mean you're doing the interactions but it seemed
+the interactions but it seemed to me that what we ought to do is come up with a something where you
+
+and then having to an iterations within our group saying
+and get our best idea of what we should add
+
+sort of what i might feeding was we sort of reserve something that hasn't and naval that's
+naval that's that was my first sort of step
+
+heidelberg it seems to me we can get all the complexity we want in actions and in language without going outside of course in heidelberg
+so and then here you are it's the person is getting information and they may or
+
+i just thought i'd be surprised that
+that there's any important issues that
+
+we have just commission someone to translate some bits of it i eat
+it i eat the just the more general descriptions of all the objects and persons and events so it's
+
+and events so it's a relation to the rest of perseverance and objects
+you know think that would be great to cross referenced problem really is not trivial even if you have such a defined worlds
+
+something or maybe we should address one of these days is too did most of the work people actually always do is look at some statements and analyze
+and analyze
+
+house
+house
+
+or you know walk why he twice you pushing for promotion or of friends right
+or you know walk why of friends right
+
+or was pushing proof just pick
+just pick any of them and just
+
+yes eat i so and then here
+and i think it's really worth thinking through
+
+so we want to turn it into a understand any stories about heidelberg can do that
+it is it this is was viewed as a kind of a minor thing
+
+and tons of so
+and i think that's the standard way people get around thee
+
+the sort of and i would take up that responsibility
+and get a first draft of that no we
+
+and i was honor's thesis committee
+and so i even really knew this one time but i
+
+actually the idea first all is that each of these things has quote unquote distinguish state which means that this
+so for example if we were you know if the thing is a lot of money or not or if that just doesn't seem relevant then that would be so distinct the distinguished disinterested
+
+but none of the other confusion usually apply
+be this is just represent probably should be should have this assuming
+
+so you know design mark and not isn't really profitable then this would represent probably shouldn't maybe this case
+maybe this case maybe we just maybe decide that if the things that i'm marking we don't know anything else i'm going to include that they want of you would probably be you know point for they want entered
+
+and our example g. would be majority vote
+so the important point he is not what the g. function is
+
+you got one robert i don't know who else has seen it there's i mean
+it's i come in and breeze
+
+and what i sent out about a week ago with an idea of how to do that for evidence combination so one of one function
+estimate but it's the best when you have
+
+no i'm saying is numbers there's just quickly but this and if it's if you
+there is a even if you decide what is appropriate is probably the government's combination you can write a function that doesn't
+
+so we all switched on
+
+and that's pretty much independent of this bought
+
+contact say
+
+people not necessarily by any means all students but we'll start
+
+then we if they would not be here for spring break so
+
+they also sometimes a flexible schedules so if you
+
+stacking and you know people may be interested in being subjects we also
+
+that's a good idea and get them interested in
+
+that's so that's as far as our brainstorming was concerned
+
+and money also copy jane
+
+so what i'd like to do is also have our subject sign a waiver saying i don't want to see the final transcript if they
+
+if they don't if they said no i'm not willing to sign it then shows show the final transcript but
+
+so much for the data
+
+they all seem to be happy happiness but that's
+
+you move on to the technical besides
+
+we can show end up having to do and what was or anything interesting about at all ever going to see
+
+we can show interesting about at all ever going to see
+
+even if you fine it's aw it on of this basic i see
+
+this basic need feature film and t. v. that's today
+
+said it does look get that but all
+
+and this optimum for that part for
+
+so you should you i going to show us the little templates
+
+actually it's a little tricky i've read so i've more or
+
+and so forth and it is order based so
+
+it's actually a set not a sequence
+
+really is who really is keyword matching
+
+so wonderful parts same thing
+
+accepted we don't have this time information here now which is
+
+the reserve anyways so
+
+these of sort of the ten different sentence types that he the parcel was able to do
+
+and just it snow in english
+
+you have already started to make it a little bit more in that birthright
+
+i mean she's the sentences to make it more in attic
+
+so you and look at the time so that's they're conveniently located in a fight templates
+
+to today you know to today
+
+capitalize as and
+
+one thing i was wondering was those functions there are those things that modified m. t.
+
+so the point is if it says this and see it also work and see in this
+
+but those two keywords it right
+
+but i don't know where it gets it from see
+
+have them because if you didn't happen
+
+because it gives you a score
+
+it is that's the main purpose
+
+i think what it does something some offensive notes
+
+where'd actually produces p. d. x. amount of d. parts
+
+so whatever this in the business
+
+which we can make it store in the second here
+
+so that's going to be a call on the discourse and confirm
+
+and confirm that it's you mean that summer
+
+i think that's right i think you mean that summer actually my fantasy but it's going to change
+
+there's a future called disco start and it's whenever one was a feature
+
+then because it may be that all those things they look like function calls are just a way of adding exactly that to the x. m. l.
+
+big goodbye causes it to create in action goodbye and action
+
+know if we know what that writes produces feature discourse status confirmed discussed artist so if i know
+
+confirm goodbye
+
+but there's some kind of function called hearted
+
+doesn't speak german anymore but it to speak
+
+english and there is here a reference
+
+so this status us that whatever is has the idea zero is referenced here the restrictions seed into the picture
+
+what's the sentence
+
+we changed and so we you know we add something to the disc or status that the user wants to change something that we're sort of done before
+
+and that whatever is being changed has something to do with the cinema
+
+narrative discourse maintain or
+
+and other people's northers tax
+
+so i definitely think it's worth the exercise of trying to actually add something that isn't there
+
+so this is somewhat i got today is the then you'll i'm three out for the maps
+
+and dressing like samples so this to see
+
+so this to see x. amount as a sort of what it would look like later on you know
+
+it's not very interesting
+
+and again as he thought it's really simple this
+
+we have the found objects into objects and so forth
+
+so they said did your so these
+
+this is not seven committees or anything right no this
+
+or anything right great so this is just no this is very words
+
+a wrapped and you got it up in different pieces
+
+and every element of that every second week on about them and
+
+and so for me to be we cut up in three different steps
+
+and also since you had suggested that we figure out if we ever find them a reason wanted to got directed to the g. i. s. and the planner
+
+that's all they do with these days wherever
+
+you're in the midst of this you know better but it
+
+is it just makes sense to you guys that
+
+and i don't know who smoke working with closely and probably
+
+take what they have
+
+send it to everybody saying this is what they have this is what we think we
+
+and then go back to that
+
+are i don't know it just makes sense to you or
+
+right that's right so and if we get something in there that is a structure in elaborate and and complex enough to prove maybe enable the whole simulation one of these days that would be the perfect was
+
+so the problem isn't the perfect was
+
+kind of thing this class of things we think we like try to do in a year or two how
+
+two how would we try to characterize as in what we want to request now
+
+change the description to english
+
+about the language and but for the moment just for the class of things we might want to try to encompass
+
+we don't i mean that's an issue we don't know what
+
+an issue we don't know what
+
+that i just this x. m. l. here just has to do with source past goal type
+
+in terms of traveling through heidelberg or right
+
+or travel specifically right
+
+so but the so is the domain greater than that
+
+and it's something somebody comes up with that can't be done that way then whoa look
+
+i mean if you want to pushes into reference problems that would be great
+
+and you know what are these things referring to not only
+
+and again this is like in the database this is also pretty formed because there
+
+and the database and so
+
+and so it isn't like you know the evening star or like that
+
+there aren't really deep mysteries abouts what things the system knows about i
+
+can have both problem and the descriptions and that's aspirin
+
+a lot and after for and pronouns and
+
+we have the whole impressionable databases in german we have
+
+of liking making more concrete how do i get to the potter tower
+
+of liking making more concrete how do i get to the potter tower
+
+to do a small something
+
+your do we ever find metaphor because he was questions in that sense that it
+
+i don't think it's at all difficult to convert them to question forms it really exist and people say all the time
+
+if you're great amounts model problem in here it's
+
+information and they may or may not be following some larger plan you know that we have to recognize or in for
+
+i effect we need and free tickets ten your perspective we need to do that they
+
+assuming we have this and we tend in that case that you do have these wonderful stories and historical anecdotes and
+
+this has been deep that researchers actually there was is part of the on to do isn't something for the future is how can we sort of run our taxes are content turing machine that will enable i say that too retrieve for answer questions what sensibly
+
+so this is what happened is there's
+
+is there's this there was describing
+
+the there's two packages or say
+
+which he is instructions for the generator
+
+difficult and i don't pretend to understand you know what i think we really ought to do
+
+you guys that have started fighting on the base that noisy or front
+
+and so when we just do thee
+
+i was in being you in your pocket because i don't have one
+
+exactly that's why they invented pocket peace
+
+namely that you have you know it's that several times right so
+
+you've right answer
+
+that he is but they see that's what someone mentioned admission fees
+
+it's always or not at the moment
+
+be time of david's keys you could say you know morning afternoon evening night so it this could be
+
+and it's hard probably spent here which is kind of a pain
+
+so noisy always way to sort of vila this
+
+you know if they didn't talk what that would be the distinguished it
+
+so for example that was a person i mean what the thing that they talk or the non market but none of the other
+
+they want entered would probably the would probably point five and
+
+so we can let this be gee if you want come eat too e. t. before and our
+
+flow conditional probability table with some function
+
+which would you choose appropriately for each case so depending on
+
+so you read it how you
+
+it's a good question
+
+it's a good question out so we wanted java support that you mystic functions and
+
+right so the little handout and in a sense it said we can make it supported by nine or the answering you know probably that one and it was right
+
+right so the little handout that little thing that i sent a message
+
+so it but holidays won't do it for you that
+
+that you can convert all that into what the c. p. t. would be
+
+so one of one function that you could use is your g. function isn't as evidence combined you just take
+
+you just take the if each of the ones has his own little table like that then you could take the strength of each of those times it's little paper when you'd add up the total
+
+so that's what the real good at so if you don't
+
+at so if you don't have any information but the discourse you just use your priors of whatever the discourse
+
+and it's just it's not a great estimate but
+
+that they're good at the other problem is how do you feel in all these numbers and
+
+and i think that's what he was getting at so specifically in
+
+this right you have to have just three and
+
+pretty quickly
+
+have i like the function really is one that's essentially says take the max
+
+once their ways of
+

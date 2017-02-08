@@ -1,0 +1,329 @@
+and i'll stand by close the
+you are here in a specific role
+role but it is here as the marketing expert at all is
+is that correct
+we're going to do a little tool training for the tools we are going to use a during the meetings we are going to have here
+then i will tell you a little bit about my idea of the project and and
+the other design stage is we will discuss that later so welcome
+so welcome keep it with the functional design
+current colour you can choose not a colour and
+and for example back and you can they can
+so was dennis thinking about the animal
+and i at all so we'll propose some some of them patience for that's
+and that also will remind people of some new texaco possibilities which are available and which
+i do think it's time not to discuss a some things
+things sebastian told us a few things about be technical implement implications
+just developing this product then we want so that to a very brought up public so
+
+i'm you've got an email from a row account manager about it
+and this is the first meeting to generate some some ideas about it
+the second is the technical functional design
+sensors so they're not grab it here with the led more
+it's on the reissa now so we take
+so we can work together on its we're all fiddle
+all fiddle and use it in in the meetings
+to i'll i'm red and
+i'm red and the documents it should be in the project documents folder if you want
+folder if you want to discuss it with us
+it look more than a bunny than cats but i it works right
+we we will focus
+we we will focus is internationally so the product
+because those are important numbers
+then the discussion maybe the time for sebastian
+switch we as to switch
+
+at all is here as we user interface designer and sebastian
+and sebastian is here in the role of industrial designer is that correct
+those are kind of easy goals and
+we will discuss later on more ideas about how the remote should look and how was it should function and all those kind of things the market
+which consists of three different design stages
+it really like a regular a regular whiteboard
+i'm guessing a morse
+not very good in drawing
+and the production cost should not be more than at twelve euro fifty so
+first about my role of the industrial designer i
+which i may be to take with you and upcoming a discussion one thing about
+i think mode and remote control shoots up control a device that is a subset of equipment for insist
+so i think it's a universal
+
+i will do is the agenda for today for this meeting
+because that might be some installations
+installations influence
+one thing about interloper at a probability
+we should discuss that and
+but all t. v.s are equipped with infra-red so
+but it's cost effective
+but take these things into account when you start the discussion
+and the way of communicating with this equipment
+
+it's important that the laptops are other exactly on the square forty cameras
+so that's just my role i'll just
+i had a few things in mind
+they're very far of a normal
+channels or change between tracks on the c. d. or chapters
+our user interface i had it's more industrial think a point
+
+we're here to develop a new product
+so now i have a different line width and the colour quite
+the remote control we are going to develop will have a selling price of about twenty five euros the profits
+not all model so that's the point
+most of them are used
+it just should change the t. v.s state so
+
+maybe during the discussion section
+this new product we are going to develop
+the television remote control
+and i'm we can find more goals for the product we're going to develop
+the market we should have a look at the market
+we are going to use a private project method cheering at this development which consists
+
+great it's important
+it's also possible to use this one as you can
+i'll show that now
+in the meetings only in the meetings it really like a like
+to switch the between channels or
+
+you control on the board using this pen but there
+but there are a little sensors so
+so we take the pen button
+so not too fast writing
+you can insert in new slide or whiteboards file by a i they're using the instance function or by taking the next button or the blank button it's quite the same
+
+all are and what smart board notes should be kept in the same file so do not
+so do not make a new file just
+you can use your race or two make something get away
+but we all used to say whiteboard file
+
+for a cellphone
+role i'll just i give you a everybody some test call input and
+and i think now it's time is to have a little discussion about what's the product should be and how we should look but
+so the main port and the main points you are timing is our focus on the inter a probability and
+
+good morning
+you today i was a base a trip
+is there are the schedule for this meeting
+
+actually i didn't go out and feel like it's
+and feel like it's have do
+i'll go back to my own presentation
+
+projects kick off
+it's a remote control the television
+yes i have some technical issues which i would like to present do you before we start discussion because
+
+and you can they can choose the line width
+did you do you agree
+or chapters or no d. player so maybe
+
+project the remote control
+so it should fit to every device
+so that was my really my part for this session
+
+are used if you should
+but that's something we should discuss and
+the telephone technical function white what you said is just there pressing the button you should change state of the t. v. that's just
+
+yes so one thing one remote control should control one or more at ease of equipment and the way of
+that was your presentation
+don't have the information for
+
+the way how it should be controlled by user which
+by user which is little or it doing this part
+sense that remote it should work on different t. v.s or even different
+
+marketing expert
+do you want to open it as read only
+
+you should could be laptop or right into the square for
+for the cameras yes good morning so i'll say
+
+good morning miss the p. m. you today
+i'm fine
+
+good morning reid
+three
+
+as you see now i can give a presentation
+which is on your desktop at least it should be
+
+you can displayed at two presentations as you want to
+to present eight to show us a file you need to that place it in your project documents folder which
+
+at least it should be
+then we have decided to make a white board system
+
+i'm just i'm guessing what should be my favourite animal
+start with you on how do you think the remote should function for the user
+
+it should be kept
+is it feed that that animal
+
+any questions or just let me know
+back to our project
+
+and which might be interesting to implement in a product
+for insist d. v. d. player cell phones video and audio equipment so one
+
+we're not living in the in nineteen eighties anymore so infra-red is not
+it's not really hearts the technical anymore but you should
+
+good morning for this
+
+you ready you should could be
+
+good morning so i'll say
+
+i was a base a trip to boston
+
+you have the same as itself so windows can that
+
+close the window
+
+the weighting is for our marketing expert rude
+
+it's important
+
+and we will have a discussion
+
+this meeting should take no more than twenty five minutes so
+
+minutes so we should keep that in mind
+
+is there any room for a little presentation maybe during
+
+this new product
+
+and first of all it should be original it should be trendy and user-friendly those are
+
+the functional design the conceptual design and the detailed design
+
+all of these stages mean that we do some individual work prepare and then and need to discuss are the for the ring in the
+
+in the the progression is yes
+
+regression
+
+the first stage the functional design we are going to search for the user requirements and we will
+
+and we will make a specific as justification of that
+
+what i fact should be remotes have in this case
+
+in this case control that the television i think
+
+and the last one is the working design how exactly
+
+how exactly does it work in the technical sense
+
+before we think about remote control we will work with some of the tools we have here
+
+it here with the led more a little bit more to d. a. t. and
+
+a new file just use this one during the day
+
+you can choose the formats
+
+i it's maybe because i'm not so buttons for that
+
+easy if you do have any questions just ask me to
+
+as a little training i will ask you to do it first to draw a your own animal on the new slide with at a different colour a different line width then the one and that's like that
+
+an animal
+
+it's a bunny
+
+and all that you do the same place but it different animal
+
+but it different animal with the different colour and a different line width
+
+with a very small
+
+beautiful
+
+so you can use this at any time during the presentation if you want to any questions
+
+the profits we are looking for this product is fifty million euros
+
+which is quite a number of
+
+so the product a will be sold if there is market interest in more than one country and
+
+so we should keep that in mind but what way during the development
+
+maybe the time for sebastian to show his presentation
+
+i would like to think about the implementation of of things and
+
+things and the technical possibilities in possibilities so if
+
+so if someone of you comes up with i. d.s i'll try to translate them and technical functions but the might be some
+
+but the might be some in possibilities so that's one
+
+i have some initial ideas about some things
+
+so one re one remote control for all your equipment
+
+there should be some intro put that in probability between them
+
+i think it can come in handy we should
+
+and we should think about the way how these things i should come you get with each other we're not living
+
+but you should it think about things like a bluetooth
+
+but the infra-red it's but old-fashioned if you would call that but all t. v.s
+
+so that's the point so
+
+used if you should equipped infrared and bluetooth together in one remote
+
+and about every everybody should think about it so that's just my
+
+there are other things like how to make it trendy which is
+
+which is i think most the roots role
+
+so let's start with you on how
+
+that and rubber ability just like some sense that
+
+these devices
+
+i think it's a universal remote control for customers to buy it just knowing store it's
+
+it's not for for philips or whatever to buy our remote for their own product right
+
+so we're going this is the consumer not
+
+that it's not i have don't have the information
+
+we're not developing this product for a specific centre are you know we
+
+that's just the basic technical function so that was
+
+so is that ease of use or is it more like a
+
+that's just the fun the technical function is what should the remote control do what is
+
+do what is this task but it has and as an device it just should
+
+state so that's it's
+
+you see the buttons as a means of doing this or are there any or
+
+with buttons
+
+or are there any or all the controls i don't
+
+or maybe you wanna touch screen or
+
+i don't know anyone think
+
+i i've seen these remote controls with this little stick which you can move forward sight words know these things
+
+and it's very easy for user to switch we as
+
+of our user interface
+

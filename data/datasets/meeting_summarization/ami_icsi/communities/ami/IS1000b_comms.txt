@@ -1,0 +1,446 @@
+be the cost might yes
+think that's important matter
+and then we will close this meeting and
+and off this meeting we'll we'll have a look good
+a and i can you do we have present if you don't have pressed
+we're not able to
+a lot so you use a remote control quite frequently while watching television
+fifty percent of users say that they only use ten percent of the buttons so
+so that a remote control a lot of functionality but really
+do you do have to say information on the web page is
+have a web page yes
+with this it's probably easier if you put a new was thing that
+a new was thing that he is
+these numbers of have to be taken into account for the most user interface and functional design
+one day goes on to talk about just which is interesting is
+because it down many numbers and we need
+numbers and we need to select the constraint of our design there's on what is more important
+when they take your chair i
+yes you can say take much
+it you don't have to be near the t. v. at all
+i like that idea
+called say that i was going to use it so
+so that looks
+which people can press and
+press and then gaining a button and we've acting them s. h. which is being sent to the t. v. and the
+but in the present scenario use that you have said that the keys and you
+did you to controls
+the time for you do you can just you know
+know when you come back you
+i like it was try to make you know that's remote that's
+
+you mean the so target group who wants to get
+you don't have pressed think
+i can talk about i have my slides
+probably cut you know honesty i just
+is it easy to do not use it's
+and the only twenty six percent said remote controls are bad r. s. i don't know how
+i don't know how we it's got that common thing that for r.
+i think that or do a doctor the doctor says but this
+i mean so rubber with this it's
+to do it's not going to be see so easy but
+so it's to summarise maybe the
+and so that's a big it was talking about the different demographics and the thing is talking about
+the components i agree to draw here is that it's
+overwhelming
+what are what i was thinking about the schema about to be sender and receiver you can you
+of course we should take that into account and the
+v. remote very hard test the on off button and that one and change and the keys for the number and more than one big you'd option and
+and if you see for example they're like no but use in that one there for a more than one digit option is what would be good it's just like ninety nine but
+then they said this is a standard
+but it then it has an open like stalls and then you play the movie or or four five for the movie or something like that so it has those are these are the sky
+in that case it and you lose that the function should be able to pick up there we see are often and do
+are often and do the play-doh or you can also think
+be in infuriate coming years you might even have a system where you are a separate proceedings said balls and
+
+i see off a lot easier
+we'll see agenda for this meeting
+he i will these anti agenda which would which slides to
+so first
+first of just to mention i will take notes of this meeting and
+see you are the secretary or so it's
+i got from the account manager i
+manager i try to work them out they were quite
+so that everybody knows even if you don't have a very a technical background what is it because i think in the product is important so
+i hope we're get a clearer view on what the remote controller use in terms of technical components but maybe
+it getting just buy a problem like it and plug it to you know you
+but this is a question region of we have to see later but in
+first thing is teletext is known feature of televisions but it's
+that's especially because of the internet of course so
+
+my method for designing their that would design first the
+as it's important to take into a rather user requirements from the marketing expert and that and
+he is a really large you of what we want to we want
+we want but on off button you can
+that can be it may be too technical for you bodies are
+with them either have to look at what they're doing inside so what's the user
+that's a good idea is to send the message to the t. v. set us
+and sends an entire thing and then because of
+and then because of the v. c. word so
+that's so and i have said that this keep people are interested in things which are you don't need to press the keys people can have
+people can have the speech recognition but this is a
+and that it sends that message to the t. v. and that
+so there are two all kinds of remote if you open only in the house or actually so
+
+i mentioned thing that this report was born up is that
+so some way of that location the remote control would be very useful to a lot of users thirty four percent
+thirty four percent said it takes too long to learn to use a remote control the was like it's easy
+the was like it's easy to use try to way more intuitive perhaps
+but we can always change
+and we have nots able to change it so you
+can you can just walk it you don't
+maybe we can go to your presentation that's why i should we were
+that looks is that the
+are these are the sky and then a common belief on remote controls and market
+
+of course we energy sources and the receiver or a receiver this is
+this is a very few "'kay" design use to
+the sole what i've found and after lot of work actually i was use i draw us for you it is scheme are that can
+is it your of always a compromise with a really g. an a if it's expensive but
+this one also really are we able
+the receiver is of course already in the television and
+do we need to decide on and how far we go to the in this
+
+meeting so you will get into
+or potentially
+and i'd first to give a quick it a very simple introduction of how does it work so that
+of course it in the chip you know
+should be kind of forty plus and then we can problem like
+there mean the hardest recorders that i've seen "'em" in the shop
+
+then i will bring in some of some new requirements i
+so it is used but not nearly as much as the channel selection is used
+so these are important numbers that it's
+numbers that it's not you and i need to take into account for our function or
+thirty five percent to thirty five to forty five
+five for eighty percent for forty five to fifty five and then
+
+the customers
+i've just been pretend with some research we've done a small focus groups a hundred
+groups a hundred people disaster that their remote control uses habits and what they want the remote control
+hour channel selection is used and sixty eight times and then there's
+and then there's things like channel settings audio settings only used very infrequently
+
+i have my slides or anything
+fifty five and then i percent fifty five sixty five
+detail about that but these are my preference is to use a kind of components
+but i think it's it's already there mean the hardest
+said about which is good to sit there and that it's going to do that so for me
+
+know honesty i just got a web page this entire that
+is saying that use is jay really dislike the look and feel on their remote controls
+eighty percent of users would spend more money when a remote control would look fancy
+current remote controls do not match the operating behaviour of the user
+that's handy to the
+
+and but we what we can do is the i don't think all the chips inside and choose the best chips and infrared birds
+but you should be kind of forty
+you could think of having zap it you can
+mean you can go pretty far as i think that which functions and possible feature but
+
+are out reconsider of idiom a t. v. so draw this through all the things so maybe we
+usually it has almost all the keys all of that and
+works they've got say maybe a. b. c. r. a. t. is a separate thing
+said balls and there you have a something like that you don't use up
+
+my which then change the channel on the d. c. r. and reagan the t.
+in that case you want to browse firestone postal you want to have those kind of functionalities
+is it i kind of next generation that function ideas
+it's the next generation thing but it is
+
+when you come back you could just sit on that thing and want to program in that case you
+thing but it is going to come in couple of years it's about
+no you're not making a know so them and we're just looking
+but it's good to keep in mind
+
+perfect of course
+we will a in a minute we will start with them
+you have a standard t. v. remote very hard
+
+thirty four percent say that too much time to learn to use new one
+i should be able to actually if i had to you know
+we should do we want what are the think of functions for this remote control and they show you the
+
+and we don't know where the state of the out of speech recognition is maybe you know
+easy but we usually it's going to be more of an isolated is that it's
+yes we'll come back and
+
+the big function of remote control is to send messages to another system that is fixed and
+and so an energy source
+an energy source feeds an integrated circuits the chip that can compose
+
+yes i say s. s tools
+so the big
+
+s. virus that repetitive strain injury
+ninety one
+
+and he would pay more for that why that they were quite useful
+do you have numbers on that
+
+because down from that seventy six
+and the thing is talking about that is the l. c. d. screen but there's no
+
+the line width
+get it really depends where
+
+maybe mile keep you can you be of your presentation
+alright i stay
+
+i would prefer to have the functional or probabilities or whether then fancy stands up and fight you don't use it doesn't work so
+you can be it simple but these things
+
+this is a preference but we can always
+they didn't they ended up to do is do you can just
+
+you can get back to
+that's the receiver
+
+know like it doesn't have teletext option i can
+i can without any it's a very simple
+
+and reagan the t. v. so is
+v. so is it in be like a switch on the remote that says they use a t. v. you use the v. c. r. or does it not which
+
+so that's just ends my presentation
+you then you don't need to borrow it's three and online
+
+five euro and you can see what am i want one and then you
+i have received some for some points of thinking over of my account manager and
+
+that's sort of meeting
+
+of this meeting and i will try to work them out and different are you
+
+also makes no so the previous meeting and
+
+and i was about to send them you but
+
+about to send them you but then i had to go to see same meeting so you will get
+
+then i hope you all have worked out from some presentations about about you did the task if doing the previous meeting
+
+we will see in which order will handle them off
+
+them out they were quite abstract and
+
+abstract and we could have maybe have come from discussion about it's about the functions and
+
+in this meeting we should really try to reach a decision about the target group and the functionality
+
+yes i mean so who are we going to that button to sell this be the cost might
+
+it's probably cut you
+
+seventy five you seventy five percent of users find most remote controls ugly
+
+seventy five percent of users say they zap a lot so you use a
+
+but really were some time and use a small part of that
+
+it's made maybe you can send an email to me layer
+
+so there's a breakout
+
+there's a breakout how much see the functions are right control power
+
+power and volume selection are used a few times within this per hour
+
+teletext is used fourteen times in yellow so it is used but
+
+is that that is fifty percent of users report that the remote control gets lost a lot of the time in the room so some way of
+
+too much time to
+
+but this is the opinion of see to use it so
+
+that's the report says here and then it's got demographic
+
+and then it's got demographic breakdown on
+
+maybe you gonna produce a web page online on the
+
+it "'kay" it's a web page and see it's a five
+
+time
+
+otherwise you you can connect this one
+
+one thing is doing is talking about speech recognition remote control
+
+speech recognition
+
+i'll just stop
+
+we don't do we don't need any buttons on the remote control should
+
+the remote control should be it or a bit and speech
+
+even for hinged
+
+i think that would not works so you would have both options
+
+you would have both options
+
+it would be solution for when you're remote control is lost i mean when it has
+
+i mean when it has beat recognition then it doesn't matter where it is matt what's we should be in range or maybe
+
+or maybe it can response and produce a sound so say where it is but they these
+
+but they these are all quite fancy futures i'm
+
+futures i'm not whether we will we can make this for twelve euros and fifty cents
+
+but it did terribly
+
+then it's it's a very small vocabulary know you want to build operations like you want to sit on off one two right
+
+but it's quite noisy you there is that the t. v. reality
+
+do you have some more important factor for
+
+factor for can we do with the next phase
+
+this is not talking about if you pay for speech recognition in a remote control would pay more for it
+
+ninety percent of the fifteen to twenty five euro market said that they would pay more because down
+
+from that seventy six percent for twenty five to thirty five percent
+
+it's a decline
+
+it really depends where we're gonna be starting this product which will be too bad
+
+which will be too bad that i think
+
+left
+
+perfect
+
+screen but there's no it because on that
+
+no you can wedding
+
+you can move it
+
+we can move us files
+
+i think as everybody knows i'm being a industrial designer
+
+and at in this presentation and this quick presentation but is gonna focus on the working design of the remote control and i'd
+
+that can compose messages easily us through it infrared bits and
+
+and the user interface controls the chip and accordingly the messages right
+
+so my method for
+
+the main point is that i would wish to make a really function our product i
+
+and they show you the working design so
+
+it simple but these things important and so are you willing to to balls channels as as all the buttons that come off till right
+
+in this but you have the remote control the sender and on the other but the receiver so that's
+
+my mid thirties would be too when i'm amy
+
+when i'm amy would be to you designed and choose the chips and the infrared components to beat the remote control i
+
+and the sole
+
+for you bodies are important for me you know
+
+you do a long time and
+
+and it's so i won't go into detail about that but
+
+and why do we want to this kind of common i mean
+
+kind of common i mean i've it cheap or are
+
+i've it cheap or are they reliable what's
+
+reliable what's or your
+
+but a dealer that this one also
+
+that's it for the working design
+
+no we did a this is a preference
+
+so you must adapt to the receiver i suppose
+
+receiver i suppose there is a standard way of communicating televisions
+
+who use a infrared for the colour using you get infrared and
+
+and of course we need to adapt to that would require that already exists and but we
+
+problem like a diary has these are the design a remote are out
+
+but can control the other things
+
+to the t. v. in the next how much are they allowed to do that at all
+
+so you could this one is they didn't they ended
+
+not i think from my we'll consider this a did you think maybe
+
+i should we were finished a it's
+
+a little i don't think i think mine know
+
+i think mine it's
+
+the clinton so i'll be
+
+i went to talk a little bit all of the technical function so
+
+function so what actually it's a board what do the user going to do with them either
+
+so what's the user is going to see from that called say that i was
+
+us and might have wanted and it will be decoded
+
+and it will be decoded by the t. v. and
+
+and the u. c. d. b. e. d.s easier to have a keys are buttons which people
+
+said that the keys and you press it like two point four and that it
+
+but tomorrow we might have all wanted to tennessee remote controls are two hermit can have to close one also but
+
+this is a standard one with without any fancy thing you
+
+it's a very simple thing did
+
+and then you had what's there we go remote by a bit is like
+
+i'm out what i'm i've got a base my which then
+
+it you can have a key which would then we could go to the b. d. o. thing but
+
+you use to time to in that case
+
+in a few days you'll be in infuriate
+
+don't you don't use up with your model builder what some program and actually it downloading all the time for you
+
+so it's going to record your things and you
+
+things and you'd need the functionalities what you need in both the l. e. d. or as as in the standard t. v. thing
+
+and we're just looking at their give it a scenario i have a t. v. and
+
+i have a t. v. and two more i'm going to have said about which is
+
+i can just turned on line five euro and
+
+account manager and i would like to share them with you
+
+but it's getting used less and less
+
+so we should think about it do we included
+
