@@ -2,7 +2,7 @@ import math
 import pynlpl.lm.lm
 
 #sentence='hey how are you'
-#get_n_grams(sentence, n)
+#get_n_grams(sentence, n=3)
 #[('hey',),
 # ('hey', 'how'),
 # ('hey', 'how', 'are'),
