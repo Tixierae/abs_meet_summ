@@ -1,6 +1,14 @@
 import math
 import pynlpl.lm.lm
 
+#sentence='hey how are you'
+#get_n_grams(sentence, n)
+#[('hey',),
+# ('hey', 'how'),
+# ('hey', 'how', 'are'),
+# ('how', 'are', 'you'),
+# ('are', 'you'),
+# ('you',)]
 def get_n_grams(sentence, n):
     ss = sentence.split()
     if len(ss)<n:
