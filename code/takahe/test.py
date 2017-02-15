@@ -49,7 +49,10 @@ for sentence in sentences:
     tagged_sentences.append(' '.join(tagged_sentence))
 
 
+<<<<<<< HEAD
 print tagged_sentences
+=======
+>>>>>>> bf793d5e09edeab94c1411daacc53e4d8ac484e8
 ##########################################################################
 # sentences = ["The/DT wife/NN of/IN a/DT former/JJ U.S./NNP president/NN \
 # Bill/NNP Clinton/NNP Hillary/NNP Clinton/NNP visited/VBD China/NNP last/JJ \
@@ -73,12 +76,10 @@ compresser = compression.word_graph(tagged_sentences,
 # Write the word graph in the dot format
 # compresser.write_dot('new.dot')
 
-
 # Get the 50 best paths
 candidates = compresser.get_compression(50)
 
-
-print compresser.final_score(candidates)
+print compresser.final_score(candidates)[:2]
 # # 1. Rerank compressions by path length (Filippova's method)
 # for cummulative_score, path in candidates:
 
