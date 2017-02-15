@@ -175,7 +175,7 @@ def create_communities(utt_tuples, remove_single=True, my_p=0.85, n_steps=6, big
 ### DATA LOADING ###
 ####################
 
-path_root = 'C:\\Users\\mvazirg\\Documents\\abs_meet_summ'
+path_root = 'd:\\3A\\Projet3A\\project\\abs_meet_summ'
 
 path_to_data = path_root + '\\data\\datasets\\meeting_summarization\\ami_icsi'
 
@@ -189,7 +189,7 @@ with open(path_to_data + '\\lists\\list.icsi.train', 'r+') as txtfile:
 
 # load Google News word vectors 
 # ! Uses approx. 6GB of RAM
-model = gensim.models.word2vec.Word2Vec.load_word2vec_format('E:\\GoogleNews-vectors-negative300.bin.gz', binary=True)  
+model = gensim.models.word2vec.Word2Vec.load_word2vec_format('d:\\3A\\Projet3A\\project\\data\\GoogleNews-vectors-negative300.bin.gz', binary=True)  
 
 # traditional stopwords
 #nltk.download('stopwords')
