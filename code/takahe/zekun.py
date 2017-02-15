@@ -151,10 +151,11 @@ class word_graph:
         self.nb_words = nb_words
         """ The minimal number of words in the compression. """
 
-        self.resources = os.path.dirname(__file__) + '/resources/'
+        self.resources = os.path.dirname(__file__) + '\\resources\\'
         """ The path of the resources folder. """
 
-        self.stopword_path = self.resources+'stopwords.'+lang+'.dat'
+        #self.stopword_path = self.resources+'stopwords.'+lang+'.dat'
+        self.stopword_path = 'C:\\Users\\mvazirg\\Documents\\abs_meet_summ\\code\\takahe\\resources\\stopwords.en.dat'
         """ The path of the stopword list, e.g. stopwords.[lang].dat. """
 
         self.stopwords = self.load_stopwords(self.stopword_path)
@@ -203,7 +204,8 @@ class word_graph:
         #**************************************************************************
         # initialize lan model
         #**************************************************************************
-        self.my_lm = pynlpl.lm.lm.ARPALanguageModel(filename='d:\\3A\\Projet3A\\project\\build_graph\\graph_build\\takahe\\en-70k-0.2.lm',mode='simple')
+        print 'loading language model'
+        self.my_lm = pynlpl.lm.lm.ARPALanguageModel(filename='C:\\Users\\mvazirg\\Documents\\en-70k-0.2.lm',mode='simple')
 
         #**************************************************************************
         # initialize mapping to build edges
@@ -1269,7 +1271,7 @@ class word_graph:
             sentence = nbest_compressions[i][1]
             sentence = " ".join([word[0] for word in sentence])
             sentence = cr.clean_text_simple(sentence,pos_filtering=False, stemming=False)
-            print sentence
+            #print sentence
             for j in range(len(sentence)):
                 scores[i] += self.core_rank_scores[sentence[j]]
         return scores
