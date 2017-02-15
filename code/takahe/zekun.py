@@ -245,6 +245,7 @@ class word_graph:
         sorted_cores_g = cr.core_dec(g, weighted=True)
         # get CoreRank scores
         core_rank_scores = dict(cr.sum_numbers_neighbors(g, sorted_cores_g))
+
         return core_rank_scores
     #**************************************************************************
     # END       initialize a graph for core rank scores
@@ -394,8 +395,9 @@ class word_graph:
                     node_to_append = self.best_candidate_context(same_candidates,i,j)
                     self.graph.node[node_to_append]['info'].append((i,j))
                     self.mapping[i][j] = node_to_append
+                    continue
 
-                elif (syn_candidates != []):
+                if (syn_candidates != []):
                     node_to_replace, max_score = self.best_candidate_coreRank(syn_candidates, token)
                     if max_score < self.core_rank_scores[token]:
                         # Update the node in the graph
@@ -405,8 +407,9 @@ class word_graph:
                         self.graph.node[node_to_replace]['info'].append((i,j))
                         # Mark the word to node-to-replace
                         self.mapping[i][j] = node_to_replace
+                    continue
 
-                elif (hyp_candidates != []):
+                if (hyp_candidates != []):
                     node_to_replace, max_score = self.best_candidate_coreRank(hyp_candidates, token)
                     if max_score < self.core_rank_scores[token]:
                         # Update the node in the graph
@@ -415,19 +418,23 @@ class word_graph:
                         self.graph.node[node_to_replace]['info'].append((i,j))
                         # Mark the word to node-to-replace
                         self.mapping[i][j] = node_to_replace
+                    continue
 
 
-                elif (common_hyp_candidates != []):
+                if (common_hyp_candidates != []):
                     # Use path_similarity to Find the nearest common hypernyme
                     node_to_replace, common_hyp, max_score = \
                         self.best_candidate_similarity(common_hyp_candidates, node)
                     # Update CoreRank scores
-                    self.core_rank_scores.update({common_hyp.lemmas()[0].name() : max_score})
-                    # Update the node in the graph
-                    self.update_nodes_common_hyp(node_to_replace, common_hyp, i, j)
+                    if max_score!=0:
+                        self.core_rank_scores.update({common_hyp.lemmas()[0].name() : max_score})
+                        # Update the node in the graph
+                        self.update_nodes_common_hyp(node_to_replace, common_hyp, i, j)
+                        print node, node_to_replace,common_hyp
+                        continue
 
 
-                elif (entail_candidates != []):
+                if (entail_candidates != []):
                     node_to_replace, max_score = self.best_candidate_coreRank(syn_candidates, token)
                     if max_score < self.core_rank_scores[token]:
                         # Update the node in the graph
@@ -436,12 +443,14 @@ class word_graph:
                         self.graph.node[node_to_replace]['info'].append((i,j))
                         # Mark the word to node-to-replace
                         self.mapping[i][j] = node_to_replace
+                    continue
 
-                else:
-                    self.graph.add_node((node, k),
-                                        info=[(i,j)],
-                                        label=token.lower())
-                    self.mapping[i][j] = (node, k)
+                self.graph.add_node((node, k),
+                                    info=[(i,j)],
+                                    label=token.lower())
+                self.mapping[i][j] = (node, k)
+
+            
                 #-------------------------------------------------------------------
            
 
@@ -624,6 +633,8 @@ class word_graph:
         for node1, node2 in self.graph.edges_iter():
             edge_weight = self.get_edge_weight(node1, node2)
             self.graph.add_edge(node1, node2, weight=edge_weight)
+
+
     #-B-----------------------------------------------------------------------B-
 
  
@@ -754,9 +765,11 @@ class word_graph:
                 word_to_replace = tmp_word
                 common_hyp = tmp_hyp
                 max_score = tmp_score 
-
-        return node_to_replace, common_hyp, max(self.core_rank_scores[word], 
+        if(max_score>0.04):
+            return node_to_replace, common_hyp, max(self.core_rank_scores[word], 
                                                 self.core_rank_scores[word_to_replace])
+        else:
+            return None,None,0
 
 
     #**************************************************************************
@@ -1256,7 +1269,7 @@ class word_graph:
                     score += math.exp(my_model.ngrams.prob(n_gram))
                 except KeyError:
                     score += unknownwordprob
-            return score      
+            return score/len(n_grams)      
         else:
             print 'order exceeds total number of words'
             return
@@ -1269,7 +1282,7 @@ class word_graph:
             sentence = nbest_compressions[i][1]
             sentence = " ".join([word[0] for word in sentence])
             sentence = cr.clean_text_simple(sentence,pos_filtering=False, stemming=False)
-            print sentence
+            # print sentence
             for j in range(len(sentence)):
                 scores[i] += self.core_rank_scores[sentence[j]]
         return scores
@@ -1289,7 +1302,9 @@ class word_graph:
         for i in range(ll):
             sentence_len = len(nbest_compressions[i][1])
             score = nbest_compressions[i][0]/fl_score[i]/(sentence_len*cr_score[i])
-            bisect.insort(scores, (score , nbest_compressions[i][1]))
+            sentence = nbest_compressions[i][1]
+            sentence_clean = " ".join([word[0] for word in sentence])
+            bisect.insort(scores, (score , sentence_clean))
 
         return scores
     #**************************************************************************

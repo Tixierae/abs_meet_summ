@@ -9,10 +9,37 @@ import copy
 from nltk.corpus import stopwords
 # requires nltk 3.2.1
 from nltk import pos_tag
+import os
+import codecs
+import re
+
+def load_stopwords(path):
+    """
+    This function loads a stopword list from the *path* file and returns a 
+    set of words. Lines begining by '#' are ignored.
+    """
+
+    # Set of stopwords
+    stopwords = set([])
+
+    # For each line in the file
+    for line in codecs.open(path, 'r', 'utf-8'):
+        if not re.search('^#', line) and len(line.strip()) > 0:
+            stopwords.add(line.strip().lower())
+
+    # Return the set of stopwords
+    return stopwords
+
 
 def clean_text_simple(text, remove_stopwords=True, pos_filtering=True, stemming=True):
+    resources = os.path.dirname(__file__) + '/resources/'
+    """ The path of the resources folder. """
+    lang = 'en'
+    stopword_path = resources+'stopwords.'+lang+'.dat'
+    """ The path of the stopword list, e.g. stopwords.[lang].dat. """
+
     
-    punct = string.punctuation.replace('-', '')
+    punct = string.punctuation.replace('-', '').replace('_','')
     
     # convert to lower case
     text = text.lower()
@@ -43,7 +70,7 @@ def clean_text_simple(text, remove_stopwords=True, pos_filtering=True, stemming=
                 tokens_keep.append(item[0])
         tokens = tokens_keep
     if remove_stopwords:
-        stpwds = stopwords.words('english')
+        stpwds = load_stopwords(stopword_path)
         # remove stopwords
         tokens = [token for token in tokens if token not in stpwds]
     if stemming:
