@@ -140,7 +140,7 @@ class word_graph:
     """
 
     #-T-----------------------------------------------------------------------T-
-    def __init__(self, sentence_list, nb_words=8, lang="en", punct_tag="PUNCT", pos_separator='/'):
+    def __init__(self, sentence_list, model, nb_words=8, lang="en", punct_tag="PUNCT", pos_separator='/'):
 
         self.sentence = list(sentence_list)
         """ A list of sentences provided by the user. """
@@ -151,11 +151,10 @@ class word_graph:
         self.nb_words = nb_words
         """ The minimal number of words in the compression. """
 
-        self.resources = os.path.dirname(__file__) + '\\resources\\'
+        self.resources = os.path.dirname(__file__) + '/resources/'
         """ The path of the resources folder. """
 
-        #self.stopword_path = self.resources+'stopwords.'+lang+'.dat'
-        self.stopword_path = 'C:\\Users\\mvazirg\\Documents\\abs_meet_summ\\code\\takahe\\resources\\stopwords.en.dat'
+        self.stopword_path = self.resources+'stopwords.'+lang+'.dat'
         """ The path of the stopword list, e.g. stopwords.[lang].dat. """
 
         self.stopwords = self.load_stopwords(self.stopword_path)
@@ -202,15 +201,20 @@ class word_graph:
         #**************************************************************************
 
         #**************************************************************************
-        # initialize lan model
+        # get lan model from param
         #**************************************************************************
-        print 'loading language model'
-        self.my_lm = pynlpl.lm.lm.ARPALanguageModel(filename='C:\\Users\\mvazirg\\Documents\\en-70k-0.2.lm',mode='simple')
+        self.lm_class = model
 
         #**************************************************************************
         # initialize mapping to build edges
         #**************************************************************************
         self.mapping = []
+
+        #**************************************************************************
+        # initialize mapping to build edges
+        #**************************************************************************        
+        self.common_hyp_threshold_verb = 0.9
+        self.common_hyp_threshold_nonverb = 0.1
 
 
         # 1. Pre-process the sentences
@@ -749,6 +753,13 @@ class word_graph:
         pos = self.tagging(tag)
         syn_to_add = wn.synsets(word, pos)[0]
 
+        # choose different threshold for verb and non-verb, because wordnet's common hypernyme for verb doesn't seem good
+        if pos == wn.VERB:
+            threshold = self.common_hyp_threshold_verb
+        else:
+            threshold = self.common_hyp_threshold_nonverb
+
+
         node_to_replace = None
         word_to_replace = None
         common_hyp = None
@@ -766,8 +777,10 @@ class word_graph:
                 node_to_replace = tmp_node
                 word_to_replace = tmp_word
                 common_hyp = tmp_hyp
-                max_score = tmp_score 
-        if(max_score>0.04):
+                max_score = tmp_score
+
+
+        if(max_score > threshold):
             return node_to_replace, common_hyp, max(self.core_rank_scores[word], 
                                                 self.core_rank_scores[word_to_replace])
         else:
@@ -918,10 +931,12 @@ class word_graph:
         for gnode in self.graph.nodes():
             ref_word, ref_tag = gnode[0].split(self.sep)
             ref_pos = self.tagging(ref_tag)
-            for gnode_syn in wn.synsets(ref_word, pos=ref_pos):
-                for gnode_hyp in gnode_syn.hypernyms():
-                    if (gnode_hyp in hyps_word) and ([gnode, hyp] not in hyps_nodes):
-                        hyps_nodes.append((gnode, hyp))
+            # first compare theirs POS tags
+            if ref_pos == pos:
+                for gnode_syn in wn.synsets(ref_word, pos=ref_pos):
+                    for gnode_hyp in gnode_syn.hypernyms():
+                        if (gnode_hyp in hyps_word) and ([gnode, gnode_hyp] not in hyps_nodes):
+                            hyps_nodes.append((gnode, gnode_hyp))
         return hyps_nodes 
 
     def entail_nodes(self,node):
@@ -1246,35 +1261,35 @@ class word_graph:
     # Path selection with core-rank-score
     #**************************************************************************
 
-    def get_n_grams(self, sentence, n):
-        ss = sentence.split()
-        if len(ss)<n:
-            print 'order exceeds total number of words'
-            n_grams = []
-        else:
-            n_grams, k = [], 0
-            for i in range(len(ss)):
-                if k >= n:
-                    break
-                n_grams.append(tuple(ss[:i+1]))
-                k += 1
-            for i in range(1,len(ss)):
-                n_grams.append(tuple(ss[i:i+n]))
-        return n_grams
+    # def get_n_grams(self, sentence, n):
+    #     ss = sentence.split()
+    #     if len(ss)<n:
+    #         print 'order exceeds total number of words'
+    #         n_grams = []
+    #     else:
+    #         n_grams, k = [], 0
+    #         for i in range(len(ss)):
+    #             if k >= n:
+    #                 break
+    #             n_grams.append(tuple(ss[:i+1]))
+    #             k += 1
+    #         for i in range(1,len(ss)):
+    #             n_grams.append(tuple(ss[i:i+n]))
+    #     return n_grams
 
-    def get_sentence_score(self, sentence, my_model, n, unknownwordprob=0):
-        score = 0
-        n_grams = self.get_n_grams(sentence, n)
-        if n_grams:
-            for n_gram in n_grams:
-                try:
-                    score += math.exp(my_model.ngrams.prob(n_gram))
-                except KeyError:
-                    score += unknownwordprob
-            return score/len(n_grams)      
-        else:
-            print 'order exceeds total number of words'
-            return
+    # def get_sentence_score(self, sentence, my_model, n, unknownwordprob=0):
+    #     score = 0
+    #     n_grams = self.get_n_grams(sentence, n)
+    #     if n_grams:
+    #         for n_gram in n_grams:
+    #             try:
+    #                 score += math.exp(my_model.ngrams.prob(n_gram))
+    #             except KeyError:
+    #                 score += unknownwordprob
+    #         return score/len(n_grams)      
+    #     else:
+    #         print 'order exceeds total number of words'
+    #         return
 
 
     def sentence_core_rank_score(self, nbest_compressions):
@@ -1284,11 +1299,7 @@ class word_graph:
             sentence = nbest_compressions[i][1]
             sentence = " ".join([word[0] for word in sentence])
             sentence = cr.clean_text_simple(sentence,pos_filtering=False, stemming=False)
-<<<<<<< HEAD
             # print sentence
-=======
-            #print sentence
->>>>>>> bf793d5e09edeab94c1411daacc53e4d8ac484e8
             for j in range(len(sentence)):
                 scores[i] += self.core_rank_scores[sentence[j]]
         return scores
@@ -1297,7 +1308,7 @@ class word_graph:
         all_scores = []
         for w, sentence in nbest_compressions:
             sentence_clean = " ".join([word[0] for word in sentence])
-            all_scores.append(self.get_sentence_score(sentence=sentence_clean, my_model=self.my_lm, n=3))
+            all_scores.append(self.lm_class.get_sentence_score(sentence=sentence_clean, my_model=self.lm_class.my_lm, n=3))
         return all_scores
         
     def final_score(self, nbest_compressions):

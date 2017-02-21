@@ -4,6 +4,7 @@
 import zekun as compression
 import string
 from nltk import pos_tag
+from lan_model import language_model
 
 def separate_punct(token):
     punct_in_token = list(set([l for l in token if l in punct]))
@@ -49,10 +50,7 @@ for sentence in sentences:
     tagged_sentences.append(' '.join(tagged_sentence))
 
 
-<<<<<<< HEAD
 print tagged_sentences
-=======
->>>>>>> bf793d5e09edeab94c1411daacc53e4d8ac484e8
 ##########################################################################
 # sentences = ["The/DT wife/NN of/IN a/DT former/JJ U.S./NNP president/NN \
 # Bill/NNP Clinton/NNP Hillary/NNP Clinton/NNP visited/VBD China/NNP last/JJ \
@@ -64,6 +62,11 @@ print tagged_sentences
 # visited/VBD Chinese/JJ officials/NNS ./PUNCT"]
 ##########################################################################
 
+# Create a language model
+my_lm = language_model(model_path='d:\\3A\\Projet3A\\project\\build_graph\\graph_build\\takahe\\en-70k-0.2.lm')
+
+##########################################################################
+
 # Create a word graph from the set of sentences with parameters :
 # - minimal number of words in the compression : 6
 # - language of the input sentences : en (english)
@@ -71,15 +74,19 @@ print tagged_sentences
 compresser = compression.word_graph(tagged_sentences,
                                     nb_words=6,
                                     lang='en',
-                                    punct_tag="PUNCT")
+                                    punct_tag="PUNCT", model=my_lm)
 
 # Write the word graph in the dot format
 # compresser.write_dot('new.dot')
 
+
 # Get the 50 best paths
 candidates = compresser.get_compression(50)
 
-print compresser.final_score(candidates)[:2]
+
+final_paths = compresser.final_score(candidates)
+for i in range(len(final_paths)):
+    print final_paths[i][0], final_paths[i][1]
 # # 1. Rerank compressions by path length (Filippova's method)
 # for cummulative_score, path in candidates:
 
