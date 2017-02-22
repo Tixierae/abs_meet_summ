@@ -12,7 +12,7 @@ from sklearn.metrics.pairwise import euclidean_distances as ed
 # returns the vector of a word
 def my_vector_getter(word, wv):
     try:
-		# we use reshape because cosine similarity in sklearn now works only for multidimensional arrays
+        # we use reshape because cosine similarity in sklearn now works only for multidimensional arrays
         word_array = wv[word].reshape(1,-1)
         return (word_array)
     except KeyError:
@@ -61,7 +61,6 @@ path_to_wv = 'E:\\' # to fill
 # it takes quite some time, so it is better to compute the entire vocabulary for all sentences in all communities and load the vectors once at the beginning
 
 vectors.intersect_word2vec_format(path_to_wv + 'GoogleNews-vectors-negative300.bin.gz', binary=True)
-
 
 # for vector normalization (in case)
 #vectors.init_sims(replace=True)
