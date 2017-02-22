@@ -151,8 +151,8 @@ class word_graph:
         self.nb_words = nb_words
         """ The minimal number of words in the compression. """
 
-        self.resources = os.path.dirname(__file__) + '/resources/'
-        """ The path of the resources folder. """
+        self.resources = 'd:\\3A\\Projet3A\\project\\build_graph\\graph_build\\takahe\\resources\\'      
+        # """ The path of the resources folder. """
 
         self.stopword_path = self.resources+'stopwords.'+lang+'.dat'
         """ The path of the stopword list, e.g. stopwords.[lang].dat. """
@@ -330,6 +330,11 @@ class word_graph:
         """     
 
         # Iteratively add each sentence in the graph --------------------------
+        #-------------------------------------------------------------------
+        # 1. non-stopwords 
+        #    same_nodes, synonyme_nodes, hypernyme_nodes, 
+        #    common_hypernym_nodes, entail_nodes
+        #-------------------------------------------------------------------
         for i in range(self.length):
 
             # Compute the sentence length
@@ -338,11 +343,6 @@ class word_graph:
             # Create the mapping container
             self.mapping.append([0] * sentence_len) 
 
-            #-------------------------------------------------------------------
-            # 1. non-stopwords 
-            #    same_nodes, synonyme_nodes, hypernyme_nodes, 
-            #    common_hypernym_nodes, entail_nodes
-            #-------------------------------------------------------------------
             for j in range(sentence_len):
 
                 # Treat '-start-/-/-start-' and '-end-/-/-end-'
@@ -458,11 +458,11 @@ class word_graph:
 
             
                 #-------------------------------------------------------------------
-           
 
-            #-------------------------------------------------------------------
-            # 2. map the stopwords to the nodes
-            #-------------------------------------------------------------------
+        #-------------------------------------------------------------------
+        # 2. map the stopwords to the nodes
+        #-------------------------------------------------------------------        
+        for i in range(self.length):
             for j in range(sentence_len):
 
                 # Get the word and tag
@@ -546,9 +546,10 @@ class word_graph:
                         # Mark the word as mapped to k
                         self.mapping[i][j] = (node, k)
 
-            #-------------------------------------------------------------------
-            # 3. At last map the punctuation marks to the nodes
-            #-------------------------------------------------------------------
+        #-------------------------------------------------------------------
+        # 3. At last map the punctuation marks to the nodes
+        #-------------------------------------------------------------------
+        for i in range(self.length):
             for j in range(sentence_len):
 
                 # Get the word and tag

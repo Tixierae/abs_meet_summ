@@ -33,7 +33,8 @@ def separate_punct(token):
 # do not consider dashes and apostrophes
 punct = string.punctuation.replace('-', '').replace("'", '')
 
-sentences=["Lonesome George, the world's last Pinta Island giant tortoise, has passed away","The giant tortoise known as Lonesome George died Sunday at the Galapagos National Park in Ecuador.", "He was only about a hundred years old, but the last known giant Pinta tortoise, Lonesome George, has passed away.", "Lonesome George, a giant tortoise believed to be the last of his kind, has died."]
+# sentences=["Lonesome George, the world's last Pinta Island giant tortoise, has passed away","The giant tortoise known as Lonesome George died Sunday at the Galapagos National Park in Ecuador.", "He was only about a hundred years old, but the last known giant Pinta tortoise, Lonesome George, has passed away.", "Lonesome George, a giant tortoise believed to be the last of his kind, has died."]
+sentences = ['the meeting is about the design of a remote control','today, we will focus on the remote control','the production cost and price of the remote are two important parameters', 'design decisions will impact the price of the remote control',"today's meeting deals with designing the remote control",'the topic today is the remote control']
 
 tagged_sentences = []
 for sentence in sentences:
