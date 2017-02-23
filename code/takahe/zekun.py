@@ -419,7 +419,7 @@ class word_graph:
                     node_to_replace, max_score = self.best_candidate_coreRank(hyp_candidates, token)
                     if max_score < self.core_rank_scores[token]:
                         # Update the node in the graph
-                        self.update_nodes(node_to_replace, i, j)
+                        self.update_nodes(node_to_replace, node, i, j)
                     else:
                         self.graph.node[node_to_replace]['info'].append((i,j))
                         # Mark the word to node-to-replace
@@ -444,7 +444,7 @@ class word_graph:
                     node_to_replace, max_score = self.best_candidate_coreRank(syn_candidates, token)
                     if max_score < self.core_rank_scores[token]:
                         # Update the node in the graph
-                        self.update_nodes(node_to_replace, i, j)
+                        self.update_nodes(node_to_replace, node, i, j)
                     else:
                         self.graph.node[node_to_replace]['info'].append((i,j))
                         # Mark the word to node-to-replace
@@ -463,6 +463,8 @@ class word_graph:
         # 2. map the stopwords to the nodes
         #-------------------------------------------------------------------        
         for i in range(self.length):
+            # Compute the sentence length
+            sentence_len = len(self.sentence[i])
             for j in range(sentence_len):
 
                 # Get the word and tag
@@ -550,6 +552,8 @@ class word_graph:
         # 3. At last map the punctuation marks to the nodes
         #-------------------------------------------------------------------
         for i in range(self.length):
+            # Compute the sentence length
+            sentence_len = len(self.sentence[i])
             for j in range(sentence_len):
 
                 # Get the word and tag
