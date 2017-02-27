@@ -32,12 +32,12 @@ def load_stopwords(path):
 
 
 def clean_text_simple(text, remove_stopwords=True, pos_filtering=True, stemming=True):
-    resources = os.path.dirname(__file__) + '/resources/'
+    #resources = os.path.dirname(__file__) + '/resources/'
     """ The path of the resources folder. """
-    lang = 'en'
-    stopword_path = resources+'stopwords.'+lang+'.dat'
+    #lang = 'en'
+    #stopword_path = resources+'stopwords.'+lang+'.dat'
     """ The path of the stopword list, e.g. stopwords.[lang].dat. """
-
+    stopword_path = 'C:\\Users\\mvazirg\\Documents\\abs_meet_summ\\code\\takahe\\resources\\stopwords.en.dat'
     
     punct = string.punctuation.replace('-', '').replace('_','')
     
@@ -160,7 +160,7 @@ def core_dec(g, weighted = True):
 		heap_g = zip(gg.vs["weight"],gg.vs["name"])
 		heapq.heapify(heap_g)
 
-		for i in range(11):
+		while len(heap_g)>0:
 			
 			top = heap_g[0][1]
 			# find vertice index of heap top element
