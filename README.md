@@ -11,16 +11,12 @@
   
   
 * Next steps:
-
-  * Zekun & Wensi:
   
-   *(1) fix what remains to be fixed in the graph building code (syns, hyper/hypo, stopwords...)
-   *(2) test that it works as expected on examples manually built (either from English Google News or from AMI/ICSI corpora)
-   *(3) implement path scoring and ranking module as we discussed
-  * Antoine: perform community detection (grouping of related sentences) and community cleaning (elimination of redundant and non-informative sentences) in an *unsupervised* way. Send some example of clusters to Zekun & Wensi
-  * next face-to-face progress meeting to be determined after Christmas break. I am always available via email for questions, even during the break (it just might take me more time to respond).
+   *(1) integrate word attraction force
+   *(2) try embedding-based clustering of keywords
+   *(3) re-organize the code so that all tuning parameters are easily accessible
+   *(4) run experiments for traditional documents and meetings
 
-  
 * Word embeddings resources:
 
  * note that the Word Mover's Distance paper and the CoreRank (EMNLP 2016) paper are already in the 'papers' folder.
