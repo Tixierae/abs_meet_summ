@@ -12,7 +12,7 @@
   
 * Next steps:
   
-   *(1) integrate word attraction force
+   *(1) integrate word attraction force, do not consider proper nouns (NNP) for synonym/hypernym/entailment replacement
    *(2) try embedding-based clustering of keywords
    *(3) re-organize the code so that all tuning parameters are easily accessible
    *(4) run experiments for traditional documents and meetings
