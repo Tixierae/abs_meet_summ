@@ -1,655 +1,74 @@
-and also putting on them in the shared folder so
-and what people do most often is changing the channel and changing the volume people are
-people are so is that like change the channel but that sixty five percent terrain and our views so we really
-much more infrequently in power which complicate what's going on
-the remote or what we wanna make easiest to use make that
-user interface right
-could so find out what people think of them
-what can we do with the current state of technology as it is the second is
-a but it would also in into the design of the product
-and they are designed to sort of like this you have your energy source
-which then brings energy or information to the chip which
-down and there's all the special buttons
-
-this is our functional design meeting
-talk about the new project requirements that just received and
-make that you know something make an audio setting is then given it much important and visibility on the remote as a minute channel changing that to use a lot more often and
-that thing to do is to come up with the design specifications we need to know
-it's just got it's essential functions of the t. v. changing the channel play stop volume it would be a lot
-it would be a lot quicker to learn to use it but
-but as a lot of features that are missing from that remote control so we've got to
-that was just on the company website
-not filters out and
-of the easiest thing to do is to break down all the points
-so you have your energy source your user interfaces controlling the chip that should also use
-
-source and talk a little bit about functional requirements that people satisfied when they last i
-i think that no shared a quite a bit rate anyone wants to work
-so it's a communication device we
-as you mentioned things like voice recognition but at the price a
-isn't too complicated
-so that you're not wearing your remote around and having to
-so what's our corporate image like it's
-'cause that would affect the way that we market
-lot of we've got price limit of the twelve and a half euros to produce it and i wonder
-to produce it it's
-why are we aiming for a technological advancement everything were
-
-found what they analyse people's desires and needs focusing on the
-focusing on the designers people specifically said that it's not remotes were ugly seventy five
-it sends a message to the television saying
-using a remote control is quite subjective experience
-and different people sort of prefer different things
-it's the parts of the working design they need to be figured out and
-will they have a short amount of time
-why we're gonna make it look pretty we need to use the colour and our slogan in the new design
-
-that's pretty much it for the working design
-nothing on my screen
-so i think was gonna have the money to buy the parts that or
-i wanna be given any other numbers working on in terms of age later but
-later but if that sort of the on the quality that we have that it's about the age then we would wanna stick between fifty and the right range
-now those are that old
-
-it's their agenda today
-their agenda today just to
-talk about did you look at the
-did you look at the minutes i emailed them to you
-
-it looks like a white kind of or thereabouts draw
-right source and talk
-and we need a reliable and clear infrared signal so
-it's gonna be twenty five euro remember so
-
-because they're used much more infrequently in
-change the volume
-space is kind of similar to a very basic weapons
-and that people who don't wanna have or a look at them never even have to see that and if
-
-and in order for us to one over to the consumer we just need to focus on what it looks like that
-what it looks like that it has a fancy appeal and
-because but that's been taken over by the entrance we're not
-can pull out of sight
-
-working sanders figure out what you need to make it sell this practical function what
-c. ready tidy right let's see lucy
-is it something that's gonna be sold separately from the television or
-it's right now what we're doing is deciding on just the remote itself so
-
-critical here because a lot of the things that happen in a remote control happen through the chip that controls the converse the electrical energy into data which then
-which then goes to the infra-red so
-hopefully that makes sense for everyone in my kind of garbled way it's the
-say like it at a hundred a new remote control in this
-
-i think of a every time the
-that's fine
-requirements and we have a couple new requirements that i was just you know for it
-itself so it will probably be sold separately twenty five euro by itself
-
-so then i will talk about a general object it's an have your three
-an have your three presentations talk
-simplicity in fashion
-
-i will disclose was
-it's all the functional design objectives we need
-which i kind of feel like voice recognition is not necessary in a remote control like it might be necessary
-
-three presentations
-that old specific for speech recognition are we gonna
-recognition are we gonna use that as whatever functions
-
-i don't know how to play that
-just a little presentation it's the
-how do we have to go about designing a new television remote control
-
-i don't know anything beyond what the anti means but
-but that's but it's really a be used as i think also
-and found that the desire for voice recognition was inverse be related to age so
-
-also be did some questions on voice recognition and found that
-certain frustrations that i think that we could try to take into consideration and with our design that being
-a good one of the cardio
-
-r. s. i. and i was hoping someone might be a wheel and for me as to what r. s. i. it's because i don't
-so that we not it's completely shocking people but
-in the analysing these we can consider what things what's good about them out what things they get
-
-so i think that's something that you might wanna think about the idea of an l.
-i can tell that would turn these things
-the t. v. c. ready tidy right
-
-the idea of an l. c. d. screen was brought out although they didn't have
-out although they didn't have any details on a people's problems of them out were so i thought some
-that hides all the complicated buttons so if
-
-economic we need to find a balance between features and price
-i were also gonna or like your question
-otherwise becomes too complex to wanna get this out
-
-control so it's one has got lots of buttons it's
-team make a schematic of the way that the energy is converted to port it's practical function then
-i think it's a lot like to do with battery but that's
-
-but i think that's why companies like apple have you might lot of progress
-or had a certain preferences for example
-select other than just media but code how is it mean you can
-
-how do i play
-the it's read above draw
-because of the combination of electrical energy and then the other things that are brought in to make it work don't know
-
-the tree thingy if it's where the
-but i that's were still an early stages
-what we're trying to do is working designers figure out how the operating the apparatus can fulfil its function
-
-then i think the easiest thing to do is gonna be work on each task a step really so
-so the findings that i got very of just very briefly is that you have a choice of the way that d. information is projected to the receiver and
-receiver and in my opinion infrared is the best way to do that "'cause"
-
-i think it's frozen he
-a lot we need a chip that works with the user interface that isn't too complicated
-are we adding this that
-
-far but we're not gonna work teletext because
-advancement everything were talking about is ease of use and simple on that doesn't
-and simple on that doesn't necessarily mean more technology in fact we could use
-
-we're not gonna them and to decide we're not gonna work with that
-like it might be necessary for a t. v. but not for the remote you know seems a
-it's yes pretty it's pretty high-tech
-
-so all my powerpoint and that
-around and having to get frustrated and go
-
-we put the fashion
-we put the fashion in electronics it's
-
-just to time
-time that to you know
-
-i'm gonna do the opening talk about
-so our target group were saying fifteen to thirty five
-
-should we go in order you just do that
-if we're gonna say that function fashion we put the fashion in electronics and you automatically i think the sort of younger group that's was gonna be attracted to this
-
-alright my screen down
-i mean we can't really do anything charlie work this
-
-and then you have to press function f. eight it's i think it is
-and there's a big john after
-
-i think or fifty percent of the people mention that was the biggest frustration and you or are
-you or are so frustrated with the difficulty it is to learn how to use a remote and i think that ties
-
-so i sort of a couple time of tape ten people do not like that
-is are working design presentation i have a pet
-
-looking and they need people specified problem right now is that people's remote or not matching the operating behaviour or people are only
-showing up already
-
-are some like that but something for us to consider also just the
-also just the number on that bus it more when it comes to the buttons on the remote or what we wanna
-
-so it doesn't give them any hand injuries or things like that
-the television saying change channel change the volume
-
-i'm gonna talk about the technical functions design of the remote control
-we need to know what a final product is gonna be like so we need
-
-a how it works and what the end
-what the end user is gonna want from this product
-
-so in some sense we're gonna have to aim for a device which is fairly conventional in design
-but i think within that there is also the investment should use novel idea is a buttons
-
-a buttons to make something that's got a little bit different something that stands out
-also in designing the user interface we need to consider practicalities a device
-
-to do is there you know it's got for the backwards up down channel numbers volume freeze frame it's
-it's fully featured and
-
-one on the right is a lot more basic it's just got
-those are useful for me to
-
-so we've got to find out find a way of striking a balance between the two
-it does everything that i needed to as
-
-different people want one different things
-it's got big buttons for doing the things i do most often changing the volume changing the channel it does everything
-
-that simple it's easy to use
-the remote their own remote controls
-
-as i said before i'm quite lazy i don't wanna walk
-lazy i don't wanna walk across the green just to adjust my television also want something that
-
-fashion and should know
-how everyone say that which includes
-
-it's read above draw the
-though the think about working design as they what we're trying to do
-
-because i wasn't able to find everything i need it but i that's
-and we also need to talk about if we're only gonna have the very simple ones or also
-
-the best way to do that "'cause" you don't need a saline so that's
-we have to be careful that doesn't impede it the chip transmitting information but
-
-so the chip that i think he in this designing it's gonna be crucial
-and really it all comes down to the user because they're the
-
-because they're the one that's controlling most of the working design so the
-so the components that we find here are the energy source you know the battery or whatever that's gonna make it work then the chip which converts the data at the user that's controlling the chip and the infrared bulb that's gonna let us move the data to the receiver do you
-
-so you have energy going to the user who's controlling the chip or
-the chip or some other one is true
-
-no let's just get back to my schematic a
-or is it something that comes with the television "'cause" that would affect
-
-right so you have your energy
-that should also use the energy and the chip
-
-energy source people don't wanna be changing it a lot we need
-it's so it's like fifteen to thirty five but i think that's a good idea i wanna be given any
-
-get frustrated and go to it by hand that's
-a don't know what else you could put a number to make it technologically the end of select other than
-
-on that we have to keep in and in mind as you're creating this we didn't
-it and i wonder if we can get voice recognition into that twelve and a half euros without having to make too many of a compromise
-
-over by the entrance we're not gonna worry about right or not but
-what's works
-
-than others
-and you just type numbers to get a different ideas and it gives
-
-weapons you have like you have numbers new remote control you
-like some t. v.s they have a sort of a sliding screen on the remote control that hides
-
-different ideas and it gives you information nicely of a boring like what's on t. v. next and share prices and i can
-lottery numbers and sports colours
-
-but if you're see the t. v. saying i go to page one sixty on c. fax now that's what they're talking to
-it's pretty old technology it's a
-
-so we want something that looks good
-can be visible down the line
-
-or at maybe some buttons could be yellow but we can play
-but we can play around a little bit
-
-for example that that older people didn't really care for voice recognition the
-to see that and if you like to get the instruction manual it comes at the end you just only when really going on or even know what that those things can go out and you're happy
-
-it mean you can bulk really great and some of the same
-and some of the same a phnom button them i dunno i'm gonna
-
-in fact we could use it could mean not if
-they might be overwhelmed with the remotes that have too many buttons and too much technology
-
-their own remote controls like that
-so if you wanna do something complicated like program your television or teaching it then you open up this little hat was like the screen down and there's all the
-
-more complicated once
-i think that's a good idea
-
-switch the quality of the chair
-the quality a quality of all the components really i mean
-
-minutes i emailed them to you and also putting on
-
 and then we have to make a decision on a remote control functions i will disclose
-
-was that in this meeting up actually twelve thirteen we have forty minutes
-
-we have forty minutes so
-
-we need to keep in mind the user requirement specification what needs and desires are to be fulfilled that extra functions design what effect the apparatus should have and the working design how the apparatus actually works to fulfil its function
-
-you got any what are you choose
-
-i think you might have to disconnect euros
-
-have as we bleep like just to someone
-
-models of those
-
-eight it's i think it is and yellow
-
-is it plugged in all the way in
-
-all the way in screw it in them
-
-i think it's have to push it in really hard
-
-or attached and then
-
-i don't know if you as are able to get access to the report that was a minor on
-
-that was a minor on the on line is
-
-i real reaction and that's market research they had a hundred
-
-they had a hundred subjects and the usability lab and
-
-and they watched watch t. v. and record
-
-and record the frequency that they use particular buttons and the relevant the polls buttons hired
-
-seventy five percent of the a hundred subjects know that and that they are
-
-more importantly though eighty percent of that they would be willing to pay more for a fee and see you're looking remote i don't know
-
-to age so younger people were more inclined to want something with voice recognition whereas the
-
-whereas the older people in noun like sixty in about the segmenter sell did that really think that they would pay more money for voice recognition
-
-people also had certain frustrations that
-
-that being people frustrated with losing their remotes i think
-
-and i think that ties that's what you're saying go for just
-
-for just that there's too many buttons it just needs
-
-buttons it just needs to be easy to use it also
-
-it also mentioned something called r. s. i. and i was
-
-repetitive strain injury
-
-repetitive strain injury
-
-like that the repetitive you say yes "'cause" the strain
-
-or people are only using ten percent of the buttons that they have offered to them on the remote
-
-so we really need to focus in and those volumes and channel changers rather than things like the audio settings and screen settings and the channel settings because they're used
-
-and that it's not a play and that
-
-and that it feels like the way they're gonna use it so it doesn't give them
-
-it's move on to the next presentation on the facts so
-
-and screw
-
 need to stop i considering what remote control actually is it's a
-
-it's a device that allows us to do certain effects on the television so
-
-device we tell the remote control what we want to do it sends a message to
-
-i just these settings
-
-i just these settings adjust brightness
-
-adjust brightness
-
-we need a clear idea of exactly what this product as a
-
-in a way out suggest that we could go about this is by designing several different at the types of user interface is for this product
-
-and then are trying to get some feedback about
-
-how these particular prototypes what could so
-
-we should remember that remote controls are a fairly standard this requirements when the users using
-
-when the users using a remote control hear she expects the buttons to be in certain places so in some
-
-a device to be is technological what can we do
-
-the second is economic
-
-so i had a look on the web to to see if i could find a few examples of existing television remote controls in the analysing
-
-what things they get light was bad about
-
-light was bad about them what's wrong with them
-
-them what's wrong with them
-
-how we can improve on that designs that sounds and
-
 sounds and what can we do to make a product stand out from the large majority of remote controls
-
-he's two examples probably at the extreme ends of the spectrum
-
-on the left to we've got it's an engineering based design for a remote control so it's
-
-of buttons it's fully featured everything
-
-and it might take a while to get to learn to use it but once you've
-
-it but once you've learned that you can do whatever you want but your t. v.
-
-it but again it's rings and on the bouts the
-
-and on the bouts the disadvantages you can't
-
-disadvantages you can't use it say to freeze the television but
-
-as i said before remote controls all subjective different
-
-personally what i want from a remote control is a device that simple it
-
-also want something that looks
-
-and that feels good that's
-
-good that's ergonomically designed
-
-for me to sit at a drastic difference between those two remotes
-
-in either that we're very pretty you know
-
-i think that could be our selling point
-
-i think there's a certain a market for technology to looks but i think that's
-
-doing so this anyone
-
-so as we grew in
-
-grew in a group and what are we gonna go cobble
-
-if it's where the bottom under three icons and the one that
-
-and the one that looks like a task that one
+but as a lot of features that are missing from that remote control so we've got to
+the remote their own remote controls
+their own remote controls like that
+like some t. v.s they have a sort of a sliding screen on the remote control that hides
+i suspect a remote control does think about it
 
 so this is are working design
-
-i have a pet of some issues with this because
-
-one of the examples that kept coming up for me is that a coffee grind it works because
-
-it converts electrical energy to granting the beans and then
-
-and then you put the been through a filter not filters out
-
-and then you get coffee at the end that's and hot because of the combination
-
-don't know if i'm explain that very but how do
-
-very but how do i get to the next
-
-so the method as
-
-what needs to be done and how do we convert
-
-and how do we convert all the elements to make that and so
-
-at which you need something to happen team make
-
-so that's one thing are gonna work on
-
-the user interface is critical here because
-
-do you have for main components and
-
-you have your energy source rate there which
-
-the chip which is also controlled by the user so you have
-
-i use that thing and that you can go back previous
-
-pardon
-
-doubleclick on it with the right with the left hand one
-
-frozen he can show me to pick their we're
-
-about this guy's i'm kind
-
-this guy's i'm kind of pathetic with things like this
-
-and the chip through the use of the user interface is gonna control the switch which will work or infrared
-
-will work or infrared bulb which will then bring
-
-which will then bring the data to the receiver so hopefully that makes
-
-and personal preferences set of the fact that i kept we need a long lasting energy source people
-
-straight-forward interface like he was saying simple not overwhelming it with information and we need
-
-next
-
-rusty thinking to be honest
-
-let's see lucy ready to haiti
-
-it's gonna stick in your head
-
-that i was just you know for it before the meeting on that we have to keep in
-
-we didn't bring it up that are out on the meetings that far but we're
-
-it's approach thing
-
-you don't have it in the states
-
-do but you could explain it
-
-you and you type in the page number you want to say like
-
-control in this kind of index opinions on the television screen just and some text things and they looking graphics on it and you just
-
-it's a nineteen eighties
-
-i have no idea what we don't have that
-
-or like your question earlier on whether this is going to be to for television d. v. or in it that are just a television that or focused on otherwise
-
-to wanna get this out very quickly will they have
-
-and finally it is more marketing i think our corporate image has to be recognisable so
-
-image like it's kind of yellow colour we've we put fashion in electronics
-
-looks like a kind of a yellow and black and we have that the
-
-and we have that the emphasis on the r. s. a. and
-
-it's we put the uh_huh fashion in electronics so we can keep that in
-
-so we can keep that in mind
-
-we need to
-
-we need to talk about our functions and our target group we decide
-
-we decide you worked hard repairs you in
-
-you in your analysis of different market that the marketing you identified that different groups wanna different things or had a certain preferences
-
-the younger people did it
-
-and so are we adding this that
-
-it's gonna be twenty
-
-so it has to be a marketable to whoever it is
-
-the only breaks i was given in terms of each was the voice activation and
-
-after thirty five people don't really care that's why it's so it's like
-
-that's probably a population of quite a little bit of disposable income for use on technology anyway so
-
-anyway so that might be a fairly good target group for us
-
-it because it's gonna have too much to the price
-
-especially if we are marketing it as a separate product people are gonna be paying a
-
-the producer
-
+is are working design presentation i have a pet
+though the think about working design as they what we're trying to do
+because they're the one that's controlling most of the working design so the
+that's pretty much it for the working design
+so in there we have technical functions presentation working design presentation and the functional requirements least
+
+how do we have to go about designing a new television remote control
+on the left to we've got it's an engineering based design for a remote control so it's
+
+weapons you have like you have numbers new remote control you
+say like it at a hundred a new remote control in this
+
+also just the number on that bus it more when it comes to the buttons on the remote or what we wanna
 button them i dunno i'm gonna buy a new remote
 
-that's a good thing to keep in mind
+for just that there's too many buttons it just needs
+they might be overwhelmed with the remotes that have too many buttons and too much technology
 
-someone's looking to buy a new remote all they want like an upgrade now
+the remote or what we wanna make easiest to use make that
+for me to sit at a drastic difference between those two remotes
+it's right now what we're doing is deciding on just the remote itself so
+person than ever not doesn't have to have like two remotes one that has
+like it might be necessary for a t. v. but not for the remote you know seems a
+you can't even be bothered to pick up the remote
 
-upgraded or
+using a remote control is quite subjective experience
+as i said before remote controls all subjective different
 
-we can look for would look at upgrade
+that thing to do is to come up with the design specifications we need to know
+what we're trying to do is working designers figure out how the operating the apparatus can fulfil its function
+working sanders figure out what you need to make it sell this practical function what
+it's the parts of the working design they need to be figured out and
+why we're gonna make it look pretty we need to use the colour and our slogan in the new design
 
-or we can look at user-friendly
+and different people sort of prefer different things
+different people want one different things
+because i think sort of it will appeal to different people that
 
-simplification he could have
+the younger people did it
+is something that definitely appeals to younger people
 
 he could have a crap remote taking
-
 a crap remote taking with their t. v. that's
 
-with their t. v. that's just impossible to use or maybe broke
+this is our functional design meeting
+it's all the functional design objectives we need
+we need to keep in mind the user requirement specification what needs and desires are to be fulfilled that extra functions design what effect the apparatus should have and the working design how the apparatus actually works to fulfil its function
+focusing on the designers people specifically said that it's not remotes were ugly seventy five
+so in some sense we're gonna have to aim for a device which is fairly conventional in design
+a but it would also in into the design of the product
+how we can improve on that designs that sounds and
+good that's ergonomically designed
+so the chip that i think he in this designing it's gonna be crucial
 
-or maybe broke or maybe
+we should remember that remote controls are a fairly standard this requirements when the users using
+when the users using a remote control hear she expects the buttons to be in certain places so in some
+critical here because a lot of the things that happen in a remote control happen through the chip that controls the converse the electrical energy into data which then
+the chip which is also controlled by the user so you have
+so you have energy going to the user who's controlling the chip or
 
-or maybe they're just messing it
-
-or also have the other one's just separate somehow or
-
-and you're happy person than ever not
-
-person than ever not doesn't have to have like two remotes one that has
-
-remotes one that has the easy one the one that has more complicated
-
-that's a good idea
-
-but that's gonna be was a technological thing
-
-good point
-
-so what are we emphasising but in this project
-
-sit simplicity in fashion
-
-those are very good calls i think that
-
-i think that we have to keep in mind it with everything we do simplicity in fashion and or usability it's just
-
-it's just how everyone say
-
-that which includes an emphasis on making the infrared very functional so
-
-so you don't have to travel around a lot
-
-what can you do the like make the infrared more functional like why would it not be
-
-the battery and that i think that the chip takes the data and presents a while without strips gathering
-
-i don't know how useful the numbers if we're not doing
-
-it's voice recognition which i kind of
-
-and it might be too expensive
-
-it's for like he ultimately lazy people you can't even
+so you have your energy source your user interfaces controlling the chip that should also use
+and the chip through the use of the user interface is gonna control the switch which will work or infrared
+a lot we need a chip that works with the user interface that isn't too complicated
 

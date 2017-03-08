@@ -1,60 +1,60 @@
-A popular variant of pizza in Italy is Sicilian pizza (locally called sfincione or sfinciuni), a thick-crust or deep-dish pizza originating during the 17th century in Sicily: it is essentially a focaccia that is typically topped with tomato sauce and other ingredients.
-Other variations of pizzas are also found in other regions of Italy, for example pizza al padellino or pizza al tegamino, a small-sized, thick-crust and deep-dish pizza typically served in Turin, Piedmont.
+2009 upon itali request neapolitan pizza safeguard european union tradit special guarante dish
+promot protect neapolitan pizza
 
-In 2009, upon Italys request, Neapolitan pizza was safeguarded in the European Union as a Traditional Speciality Guaranteed dish.
-It promotes and protects the true Neapolitan pizza.
-The Associazione Verace Pizza Napoletana (the True Neapolitan Pizza Association) is a non-profit organization founded in 1984 with headquarters in Naples.
+associazion verac pizza napoletana neapolitan pizza associ non-profit organ found 1984 headquart napl
+popular variant pizza itali sicilian pizza local call sfincion sfinciuni thick-crust deep-dish pizza origin 17th centuri sicili essenti focaccia typic top tomato sauc ingredi
+variat pizza found region itali exampl pizza al padellino pizza al tegamino small-siz thick-crust deep-dish pizza typic serv turin piedmont
 
-Until about 1830, pizza was sold from open-air stands and out of pizza bakeries, and pizzerias keep this old tradition alive today.
-Pizza is sold fresh, frozen or in portions.
+1830 pizza sold open-air stand pizza bakeri pizzeria keep old tradit aliv today
+pizza sold fresh frozen portion
 
-It features questions and answers on a wide range of topics in computer programming.
-The website serves as a platform for users to ask and answer questions, and, through membership and active participation, to vote questions and answers up or down and edit questions and answers in a fashion similar to a wiki or Digg.
-Closing questions is a main differentiation from Yahoo!
-Answers and a way to prevent low quality questions.
-Stack Exchange is a network of question and answer Web sites on topics in varied fields, each site covering a specific topic, where questions, answers, and users are subject to a reputation award process.
-Based on the type of tags assigned to questions, the top eight most discussed topics on the site are: Java, JavaScript, C#, PHP, Android, jQuery, Python and HTML.
+popular contemporari legend hold archetyp pizza margherita invent 1889 royal palac capodimont commiss neapolitan pizzaiolo pizza maker raffael esposito creat pizza honor visit queen margherita
+supposedli kind pizza name queen pizza margherita although recent research cast doubt legend
 
- Stack Overflow is a privately held website, the flagship site of the Stack Exchange Network, created in 2008 by Jeff Atwood and Joel Spolsky.
-Jeff Atwood stated in 2010 that duplicate questions are not seen as a problem but rather they constitute an advantage if such additional questions drive extra traffic to the site by multiplying relevant keyword hits in search engines.
-As of April 2014, Stack Overflow has over , , registered users and more than , , questions, with , , questions celebrated in late August 2015.
-It was created to be a more open alternative to earlier Q&A sites such as Experts-Exchange.
-The sites are modeled after Stack Overflow, a Q&A site for computer programming questions that was the original site in this network.
-Stack Exchange uses IIS, SQL Server, and the ASP.NET framework, all from a single code base for every Stack Exchange site (except Area , which runs off a fork of the Stack Overflow code base citation needed ).
-Stack Exchange tries to stay up to date with the newest technologies from Microsoft, usually using the latest releases of any given framework.
+featur question answer wide rang topic comput program
+websit serv platform user ask answer question membership activ particip vote question answer edit question answer fashion similar wiki digg
+answer prevent low qualiti question
+stack exchang network question answer web site topic vari field site cover specif topic question answer user subject reput award process
+base type tag assign question top eight discuss topic site java javascript php android jqueri python html
 
-The mechanism was overhauled in 2013; questions edited after being put on hold now appear in a review queue.
-A popular contemporary legend holds that the archetypal pizza, pizza Margherita, was invented in 1889, when the Royal Palace of Capodimonte commissioned the Neapolitan pizzaiolo (pizza maker) Raffaele Esposito to create a pizza in honor of the visiting Queen Margherita.
-Of the three different pizzas he created, the Queen strongly preferred a pie swathed in the colors of the Italian flag: red (tomato), green (basil), and white (mozzarella).
-Supposedly, this kind of pizza was then named after the Queen as Pizza Margherita, although recent research casts doubt on this legend.
+user stack overflow earn reput badg exampl person award reput receiv vote answer given question receiv badg valu contribut repres kind gamif tradit qa site forum
+jeff atwood state 2010 duplic question seen problem rather constitut advantag addit question drive extra traffic site multipli relev keyword hit search engin
+creat open altern earlier qa site experts-exchang
+site model stack overflow qa site comput program question origin site network
+reput system allow site self-moder
 
-Users of Stack Overflow can earn reputation points and badges; for example, a person is awarded reputation points for receiving an up vote on an answer given to a question, and can receive badges for their valued contributions, which represents a kind of gamification of the traditional Q&A site or forum.
-The reputation system allows the sites to be self-moderating.
+close question main differenti yahoo
+mechan overhaul 2013 question edit hold appear review queue
+april 2014 stack overflow regist user question celebr late august 2015
 
-The modern pizza was invented in Naples, Italy, and the dish and its variants have since become popular in many areas of the world.
-Modern pizza evolved from similar flatbread dishes in Naples, Italy in the 18th or early 19th century.
-The term was first recorded in the 10th century, in a Latin manuscript from Gaeta in Central Italy.
+popular fast food item
+modern pizza invent napl itali dish variant sinc becom popular mani area world
+modern pizza evolv similar flatbread dish napl itali 18th earli 19th centuri
 
-Pizza is a flatbread generally topped with tomato sauce and cheese and baked in an oven.
-Prior to that time, flatbread was often topped with ingredients such as garlic, salt, lard, cheese, and basil.
+pizza flatbread gener top tomato sauc chees bake oven
+prior time flatbread often top ingredi garlic salt lard chees basil
 
-Various types of ovens are used to cook them and many varieties exist.
-Until the 1860s, sfincione was the type of pizza usually consumed in Sicily, especially in the Western portion of the island.
+commonli top select usa meat veget condiment
+sever similar dish prepar ingredi commonli use pizza prepar calzon stromboli
 
-It is commonly topped with a selection of meats, vegetables and condiments.
-Several similar dishes are prepared from ingredients commonly used in pizza preparation, such as calzone and stromboli.
-The preferred IDE is Visual Studio and the data layers uses Dapper for data access.
-citation needed The team also notably uses Redis, HAProxy and Elasticsearch.
+variou type oven use cook mani varieti exist
+1860 sfincion type pizza consum sicili especi western portion island
 
-Antica Pizzeria PortAlba in Naples is widely regarded as the first pizzeria.
-It is uncertain when tomatoes were first added and there are many conflicting claims.
+stack overflow privat held websit flagship usa site stack exchang network creat 2008 jeff atwood joel spolski
+name websit chosen vote april 2008 reader code horror atwood popular program blog
+stack exchang use ii sql server aspnet framework singl code base stack exchang site except area run fork stack overflow code base citat need
+code primarili written aspnet mvc razor view engin
+blog formerli use wordpress updat run jekyl
+citat need team notabl use redi haproxi elasticsearch
+stack exchang tri stay date newest technolog microsoft latest releas given framework
 
-It is a popular fast food item.
-The name for the website was chosen by voting in April 2008 by readers of Coding Horror, Atwoods popular programming blog.
-Blogs formerly used WordPress, but they were updated to run Jekyll.
+three differ pizza creat queen strongli prefer pie swath color italian flag red tomato green basil white mozzarella
+prefer ide visual studio data layer use dapper data access
 
-All user-generated content is licensed under a Creative Commons Attribute-ShareAlike license.
-User contributions are licensed under Creative Commons Attribution-ShareAlike .
+antica pizzeria portalba napl wide regard first pizzeria
+uncertain tomato first ad mani conflict claim
+term first record 10th centuri latin manuscript gaeta central itali
 
-The code is primarily written in C# ASP.NET MVC using the Razor View Engine.
+user-gener content licens creativ common attribute-sharealik licens
+user contribut licens creativ common attribution-sharealik
 

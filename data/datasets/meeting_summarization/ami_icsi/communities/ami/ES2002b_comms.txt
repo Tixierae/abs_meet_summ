@@ -1,24 +1,24 @@
+new more so we do we need to consider that in the functionality of the remote control and
 function the blue but i think for the controller
 
 control and that also suggested that we we only used a remote control to control the television not v. c. r. d. v. c. or anything else having
 and i think that you were saying about televising the control of maybe
 
+not if you had a look at the other and control not example
+that might be one other consideration which would be the transmission between the remote control and the t. v. for example
+
 but in a day we don't look at the technology but we look at the function first
 
+just be technical functions design
 ones got on the basic functions but
 but i think the basic functions the logica transmitter and the receiver and
 
-say you've got half an hour for this one and two discuss the the functional design all ready
-just be technical functions design
-like design the basics i think
-i you have or have a design as a basic so
+did a basic thing is there's a user interface with people
+and also things that based on what the user interface requires they were more functionality that
 
-new more so we do we need to consider that in the functionality of the remote control and
-you know you get a lot of remote controls we kind of thing open and that's
-required i mean there's no when it is gonna buy a remote control these days so if you can't actually individually select house mean where anybody disagree
-and overall define remote controls to be something they don't doesn't really appeal to them so i think we're
+for example if we have audio controls those could be something people setup very rarely maybe they're and
+most people use only of it's very slim portion of all the controls so
 is installing new remote control something that people
-now at currently we do have access to all the tech cutting edge technology remote control so i don't
 
 and it you think maybe that's the only kind of essential requirements and then maybe
 it's always kind of top to the device you ideally want them to hold it to them it you may not require
@@ -28,13 +28,6 @@ i think a year you may be kind of thinking what we have so you have to have on w
 that's like we're kind of weird sort of getting in two years meeting different design features together today
 that and something maybe kind of quirky in design maybe make it
 
-one way i look at this would be that we approach the different controls in terms of like control type so that for the user
-control so that doesn't just look like a big panel kinda like
-
-any kind of like display controls that or do you think we need to worry about you know brightness
-so maybe we need to think about having three or more groupings a controls you know
-a controls you know like one which are just to be a bit role ones that should be right within your natural group and others
-
 so if you wanna cripple the different kind of types of functions together you know that's
 
 functions but it's in size is the e. d. parties one and
@@ -43,8 +36,8 @@ do we have any functions them but one on i mean so far
 i don't know maybe just at this point decide on what we must have it as a function of this
 at idiap function f. eight
 a it's something that can be used to fulfil function but in
-that sense but i mean these a functioning you know the base what
 think we should maybe you wanna go back to what the functions are i think
+and also to find the actual functions of what's gonna do we do a recap
 it says optional functions
 
 so what's gonna keep it simple and all this control the t. v. and the other thing
@@ -53,12 +46,11 @@ they tend to use the most simple controls and overall
 right is that were you were kind of like sorting
 were kind of like sorting that are we actually eliminating things we just don't want product
 
-it's not a way but teletext only control the t. v. and and incorporate the colour and slogan of the company
-as we'll see later vast majority would spend more money for slightly more intuitive controls such as voice recognition i'm gonna we'll
-most people use only of it's very slim portion of all the controls so
-at this is our controller is it have the option of being a standard frequency is all of the other equipment so that the one controller
-so that the one controller can control several pieces of it but
+like design the basics i think
+design the basics i think that in the back of our minds we know what the basics are just change channels just
+change volume but in my specifics which one of the basic so you try to target are there
+i you have or have a design as a basic so
+
+in and most users are they've used for really use the value of buying batteries and putting it into the control but
 the control but unless the control is gonna consume a lot of batteries like he's
-what i might be a bit worried that is if someone was i had previously the top habits are expecting to control surround sound at this and that with the controller and then they you know we they get a resident it's doesn't have that i don't have to be problem
-all the video control you know
 

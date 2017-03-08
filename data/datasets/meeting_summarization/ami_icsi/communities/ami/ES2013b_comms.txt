@@ -1,442 +1,77 @@
-it fell off
-you know we're ready
-welcome to
-welcome to this second meeting
-meeting it's not core after twelve and we're
-this is a meeting on functional design
-and in thinking about the forty minutes i thought it would take only like three minutes for the previous minutes
-because just i had to do with intel there was some new project requirements and we have
-everybody agree with us
-or they complete to be
-complete to be discussed everything that we covered last time
-technical functions design
-then we have to be the user interface
-just maybe a little bit more inspired
-you'd ever need a battery is really
-but it also has a place so
-still i don't know if it's quite within our price range
-with a euro time and another component like another piece or
-but i think you're a single questions about
-more money than sense of them or otherwise something new to it
-i asked to put more money than brains
-but what i was gonna say was although they may maybe buying you know personal music devices and all that only necessarily
-i think we've got big hill to climb and
-
-as a group i think we've are they accepting the minutes
-that looks good
-and to think about menu functionality in current technology and
-and the fact that it could be interactive with other tools
-percent i think of all these numbers most important is fifty percent of users
-and eighty percent of users and if we think
-and any you know existing examples and what
-where as years point it's attempting to manage to use a super entertainment system with something that looks like a small tray you know it's
-he's in the role age group you must you wanna this
-you must you wanna this small population
-but i think the key is to get be really adopters people were from new technology and
-not we're not looking at whether there early adopters on that screen that's looking at
-f. and f. eight
-and what we all need to discuss is whether we want these functions pretty much the same as for existing remotes have if we can build on this with the speech recognition that's not something
-do we have some idea of how much it would cost to create a device has to be used basic elements because man
-no but just a rechargeable internal battery would probably array mike cost more it's it at first to develop and to install but for
-
-and we have to make some on decision on what functions that will have
-the product should just adopt and we've huge and we talked about
-no no you possibly even materials like the type of plastic used but everything including size and shape of buttons positioning of buttons actual shape of a handheld device colours just every at everything to do with this has to be evolution i used to
-i would've liked to do you a pretty powerpoint slide all of my first cut design but i'm fortunate
-or what if the chip for whatever reason breaks down after certain amount of time to you just replace it to
-could it be possible to have a you know that a rechargeable internal battery like like in m. p. three player does or you could just or a mobile phone or whatever you
-and then as you charged for ages of ages and you don't have to worry
-and you don't have to worry with replacing a buttons question
-definitely "'cause" i'm thinking in terms of the los and breakage of remotes how much that is
-how much that is to do with it not really having a home and that's it's a place to live exactly
-still have this little topic
-and the dark could look very fancy and
-and that could be your inspiration of having a look and decent
-
-more research on how much more would be and
-and what reactions to them have been and it's a sort of like
-no you take your exactly right there but i think
-you had the other power channel
-which is really not very efficient at all
-it's not start and the back of the so far but then
-but then again i'd i don't know if this is within our price range or not
-and i don't know much about what these things cost only some
-only some research for the next meeting
-solar may not be so good when you're watching t. v. in the night it's the
-just so annoying a
-it would have to sort store the energy
-we may be talking quite heavy then
-
-one of the biggest issues i thought about from last meeting was the fact that we need to sell four million of these remote controls and
-and i think that this is an opportunity to really take real reaction in the direction of similar of hand-held schools and then use and are used by many of us and that kind of bring the remote control into the site same round as an accessible useful a product device as opposed to something that is lost in the couch and what have you so
-so my main goal here
 my main goal here is to the envision the remote control in this context and
-no in between as the project manager they sent me an email from the powers that be
-that teletext is l. d. cage and the internet
-but they want this remote control that only be for t. v. with
-with incorporating the corporate image colour and slogan
-and again bring the real reaction printing in and get
-and get some positive marketing for other tools even if we directly don't advertise for t. i. go of require line so
-on that but i think be competition it's a scene out what other people are doing and what's in the pipeline is very important because
-
-on any some implications the four million sales targets and new ideas of not too many buttons bright colours and some of the influence of the japanese and we closed early
-and we closed early so you can then
-you may have any questions one those minutes or they
-we talked about be the individual roles so we chat as
-was present but yes we did and we
-but if we're aiming to build this thing for twelve euros fifty it's a little
-it yes and i'm making the we that's people who are familiar younger people are more familiar with technology than older people or comfortable you know
-been doing a little bit of bread priest research and if i had a
-me say if you'll bear with me i'll do it on the whiteboard
-so you think we might make that a selling point if it was something that we found we could afford to develop
-
-i'm afraid i incorporate
-it can else but these kids come from the
-on it was market research an hour
-these market research questionnaires looked into it you're a real concern about technology and
-and specifically wanted to find out information that speech recognition
-so this is the methodology i used in preparing for this meeting
-i've been doing a little bit of bread
-and we use the basic components we've got to build in for our twelve euros fifty a an energy source the user interface and
-typically would be a battery but how open to suggestions
-on the main components and that hardly the chip that actually has intelligence
-
-you mention because that before our inside our budget and what we want this to do
-but we could go back to the pictures of the "'cause" the pictures of the remote controls
-that's true would take us to say
-maybe afterwards we could do a white board with that you're the one on the right as a sense
-control is it is for sending a message typically by infrared and
-you could you know you just plug in to power source a couple of hours and then as you charged
-people out there or are they making purchasing decisions you know
-good point
-would be are more efficient way of doing it
-
-and one welcome you all and thank you all for
-each of you have no that's seven minutes or maybe little more maybe the last three euro per presentations and a little discussion because
-kate staffs there and myself in our full capacity for presents i opened
-i think so we talked about
-like that industrial designer should like that but if we're aiming
-it has fast forward stop play all relating to movies and also has
-i brought up some exactly
-questions about are there enough of these people out there or
-
-i taped to the minutes from the first meeting in a shot them to
-screen and in that wasn't responded to put
-of what i had so they can and to my head is you know they always t. a. batteries which
-all make a note of that good
-good good common
-and all that only necessarily by t. v. remote controls because
-because they probably are in the household has a t. v. if the these are end of each range and
-
-who wants to go for speech
 and the means we do need to make some decisions about what keys or buttons on the remote control to perhaps keep them and what ones to discard and
-and if we devote some energy into this i think the recent productions of real reaction me i go everywhere power and the high definition t. v. d. players although it makes immediate sense to have our remote control interact with these i think we can also use
-i think we can also use this as a platform to make a contract with other tools and
-and the internet is coming in is important but they want this
-the early adopters those of us who grew up with technology and a lot looking for us have the cash to pay for the young
-and i'm wondering how how our target price compares with three the typical price of these things like that industrial
-
-i opened the meeting the product
-definitely needs at a lot more research on
-one here but i've been thinking of this device is being that she mass-produced device we're trying to sell four
-we're trying to sell four million of "'em"
-no the chip composer marketing or know the
-
-in a shot them to you in a moment
-i know each if you have a presentation and
-i hadn't thought of it as being a terrible thing you just if it goes
-that's another element which
-
-fifty percent i think of
-and to be extraordinarily reduction last power channel volume and everything else is up to the designers
-and this is also supported by the market research
-we only we've got to persuade people you've got a remote control "'cause" you came with the telly that they should buy our product instead
-
-is fifty percent of users say they only use ten percent of the buttons and
-element which is if every time it and using the remote you put it on a charger then you then it has a place
-or do we make that it goes to the through the manufacturer we sell
-we sell to the manufacturer as remote it goes with it
-
-and as approachable and
-interesting i think that maybe shows more about been open to technology
-that's looking at age groups
-does it have to have be of being segregated from the others in a different frequency or something
-
-and f. eight at the top
-press them
-and then we'll be patient
-but for a long time you still be so much more convenient and economic and fiddling around trying to replaced chunky a. batteries and not having any indication drawer and
-
-and icsi the requirements they're expecting of this
-so we exceed the requirements
-that plea the net result is that i've come up with a first cut for the working design that to discuss
-that to discuss with you
-
-let's go back to what the basic function of a remote control is it
-say we want an energy source
-still have this little topic that you can fit to
-because i agree that the people with so how can i put it more money than sense of
-
-we did and we did a little bit of fighting building of making the pictures but i didn't think those
-data style of thesis pear i
-i really think we need to be
-
-market research an hour a hundred people in the room so
-i don't know if speech recognition should be should be included but i think it's an
-but i think it's an interesting i think that
-
-it's a large enough target market to market it
-and i presume we can mess and functions related to the video or d. v. d. remote control if this is only gonna be a your satellite cable t. v. remote control so
-buttons i'm saying in something some this move sleek little remote control with big user-friendly buttons and a menu that you can access
-
-you know so it turns into something perhaps you all have
-perhaps you all have seen the osbournes where
-which will in incorporate an integrated circuit that actually
-
-thinking that's my contribution
-that's my contribution
-alright and we'll turn
-
-next to the control button on the bottom and f. eight
-you just if it goes wrong you check account and that's
-and that's what i'm a bit concerned i like the idea speech
-
-be a wanna see it was on my slide typically
-but also it has to be easy enough to it changed or we pay or if something goes for all for example the battery energy source or
-it's not your job
-
-which a man transfer us to some sending mechanism which
-which includes it
-and sends a message to the receiver so those are the basic
-
-on what is it feel like that's where the user
-that's where the user interface is really coming into it so the technical
-the technical and is what's actually gonna be in there but also it has
-
-and thank you all for doing some research in between
-be good to know do you know who's actually buying televisions and are
-
-we need to move this who wants to go for
-we begin with that
-
-as for as it goes
-it in just stick it in
-
-again most users really dislike the current look-and-feel of remote controls
-and are we in the region where people have one television know
-
-but ninety one percent fifteen to twenty five
-but how open to suggestions
-
-and with the technologies improve in if we can get these
-in real numbers that's the ninety one percent of the seventy six percent translate to it in excess of the four million
-
-no you take
-exactly it yes and i'm making
-
-if you want again it's like trying right
-you can just do you draw in order
-
-i think first off i do agree with what is sarah has defined as a your personal preferences i think we need up a more streamlined volume where you know extraneous functions
-my method was to look at the existing remotes and all functions they have and
-
-and also has seems to have channel up and channel dying which
-'cause it the requirements really i just want to be able to change channels or functions which
-
-which is more what you'd expect from a you know like a sky or cable remote control where you've got hundreds
-control where you've got hundreds of channels instead of a nearly terrestrial one
-
-minute do think we need them at all
-or she in translates button presses into a message which a man
-
-and i think and enter function where you can access it's not like teletext but a long the same lines access things on the screen
-not related to the internet one that you mention because that
-
-and possibly discuss what we think about them but which
-but which is here what he has to say first
-
-we turn that into a message
-so those are the basic things that we've got to get
-
-that's that's almost one in every tenth house or whatever it is
-solar can do that
-
-i'm i'm hoping that my personal coach i think so but if you're asking me but
-i don't believe i know
-
-and we're given forty minutes for this meeting this is a meeting
-
-this is not everybody agree with us
-
-and after the meeting that be the things to be done and she
-
-and she as you can see it says we get to get one should and then some more individual work and then putting minutes away and individual actions
-
-for the minutes of the first meeting
-
-as you can see it was this earlier today
-
-and we talked about the financial and effect on any some implications
-
-so you can then proceed with your research and getting reports together for to this meeting
-
-i'm afraid i incorporate that one i said was present but
-
-i accept a minute
-
-but i didn't think those are appropriate to the minutes necessarily so
-
-then we'll move to the three presentations
-
-not really that touch those like the phones it
-
-she said we didn't need to screw it in
-
-some of the research in a in the market has shown that people really are not happy with remote controls as they are now and
-
-and in fact i think the high definition t. v. d. players in all this will come along in the will only benefit from the positive feedback from are design tool so
-
-and if we think about this there are a lot of television t. v. d. c. a real remote control users out there a percent
-
-out there a percent would spend more money on a remote control it looks fancy
-
-these kids come from the smoke research we've
-
-in the room so he the end of a hundred said they would spend more money
-
-i think we can and i think we can really focus on this remote and again
-
-in to see now elements was the which pay more for speech recognition questions so
-
-pay for the young age group without the mortgages responsibilities ninety one percent of them would pay more for speech recognition in a remote control very interesting
-
-i you we've this up to the group to decide if we wanna use this if you and you know the designers but ninety one percent
-
-i think especially in terms of growth i think this would be a very smart grip to target the means three
-
-target the means three quarters of the next age group twenty five to thirty five are interested and
-
-or eight million
-
-but would you pay more and
-
-more and does it work and as approachable
-
-and that's a very good question i don't know
-
-mean i did not receive any information on that but i think
-
-because there was a question about to want an l. c. d. screen and in
-
-to put some of a larger remotes do you have screens for you can navigate you know so it turns into
-
+but they want this remote control that only be for t. v. with
 i think they most important thing is an attractive streamlined remote control and
-
-and we'll turn to the next presentation
-
-i think she said we don't need to screw it in just
-
-and then press what f.
-
-there we are yay
-
-the left a bit like that
-
-i think first off
-
-but it's also something we can discuss
-
 these are two models of existing remote controls
-
 the one on the left it seems to be a fairly standard universal remote control it has fast
+and all that only necessarily by t. v. remote controls because
+i wouldn't know how to do it using a remote control so
 
-but i think we should be looking more along the lines of the one on the right which has
+but we could go back to the pictures of the "'cause" the pictures of the remote controls
+let's go back to what the basic function of a remote control is it
 
 which has also a play stop and pause a minute do think we need
+minute do think we need them at all
 
-i think we just needs channel selection volume up volume down and
+and i presume we can mess and functions related to the video or d. v. d. remote control if this is only gonna be a your satellite cable t. v. remote control so
+which is more what you'd expect from a you know like a sky or cable remote control where you've got hundreds
 
-we exceed the requirements "'cause" it the requirements
+some of the research in a in the market has shown that people really are not happy with remote controls as they are now and
+we only we've got to persuade people you've got a remote control "'cause" you came with the telly that they should buy our product instead
 
-which is more a text on the screen i think the natural buttons i'm
+and we have to make some on decision on what functions that will have
+the other thing if we're supposed to do is make decision one our functions are functions
+we didn't come to any sort of decision on the functions though
 
-but that i do think we need to discuss this p. h. recognition possibility
+one of the biggest issues i thought about from last meeting was the fact that we need to sell four million of these remote controls and
+i think we can and i think we can really focus on this remote and again
+element which is if every time it and using the remote you put it on a charger then you then it has a place
+definitely "'cause" i'm thinking in terms of the los and breakage of remotes how much that is
+we sell to the manufacturer as remote it goes with it
 
-i think the white the one on the right as as less cluttered
+and i think that this is an opportunity to really take real reaction in the direction of similar of hand-held schools and then use and are used by many of us and that kind of bring the remote control into the site same round as an accessible useful a product device as opposed to something that is lost in the couch and what have you so
+and if we devote some energy into this i think the recent productions of real reaction me i go everywhere power and the high definition t. v. d. players although it makes immediate sense to have our remote control interact with these i think we can also use
+again most users really dislike the current look-and-feel of remote controls
+and if we think about this there are a lot of television t. v. d. c. a real remote control users out there a percent
+out there a percent would spend more money on a remote control it looks fancy
 
-definitely less cluttered and
+i taped to the minutes from the first meeting in a shot them to
+for the minutes of the first meeting
+and i'll put some minutes of this meeting together on
 
-less cluttered and i mean there's still
+she said we didn't need to screw it in
+i think she said we don't need to screw it in just
 
-i'll just use something else i was gonna say data style
-
-the ergonomics of it fits in
-
-so that's an hour
-
-and if i had a design team i would've been discussing my ideas with all that plea the
-
-that actually composes the message based on what we which buttons user presses we turn that into
-
-and then we need sending mechanism to send it to the receiver now i
-
-now i would have helped i think
-
-would have helped i think that's why any slide actually i would've liked
-
-design but i'm fortunate technology defeated me say if you'll
-
-chip that actually has intelligence or she in
-
-things that we've got to get in for our twelve euros fifty thank you
-
-but those things it's all speaking get those components
-
-the block that rectangle for the user interface is where the user comes in of what does it look
-
+these market research questionnaires looked into it you're a real concern about technology and
+where as years point it's attempting to manage to use a super entertainment system with something that looks like a small tray you know it's
+my method was to look at the existing remotes and all functions they have and
+but i think we should be looking more along the lines of the one on the right which has
 of what does it look like what are the buttons
-
 like what are the buttons look like on
-
-because it may be a saying area with several other user interfaces like for d. v. d.s movies whatever
-
-i like the idea speech recognition that's a great idea but i'm not
-
-idea but i'm not convinced we can put it into this box for the price what we need to do need to hit
-
-because man
-
-or know the chip composer centre
-
-what they cost
-
-i because then we would have to figure out how much we had a way in terms of user interface and this look-and-feel idea
-
-it does seem as if we're just to do something really simple and speech use the which is
-
-speech use the which is pretty much the same as this existing models just maybe
-
-that's really good idea
-
-i i think that's very interesting idea but
-
-idea but i'm not very good industrial designer and i don't know much about
-
-it's better than idea that's all we're probably
-
-and then use it solar can do
-
-we and i would be too heavy and cost
-
-heavy and cost too much
-
-so if you can dark at you know you could it's argue that cases
-
-are we as to what our target group is the old
-
+and the dark could look very fancy and
+and that could be your inspiration of having a look and decent
 much that we've been looking for the younger and
 
-i was wondering that because i agree
+and what we all need to discuss is whether we want these functions pretty much the same as for existing remotes have if we can build on this with the speech recognition that's not something
+but that i do think we need to discuss this p. h. recognition possibility
+speech use the which is pretty much the same as this existing models just maybe
 
-that's probably more buttons
+we need to move this who wants to go for
+definitely needs at a lot more research on
+i think first off i do agree with what is sarah has defined as a your personal preferences i think we need up a more streamlined volume where you know extraneous functions
+and then we need sending mechanism to send it to the receiver now i
+idea but i'm not convinced we can put it into this box for the price what we need to do need to hit
+you'd ever need a battery is really
+an apartment the more we need to go for the manufacturers
+
+and eighty percent of users and if we think
+which i think it's more in the user a range was
+from a are just user from the website
+
+and to be extraordinarily reduction last power channel volume and everything else is up to the designers
+and also has seems to have channel up and channel dying which
+control where you've got hundreds of channels instead of a nearly terrestrial one
+i think we just needs channel selection volume up volume down and
+are functions we've so for decided to i think that to power channel volume make it attractive
+definitely channel volume power
 

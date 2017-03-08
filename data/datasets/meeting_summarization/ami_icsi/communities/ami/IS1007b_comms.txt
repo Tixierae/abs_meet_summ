@@ -1,310 +1,87 @@
 and you mean t. v. a decision on t. v. design and for that you see the remote control and
 so he remote control should be want to use it for you to be feature
-so i think those are things to do is to define there are components needed to achieve what we want to do so
-example one is from or page easy the
-page easy the other one is for are engineering central this is the most competing
-for five buttons it's sufficient it's easy to be
-it's can be small i
-you just give it a name and we call an i. d. s.
-participant four
-
-and of course we should have our team i'm into the design
-what i have four point for the presentations stored in my in my personal folder so i
-f. five
-so was it has a different from the bluetooth
-and how about the battery power
-and they are small it
-
-so you can trade you or not but if you ever
-so i found twelve very good prototypes off for these interface from our competitors so can you
-these are usually functionality and
-from the technical aspect the processing should be done on the t. v. set them on the on the remote controller right and then
-and of course also the people or adjusted and if it's less expensive so there's an
-
-into the more compact
-so the proper assist to find the important questions but as it what effect should the apparatus have so
-is not going to take more space also it's want to very slow
-it's want to very slow and
-and next one of the size of the remote control it has to be
-
-so we can again forty second thing
-it i think we should use the s. p. g. a. for the functionalities which is easy to
-it's few to programme able to know something that i read it
-
-four you know this meeting no it's two to make presentation the one for each one
-the main that back to this but there and the remote control the power to the battery comes to the infra-red
-because i use a remote control
-
-and we have you can put a new project requirements no i think
-need you just a shower you had this you just have to rip respond to you when you look for the device that i don't know how
-so it's a good idea
-
-and i think we don't need like to adapt so
-and then we big speech recognition is very says we may just putting we make a i. d.
-all the processing is done the t. v.s a computer in some processing power there
-
-the alimentation then to programmable chips for both software functionalities and communication and the communication
-one is a complication
-and the read them the green one is too where putting things together
-
-full charge or four i don't patient
-just pick so we don't want it so i propose
-so i propose so easy to use a prototype you can that we didn't
-
-so you don't have hundred channels to choose from
-if you go by generally don't do that
-we can think of buttons like in the telephone to send messages and things like that
-
-it's good to explore
-you can put it on a charger we know you when you don't need to use it
-
-so can you go one p. l. p.s so i think those
-and what is what's used to the cheapest possible i think if we have we can use
-
-i think i you do a survey about what is r. which is a valuable on the market and what is what's
-and how and we can start to build should think first kind of communication problems or things like that and when
-
-then i will try with the technical team to be the prototype and
-and when we are ready with this first prototype i think we can have some software functionalities on a programmable chip like browsing by content or things like that so
-
-so i think we you can use a battery for the alimentation
+so what type thing i from now is it were you we don't want to have remote control we which is wide so
 so this is the ski mask off i if i a lot of the future remote controls so
+we have to say that it's the t. v. you think with the remote control
+because i use a remote control
+so the person on the remote controller so you can
+it is interesting but we only cost a movie remote control
+so if we already have it in our remote control
 
-do you draw it
-and this can do to do the programme for instance we don't i think buttons
+at found that the function of remote control is to send messages to television set for example
+from the technical aspect the processing should be done on the t. v. set them on the on the remote controller right and then
+and we can try to get this information onto the remote control to do the processing on the remote control because
+or is done the at this remote control
+
+i'll borrow a remote we don't want to make a
+harvey each this remote
+and adding up the speech interface is always good for a t. v. remote but
+and you find it and then i would like to have them by options in german so the remote
+
+and i will present my first idea on how to build and our new remote control for television so
+so it's a good idea if you if we think about how to be that our remote control we d.s functionality know we could which would come in a few years so if we already
 
 controls so you can see the components battery and
-and to chips goes to the infrared a connection for t. v. set
+the main that back to this but there and the remote control the power to the battery comes to the infra-red
+because see using because it is in bluetooth if some be but p. d. a. they can use the p. d. a. the control the t. v. they want to
 
-the work together or do they have the work together on two separate choice
-false one on the second one is for the software of where you
+we i we just have to find the mean how to add them microphone know yes a microphone into the the remote control so
 
+yes the next night
+so next presentation
+and next one of the size of the remote control it has to be
+
+and of course we should have our team i'm into the design
+so let's start to see and the steel designer
+alright so that we talk about and or working design and
 right and that's it for the working design so if you have any
-so if you have any questions
+four let's move to use the first design
+i'm working on the technical functions design
+on like simple design just give them and maybe
 
-more compact and
-and i don't think it will need very much power to make it run so
+and when we are ready with this first prototype i think we can have some software functionalities on a programmable chip like browsing by content or things like that so
+the alimentation then to programmable chips for both software functionalities and communication and the communication
+the one on top is for the the functionality in the functionalities and the
+it i think we should use the s. p. g. a. for the functionalities which is easy to
+so you have to participate the future
+the future demand market demands
+it but to to find a way to add this functionality in i i mean in an easy manner if it's possible
+the functionality in the future alright
+
+and i think we don't need like to adapt so
+so i think those are things to do is to define there are components needed to achieve what we want to do so
+you can put it on a charger we know you when you don't need to use it
+and we can proof it the users preference and we need
+and we need something to do some pre processing from
+we did we don't need really much buttons to you if we have a screen to navigate on the t. v. so
+i understand i thought you agree
+i thought you agree to you and if i need you just
+so are you needs special t. v. sets to do that or
 
 people don't like it to how to buy the batteries and there are now it has to make a small
 it has to make a small charger and put it
-
-because see using because it is in bluetooth if some be but p. d. a. they can use the p. d. a. the control the t. v. they want to
-also but i i think you have the goal is to sell our how to read a book i come from i
-
-four let's move to use the first design
-so you can up and three
-
-so i found on the what's on the internet i i
-for example speech or usage or off switch the next channel and sore on and so on so i found
-
-i spend a lot of times the t. i.
-that's our next
-
-but that but i found if you look at you see on the left one get too many buttons
-and adding up the speech interface is always good for a t. v. remote but
-
-it's i talk about the problem and then
-one and not a mouse but something
-
-we have to say that it's the t. v. you think with the remote control
-but something that say is more clearly that to the right to left up down where
-
-i think that there is a there is a technology like show view we is already available most of the t. v. set on recover also things like that and we can try to
-so high
-
-speech recognition
-and the users send the feedback it's and based on that
-
-yes that's a good idea i think we did we don't we
-why then you go to the main menu and
-
-so there's an important criteria here is
-clare of the of features on the cost
-
-maybe not less but they may be willing to pay a little bit more for all of what the extra
-little bit more or if it's or text of features
-
-no i think teletext becomes outdated
-
-so the popularity of the things people but i'm thinking ten minutes and
-
-so let's start to see and the steel designer
-
-you can use the whiteboard or if you want
-
-so i think you can reach he just from here
-
-participant two
-
-open
-
-alright so that we talk about and or working design and
-
-slide show we will slide show
-
-and i will present my first idea on how to build and our new remote control for television so
-
-the prototype and to see we can how would this be two bucks would look like and
-
-so what type thing i from now is it were you we don't want to have remote control we which is wide so
-
-and the communication with t. v. set is made through infrared communication
-
-this to that what is the the chip for
-
-what is the the chip for the one on top
-
-the one on top is for the the functionality in the functionalities and the
-
-transform the data into into the format to protect harder to communicate with the t. v. set
-
-get clearer it's in philly programmable
-
-it's in philly programmable get a race
-
-it p. g. a. is just a cheap you can i hope for a program it a week what whatever you want and where am
-
-program it
-
-and where am the bluetooth chip is just responsible to make a communication between the two devices
-
-so they said that they have the work together or
-
-the s. p. g. a. we produce the data to send
-
-or something like is and how the false one on the second
-
-is a sort of the software that are
-
-of where you have to round up to make it run that's it
-
-no i think there we have to have a hand they did that batteries in the into the
-
-it's a good idea
-
-that's right having a charger rather than putting it back to sell as always people don't like it
-
-no you can turn to that but it but
-
-i'll borrow a remote we don't want to make a
-
-my participant
-
-participant one no
-
-that is cheaper
-
-three
-
-i'm working on the technical functions design
-
-yes the next night
-
-i spend a lot of times
-
-at found that the function of remote control is to send messages to television set for example
-
-i was just a bit different saw
-
-different saw this that to example one is
-
-this is the most competing prototypes i thought but
-
-on there i try to play with the problem is that the if i have hundred channels i have that should present get about them to choose the a hundred channels and our to compose a number so
-
-a number so is very lousy they were saying
-
-they were saying that makes it
-
-problem and then like i look at the user name of the underpaid
-
-name of the underpaid just pick so
-
-you can that we didn't. v. screen and we can proof
-
-and we can proof it the users preference and we need
-
-and we need to have the t. v. connected the internet so when they you know that access the t. v. programs by x. m. l. and
-
-and we need something to do some pre processing from
-
-but do you mean by to pay for it was see seeing could be done and t. v. i don't
-
-so we should have a specific t. v. or
-
-at the data test it was quite right
-
-and we can try to get this information onto the remote control to do the processing on the remote control because
-
-so the person
-
-so the person on the remote controller so you can
-
-so you can you be using any t. v. on commission the t. v. set
-
-that's our next on like
-
-on like simple design just give them and maybe
-
-just give them and maybe do some buttons
-
-to the navigation but
-
-we did we don't need really much buttons to you if we have a screen to navigate on the t. v. so
-
-it's easy to be there
-
-it does not consume much power
-
-but you have a catch the
-
-have a catch the as in that if you want to go to if you're watching channel two and if you want to go to channel ninety nine then
-
-menu and you ever go to channel and
-
-know because it just by channels or
-
-channels or you just buy a t. v. program so you don't have hundred
-
-but i think he said if you want to make what i'm a bit down for a in a chart but you have to have a device when you could
-
-where did to have the ability to write something to the navigate maybe directly or
-
-harvey each this remote
-
-i understand i thought you agree
-
 it's too small not that i was so fun to go and find it
+but i think it will be yes a bit complicated to make it a speech recognition in a those runs on the small and
+it has to be of course very slim and small one
+that you can litigate small might or maybe them so
 
-i thought you agree to you and if i need you just
-
-so next presentation
+and we have you can put a new project requirements no i think
+according to the to the new requirements i think we don't need that
+for our next products our new t. v. set we can automatical sound adjustment act
+but what about the new project's requirement and i think
 
 of driving the inputs from industrial design and user interface i think most of the points which i want to already covered here and
+i mean it's for the industrial design and user use interface designer strip is that if it's going to be walking or not
+
+and then we big speech recognition is very says we may just putting we make a i. d.
+speech recognition
+the speech and refers and the
 
 and to find the most interesting features or the users would be interested then what we're done is there put a feedback forms in all the magazines and
-
-and based on that these are the findings which we talked and
-
-but the technology we already know that i've discussed earlier
-
-but i think it will be yes a bit complicated to make it a speech recognition in a those runs on the small and
-
-and it as we've seen whole visible it is
-
-and adding
-
-and adding different this one to recognise numbers is the where's that problem you if you just
-
-you if you just recognise that numbers is a limited you have limited vocabulary
-
-are we can put and then to look out there as in the mobile phones we just have the
-
-it has to be of course very slim and small one
-
-but do you think what they see should suggest that is possible to make
-
-i mean at the look where clare of the of
-
-i think that you if we go for quality people might tolerate for high quality and of course come see if reasonable cost maybe not less
+clare of the of features on the cost
+little bit more or if it's or text of features
+of what the extra features
+yes this is speech is important extra feature that i think
+so i think that's a very good idea to put these features and the fourth one was
+and the teletext so this this up that these are the text information which it worked on the televisions if you're
 

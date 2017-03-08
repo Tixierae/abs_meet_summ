@@ -1,442 +1,82 @@
-and it's gonna be hopefully one time thing when you said that should be in fact ago but we have to include the
-but we have to include the functions that can pull out to set up from the first place
-right good presentation
-good presentation thank
-and you we just need something that really i mean
-is there but they it needs to be shit has e. and it but yet simple sell
-sell that's really what we need to do we need it to
-they like i he's the buttons one
-i think it's like the engineering courses user where is like the
-where is like the engineering she showed that the germans are more complex and
-and user so we need all of the buttons that are contain them there because they only use ten percent buttons really
-i think that's a pretty good though
-again something that allow us to skip over between devices that's
-'cause we need to discuss the new project requirements which may
-requirements first it's only going to be a t. v. remote were trying that
-so we need to somehow include our colour and our company slogan on the remote
-it's like black and white kind of
-high school educated
-what if we gave it a charger and on the charger
-
-and the question that we could ask ourselves is what needs and desires are to be filled by this remote control and
-yes it is important for the remote control world
-and cents our findings found that people are willing to pay more money for a remote for it to be more high class we could consider it
-today and our rival companies manufacturer remote that you would press the button on t. v. you know what a remote would beep so that if you have lost it
-you could if we include that if we wanted to
-wouldn't think so "'cause" we could probably get it from like them all from anywhere company make
-make tennis of the chips pretty cheap
-which comes
-you can also get a kind of the t. v. guide so
-it's the whole screen
-it's gonna make it nicer
-use it i mean it they want something user friendly so
-even if we kept the regular standard size of remote if we reduce the buttons down to the ones that people are saying that they use the most often and a couple extra "'cause" are saying they only
-then we should be able to accommodate fairly decent size buttons
-i think we need a call
-
-welcome to our second meeting this is
-meeting this is the functional design meeting and i hope you all
-let's get started
-gonna come to a decision on the functions of the remote control and then gonna
-and green do this on that forty minutes
-they're easily available typically a
-i think that's a good idea because
-we're trying to get our main out in the world and
-of the internet nobody needs to go to the teletext channel to check the news at and we have twenty
-at and we have twenty four hour news channels not too so those are our new product
-power source rather is it going to have
-is it going to have a charger or is it going to be run strictly have batteries we have
-
-volume going up and down and then mute a mute function and
-for example flavour wind fast forward stop parts and there and enter be
-functional requirements
-to necessary you for
-typically was as you saw for now because probably those remote control the time much like any
-what exactly is a smart chip
-users might chip is just a chip that's been programmed in designed so that it can be complete of fair range of functions
-is that gonna push us over production costs
-and channel you know
-because people really or looking for a remote that's more high-tech
-that and to our cost so i wonder
-that would include battery source
-
-after the opening a a i am going to but they'll the role of secretary take the meeting minutes and we're gonna have three presentations
 out what i needed to complete inflation profits "'cause"
-'cause you know some of it also has to be considered and it's gonna be
-now i have courtney with the functional requirements
 need something that really i mean there's some other point is there but they
-like we know the batteries working
-in for right "'cause" you know when the battery start sign in your remote currently you have to actually stay right that bulb and go may push this button is it working we can skip that
-a normal remote "'cause" most remotes have small square buttons i think
-we don't have it but it's like they just have this channel where it just has news and weather kind of sports it's very
-you mentioned older people would just
-no kids need to know the user i think they got a
-
-and we're gonna have three presentations one from each of you then
-first
-and you have a mute button and the numbers need to act and the power buttons like
-the power buttons like to see two different had the more complex and more simple version
-typically a remote has either two double a. "'s" or four triple it's sometimes three it really
-a large on off button demographically
-demographically we're moving towards an older generation of people so a
-and have it lighting up the keys you right
-we should go for the lowest denominator
-correct because people use ten percent
-
-and then lastly we're going to determine it's working design how exactly will perform its functions that's the whole technical
-that's the whole technical side of
-he just give him and it look like a making some don't
-let's go ahead and it back
-no so they need know technical experience to operate
-does the most important ones
-and we wanna keep a
-
-a questionnaire we found that of the users are not technically happy with current remote controls seventy five percent
-it shouldn't be larger buttons in general you know like if the
-i think we should like i think that would be in it as in like in for the design
-so our target group is you mentioned
-would just be universal for everyone you think because i think even
-think they got a change between disney channel cartoon or
-and we also need to determine the specific functions of this just
-
-each of you then we're gonna discuss some new project requirements
-first i want to discuss the goals of this meeting first we need
-seventy five percent think they're ugly eighty percent
-we need it to be simple if you get it's it needs to be high-tech looking so
-it's from my research
-the functionality of the product really to be considered as to like whatever buttons we really need on it and
-
-first we need to determine the user requirements and the question that we could
-and then we're going to determine the technical functions what is the effect of the apparatus what actually is it
-and if you can read it but it says that go to free is slow repeat a programme mute and
-preferences so you've you said r. a. that we need a large on off button you think anything else
-and we need to promote our company more so we need to somehow
-a make a note here do we wanna keep the number buttons down correct
-
-i would assume so i think which was
-remote i think that we should go with something that's more user friendly where the engineering ones
-and so just it just to clarify that
-just to clarify that speech recognition you mean they would say channel five and i think we go to five
-so you can put it in the dark
-those are our new product requirements right
-
-what actually is it supposed to deal with people pick up a remote can use it for
-consumers are really interested in it and
-this we need a power source for gonna need a smart chip if we're gonna make it multifunctional
-so the red would be the front of the remote there right
-just black with just text
-
-do you have a powerpoint or no
-save it in the project documents
-the channel going up and down
-whether that means like we can go and decide the brightness the screen things like that all the more complicated functions and then use
-not kids right
-
-and then on the right it's a lot more simply it's got
-but it really need to be simple so
-that's kinda
-we can skip that whole thing
-how will wobble to know be case
-
-so method of our design i think i just a realistic that some of the things that we actually need to put into this we need a power
-definitely n. x. ray
-to know be case there's no way you're gonna be able to make it you know
-just to get it all on paper so
-on paper so we said it needs to send messages to the t. v. needs to change the channel turn on and off just basic simple like this so if you
-
-and then gonna close the meeting and green
-all not kids
-they all the different age groups have different designs for speech recognition so
-so older people don't really care
-
-the function of
-and then at the menus for d. v. as as t. v. whether that means
-and you can see on the left it's got a lot more buttons and if you
-more simply it's got volume it's got the play that like circles that would just play were wind it also what is the past four is also like next on the menu c. have
-
-and you can cite if that's what we want that if we want to include that in the remote if that's something that would stay on the t. v. itself for example
-my team wasn't very clear that the "'kay"
-and you know teletext is
-i would think that because you have to develop a base
-
-that we discussed
-but only use ten percent of their brains
-good place to necessary you for
-the design i think we should definitely go with
-
-we need something simple because
-i mean they do need to be able to identify and
-the power to the logo
-'cause are saying they only use ten percent of them then
-
-where the engineering ones the boxes stand make it look more complicated than it really is
-so no d. v. d. you know t. the most a real savvy
-a real savvy be multifunctional
-it's very bland looking is just text on
-
-range of consumers so even though we need a small number buttons we also need to take in like are most people going to be using it for a d. v. d. player at even though what exactly are we using it for as as
-so we need a him but not corny marketing scheme for promoting our product and also we
-chip you do that or the smart chip will have to be extremist right
-so we're going to go anywhere from tends to wood all in the age range
-
-i'm just random of it
-subcomponent which would be like a way of deferring the power to different parts of the device the
-this is just like a rough schematic so this
-is just text on the screen not even
-
-it's it's very important
-what we're going to do right now is come to some decisions the fan have a we can all agree on about the target group and the functions and
-we need to do and then we'll close the meeting so
-
-exactly holding it
-on our company website you can find like the specific statistics concerning to know how much each button is used but those are the
-but those are the devil at a point
-
-we're gonna have this which between the power source and the rest of it you're gonna need to switch extra
-extra bulb could just be for flashy know is
-the chip and of course the infrared bulb so we can communicate with the various devices that he needs to talk to
-
-back in yes so what i wanna do
-so what i wanna do right now is here from a t. v. or on your research that you just tend to look like stars off
-
-for example switch on switched off or this channel go to channel nine ten volume up etcetera
-so the considerations it's just for example that what it needs to include it's the numbers you
-
-and we just we watch them and we also made of a questionnaire we found
-a possible in
-
-much like any small pointer cellphone and
-this one and i'm gonna go back to my powerpoint "'cause" we need to discuss
-
-ergonomics of your hand movements or something
-out will still put that as a point do we need to discuss so that would include battery
-
+sell that's really what we need to do we need it to
 really need to provide more information on what r. s. time
-i think it should be a working design
-
-i think which was a know as remote control experts but it also
-but it also is so the channel the volume and the power buttons are most important on our
-
-how much extra would be additional chip he is that gonna push us
-this is my fifty second design
-
-power source i figured batteries "'cause" they're
-but it's becoming outdated now because of the internet nobody
-
-selection button for various entertainment devices so you want something that will permit you to select the d. v. d. player or a d. t. v. with a stereo system
-smart chip that preferred so that permits universal application again
-
-power source over here we're gonna have
-so this would be the front so the
-
-so this is the internal workings
-that's gonna be what's communicating with the t. v. but
-
-the all the light up a kind of
-most of them will into if we pick it up there
-
-a good idea because you know that's one of the most important buttons
-let's talk about all of our
-
-anyone else
-do we want this thing to be able to be found easily
-
+range of consumers so even though we need a small number buttons we also need to take in like are most people going to be using it for a d. v. d. player at even though what exactly are we using it for as as
+no kids need to know the user i think they got a
+i think we need a call
 i mean we need a like a homing device
-device or a whole i'll think of a
-
-could if we had a speech recognition and we can start naming it had like a another kind of more handicapped disabled then it demographic
-there is the people who desire speech recognition there's the different them but demographics have different desires i don't know if
-
-it's really in the people twenty five to thirty five i
-five i feel those are the people that really what a lot of t. v. they all the one to
-
-and i hope you all had did individual work and
-
-here's the agenda for the meeting after the opening
-
-to look like stars off
-
-and i like them first
-
-put it in project documents
-
-the function of a remote control as what we've been informed it is to send messages to the television set for
-
-it's the numbers you know zero to nine so you can move to channel the power button on slash off
-
-and then functions for a v. h. s. t. v. d. for example
-
-and enter be for like you know the menus and then
-
-yes there are two examples and you can see
-
-and so the system or the buttons that is in ideas one example and then
-
-c. have functions that are duplicating
-
-and then lastly is the questions are we want to consider like
-
-like what functions so we want it to include and how simple complex it should be and what functions
-
-and what functions it needs to complete out
-
-you speak was the to the wiki
-
-who would like to file that or not
-
-do you want me to run it or you wanna
-
-yes so we tested a hundred subjects in our lab and
-
-eighty percent white people are willing to spend more which is good news for us if we make it look fancy or and
-
-and that meaning what
-
-what you mean by the current remote controls not match the operating behaviour of the user like they have to press buttons
-
-it works ready for
-
-and so people will say that they typically was as
-
-and i think we need something
-
-simple because most people all thirty four percent say that it's just too much time to learn how to use a new one and we don't wanna do we wanna
-
-and we don't wanna do we wanna very too far from the normal standard remote i mean they do need to be able
-
-it's very important
-
-that's what my a website and i
-
-and so personally i think that we need a moderate eye-catching design but it
-
-so saying from me you were side your presentation the engineering versus the user specified remote i
-
-and it needs to be open to a wide range of consumers so
-
-as as the age range so we
-
-and also we found to our team the mets speech recognition is it's like it up and coming thing they've really
-
-thing they've really consumers are
-
-i sell
-
-i'd be lovely
-
-i we can interpret it like we can just try out different types of speech recognition as an hour no problem
-
-so like what the remote phone use it or
-
-you know like go to the case
-
-i'm ready for our last presentation in there
-
-'kay i mean get a chance to complete this one because some of the tools that i was getting frustrated
-
-extra functions will probably need an additional chip you
-
-nothing here
-
-it really kind it depends on the size of the actual remote itself
-
-so a large on off button would probably be good selection button for
-
-so what exactly we're looking it's like the front of the remote
-
-with the t. v. but the other bo i think it's good just indicate i'm doing something sort of like of reassurance
-
-so you don't have to stay right that in for right "'cause" you
-
-anything you wanna have a personal preferences so you've
-
-you know like if the examples i had there's like quite small so should we trying go
-
-so should we trying go for so it has a larger buttons
-
-i think we should definitely go with buttons they don't look like a normal remote "'cause" most
-
-buttons i think we should do something like a big earn round like bowls
-
-we'll come to a decision later about all the components that we need to include that wrap
-
-that wrap up this one and
-
-requirements which may very seen forced upon screen better later which
-
-x. t. we are your product
-
-your product requirements first
-
-were trying that over complicate things so no d. v.
-
-in the states we don't have it but
-
-like running along the bottom
-
-i'll give you this ports
-
-it is a like the weather channel word scale like the ticker running on about
-
-except the entire screen
-
-it's the entire screen is just whining information and then seemingly
-
-you can takes boards you can take c. news you entertainment you know it's like
-
-so it's like a separate channel from like what you're watching
-
-right but it's becoming
-
-so do we have to include the company colour within that
-
-somebody colour being yellow
-
-the functions and just different things that we need to do and then we'll close
-
-because i think even if something has large buttons as long as they're not childish lee large like even technically
-
-not antek good chance people are gonna use it i
-
-so what for our target group would we say i mean young an old are all age ranges all
-
-take a technical specifications like how technically
-
-like how technically literate are these people we're going to be using a remote
-
-i would say you we should say dumber than the average person
-
-so if you have something to say it and why it to mind meeting minutes
+"'cause" we need to we definitely need have buttons for like subtitles and things like that is because
+
+and you have a mute button and the numbers need to act and the power buttons like
+the functionality of the product really to be considered as to like whatever buttons we really need on it and
+that's true and also remember that miss teenage we need you know like a hundred button to use to
+so we need up down inside the side buttons
 
 most channel on off button volume you
+you could just double up with like the channel or the volume buttons
 
-volume
+is there but they it needs to be shit has e. and it but yet simple sell
+we need it to be simple if you get it's it needs to be high-tech looking so
+we need something simple because
+simple because most people all thirty four percent say that it's just too much time to learn how to use a new one and we don't wanna do we wanna
+but it really need to be simple so
+on paper so we said it needs to send messages to the t. v. needs to change the channel turn on and off just basic simple like this so if you
 
-you know does the most important ones
+the power buttons like to see two different had the more complex and more simple version
+like what functions so we want it to include and how simple complex it should be and what functions
+and what functions it needs to complete out
+and we also need to determine the specific functions of this just
 
-finding kind of device or
+and we don't wanna do we wanna very too far from the normal standard remote i mean they do need to be able
+i mean they do need to be able to identify and
 
-like if this is gonna get lost any take a rich how are we going to a comedy to be quick ability to find it
+so method of our design i think i just a realistic that some of the things that we actually need to put into this we need a power
+this we need a power source for gonna need a smart chip if we're gonna make it multifunctional
+we're gonna have this which between the power source and the rest of it you're gonna need to switch extra
 
-and on the charger just like a phone like you get a portable phone and it's got a charger and if you leave
+so we need a him but not corny marketing scheme for promoting our product and also we
+and we need to promote our company more so we need to somehow
 
-and if you leave your phone somewhere you push the button to find it finds of the phone beeps for you
+a large on off button demographically
+so a large on off button would probably be good selection button for
+preferences so you've you said r. a. that we need a large on off button you think anything else
+because i think even if something has large buttons as long as they're not childish lee large like even technically
 
+gonna come to a decision on the functions of the remote control and then gonna
+and the question that we could ask ourselves is what needs and desires are to be filled by this remote control and
+the function of a remote control as what we've been informed it is to send messages to the television set for
+typically was as you saw for now because probably those remote control the time much like any
+yes it is important for the remote control world
+i think which was a know as remote control experts but it also
+
+so like what the remote phone use it or
+it really kind it depends on the size of the actual remote itself
+so the red would be the front of the remote there right
 it's useful for the remote from
-
-with that and to our cost
-
-if you have the basic you start putting a charger and then you have a different kind of battery
-
-rechargeable batteries it cheaper usual way
-
-i think we can make a decision on that later out will
-
-we have seen to deal issue that you mention of speech recognition if we want
-
-a way copy onto the thing sits black they all the different age
-
-they all the one to get addicted to soap operas and
-
 and if we did you say when they're at this stage they're going to probably i was by remote that has
+then they put the voice recognition d. put there like receiver on the actual television in the base or in the actual remote "'cause" then you've already got
+'cause then you've already got them and then hand wages can speak to the remote as if you
+use to have a remote that's not even go up pass like fifty so i can
+yes it your own remote or digital cable "'kay"
+
+where the engineering ones the boxes stand make it look more complicated than it really is
+so what exactly we're looking it's like the front of the remote
+i think we should definitely go with buttons they don't look like a normal remote "'cause" most
+it's very bland looking is just text on
+because people really or looking for a remote that's more high-tech
+as if you just speaking done on you don't have to have a remote in your hand and like to look at it
+to if we said find remote looking remote or something
+do we go back to i'm a look
+i'm a look really quickly back at those
+
+and so the system or the buttons that is in ideas one example and then
+a good idea because you know that's one of the most important buttons
+
+functional requirements
+now i have courtney with the functional requirements
+are functional requirement
+
+it shouldn't be larger buttons in general you know like if the
+so should we trying go for so it has a larger buttons
 

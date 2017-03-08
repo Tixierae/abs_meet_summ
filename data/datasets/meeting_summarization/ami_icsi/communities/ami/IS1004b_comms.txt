@@ -1,519 +1,63 @@
-so going to have an meeting about the functional design
-power stick
-i think is in more question off look and feel something
-something that should be addressed later we should
-so that's takes to mount the for the naming we see fault
-the naming we see fault for the look-and-feel later so let's go for this representation
-so one to start
-so you have your slide somewhere
-requirements i'd give it a marketing report and
-it seems that the remote controls have been have remain the same for the last five ten years there is no
-so it may be interesting to think in a in both prototypes for right and left handed people
-cut out some a lot of your market
-still set for your hand but not for particular and
-it's a then it shouldn't be saying that you can see matter that much anymore
-and so they wanted so they want to they would like to be restricted to t. v.
-actually this marketing report is to t. v. remote court
-maybe i can get this in my presentation to that time
-so let's keep in mind about doesn't that this last point about l. c. d. and speech record
-i think even if it was within budget do speech reckon rec system it might be a bit difficult because if you
-you might have some background noise in the t. v. which will make the speech recognition much
-and just to a look to see if they're actually available in any kind of remotes and then also
-and this remote control on the right here is one of the more extravagant but it's not
-but no means a me and at on its own in being so expensive they're a lot of
-no work working on television remote that was universal is that they have a l. c. d. screens which
-but the thing i find most interesting about this remote control and it's kind of difficult to to see in a slide but it has a scroll-wheel on it which
-change the channels
-i it depends on how you market it if
-market it if you if
-so most of the things that you're discussing about the speech recognition means
-means on a one i should be
-so the working design is so user interface
-but we've seen before that there is a new way of tracking to choose a wheel
-that's right so anyway that didn't come into my mind so
-so that is a possibility these could be
-to speak buttons out of something which is really everybody's i mean the red so
-is and on top of that if we are having next functionality that are willing to show that twenty five euros money which we're thinking otherwise
-not all buttons normal requirements like a big courting all those things are required and for wise
-next
-and all of them they would just do but according and put it in the map put it in the problem message warm and
-i you could actually train the remote control as you're using it by saying you know ten volume up and you press the press the button like the of
-depends if it's a remote control
-maybe if the remote control something that you don't actually have to pick up any more that would be a useful feature the speech recognition if
-needs we need
-which is a which is easy to handle to scroll not too big
-unless we have some input some video input to the t. v. or we have control of the t. v. then we can actually display that like if we
-
-i think is a more a question off i think is in more
-they the younger people are they are more interested they i mean incorporating new technologies in the remote control
-something you groups or you could even
-much anymore as
-use the mouse or
-there are chip it this is not the multi
-because really i think people want to be l. to find the button are looking for without even looking at the remote control
-and do more saying before but having different size buttons for different you know frequently used costs i think also it
-but maybe at all that you can family removal time only have one would be good
-i mean one maybe one option since this is pressed to be kinda fashionable device is you know there's a certain kind of factor that you can kind of you can have with technology and maybe we wanna make
-and that means we can do online changes which can be done now actually so apart
-message warm and then there's the chip which is sitting the green one and it can watch it into
-my personal preference was that we can have a us are sitting there on the remote control
-because the reason
-agenda and so we have to take some these decisions right now
-difference "'cause" even if we have context we can't really produce remote controller can bring out menus on but our company's t. v.s it's just there are
-
-so means design should be similar to the traditional ones that would
-that would sleep longer
-if you have a list of programmed an l. c. d. screen you just scroll for that program rubber band to a channel
-this is not the multi get that's remote control where it's it's very simple there's only
-know i although i do also find flip open doors a bit of a pain because sometimes they can break off or whatever but maybe at all that
-you if you have the right of those are showing now how easy to use and how you can you know i never get to programme with that numbers and people might say that looks pretty easy
-these could be a lot of kind of interfaces means we can have
-otherwise we had just like others in the market so anyway
-because i'm not going to speak into the into the remote control so
-and then they could be buttons and all
-and as we have a also requirements to read to use to push from too the internet's maybe just something we can
-remote we still you say
-
-i can still be in seoul extend past the hand
-so fitting the hand
-you should say like this that remote control being one or beyond kind of thing and then remote control comes in the picture for the speech recognition because
-because this kind of thing means the speech is there from the t. v. also so
-but there's one problem means then the user has to understand each of that functionality because the same
-so this is the design which we had thinking so we haven't got
-and then we are having the but that does with just to indicate whether the power is on top and then
-and then that'll kind of things which can be so one is that button
-like if we produce the t. v. is then we can put you know menus up there but otherwise
-but otherwise we need to actually have some kind of something sitting in between the video signal and and the t. v. to superimpose that is this menu so that's
-this menu so that's an extra
-
-'cause it also like in english it sounds like you know them and school you know "'cause" you know men like to
-there we doesn't work
-quite handy no the
-so apart from a speech we can have the scroll kind of thing but the buttons not all
-yes if it is limited whatever we usually to know
-it's a lot eighty patches that hour or something like that
-the speech recognition if you can leave it sitting on the table and you don't actually have to find it then they can use
-the first and what not to go to has to be because
-to be because in fact as what they're getting a t. v. in fact we can use a t. v. screen as the screen to feed back to do some feedback informations about what we could have
-and not that we have contacts with people and t. v. or c. d. you know so what systems that exist in use
-
-you have good reasons for that very good
+'cause you know men like to have control the remote so
 and you have to find it with missus and they improvements we could do to the car and remote controls
-so i'm they admit that they should just they would spend more money in a fancier remote control which is
-which is what it's interesting point
-so in my opinion there my and all these mine though shouldn't be bit smaller because there's more e.
-because there's more e. d.s they're more like and they good idea is to it looks like a year
-i dunno if you had this information already know
-so they want has to restrict the remote control to t. v. only because of time mutations
-and the new users as our marketing expert was saying they can use the new bits mortgages speech recognition kind of thing
-
-man that sounds like you know
-there is no nor significant difference between the them the first know control
-next
-and finally the incorporation all far as c. d. or a speech recognition see stand in the remote control could also interested but
-also interested but i don't know if the budget would be in that's enough
-because the same buttons clean too many things
-still the old kind of users would on want to have any changes it can be useful for them and
-so if i kind of summarise everything we did we say it they're
-they're getting t. v. we
-
-i so that people are awarded about the r. s. i. e. d.s which is if
-which is if you to be this c. d. a. same movement which is not with our not very up repeat device you'll do we have problems were when you will get all
-so list people are what it about the shape of the remote control they are
-so i think it would be a point to to find out a solution to any
-any be any a time or something corporate to do with the remote control it i mean you get lost
-and i so i found that the old people and they
-people so complain because they all have the same size of the voters four buttons which are not betty use like
-you say we're focusing on t. v. but still kind of like a universal remote in that as a replacement remote control or is this something for a reminder of televisions "'cause"
+and this remote control on the right here is one of the more extravagant but it's not
+expensive they're a lot of expensive remote control that
+'cause the thing is what what we were present this presentation that is what we want the remote control to actually do it and
+because i'm not going to speak into the into the remote control so
+the remote control so it could be so if you cindy minutes
+depends if it's a remote control
+we were so what would be the goal of putting an l. c. d. in our remote control
 
 bad they they that they should have at the same importance and they're in the remote comes in the remote control
-and then also the search for which the top rated the remote controls on e. p. means talk on which is you know a customer know written review side so
-so it there's a pretty wide range of remote controls these days and
-extravagant but it's not really but no means a
-expensive they're a lot of expensive remote control that
-looks like a p. d. a.
-all the functions that are controlled through the l. c. d. screen except for the really
-and if you look at them a lot of the universal remotes out on the market no work working
+you should say like this that remote control being one or beyond kind of thing and then remote control comes in the picture for the speech recognition because
 
-so fitting the hand doesn't mean much them
-and then finally
-wheel which i think is it's a really kind of important design aspects
-like the of people to use on line which a case of by speaking and doing this
-but as soon as you tried to put microchip kind of thing or something that prize will go up so these are the
-so these are the slide problems
-
-so today we're going to have a second meeting i'll make it
-and we could have some like you take to have the fonts
-and and also bring testing sings i have seen them on the one that's got a welcome pick it or is this we'll that we can use to navigate so
-but we still haven't really to find the remote we still
-for twenty five euro i think it's impossible but
-
-control but i have new you we inputs for about that the peaks
-i'm in a if i was using remote control to say to turn the volume up because i can't hear very i don't really want you know you'd run out what people are saying by talking you know one on one instead of pressing up on the remote control unit
-of televisions "'cause" that really makes a big difference "'cause"
-it's not possible it's possible
-
-we view and that we decided to to go to individual actions for each of you so
-so industrial designer should work was supposed to work on and so on the working design issues
-issues that you
-depends that it depends if we
-
-it's all maybe we could start with the market
-user interface could be of two things one is the usual
-we haven't got a button and the search but there's not much and then we are having the
-but you know the average then quincy off by some bottom so it's a lot
-
-so if you think about is kind of like you know mobile phones are you don't use you don't remember people's fun be you remember the name and you're fine and then so this would be pretty
-so this would be pretty kind of anything to have but
+this is not the multi get that's remote control where it's it's very simple there's only
 we'll have a bit of a simple a task in that we're only doing a television remote control
-and i think it would be good to know if there's any leverage in that any leeway in that town that twenty five euro because
 
-everybody's ready in good morning
-in good morning again so today
-to late you have
-
-that you prepare know something for us so
-so you we i also i work on that and for them are our
-that i mean that would be fairly cheap thing compared to also use going to implement i think it
-
-but maybe for the spanish for a life or
-this is a look but we still haven't really
-and that seems to be kind of against the forces you had a company which is you know putting the fashion into electronics so i
-
-no objection
-the scroll-wheel could be used without l. c. d. screen just for changing channel numbers easily i think even
-i think it would be quite useful as and the other
-
-so we should be careful
-what most of the people of thing that remote controls are oddly battery so i'm
-we had the new requirements from the sort of on the head of uses of the company and
-
-use like for the more i zine time as or this kind of actions which are not very often bad
-i think we just that the cost of
-that's right but the means we have to see how much what kind of microphones and like that
-
-something with the shape of the pound
-it's like we a bigger you are having to more similarly otherwise
-if we don't unless we have some input
-
-but most of the and most of the young people are two thirty to fifty years old are really interested in this kind of technology
-we still we still working on this twenty five you're price point because i think
-point because i think actually having all that some of the remotes out there this is quite although our price if
-
-so we have also to focus more on the internet aspects because you see the text is outdated now
-and the final mean you should be clear that the call for each units that means corals and logos of that our company should be key i mean that you identified the park
-our price if where maybe i can get
-
-that time
-the ten and fifteen
-no it could be quite control kind of thing in
-
-because if you think if you're watching t. v. you can have a lot of these background noise from a t. v. which might interfere with the
-but you should be able to add deviated is a t. v. eights
-otherwise it's just line item
-
-so i think a scroll wheel is quite handy no
-so my feeling is that it's rick regarding costs digits we have and target price it's not possible to goals two l. c. d.
-and also to go to automatic speech recognition technology is the first
-
-but i think also the scroll-wheel haven't mentioned here the scroll-wheel could
-maybe just something we can stick to it
-could we feed the targets in front of cost if we goes two ways c. d. on the remote control
-
-no components
-so this is the easy is assigned they could be sold
-you have different technologies so this was
-
-in between we view
-to interrupt you but we've seen
-
-and for them are our marketing expert should be for some specs
-so what are going to go through all three of you when you do presentations but first i will i quickly
-
-but if you have any of the names that we could decide fall just to get something fun for our project we should we could discuss quickly any ideas
-of increasing the unit price
-
-maybe spanish name work especially if we're selling
-mind or whatever
-
-especially if we're selling and the u. s. market for the spanish thing is that
-maybe something that sounds in english to send funny and spanish mind or
-
-what does that mean in spanish
-which maybe it's too expensive but
-
-'cause you know men like to have control the remote so
-no man
-
-so let's go for mondale
-so he's pretty comfortable if you want to get this and on top of
-
-so you have man in like in in all in one font and then the other was like
-that's right but it's left and right hand but
-
-the most t. v. watchers so we should be careful
-you think that provenance of subsistence enough to target lot of such technology is is enough
-
-we should go to was that was the other topics
-let's go for this representation right now so one to
-
-that's it and four
-it's coming
-
-d. i think that scroll
-it's more like means that the famous speech technology switch at existing so
-
-price point because of use a list of can't be done for twenty five you your but
-you your but one possibility is to download programme information into the l. c. d. screen so then
-
-i think also it in application and then shape of the buttons is important but also it the number of buttons so if you have too many
-so if you have too many buttons it increases the difficulty of finding it when you want so
-
-also selling the potential of the device in use
-of the device in use a potentially you can then do a look like change the lights and i close the windows what about the heating on and
-
-at existing so deeply the book would be kind of which is the easiest so you have
-so you have to store some time but on the on the chip itself and that
-
-wall good shape yes we should
-yes we should bring new technologies for young peoples and
-
-that's good point what's what
-what's what we what could be the costs of could we
-
-i'll make it back to late
-
-let's have a look to the pattern that today
-
-have so far as before starting i'm just going to to go for quickly to look through the minutes of previous meeting
-
-we wanna decide it if we should go for universal specific remote control but i have new
-
-first i will i quickly to to decide of did you name is the project so
-
-so all i just put a bit quirky or i mean all but if you have any
-
-any ideas
-
-the power state
-
-nine got a mango men
-
-it doesn't sound record for me but maybe for
-
-take to have the fonts special so you have man
-
-although you don't wanna cut at that women out of the potential by is that there
-
-because if it that it will be international
-
-we need to know who we're selling it to before we can really decide on a
-
-should be in practice a button for
-
-so i really i would if i believe for a blind about what i what the prepared for this meeting
-
-for the functional requirements and especially for the user requirements i'd give
-
-and so i did a study with for incorporation of new technologies it seems that
-
-they get i'm ready betty often because they lost the remote control very often so
-
-it looks like a year or more like a
-
-so this is the design should feed the hand shape so it
+it means like this remote here is kind of it's very thin and long so instead of having you know you might have it kind of a bit big are all you know with maybe
+and just to a look to see if they're actually available in any kind of remotes and then also
 
 the the thing is the most remote controls are used by more than one person's
+my personal preference was that we can have a us are sitting there on the remote control
+so the remote as one bad and the person wants to buy a new remote or because the cost of
 
-one person's and as you kind of targeting single people you can maybe
+we wanna decide it if we should go for universal specific remote control but i have new
+i would if i had my perfect remote controller but we decide the numbers are all on it because they're just in the way they
+
+what most of the people of thing that remote controls are oddly battery so i'm
+so list people are what it about the shape of the remote control they are
+they the younger people are they are more interested they i mean incorporating new technologies in the remote control
+because what if people as see a remote see that see a remote control without numbers they were think it's very difficult to learn ready to go to the different be a baby teeth into it at each other
+i people go through by you know as a remote control when they broke brought to hold and they want
+
+we need to have a on a remote control which is fancy which is a
+i mean do we need an extra internet connection to use a remote control on roles in addition to the t. what should be a special to you gonna do it
+shame because even with you i don't you could even get teletext information from the t. v. on to the remote control especially if we don't control the t. v. i don't know we need to
+
+control but i have new you we inputs for about that the peaks
+there is no nor significant difference between the them the first know control
+no it could be quite control kind of thing in
+v. also so they should be something come on control you start and then you stop it's like we
+but the thing i find most interesting about this remote control and it's kind of difficult to to see in a slide but it has a scroll-wheel on it which
+it is instead of having a mortal which is to be trained and being a micro controller
+unless we have some input some video input to the t. v. or we have control of the t. v. then we can actually display that like if we
+you say we're focusing on t. v. but still kind of like a universal remote in that as a replacement remote control or is this something for a reminder of televisions "'cause"
+i think it up the people that gonna wanna buy a very stylish a remote control what's new technology is the kind of people are we gonna have you know what i was internet connection maybe or
+
+they get i'm ready betty often because they lost the remote control very often so
+any be any a time or something corporate to do with the remote control it i mean you get lost
+so they want has to restrict the remote control to t. v. only because of time mutations
+
+so research in this topic i first of all the sort of a couple things i would like to see in a remote and just to a look
+because really i think people want to be l. to find the button are looking for without even looking at the remote control
+i think that incision to use this new remote control shouldn't be very they have looked pretty hard because what
+
+and finally the incorporation all far as c. d. or a speech recognition see stand in the remote control could also interested but
+maybe if the remote control something that you don't actually have to pick up any more that would be a useful feature the speech recognition if
 
 i don't know i see anyway i think it could be an interesting to really some a smaller fraction of all these remote controls short
 
-might be it could be a euro was the design for you know was
+so it there's a pretty wide range of remote controls these days and
 
-for you know was the design which is good for both the hands that
-
-and right hand but i don't you think that the two points at fashion one thing you're saying design should fit the hand shape and it should not be really small
-
-the first and the powerpoint they're flashing
-
-it means like this remote here is kind of it's very thin and long so instead of having you know you might have it kind of a bit big are all you know with maybe
-
-all you know with maybe some something be a mold or something
-
-so means design
-
-and it should fit the hand
-
-no i was thinking of sat like something
-
-groups or you could even have some buttons like you know on the sides and everything but
-
-course i'm just wondering about the s. c. d. that tells
-
-tells because
-
-so maybe is a good time for me to to bring you to some new way you informations we had
-
-so to make you can come to your presentations right now so let's keep in mind
-
-put some three
-
-v. eights
-
-i press a button to talk and the t. v. set on terms of
-
-of thing in the required reading names this particular sequence and then it gets activated
-
-v. also so they should be something come on control you start and then you stop it's like we
-
-so it could just got the master a very
-
-got the master a very easy to use the mouse
-
-so research in this topic i first of all the sort of a couple things i would like to see in a remote and just to a look
-
-c. d. screen except for the really kind of main functions which have a couple of the round buttons
-
-d. screens which kind of helps when you using multiple devices i suppose because you can have multiple kind of functions different functions on the screen at different times
-
-which is kind of like but i'm a scroll wheel which i think
-
-'cause the thing is what what we were present this presentation that is what we want the remote control to actually do it and
-
-to actually do it and the simplest thing the remote control does is it just change that change the channel now
-
-i think that scroll was actually pretty a pretty penny way of change the channel than a one
-
-the channel than a one i what i use a remote to change the channel i a very you really use the numbers on the pad or usually use
-
-on the pad or usually use the up and down because most channels
-
-because most channels that you know you two digit numbers and you have to press you know a special button to enter to do and then the summer so
-
-the summer so it's just that it's annoying so i think
-
-the scroll is much more useful if you have an l. c. d. screen and this
-
-and this brings us to the point you were mentioning before about the internet capability
-
-one possibility if we know
-
-we know we need to still talk about price point because of use a
-
-so then still actually saying i want say i want to go to channel thirty seven because i know this programmes on you
-
-programmes on you know off and you don't know what channels already don't know what's on if you have a list
-
-anything to have but we really need just discuss the price
-
-very simple there's only a few buttons but what each of those buttons does something different in a different context so
-
-so this is something else on it is really gonna limiting the number of buttons "'cause"
-
-the number of buttons "'cause" this is that operating our universal remote control or a meeting is
-
-it's really a may be worth thinking little evening number buttons as much as possible because really
-
-i think maybe one option is to have you know that will fit but then door that that you have hidden mice the time that contains the extra buttons like say the number buttons for instance
-
-i would if i had my perfect remote controller but we decide the numbers are all on it because they're just in the way they
-
-maybe you know i although
-
-but i think definitely you need to keep the buttons down to a minimum but not quite that kind of interfere with the functionality of the device
-
-i think that incision to use this new remote control shouldn't be very they have looked pretty hard because what
-
-because what if people as see a remote see that see a remote control without numbers they were think it's very difficult to learn ready to go to the different be a baby teeth into it at each other
-
-can you continue is my
-
-i that i think one of the really gonna use all things you can do it was with internet connectivity would be to have this program driven interface rather than the channel number so if we can have a high
-
-so if we can have a high priced a remote control i think it would really be worth us on that would be worth implementing
-
-and that's the l. c. d. screen
-
-and the other thing you say we need to keep it just television but i mean one
-
-and maybe we wanna make it something that's extensible to do either task say you have
-
-either task say you have like a little not a little gonna base unit they can also receive signals of wills the television where you can say change the lighting in the room
-
-that would be something maybe you could sell as an extra so that it doesn't have to be part of the initial development but you know later
-
-but you know later on you could you can you know you also selling the potential
-
-and i think that's something you we may need to have as it is at least as an optional extra did gonna make our product since we say we put in the fashion in electronics
-
-one is the usual those buttons which there so that the user fee that's that he's smiling doing some he's going aboard the technology so he's
-
-and on top of the could be a speech recognition technology does mean sitting on the remote still
-
-means we can have depending on the cost how much we can afford we can have different kind of interfaces to speak buttons
-
-i mean the red so if you go to the market and you say that buttons that they're the people know what it is and on top
-
-so anyway that is the first user interface could be off more than one type and
-
-and for wise limited vocabulary automatic speech recognition system as a wide and really quite a microphone also to be sitting there on that remote
-
-we can known that means we can target many factors in a great see are so many so we
-
-so we could i imagine also that's the microphone it would be an ambiance and that and then it's microphones because i'm not
-
-the remote control so it could be so if you cindy minutes
-
-and that it's just not make a mopping where you try to find out what it is instead of having
-
-it is instead of having a mortal which is to be trained and being a micro controller
-
-we should discuss this later after this it's like is it
-
-like is it this is a very important to you should discussion
-
-it's finished
-
-no components
-
-so we go to the next thing so this is
-
-so one is that button interface which has not been shown because of lack of pain so we could not
-
-put that so and all the l. a. is that the court is sitting similarly there are different kind of interfaces which could be there
-
-so there is a is our decor though which could be there and then there could
-
-there and then there could be another scroll button scroll up and then they could be buttons
-
-it can watch it into big courts and that cords out of stand-by then for a device to the receiver
-
-assigned they could be sold in inside the court or we can have things and
-
-so this was though my personal preference
-
-so you or no opinion is that we should go for the function that aren't you
-
-the reason is that if we go into the market means no i don't
-
-means no i don't have much idea but
-
-have much idea but as you know a marketing expert presentation was
-
-i'm that you can say that a speech recognition remote control for twenty five euros eddie hattie we just put it like
-
-the remote control unit this dialogue all those are not icon here and run actually fun it was being said so maybe speech
-
-being said so maybe speech recognition gets in the way more than that helps
-
-we need to have a on a remote control which is fancy which is a
-
-we have a wall good shape
-
-v.s it's just there are too many t. v.s that this is not
-
-twenty five euro because for twenty five euro i think we can really do with that but the very basic remote control and that seems to be
-
-into electronics so i would i'd like to know if there's any chance of increasingly
+two roles more easily that you text for instance true through your remote control
 

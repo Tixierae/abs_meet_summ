@@ -1,495 +1,77 @@
-for coming this meeting so
-we have some ideas and some
-i've was sent a couple more requirements for our remote what they want
 then we can come to the conclusion on what we want the remote to do and how
-what team are and fun different it needs to
-so that even though that's working you press something you
-of course it's always a question whether this components are in fact available cheap enough developed enough but that's right
-younger generations of people so that they would pay more for speech recognition remote so
-volume up volume down change the channel in a channel up channel down i
-would that you think that would help us find it specific form that we would want again
-over remotes all over typical remotes now are just kind of are eight ten you're sort
-
-i have no idea
-and some of them a looks like they really need to include it at all of course channel
-all of course channel selection is used most frequently
-so maybe we could discuss this and think
-we definitely need to focus on a new modern appearance since so many people
-we need to simplify the remote and reduce the number
-that is the one on the left in
-but people said that they would younger
-like i don't know if they would actually go out and purchase those them's also fifty email do you know
-as and if it's the gimmick factor for the younger people about writing is
-which is we put the fashion in electronics and our corporate colours
-
-i'm responsible for leading the meetings keeping the notes and coming up with the final presentation
-as far as speech recognition those on the younger group looks like they're all for from
-all for from the fifteen to twenty five age group over ninety percent said they would pay more and it kind
-that you need it
-and as it the major fine
-which is what's dictates the design t. both the interface and the outer appearance because this
-so those are the three the three new requirements that
-and and some summaries for what's going on
-you know how to have a look at the actual games in the next break
-board to another day and even
-
-to gamble screens or just yours
-those are no way i can give you the slide so
-and so i will show you some of the results from that which
-from that which i think will be helpful
-and eighty percent of the users would be willing to spend more money if they can get a remote that would look fancy so i think
-since so many people seem to be concerned about ugliness of the remote control a
-a mall type functional remote can be a good thing to explore so you only have
-like a quick
-a user interface controls the chip and accordingly the messages
-right the state
-
-which is a fairly significant number i would say
-and then audio settings and screen settings and channel settings where practically never used so
-so that we should comes chance to search and
-cable there thank you
-were too drunk to actually accomplish it so
-this is the basic premise of a remote control
-clear and energy source feeds an integrated circuit to like chip that can compose
-that can compose messages often in the form of infrared bits this is the most
-press something you get a response
-v. the energy source for one thing can be altered or we probably cannot
-
-let's see last meeting we went over who was responsible for what i'm responsible
-at the older they get it looks like the last will and they are today so maybe we could discuss
-and reduce the number of buttons get
-what i was i think there is take away the society
-but one is user centred that
-on the other one is something engineer centred that's more
-it the major fine isn't market research is a sense is the image the parents that they would they disliked so that we should
-expensive it's gonna buy another mat
-
-which controls the infra-red ma'am right these two
-because we already decided your pure
-your pure research showed that that only as universal remote more complicated it's more costs more costly in your re
-so if we remove the universal remote then that solves that problem no
-no teletext
-so we don't worry about that
-for you know we could use rechargeable batteries in the remote and that would be
-
-alright let's just got a general quick for this meeting see if i can
-and so bay is
-of course the signal differs according me depending on what the chip tells the infra-red land them and
-but that's right i see i suppose for about a marketing i'm not too
-maybe we could sketch so
-
-a t. f. eight
-what is going to v. is pretty much on and a survey that
-a survey that area cent i have no
-is pressed the unit
-you want to gamble screens or
-
-the unit that's it
-to see something else a screen
-and the main buttons are the ones you all the ones you come across
-to the industrial design department
-we know that the remote's gonna have to be what i was just
-
-that big s. user frustrations as we said fifty percent of people find that they remotes are lost somewhere and
-and you need something things like languages and then different than accessible
-new requirements that i was told we need to use
-that way we kill i mean if it were of
-if it were of we're shouldn't for young guy is then it's a certain look to the remote or er roles or older people
-
-thirty four percent said it takes too much time to learn how to use a new remote
-the basic function is to send messages to another system so much
-so we could that the more complex
-you know how to power it might not
-with the buttons being grey or black and
-
-put them on all of us a bit whenever i
-i think that's definitely important
-possibly it might be worth the investment
-i think speech recognition was a lot of things that's really good for them to work sometimes
-
-you click on that
-when we were talking about having it be a modern i think that's
-unfortunately the people who are supposed to do the sole presentation for me were too
-it's also comparatively important on one of those devices
-
-systems but infra-red "'cause" the better of them or more use system part
-discuss and of course the energy source batteries solar cells who knows
-you're watching something would use all the ones and
-i don't have that might come up with a trend watching did you find
-
-thing or we have a touch pad or something like that's something we can
-they'd be good if we were going with are ball
-you know however you wanna go about it the whole there could also be the charging unit
-what i was just say we've got a colour scheme for it
-
-we still have their how to hold onto it in
-it's gonna roll way
-roll the were
-while you're watching that's gonna roll off so
-
-i we do in our remote yes we
-crane is our marketing expert she's gonna
-i think we could definitely eliminate or somehow
-
-better all go over what we whatever last time which shouldn't take
-just usually a battery right
-them and of course that's controls the chip itself as control but the user interface we
-
-so you're gonna come up with the ideas rain and you're gonna
-that i'm not too soft and that would be to find ways as we should are infra-red that should be too complex
-that should be too complex of all
-
-and then we went over a couple of different ideas bowl shape phone the keyword shape we decided
-control unit a small but it's too complex
-as we've heard a speech recognition is the hype and the moment
-
-do you wanna go first so we can
-so we can maybe see what what the people want
-in fact controls a chip right
-
-any ideas
-part to cheaper as a user interface
-or to probably get away with black to do that
-
-some of the findings they said that
-they said that the users dislike the look and feel of the current remote controls and seventy
-and seventy five percent of the users find the remote controls to be ugly which is a fairly
-
-so i think that earlier were we were on to something when we were talking about
-do you have time earlier to work on that do you guys feel you have
-but maybe that the next meeting will have to come and so on that
-
-they cat track of the frequency per hour in using certain buttons and some
-since it's not feasible to add a cable to that this energy
-it's a gimmick factor that they like at first and
-
-and then teletext was the next volume and then power and
-or what you know i with any form that would be good that could be
-then we'll take lunch then we can come back and
-
-or somehow combine a lot of the functions and no one button
-i did you do is get time to write everything that you need it
-maybe twenty could you could design and
-
-i you should set the movie set them to everything
-them to everything and i only have buttons what i was i think
-like sitcoms to a t. v. remote control unit a small
-
-you could design and then different people are the functions could use it to set specifications is it a to get something machine each design
-it myself i find when you when there's something that speak speech recognition like
-like you call on the phone in you try to change your telephone or power or something sometimes they have a speech recognition on the other i mean you
-
-it comes out is what you'd maybe all
-what you'd maybe all fifty percent of the buttons use a valid one problem and they could be hidden maybe on that
-you know however
-
-what was the last conclusion on a one focus on
-from all three of your presentations i think that we were on the right track a lot in our last meeting
-we want something that's simple we want something that
-
-get told
-it's gonna cost more it's the the
-it's the the younger people say they like it but
-
-see if i can get things move along a little bit better
-sounds good approach a technical functions design
-
-which shouldn't take long then
-and then as the industrial designer so you're
-
 big seller remote we want it
-speech recognition interface we don't know that
-
-that everyone would want
-this energy source of course is connected to v. the user interface itself which can
-
-it needs to be sturdy easy to find it so
-i didn't have a thought about be so attractive thing is
-
-we decided that it should probably be one hinted something we can use with one hand
-and that was our last meeting
-
-do we each of you have a presentation
-all here tough to you and
-
-i think you have to escape
-so i think still has to be a variation
-
-and fifty percent of users say that the only using ten percent of the buttons on the remote control and
-repetitive strain injury
-
-strain injury i think so i
-to use and ten percent if it in a way it comes out is
-
-and it kind of just went down incremental a bit groups
-bit groups at the older they get
-
-of buttons get rid of the ones that don't seem to be seven much purpose and then
-the remote's only gonna be for the television which is good
-
-away the society best maybe concentrate on there is a universal one for t. v.s
-few buttons simple
-
-it pays
-so much is clear and
-
-it pays to stay pictures of remote controls as a simple
-and finally so
-
-in shall i say is less buttons on the other one is something
-for that i think should be user interface always say is it
-
-i'm going to do a lot of the on the board
-this is what we're talking about here or what i think it should be discussed are these two components most t. v.
-
-we have is different components that need to go in there was started with an
-was started with an energy source and
-
-that sends out a signal
-but probably a lot of that actually those parents money like i don't know
-
-this can be discussed as
-the user interface that's something we can also discussed
-
-i find myself especially if i'm a cat people looking really silly so
-what i dunno if we would you want to keep saying if you watch the you're watching
-
-we want something that you can find it easily
-then we can come back and work on our individual work
-
-what the current balkans no
-that could be the charger for you know we could
-
-and that would be curved solar
-curved solar or
-
-with the locator button
-if it were the ball it you know one to have a flat space on it
-
-i'll do the minutes
-i are mean meeting that we should focus on and tell then it's probably deciding on a certain look
-
-chips that what chips we need and
-or maybe a get on it and noble maybe
-
-user interface concept we want to be something simple
-minimal number of buttons
-
-ideas for what people want to
-
-long then i believe each of you have a presentation
-
-and then we'll have the closing
-
-which will have forty minutes for
-
-let's see last meeting
-
-she's gonna figure out what that the consumer wants
-
-ryan is our user interface designer
-
-rain and you're gonna become a part
-
-we want it to be universal remote
-
-find it so we can have that locator function
-
-and we want bit different
-
-tough to you and
-
-does anyone do you
-
-or was a function
-
-to go to the next when you click
-
-that's a slide show and something on your screen
-
-you can maybe minimise that screen and then
-
-had in balls about the same time i think
-
-at that so first of
-
-so first of all the method that i used was i doing some marketing research by
-
-by doing research on some interviews that were conducted in and then
-
-in and then some internet research and i
-
-and i was sent a reporter that was
-
-i think there were a hundred a remote users that they energy and so i will show
-
-they say the current remote controls do not match the operating behaviour of the user seventy
-
-seventy five percent of the users said they zap a lot and
-
-and if anyone to clarify what that means is that does
-
-is that does that is really changing the channel
-
-lost somewhere and so i think the tracking device of some sort would be a good idea they said at eight
-
-and twenty six percent said that the controls are bad for r. s. i.
-
-just aggressive strain injury i
-
-and so bay
-
-is as far
-
-this and think decide
-
-decide if we think it's worth investing them as a list of are targeting the younger groups
-
-and so in conclusion
-
-in conclusion some things that i drew from that's that i think we were cracked we definitely need
-
+a mall type functional remote can be a good thing to explore so you only have
 so you only have one rather than five different remotes that in all over your room
-
-and then lastly i thought that maybe we could discuss the idea of speech recognition
-
-we actually have some ideas of what people want what
-
-people want what we should focus on
-
-having just listened to produce a large on some
-
-a large on some other things as but sometimes up some rather than twelve
+the remote's only gonna be for the television which is good
+for you know we could use rechargeable batteries in the remote and that would be
+over remotes all over typical remotes now are just kind of are eight ten you're sort
+which made if you are purpose for being able remote all the time but then again you don't want
+what remotes look like now is kind of what we're but we're stuck with
 
 the method i used was to explore all the technical functions of remote control and
-
-control and state simplistic approach so i can say is to change programme and operate that right device remotely mean as obvious thing to say
-
-mean as obvious thing to say but
-
-but it's not actual device if you want to control
-
-it then i you should set
-
+it pays to stay pictures of remote controls as a simple
 controls as a simple t. v. remote controls but
+like sitcoms to a t. v. remote control unit a small
+this is the basic premise of a remote control
+that come from big thick block things is only one remote control is to solve slinky small things
 
-that's more specified for a sub elaborate piece of equipment is try to control
+a user interface controls the chip and accordingly the messages
+them and of course that's controls the chip itself as control but the user interface we
 
-switch appeals more to pull that we want and on
+we want it to be universal remote
+your pure research showed that that only as universal remote more complicated it's more costs more costly in your re
+so if we remove the universal remote then that solves that problem no
 
-and on what defines a set in the market research just off the public isn't should be user centred few
+i think there were a hundred a remote users that they energy and so i will show
+they said that the users dislike the look and feel of the current remote controls and seventy
+they say the current remote controls do not match the operating behaviour of the user seventy
 
-some remote controls are you malcolm "'cause" i'm a little flip the thing when they're hidden away and the main buttons
-
-so called up for that i think should
-
-something on the image of it but that's
-
-the actual design
-
-o. k. a. don't talk to you about
-
-don't talk to you about be working design of the interior is in which is what's
-
-because this is all the that needs to go in there right
-
-so unfortunately
-
-is the most that's the used
-
-there's also some sound systems but infra-red
-
-this is where my people screwed up some
-
-some going to explain that's on the board of that
-
+in shall i say is less buttons on the other one is something
+few buttons simple
 which can be buttons whatever which in fact
-
-the state user interface and that we have
-
-and that we have the chip the way this
-
-the way this goes nominees that this chip then controls an infrared lamp
-
-we normally do it is that you had a little device such as a lamp to the whole thing as so that even though
-
-or we probably cannot alter is of course the infrared the sending device the infrared we cannot
-
-we cannot change the chip which controls
-
-right these two or components that we have to use and
-
-we have to use and these are dictated by the whole function of the whole thing
-
-thing but then i can be put on to the design a device it can it
-
-it can it doesn't have to be this can be discussed
-
 or if we just do the usual button thing or
+with the locator button
+you know yellow it's and brown it's with the buttons
+with the buttons being grey or black and
+a menu button maybe
+and maybe you bring the buttons near to the all the import more important buttons near to be the side right
 
-that's something we can discuss and
+that's what i think we've got to kind of a good point there least for what buttons we're gonna use
 
-that the more complex to make it of course the more expensive
+as far as speech recognition those on the younger group looks like they're all for from
+younger generations of people so that they would pay more for speech recognition remote so
 
-them to work sometimes you guys have the same things over and i'll give you some you found
+and reduce the number of buttons get
+minimal number of buttons
+know with minimal number of buttons
 
-saying you find is like you said same thing over and over the over i find
+or somehow combine a lot of the functions and no one button
 
-maybe if you're sitting on your catch with a bunch people then
-
-another thing about these figures as ninety one percent of the youngest age groups they do that but
-
-about writing is it
-
-but you know button
-
-i was sent a couple of things to modify are the new requirements
-
-in your re research showed that you know most the people don't even use it i think
-
-use it i think you said fifty percent of the people use have them or ten percent of buttons so if we
-
-that they company wants us to incorporate be corporate colour and our slogan which is we put the
-
-and our corporate colours are grey and yellow
-
-we want something that looks good
-
-and the speech recognition i is kind of give or take it's gonna cost more
-
-probably i would say probably not worth the investment at this point in time so maybe
-
-so maybe we should just do away with speech recognition
-
-and that we can focus on our form
-
-that it a maybe a holder whole story on the call it
-
-call it but you should put it back in your mobile but if you don't put
-
-but if you don't put it back in you press a melissa but from that i'm not too
-
-are you to add on the couch table while you're watching that's gonna
-
-that's not a nursery
-
-so i after the meeting we'll have some questionnaires and
+but people said that they would younger
+as and if it's the gimmick factor for the younger people about writing is
+it's the the younger people say they like it but
 
 it looks like you're already on your way for working with the components
+manual you're going to work on the components for what we're gonna use let's
 
-do you guys feel you have enough time in between our meetings to get everything done that you need to get done
+ryan is our user interface designer
+but one is user centred that
+for that i think should be user interface always say is it
+which is what's dictates the design t. both the interface and the outer appearance because this
+part to cheaper as a user interface
+this energy source of course is connected to v. the user interface itself which can
+the state user interface and that we have
+the user interface that's something we can also discussed
+user interface concept we want to be something simple
 
-i tried to us do still think you need to be some is also the one on this board to another
+some remote controls are you malcolm "'cause" i'm a little flip the thing when they're hidden away and the main buttons
+and the main buttons are the ones you all the ones you come across
 
-day and even some sell but that might be difficult so
-
-on it and noble maybe not so is boring as players that i know
-
-should we maybe issue for a specific the target group
-
-yellow and you know yellow it's
-
-you know yellow it's and brown it's with the buttons
-
-and they're slowly and pasted somewhere on it on them the bond
+and fifty percent of users say that the only using ten percent of the buttons on the remote control and
+that big s. user frustrations as we said fifty percent of people find that they remotes are lost somewhere and
+to use and ten percent if it in a way it comes out is
+what you'd maybe all fifty percent of the buttons use a valid one problem and they could be hidden maybe on that
+like i don't know if they would actually go out and purchase those them's also fifty email do you know
+use it i think you said fifty percent of the people use have them or ten percent of buttons so if we
+if you if we want the remote to do other things like are you i the t. v. to be able to change the ten the colour and you know all those kind of things are built in the t. v.s we just have that other one standard menu button where you go in
 

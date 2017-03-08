@@ -1,450 +1,65 @@
-so that's his is what first race and the most of that cat remote controls and
-it they also said that it takes a lot of time to learn new remote control especially when as many
-in particular i do a line l. c. d. display and secondly these
-yes they want these features they
-first what does a remote controls simply least a device that in all for sending some come and buy some braves to another device to different common is a bit d. device and the main idea if
-o. k. it has different blocks different likes
-they are based on infrared the braves or or a great you've raised there are two different
-do you think radio waves willing to see a without that appliances in line
-it depends on your notes because
-we will discuss it afterwards it's
-so when people are sees the remote controls we should say he's from were at a reaction and as you should recognise the company
-so now we and we should it's takes a dish iain what it's going to what function we have one sees ones this remote controller so
-and us i wear off more and more trainers and if you want to pass for or is it tries to get it's the channel you want it's
-some feedback
-not on the control but on the screen
-
-t. v. that the layout of the remote controls they don't match the way they used it and
-which is used fourteen times per hour followed
-likes ferris this remote control have shown that should have some electric circuit is make you'd interface we can keyboards and read these a keyboard and the reading the keyboard commands and
-because i didn't work with d. c. circuit so far so i have to look
-and the price is fairly cheap for this
-how much more expensive are we talking
-were expensive or ten times are expensive
-infrared so it's not worse than any extra money
-and then we can move on to the more advanced features
-so the available things l. c. d. the buttons and everything or
-or radio frequency depends and
-so we keep all these buttons
-
-and fifty percent of the users said that is what frustrates them is losing the remote control somewhere in the room and all the other find it
-identification court inside there
-and the recognition depends on you guys here
-all for china's and then you can hear
-on the screen mean not on the
-hear but they're not under control
-not under control on the screen and t. v. screen and then
-the ones i mean this remote control a developing is a generic control for all t. v.s i think
-i don't know if it's possible to put something on t. v.
-want to do settings we need buttons was that then we
+i think we should stick and they use for functions because we want less buttons so
 buttons was that then we want less buttons know maybe with a l.
-than than a t. v. manager remote
-
-was that the trend was i was use it as use is you can order no but how they were less likely to want a sort of each is in a in a remote control so i
-control so i it depends on where we're focusing our market
-has used to use things before so
-so i will speak about the working design the
-look at but you can make so
-so presently i'm looking what is possible to use what's the kids
-so i have to look what is a bit of a available on the market for the communication for the i. r. c. kids and so on so i'm currently
-so i'm currently looking what is available on the bed and i
-but the prices are at the high so
-why it because it's simple
-i mean there's always we can always have these less often used functions hidden some way and
-small it and be the user
-
-we'll save some collected some you see statistics based on how these test subjects we using a remote control and
-and because we have no much time for this project we should stay on t. v. on that money specific t. v. remote control
-maybe we could think of something it's more betweens like
-maybe you could have key buttons like it's discovery channel that document to reach and and movies china and inside
-switch if you want to see a movie you click on the movie button so you have all of the movie channels and after use you press at
-so we as just speaking about to come on the device and so are
-device and so are we are inviting you want
-so i think functions we want and then a more advanced ones
-what about the settings of the t. v. because
-
-so at the festival we what we do is we conducted an experiment with a hundred test subjects we put them in an
-we put them in an in our usability lab or a tree and got them to you know and play with remote controls and also
-they you know seventy
-they you know seventy five percent of the people we add to the experiments on down there but there are controls they use in the past were ugly completely ugly
-and like and i said the channel volume and no buttons at the highest relevance to use is
-by the buttons good for me as a designer the circuit about the speech
-s. and that's my opinion
-
-maybe at know we can talk about it's the user interface and about the technical function of this device so
-of i mean this is that this can be and the difference is there a bit between different kind of face infrared already a base and
-think it's fairly expensive to use these are kids so speech
-not ten times puts it depends what would be
-but they're used to use it only when they can see the t. v. so i don't
-and the other side we want to have something new you
-press at you just an idea i
-
-scanning unit l. c. d. and speech recognition
-it's the button you should have
-there are two different a solution of i mean this
-o. four days i'm not so i don't know the solution but solution
-but solution can be something like putting get a four plus four do something inside of eight so the only your t. v. can understand it identification
-
-because you can you can make it a t. v. and do what you want even if you're in the bottom or so one but it's
-don't do but we will discuss it later maybe
-the stick it depends on or whether we you will use the l. c. d. and the main in the speech recognition because the speech
-for this it depends
-thank you peter so
-
-will we use only two buttons or like a number the buttons i mean
-it is nine ten or something
-you mean like hierarchical structure
-in the in menus of the n. c. d. all the back of as a remote control
-i mean about buttons it a three
-
-we collected we'll save some collected
-of the t. v. because it's button we don't use very from that it's when you need anyway so
 maybe with a l. c. d. we can do something with less buttons but
-but then you don't wanna make the l. c. d. display too complicated at the same time
-
-and then thirdly they have some is commented on the fact that the you know the way that you have to hold and press buttons on a remote control bad and course repetitive strain injury
-market and as l. company motto is putting fashion in electronics i think we're focusing on the younger tiger demographic and so
-that's what it was my presentation thank
-it's i think and the price
-
-otherwise i don't care what i'd there because it's the chip which i bio which we but
-street it's three to five not
-waves so i think we're better off spending money in the usability phase
-a party it becomes from according to them it becomes out of states i would they keep and
 
 and from this we came up with a few that's the channel buttons the channel selection buttons are the most by far the most used buttons on the remote control
-and you can see they're used a hundred and sixty eight times four on average a while uses watching t. v.
-all the all the other buttons such as to audio and pictures selection configuration buttons and things where you just you know what a park or less than a could do one times per hour we
-
-want these features they want these high technology features for a since
-for a since ninety one percent of the of people age between fifteen twenty five said yes they want these features was
-if we decide to use the speech recognition then we probably could start about three as
-
-i know but this since it's my it's exactly my feel so it's a
-one starting to when you start to communicate with the r. t. v. then it's like and you can protocol with your remote so you've
-so you've two devices are trying to correlate to communicate with the t. v. set then the the one we just room more energy in the way if he's chosen or it can be a
-
-a specific remote control that it is it
-no not this free b. c. biasing because it's that's cheap nowadays and
-it's it the price not true
-
-buy and they have these problems also so we don't have
-so one but it's you know when you're not close to the t. v. you probably wants needs to change the programme and so on so
-new you know where
-
-findings that's there's the points that i'm working on currently but
-so we just buy a circuit board and
-but i'm not about the circuit which is responsible for speech recognition these
-
-but it depends whether we take a decision to use it says
-says think it's
-these are kids so speech recognition
-
-controls and also to complete after that done that to complete a questionnaire and to tell us what they like and what they don't like in remote controls
-we also lasts uses it that's a specific features that they'd like to see in that on the remote control in particular
-
-so the major things with it and that was that you just don't like the look-and-feel of most remote controls at the county on the market
-so it's a and then of course volume setting
-
-completely ugly
-is net and that was very frequently used it only had a freak usage we can save about one times per hour but uses right it as having a very high relevance
-
-and thirdly they say that what half of the users that we tested said that they only use ten percent of the buttons that one remote controls
-and inside c.'s is used think you can move maybe switch if you want
-
-to have a clue the button that was use that was closest to the channel button was the teletext button
 to them you know which buttons i thought were the most important buttons on the remote control and
+and then thirdly they have some is commented on the fact that the you know the way that you have to hold and press buttons on a remote control bad and course repetitive strain injury
 
-and the audio data settings had a very that will be
-presentation three
-
-so peter can you don't say something about that
-don't think so because of you can make me too we can make these maybe in a specific frequency so
-
-they're used think i'm you
-i'm you the toughest thank you
-
-that's true but the features that uses want that
-that and i production
-
-a base and though also has a i understood and i think it was a part of about presentation people prefer to have a to have the remote control of the list but not so
-list but not so for the electronics part working dan interface think it but only should we should try to design a remote control having to have some simpler but forms or some
-
-and the again you think bigger buttons and this number of buttons or also prefer to have that it's
-so are we going to use a c. d. speech recognition
-
-so they can be you know range which is not interface and the very big the other devices is that one
-no but as i know there is a range for for this for designing t. search as we can we
-
-we can we can to one or a transmitter to boarding distracting for this
-or some single
-
-for this range we don't need to ask any parent
+we put them in an in our usability lab or a tree and got them to you know and play with remote controls and also
+controls and also to complete after that done that to complete a questionnaire and to tell us what they like and what they don't like in remote controls
+so that's his is what first race and the most of that cat remote controls and
 and what happened with a red you'll waves when they're both have the same have our remote control for example and
-
-kind of identification thing
-i agree
-
-yes the form that couple
-to use i'm not exactly what i will use for the design of the stick it depends
-
-the form that couple of things because i had i start of the bits with the software that i'm supposed to use in this this company has used to use
-so i know that's the user interface people and these speak about radio frequency race because you can
-
-the first time
-use what's the kids to use and like that because
-
-and i wanted to ask you maybe have to what's after our discussion if we have some contacts in some company so which can report on what is going on there so
-there so that would be like if you can tell me about so you know
-
-to use l. c. d. so i agree on using any kind of l. c. d. by the buttons
-about the speech recognition we have to compare with the price and what does it go for a know
-
-so what do you think would be the price it would be out a friend show
-a friend show it would be may be visible
-
-it depends on you if two and you're you were idea i'm about
-wants to have it's like an apple or in plastic these things it depends on your
-
-i mean if in front of us circuit not it's not the radio frequency
-just the price otherwise
-
-are we talking three times were expensive or
-because of the internet popularity and everybody has internet that a man trace that just want to have teletext
-
-a lot i think it's probably not was spinning extra money because i
-but the channel and volume
-
-so i think we can avoid teletext
+a specific remote control that it is it
 it's the same thing is so you suggest that is that we should it's use the remote control only for t. v. but for d. v. d. and also devices because it make its
+the ones i mean this remote control a developing is a generic control for all t. v.s i think
+i think it would be better just to stick to the remote control and not to bother to t. v. to trendy things but it
+in the in menus of the n. c. d. all the back of as a remote control
 
-it make its it makes it's too complex and because
-some design because one solution for this i mean it said changing channels is to see a summary of or china some approve you all for china's and
+hear but they're not under control
 
-the third one is the buttons the team a each of sit company so
-so that we should is we should keep that dumb to put it should be able can i say about our
-
-it's that mean we should use the court all of our company and
-and maybe put somewhere this is the slogan of the company which is we put fashion of in electronics
-
-that's first maybe what is what does the usual or function of the stand-up remote controller i mean
-i like a roller for the
-
-that's it many buttons and we were speaking about what we're in that hamper
-channel so we could you could quickly just as yes it's too many channels for the channels
-
-this is my categorising channels
-you just an idea i don't know what to think about that
-
-some way and cover all at the back of under slide also
-it i hope or like
-
-remote i dunno
-we have five minutes left
-
-and the for this meeting there with takes the notes and use them minutes
-
-so we would see off we presentations
-
-we would start with the manager expect will do we talk about so the user would requirements what's use the needs and wants it to design for this device
-
-can i have a laptop over here to get up
-
-should stay and square
-
-so i mean i present some findings of the study we conducted into what users want in this remote control
-
-they didn't match the operating behaviour of the user that is you know
-
-that is you know the way users use remote controls when you're watching t. v.
-
-the closest button that was used to have a clue
-
-times per hour followed by the volume button which is four times for our
-
-we also asked uses which buttons had the most important to them
-
-that will be uses thought that what the audio and that is selling for a very when very important to them and then use
-
-and then use and very infrequently as
-
-especially when as many buttons then it's you know cut unintuitive interface
-
+t. v. that the layout of the remote controls they don't match the way they used it and
+we also lasts uses it that's a specific features that they'd like to see in that on the remote control in particular
 and secondly these i think speech recognition i. is a useful feature to have on our remote control
-
-have findings are that i must act younger age groups the answer is i'm going yes they
-
 and so maybe we should think about adding these sort of high technology features into a remote control that's what it
+you know had some features on the control to display it i'm more to display
 
-was my presentation thank you
-
-but the user interface at its response for
-
-and speech recognition in a remote seen it would be very expensive
-
-and i production cost of twelve fifty euros per unit it's fairly i think so i think we
-
-so i think we can afford to these features into our right
-
-that's it couple of months to work on it so it would be cheaper fine
-
-it's did it cost
-
-that's the wrong one i think
-
-presentation
-
-so here's my presentation about technical function design i
-
-i didn't talk about different components was of system and how would you react good there
-
-and the main idea if you don't use any "'kay" but then we can react simpler be the device o.
-
-commands and then in the then make yet these keyboard commands
-
-can interpret easy to get a keyboard commands and then
-
-and then there should be an electronic circuit making it electronics you can also according to this commands and
-
-and finally there is a transmitter reach it accord or deal with making they're making do have a visit to transmit through there and
-
-there and these a reduce the rate it'd be received by it a lady other device like a television and or whatever to read to realise that come on
-
-bald what they found about different the these different blocks are usually there are two different networks a two for designing a remote control they are based
-
-forms or some rolling but forms to just do a search between different options lunch when you
-
+was that the trend was i was use it as use is you can order no but how they were less likely to want a sort of each is in a in a remote control so i
 lunch when you got something on t. v. and putting a less the and and the remote control
 
-and personal preferences the
+one starting to when you start to communicate with the r. t. v. then it's like and you can protocol with your remote so you've
+than than a t. v. manager remote
 
-the certainly a remote control of it working with great you with these a preferred because you can put it you can take it in any direction and you don't need to we need a really great and the
-
-it's that was my presentation
-
-and so does have the same frequency or
-
-it's a kind of handshaking "'kay" one starting
-
-or it can be a problem sometimes but most was on in two weeks
-
-the price for the menu simply or an identification court may seem to decide this it's a specific
-
-this because i think is a function design that we will use the already it makes us are case which we probably about by it's worse to
-
-it's worse to buy and they
-
-so maybe you can talk about sort of function
-
-so i'd try to break through this true yes
-
-five
-
-different word
-
-different word you can
-
-i have to look at but
-
-but so far i was looking at what's what are the blue circuit i mean the radio wave radio frequency see it's are available now but the prices
-
-and so on so i'm voting for us to stick to the infrared control instead of a don't do but we will
-
-components to use i'm
-
-because the speech
-
-are we we're planning to taken off the shelf and l. e. m. component for the radio waves like it'll we plan to construct around circuit board
-
-and it's not worse to construct or soft
-
-recognition these i prefer that we should make ourselves
-
-recognition l. c. d. it's because it's common nowadays to use l. c. d. so i
-
-i was not thinking too much about the price part
-
-part if we use the l. c. d. even the radio frequency communication with the t. v. set and the backlight and related things like the for the diets and it should be if we decide
-
-about three as you have to what's it depends on
-
-i'm about the names i dunno
-
-the names i dunno wants to
-
-notes because of the electing device is price is not it's not so big in comparison to overall shape and like that so we will
-
-it's nothing this is just
-
-nothing this is just my notes and what to use and
-
-and my personal preferences yes i would like also all preferably to use a w.'s circuit but from
-
-circuit but from the point of view know of the design and price i would stick to the i. r. s. and that's my opinion
-
-because the range where you can use it is fair it's i think
-
-because i mean all the other remote controls on the market has infra-red so people then expect anything other than infrared so
-
-we want to for something new one so
-
-new one so but i think we should steve thinking about it but
-
-i think that based on my usability studies as i feel that uses that prioritise the look and the feel and the trendiness above you know i'm of the difference between infra-red or radio waves so i
-
-you're the user interface and management
-
-so i have to inform you are you receive an email from the management button board today and you have new weak line dance for the remote controller
-
-first that's a about something about to teletext
-
-the third one
-
-should we start with just the call the basic functions that we need
-
-what's the wall
-
-you know this one is changing channels
-
-i think we should stick and they use for functions because we want less buttons so
-
-just one wanted to the channel changing do we
-
-i mean those nine plus one or two
-
-like ten plus five plus one of those or something
-
-or using the names in the keyboard there
-
-so it requires the use of l. c. d. probably to tell you
-
-we could maybe also you can incorporate pitch is idea of the slide for the volume with the channel so we
-
-for the channels
+to have a clue the button that was use that was closest to the channel button was the teletext button
+all the all the other buttons such as to audio and pictures selection configuration buttons and things where you just you know what a park or less than a could do one times per hour we
+so the available things l. c. d. the buttons and everything or
+of the t. v. because it's button we don't use very from that it's when you need anyway so
+we could have for example two buttons like simple moulded and then small it i
+i mean about buttons it a three
+button should we make it the button or some something which would be
+it's an button on the phone
+juan big button old-fashioned
 
 the we should just design the remote control and you surely don't have any access to the t. v. design or we can change some design because
 
-i think it would be better just to stick to the remote control and not to bother to t. v. to trendy things but it
-
-things but it will be still more in spending but for the l. c. d. and you it's no problem in the product
-
-so what that we doing with the settings because
-
-the settings because settings want
-
-i'll get back to it
-
-we could have for example two buttons like simple moulded and then small it i
-
-or like children and grandfather small it and
-
-not the user than
-
-so it i think it's the settings we said we're agreeing or that there are quite it's just
-
-we should hides in somewhere in the in
+not on the control but on the screen
+not under control on the screen and t. v. screen and then
 
 this i was thinking do we need the power button that all should
+i think when as a power button they mean to turn the t. v. on and off
+i'm a based on a usability studies again the people said that the power button was it very relevant button you
+just to the decision on the power button should we
+power button
 
-that all should shouldn't be do it like sleep more tough to five minutes not using because generally
+so we keep all these buttons
+so we could what we could probably do is to keep also to keep keep the l. c. d. and all the buttons and we could make it
+
+so the major things with it and that was that you just don't like the look-and-feel of most remote controls at the county on the market
+
+but i'm not about the circuit which is responsible for speech recognition these
+by the buttons good for me as a designer the circuit about the speech
+
+i mean there's always we can always have these less often used functions hidden some way and
+but that's not a very core and it's useful function
+not used very often
 

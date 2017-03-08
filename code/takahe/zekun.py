@@ -250,7 +250,8 @@ class word_graph:
         # get weighted core numbers
         sorted_cores_g = cr.core_dec(g, weighted=True)
         # get CoreRank scores
-        core_rank_scores = dict(cr.sum_numbers_neighbors(g, sorted_cores_g))
+        core_rank_scores = dict(cr.sum_numbers_neighbors(g, sorted_
+            s_g))
 
         return core_rank_scores
     #**************************************************************************

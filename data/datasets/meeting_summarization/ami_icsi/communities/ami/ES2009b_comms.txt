@@ -1,396 +1,82 @@
-i'm just gonna go over real quickly some news i just got from the border how we're supposed to do with this remote control and
-and then we'll have a bit of discussion
-i've just have an important
-just have an important to at the same as but it needs to be television
-but it needs to be television only seven that we're doing
-it also needs to have be company colours included in it and so
-that's red and black and has have the slogan is just to get the slogan it's we put fashion in electronics
-no teletext i'm not
-i'm not teletext is but
-teletext is but i'm not assuming you guys do so we
-you guys do so we don't wanna include that in this particular design
-so given those
-given those guidelines which will have some affect on how we design will discuss
-we can see sacrificed
-we can see sacrificed more function for a better television remote anyway so
-anyway so i drove
-right that's a page
-follows it's a pretty basic you guys
-sends a message to other system so
-people pick up really a signals know like and
-eco friendly so i thought maybe we could do something with solar power within our client battery back up
-the centre i'm thinking infra-red "'cause" it is the industry
-it is the industry standard multi channel
-fair enough
-but in this case so many t. v.s
-personal preferences i
-i really think that we sheet plastic as a person at all
-so maybe do you have some kind of a static value
-like in the white
-like a lot of these laptops another want to use it pretty you can do
-you can do is some kind of colour better quality plastic that we can work with
-that should be a problem
-for example that possibly have a laptop there's something that's quite possible for us to do
-it's in my presentation
-if the next we can have the user interface developer go ahead and make a brief presentation that'd be great as
-a function f. eight hold on
-support them all
-so fear the requirements we need here at
-we need here at between need a pretty electronic device it
-so my findings
-quite intelligent and
-intelligent and all know what a normal remote control does
-remote controls way that we can't quite seem i read they're very but
-look at
 very but this remote control has many functions
-a lot of things but it it's quite complicated the most
-how to use them and don't wanna take the time to learn how to do
-as you also is quite a boring design
-different it's a simple remote control many less buttons but as many fewer functions
-much easier for the user to manipulate and use
-else that's a bit of a cheap working and it's also
-and it's also quite boring
-revolutionised to the idea of a remote control so
-so at a. and the functionality of a complicated device but use a
-device but use a simple format of display a fairly is it to work with those can
-with those can add another slide here but i
-slide here but i didn't play
-that would be perfect
-that would be perfect think
-and then this other question about what they like in what
-about what they like in what they tell about their general t. v. remote control practices
-pretty much through testing we're finding out that most the time i ever resist using changing the channel turning around it using the volume
-for some people they're important but the primary
-so i think what we're trying now with a page or something when we come in the play with a lot of these people
-that's the design people but it is
-people but it is something worth thinking about especially since
-about especially since the younger demographics that was the one that's gonna keep growing so if
-so if that's the direction were have them at some don't think about
-but it really is the primary functions and get it to look which are
-so it's a good start for us
-that's great thank you sir right
-i just switch it back finish up
-we've got you know so designers it's just a row pretty much in fact they suggested that we need to go with plastic
-sarah she's recommended that we go for a simple or functions so if you were functions
-do we need to decide who we selling this to use the years
-use the years that suggested that seventy five percent of people under thirty five wanted thought about voice control
-or do we want to go for all the demographic of my thought is
-so maybe this we should look into this younger demographic
-easier given there we go for simpler function and
-simpler function and we're only going for telling
-how this voice operation thing i think is a good idea assuming that it's doable at least for the basic controls maybe we can balance
-maybe we can balance it that way you know we can see
-you can't say record alias tonight at seven p. m. but we might be able to say
-but we might be able to say volume up
-that could work
-that could work i like that
-therefore be found
-i think that's a double
-if it's hidden under the couch very this we
-i dunno a bit technical thing but
-technical thing but i like that the voice recognition for the paging system
-new all time record the younger make it could use kind of like voice control method
-method we all the market might exactly how may considered
-if we and you just touch pad screen thing and we still do we know if that's an option technically right now do that
-have a look at and you are costs of a touchscreen methods and whatnot they seem to be
-they seem to be a you know almost as cheap as a button that's fine
-interesting option especially because then you could have like your prime a screen just be easy now for five basic functions you know have
-day and that a lot of people are can use but it is an option
-no wonder there for adding so much technology so this one in there are also gonna be able to me there for power twelve fifty euro you know goal for selling these things it seems
-like a cheap this point most expensive part of the whole mechanism so it's
-i we'll cross that
-be and that's perfectly viable question
-i'm saying that we're gonna just focus on those younger africa for a minute then but then
 wants and the basic or make this week simple function but remote control
-i think this voice recognition thing is that we've got a market for it a lot of
-bit more less be calling the market on as we not have many
-we don't have many people there
-people there are these are very many competitors are out there to do that so called
-to do that so called
-right because we've got we've touched
-because we've got we've touched on most of this the idea that peaking function a touchscreen faceplates
-i think if you kind of take the example of a mobile phone that kind of has a portion of the device is not interchangeable where is the surrounding questions are interchangeable we could have the casing
-it's the casing
-a smell for say we're including
-we haven't and you tests on face plates were there
-of emblematic whereas you just sit at home some some becomes or
-hopefully some people have people coming over goal to hang out a half the most
-a separate later but
-but we will have to evaluate what's most important i think
-on this is a any other questions comments that came up in these presentations
-
-so you can use metal i was thinking
-standard multi channel so
-when the t. v. or into the pensioners of the world i don't think so
-control so it could be sold to both the younger market new all time record
-go ahead
-it's definitely an option tech we have a look at and you
-
-components just some ideas that i had energy
-out a half the most people have their televisions the morning or
-we can discuss that one and further when we think about whether the one we do costs and so forth
-true plastic is there a cheap enough for making a whole thing plastic anyway
-based on which you on what you guys have all said to me let's go for a plastic built or apple plastic case is
-
-is me but i was looking through
-could have the casing be in the face plates
-it's a like a cell phones like we have you know nokia model accent intend people make a face plates for it we just
-
-is you recommend it if it's a great idea
-it if it's a great idea with
-with a touch screen for the basic functions
-
-how we design will discuss that later i mean "'cause"
-right we don't have many
-
-that later i mean "'cause" it's television we will be able to you
-will be able to you change our
-
-so do i am clock display here
-so my findings
-
-that's a page one of my presentation so if he
-findings which to for their study here and i
-
-user interface controls the chip that's
-that's the casing and the buttons and accordingly them as just as
-
-and enjoying the customer i just think those lawsuits
-i just think those lawsuits that be really bad there for a stress
-
-there for a stress primarily plastic construction
-energy source it's kind of hits the
-
-hours so you can use metal
-here we have a my technical functions design presentation
-
-power and c. s. c. compatible and that
-and that poll a slider for a range of
-
-and possibly operate several different kinds of races although we now
-although we now a find that that's no problem
-
-that would be any number of different things such a switch on the television have to select channel that sort of thing i think are quite
-another remote control slightly different it's a
-
-to get back to
-make it just an option
-
-and then you can start to beep and
-'kay you have some in it picks that
-
-something very basic
-the thing is we might be older handle the simplicity of remote control and kind of put it more complicated things into a voice control so
-
-a little sticky pad to stick on top of your television and you just say something
-or an isolated magnet or something like that you
-
-say we're including three four faceplates can try the cost up and the other
-and the other questions if we don't put them are really in a position to evaluate that market we haven't and you tests
-
-control and the lower turnover do you guys to make representations on what you found and then we'll have
-
-seven that we're doing d. v. d. we're not doing
-
-anything else is just gonna be a television remote
-
-for reasons that i don't really know there's
-
-but it's the board so there you go so
-
-i drove or "'cause" industrial designer it's go ahead make a presentation
-
-manatee function f. eight that
-
-function f. eight that looks like it's gonna come up
-
-very features powerpoint
-
-features powerpoint is lovely
-
-i think we're gonna have to understand how of remote controls were colours to successfully complete this project
-
-remote control works as follows it's
-
-there's the energy source involve not like a battery or solar power something along those lines is an integrated circuit
-
-is an integrated circuit which the microchip
-
-which the microchip and that actually
-
-and that actually composes the messages and
-
-and usually the way a remote control works as it stands infrared bits to another system user
-
-here and i found that too much metal no design you could potentially interference of people use the remote send commands and too
-
-and too much middle can remotes behave unexpectedly by receiving full signals
-
-at which will see sometimes people pick up really
-
-and is also possible to the remote catch on fire and enjoying
-
-it's kind of hits the eco friendly so
-
-user interface hours
-
-i was thinking maybe a high grade it's like a plastic the chip
-
-the chip it's like a base chip by releasing a way around that we can
-
-around that we can really be different in that respect
-
-so we're aiming at put
-
-we're aiming at put in it means power
-
-of and the receiver of course a number of electronic devices but in
-
-at all the company simply can't afford this kinds of lawsuits we should
-
-of lawsuits we should in the list gonna cut the cost of this or aesthetic "'cause" you were thinking
-
-is it is a way that we can use modern types of polymers in my mind types of plastic so maybe
-
-i computer adjusting
-
-computer adjusting
-
-electronic device it needs to be universal
-
-i can get tickets use for
-
-my findings wanna send messages that to the television set
 
 it's on the other things i found this a complicated remote controls
+the thing is we might be older handle the simplicity of remote control and kind of put it more complicated things into a voice control so
 
-complicated the most users will find it to find that they will use most of the functions because i don't know
-
-so my personal preferences revolutionised
-
-this incorporating some the ideas that we had previously like are having multiple it's quite it's
-
-to get back to you
-
-it's fine so
-
-i was looking through some marketing report so we've got we
-
-so we've got we have a usability test were we
-
-were we were actually serve like watching a hundred people use t. v. remote and see
-
+anything else is just gonna be a television remote
+and too much middle can remotes behave unexpectedly by receiving full signals
+and is also possible to the remote catch on fire and enjoying
 v. remote and see what it is that they're using and then this other question
+did difficult see what would be in i think like it you can you speak in the remote that you're trying to find "'kay" you have some
+i'll go to the back of the remote and have
 
-the majority the time at all it's going on the other functions
+remote control works as follows it's
+and usually the way a remote control works as it stands infrared bits to another system user
+
+i'm just gonna go over real quickly some news i just got from the border how we're supposed to do with this remote control and
+i think we're gonna have to understand how of remote controls were colours to successfully complete this project
+intelligent and all know what a normal remote control does
+remote controls way that we can't quite seem i read they're very but
+another remote control slightly different it's a
+about what they like in what they tell about their general t. v. remote control practices
+we just are model of of the remote control
+women it occurs to me that if we have a touchscreen people are gonna have to recharge a remote controls
+i can't see anybody buying a lot a remote control that we have to plug in so
+
+button which is i an infra-red signal to the remote control
+life to it if the remote did you have to press a button for the remote turn on italian who want
+italian who want to turn on a remote control to fit
 
 it's going on the other functions happen for some people they're important
+for some people they're important but the primary
+people are gonna want their remotes that could happen to see if flashing think it's i just
 
-but the primary uses are really basic
-
-and so big complicate the remote like once on the last presentation are really know it's the general public's use they're
-
-use they're not using a lot of it they don't need
-
-of it they don't need it to be even find it frustrating
-
-be even find it frustrating when there are all those buttons that was to do with
-
+here and i found that too much metal no design you could potentially interference of people use the remote send commands and too
+were we were actually serve like watching a hundred people use t. v. remote and see
 and does find out that have fifty percent more people they're the worst thing about a remote is how often it was it or we can find in a room so i
+that's the design people but it is
 
+manatee function f. eight that
+function f. eight that looks like it's gonna come up
+a function f. eight hold on
+but it really is the primary functions and get it to look which are
+
+we can see sacrificed more function for a better television remote anyway so
+complicated the most users will find it to find that they will use most of the functions because i don't know
+so at a. and the functionality of a complicated device but use a
+the majority the time at all it's going on the other functions
+sarah she's recommended that we go for a simple or functions so if you were functions
+easier given there we go for simpler function and
+simpler function and we're only going for telling
+it seems like you know "'kay" bill hand all those functions was just one microchip like
+and a small picking function even
+
+follows it's a pretty basic you guys
+like a lot of these laptops another want to use it pretty you can do
 there's also us are ready about what they like to a remote i'm pretty much they
-
 remote i'm pretty much they all think there's a t. s. and not very useful and it the
+we've got you know so designers it's just a row pretty much in fact they suggested that we need to go with plastic
+
+at which will see sometimes people pick up really
+people pick up really a signals know like and
+
+that's a page one of my presentation so if he
+i don't know if that's the radio look into technically that's the design
+technical thing but i like that the voice recognition for the paging system
+picking function even if you can do voice recognition for the paging you know just some kind of simple button which is
 
 and it the younger demographics are really interested in voice recognition options i
-
-i don't know if that's the radio look into technically that's the design
-
-standards so
-
-finish up it's a bit of discussion plan on to the next phase
-
-so i think we've covered most of these important questions through this do you guys presentations we've
-
-of my thought is we've got we've we're gonna go for sleek
-
-we've we're gonna go for sleek work i mean we are putting the fashion in electronics
-
-we need to wonder how about how we can make it better and smaller and faster you
-
-you were constrain the plastic very
-
-we've got this idea are on the same we need to think about revolutionising the way it's a looking which might be
-
 i think it be possible to combined d. locator device and the voice recognition technology
-
-with a simple can am i can locate and
-
-is that only gonna be within or two wanted to arrange them
-
-did difficult see what would be in i think like it you can you speak in the remote that you're trying to find "'kay" you have some
-
-voice from far away
-
-it's good point
-
-very this we think you know it's a little chip or whatever that has to be a button maybe i can be voice activated to
-
-or something like that you know some of the wouldn't interfere i dunno a bit
-
-exactly how may considered all the right could use the simpler design with the traditional buttons and one
-
-i miss something about the screen go ahead
-
-'cause it seems like an interesting option especially
-
 menu options i mean how all these other complicated voice recognition settings things that you know can use every
-
-that you know can use every day and that
-
-but it is an option there for this high-tech market that sort of been is this meeting we're going for
-
-it seems like you know "'kay" bill hand all those functions was just one microchip like
-
-so it's just something to consider
-
-i we'll cross that bridge you know it said earlier stages of development be
-
-but then in the sense that it's bells and whistles are available for anybody wants and the
-
-it a lot of too many bit more less be calling
-
-we not have many
-
-that was my microphone right
+i think this voice recognition thing is that we've got a market for it a lot of
+let's see with this voice recognition option as and just for the simple functions the the on off channels volume
 
 that we have to maybe sacrifice the faceplates for touch screen
-
-i'm not that's a really correct i think if you kind of
-
-back to the the costs the material we have to ask
-
-we have to ask whether want to include a certain number faceplates with the package a
-
-after of i have a sense kind of like a gimmick but what i'm really go anywhere
-
-we just are model of of the remote control
-
-on the publicity the phase further phone is you have it out in a round it is sort
-
-out in a round it is sort of emblematic whereas
-
-some some becomes or to watch t. v.
-
-i think we've had the discussion already on this is a any other
-
-have we confirm that we're gonna go ahead with a a touchscreen
-
-i think they'll be best let's
-
-best let's based on which
-
-case is that the this easy on the cost have a look
-
-on the cost have a look for some kind of high quality recycled plastic is you recommend
+with a touch screen for the basic functions
+but it's provision let's go for a touch screen with several submenus for possible extra that one
+put the channel on the on off switch on the touch screen
+so let's go with a a touch screen
+was just gonna be a one touch screen for everybody
+i think we should pick up with a park in red interface on the touch screen and
 

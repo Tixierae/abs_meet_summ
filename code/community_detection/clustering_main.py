@@ -280,9 +280,9 @@ def getKey(item):
 ### DATA LOADING ###
 ####################
 
-#path_root = 'd:\\3A\\Projet3A\\project\\abs_meet_summ'
+path_root = 'd:\\3A\\Projet3A\\project\\abs_meet_summ'
 
-path_root = 'C:\\Users\\mvazirg\\Documents\\abs_meet_summ'
+# path_root = 'C:\\Users\\mvazirg\\Documents\\abs_meet_summ'
 
 path_to_data = path_root + '\\data\\datasets\\meeting_summarization\\ami_icsi'
 
@@ -314,9 +314,9 @@ punct = string.punctuation.replace('-', '')
 # regex to match intra-word dashes only
 my_regex = re.compile(r"(\b[-]\b)|[\W_]")
 
-##########################
-### COMMUNITY CREATION ###
-##########################
+# ##########################
+# ### COMMUNITY CREATION ###
+# ##########################
 
 ami_or_icsi = 'ami'
 n_comms = 15
@@ -415,8 +415,8 @@ for kk in range(len(my_ids)):
 
 import nltk.data
 
-text = ''' Stack Overflow is a privately held website, the flagship site of the Stack Exchange Network, created in 2008 by Jeff Atwood and Joel Spolsky.
-It is commonly topped with a selection of meats, vegetables and condiments. 
+text = ''' Stack Overflow U.S. is a privately held website, the flagship USA site of the Stack Exchange Network, created in 2008 by Jeff Atwood and Joel Spolsky.
+It is commonly topped with a selection U.S.A. of meats, vegetables and condiments. 
 It features questions and answers on a wide range of topics in computer programming. 
 Several similar dishes are prepared from ingredients commonly used in pizza preparation, such as calzone and stromboli. It is a popular fast food item.
 The website serves as a platform for users to ask and answer questions, and, through membership and active participation, to vote questions and answers up or down and edit questions and answers in a fashion similar to a wiki or Digg. 
@@ -455,7 +455,7 @@ tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 sentences = tokenizer.tokenize(text.replace('\n', ' '))
 utterances_processed = zip(range(len(sentences)), sentences)
 
-tokens, utterances_processed = clean_utterances(utterances, punct, my_regex, stopwords)
+tokens, utterances_processed = clean_utterances(utterances_processed, punct, my_regex, stopwords)
 	
 c, membership, utt_tuples = cluster_utterances(utterances_processed, 
 												   remove_single=True, 
@@ -505,8 +505,8 @@ std_comm_labels = [comm_labels[idx] for idx in std_idx]
 with open(path_to_data + '//test_document.txt', 'w+') as txtfile:
 	for label in std_comm_labels[:n_comms]:
 		for label in [sent[0] for id,sent in enumerate(utt_tuples) if membership[id] == label]:
-			to_write = [elt[1] for elt in utterances if elt[0]==label][0]
-			#to_write = clean_utterance_final(to_write,filler_words=filler)
+			to_write = [elt[1] for elt in utterances_processed if elt[0]==label][0]
+			to_write = clean_utterance_final(to_write,filler_words=filler)
 			# one utterance per line
 			txtfile.write(to_write + '\n')
 		# separate communities by white line

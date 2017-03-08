@@ -31,13 +31,13 @@ def load_stopwords(path):
     return stopwords
 
 
-def clean_text_simple(text, remove_stopwords=True, pos_filtering=True, stemming=True):
+def clean_text_simple(text, path, remove_stopwords=True, pos_filtering=True, stemming=True):
     #resources = os.path.dirname(__file__) + '/resources/'
     """ The path of the resources folder. """
     #lang = 'en'
     #stopword_path = resources+'stopwords.'+lang+'.dat'
     """ The path of the stopword list, e.g. stopwords.[lang].dat. """
-    stopword_path = 'C:\\Users\\mvazirg\\Documents\\abs_meet_summ\\code\\takahe\\resources\\stopwords.en.dat'
+    stopword_path = path
     
     punct = string.punctuation.replace('-', '').replace('_','')
     
