@@ -116,17 +116,22 @@ print "finish loading GoogleNews, time_cost = %.2fs" % elapse
 # - language of the input sentences : en (english)
 # - POS tag for punctuation marks : PUNCT
 
-graph_type = [1,1,1]
-word_attraction = [1,1,1]
-keyphrase = [0,0,0]
-fl_score = [1,0,0]
-core_rank = [0,1,0]
-word_embed = [0,0,1]
-
+# graph_type = [1,1,1]
+# word_attraction = [1,1,1]
+# keyphrase = [0,0,0]
+# fl_score = [1,0,0]
+# core_rank = [0,1,0]
+# word_embed = [0,0,1]
+graph_type = [1]
+word_attraction = [1]
+keyphrase = [0]
+fl_score = [1]
+core_rank = [1]
+word_embed = [1]
 for i in range(len(graph_type)):
 	print "graph_type=%.1f, word_attraction=%.1f, keyphrase=%.1f, fl_score=%.1f, core_rank=%.1f, word_embed=%.1f " % (graph_type[i], word_attraction[i], keyphrase[i], fl_score[i], core_rank[i], word_embed[i])
 
-	compresser = compression.word_graph(tagged_sentences,model=my_lm, vectors=vectors, lotf=lotf,graph_type=graph_type[i], word_attraction=word_attraction[i],keyphrase=keyphrase[i],fl_score=fl_score[i],core_rank=core_rank[i],word_embed=word_embed[i],num_cluster=5, domain=True, nb_words=10,lang='en',punct_tag="PUNCT", pos_separator='/', cr_w = 10, cr_weighted = True, cr_pos_filtering = False, cr_stemming = False)
+	compresser = compression.word_graph(tagged_sentences,model=my_lm, vectors=vectors, lotf=lotf,graph_type=graph_type[i], word_attraction=word_attraction[i],keyphrase=keyphrase[i],fl_score=fl_score[i],core_rank=core_rank[i],word_embed=word_embed[i],num_cluster=5, domain=True, nb_words=10,lang='en',punct_tag="PUNCT", pos_separator='/', cr_w = 10, cr_weighted = True, cr_pos_filtering = True, cr_stemming = True)
 
 	# Write the word graph in the dot format
 	# compresser.write_dot('new.dot')

@@ -104,7 +104,7 @@
     after a carefully planned search effort the bird was rediscovered by on 
     November 20, 1948. (Wikipedia, http://en.wikipedia.org/wiki/takahe)  
 """
-
+import nltk
 import math
 import codecs
 import os
@@ -242,7 +242,7 @@ class word_graph:
         self.cr_pos_filtering = cr_pos_filtering
         self.cr_w = cr_w
         self.cr_weighted = cr_weighted
-
+        self.stemmer = nltk.stem.PorterStemmer()
         self.core_rank_scores = self.core_rank_dict()
         #**************************************************************************
         # END       initialize a graph for core rank scores
@@ -309,6 +309,31 @@ class word_graph:
     #**************************************************************************
     # END       initialize a graph for core rank scores
     #**************************************************************************
+#-T-----------------------------------------------------------------------T-
+    def pre_rm_stopwords(self,sentence):
+        """
+        Pre-process the list of sentences given as input. Split sentences using 
+        whitespaces and convert each sentence to a list of (word, POS) tuples.
+        """
+        ib = 0
+        ie = 0
+
+        for i in range(len(sentence)):
+
+            if sentence[i].split('/')[0] in self.stopwords:
+                ib+=1
+            else:
+                break
+        for j in range(1,len(sentence)+1):
+
+            if sentence[-j].split('/')[0] in self.stopwords:
+                ie+=1
+            else:
+                break
+        return sentence[ib:-ie]
+
+    #-B-----------------------------------------------------------------------B-
+    
 
     #-T-----------------------------------------------------------------------T-
     def pre_process_sentences(self):
@@ -325,7 +350,7 @@ class word_graph:
             
             # Tokenize the current sentence in word/POS
             sentence = self.sentence[i].split(' ')
-
+            sentence = self.pre_rm_stopwords(sentence)
             # Creating an empty container for the cleaned up sentence
             container = [(self.start, self.start)]
 
@@ -795,12 +820,8 @@ class word_graph:
 
                 if (syn_candidates != []):
                     node_to_replace, max_score = self.best_candidate_coreRank(syn_candidates, token)
-                    # use try-except to avoid keyError of core_rank(when token not exist in core_rank)
-                    score = 0.
-                    try:
-                        score = self.core_rank_scores[token]
-                    except KeyError:
-                        pass
+
+                    score = self.get_core_rank_score(token)
 
                     if max_score < score:
                         # Update the node in the graph
@@ -814,12 +835,9 @@ class word_graph:
 
                 if (hyp_candidates != []):
                     node_to_replace, max_score = self.best_candidate_coreRank(hyp_candidates, token)
-                    # use try-except to avoid keyError of core_rank(when token not exist in core_rank)
-                    score = 0.
-                    try:
-                        score = self.core_rank_scores[token]
-                    except KeyError:
-                        pass
+
+                    score = self.get_core_rank_score(token)
+
 
                     if max_score < score:
                         # Update the node in the graph
@@ -837,7 +855,7 @@ class word_graph:
                         self.best_candidate_similarity(common_hyp_candidates, node)
                     # Update CoreRank scores
                     if max_score!=0:
-                        self.core_rank_scores.update({common_hyp.lemmas()[0].name() : max_score})
+                        self.core_rank_scores.update({self.stemmer.stem(common_hyp.lemmas()[0].name()) : max_score})
                         # Update the node in the graph
                         self.update_nodes_common_hyp(node_to_replace, common_hyp, i, j)
                         print node, node_to_replace,common_hyp
@@ -847,12 +865,9 @@ class word_graph:
                 if (entail_candidates != []):
                     node_to_replace, max_score = self.best_candidate_coreRank(syn_candidates, token)
                     # use try-except to avoid keyError of core_rank(when token not exist in core_rank)
-                    score = 0.
-                    try:
-                        score = self.core_rank_scores[token]
-                    except KeyError:
-                        pass
-                        
+
+                    score = self.get_core_rank_score(token)
+
                     if max_score < score:
                         # Update the node in the graph
                         self.update_nodes(node_to_replace, node, i, j)
@@ -1063,6 +1078,22 @@ class word_graph:
     #-B-----------------------------------------------------------------------B-
 
  
+
+    #-T-----------------------------------------------------------------------T-
+    def get_core_rank_score(self, token):
+        score = 0.
+        stemmed_token = token
+        if self.cr_stemming == True:
+            stemmed_token = self.stemmer.stem(token)
+
+        # use try-except to avoid keyError of core_rank(when token not exist in core_rank)
+        try:
+            score = self.core_rank_scores[stemmed_token]
+        except KeyError:
+            pass
+        return score
+    #-B-----------------------------------------------------------------------B-
+
     #-T-----------------------------------------------------------------------T-
     def ambiguous_nodes(self, node):
         """
@@ -1113,13 +1144,9 @@ class word_graph:
         max_score = 0
         for tmp_node in candidates:
             tmp_word, tmp_pos = tmp_node[0].split(self.sep)
-            # use try-except to avoid keyError of core_rank(when token not exist in core_rank)
-            score = 0.
-            try:
-                score = self.core_rank_scores[tmp_word]
-            except KeyError:
-                pass
-                
+
+            score = self.get_core_rank_score(tmp_word)
+  
             tmp_score = score
             if tmp_score >= max_score:
                 node_to_replace = tmp_node
@@ -1210,14 +1237,10 @@ class word_graph:
             # use try-except to avoid keyError of core_rank(when token not exist in core_rank)
             score_word = 0.
             score_word_to_replace = 0.
-            try:
-                score_word = self.core_rank_scores[word]
-            except KeyError:
-                pass
-            try:
-                score_word_to_replace = self.core_rank_scores[word_to_replace]
-            except KeyError:
-                pass
+
+            score_word = self.get_core_rank_score(word)
+
+            score_word_to_replace = self.get_core_rank_score(word_to_replace)
                 
             return node_to_replace, common_hyp, max(score_word, score_word_to_replace)
         else:
@@ -1875,12 +1898,8 @@ class word_graph:
             sentence = " ".join([word[0] for word in sentence])
             sentence = cr.clean_text_simple(sentence, path=self.stopword_path, pos_filtering=False, stemming=False)
             for j in range(len(sentence)):
-                # use try-except to avoid keyError of core_rank(when token not exist in core_rank)
-                score = 0.
-                try:
-                    score = self.core_rank_scores[sentence[j]]
-                except KeyError:
-                    pass
+                
+                score = self.get_core_rank_score(sentence[j])
 
                 scores[i] += score
             # consider influence of sentence_len
